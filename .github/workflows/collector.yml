@@ -2,6 +2,11 @@ name: Public Instagram Collector
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - "collector.py"
+      - "requirements.txt"
+      - ".github/workflows/collector.yml"
   schedule:
     - cron: "17,47 * * * *"
 
