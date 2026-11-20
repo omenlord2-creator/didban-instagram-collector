@@ -8,6 +8,8 @@ from __future__ import annotations
 
 import hashlib
 import json
+from email.utils import parsedate_to_datetime
+from zoneinfo import ZoneInfo
 import os
 import re
 import sys
@@ -111,6 +113,24 @@ def exact_instagram_url(*values):
     return ""
 
 
+def normalize_published_time(value: str):
+    if not value:
+        return None, None
+    parsed = None
+    try:
+        parsed = datetime.fromisoformat(value.replace("Z", "+00:00"))
+    except ValueError:
+        try:
+            parsed = parsedate_to_datetime(value)
+        except (TypeError, ValueError, OverflowError):
+            return None, None
+    if parsed.tzinfo is None:
+        parsed = parsed.replace(tzinfo=timezone.utc)
+    utc_value = parsed.astimezone(timezone.utc)
+    tehran_value = utc_value.astimezone(ZoneInfo("Asia/Tehran"))
+    return utc_value.isoformat(), tehran_value.isoformat()
+
+
 def parse_feed(xml_text, username):
     root = ET.fromstring(xml_text)
     nodes = [n for n in root.iter() if local_name(n.tag) in {"item", "entry"}]
@@ -131,6 +151,7 @@ def parse_feed(xml_text, username):
             continue
         media_url = find_media(node)
         published = child_text(node, {"pubdate", "published", "updated", "date"})
+        published_utc, published_tehran = normalize_published_time(published)
         caption = re.sub(r"<[^>]+>", " ", description or title)
         caption = re.sub(r"\s+", " ", caption).strip()
         fingerprint = hashlib.sha256(permalink.encode("utf-8")).hexdigest()
@@ -141,6 +162,8 @@ def parse_feed(xml_text, username):
             "caption": caption[:5000],
             "media_url": media_url,
             "published_at": published,
+            "published_at_utc": published_utc,
+            "published_at_tehran": published_tehran,
             "collected_at": datetime.now(timezone.utc).isoformat(),
             "publish_ready": bool(media_url),
             "status": "ready" if media_url else "needs_media_url",
