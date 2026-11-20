@@ -311,4 +311,4 @@ def main():
         print(
             f"{username}: provider={result['provider']} fetched={result['fetched']} "
             f"new={result['new']} ready={result['ready']} error={bool(result['error'])}"
-           collect_web_rss()\n    return 0\n\n\nif __name__ == "__main__":\n    sys.exit(main())
+        )\n    collect_web_rss()\n    return 0\n\n\nif __name__ == "__main__":\n    sys.exit(main())
