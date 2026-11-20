@@ -208,6 +208,49 @@ def fetch_account(username):
     return [], " | ".join(errors) or "No public feed providers configured", None
 
 
+
+
+WEB_FEEDS = {
+    "BBC Persian": "https://feeds.bbci.co.uk/persian/rss.xml",
+    "DW Persian": "https://rss.dw.com/rdf/rss-fa-all",
+    "ISNA": "https://www.isna.ir/rss",
+    "IRNA": "https://www.irna.ir/rss",
+}
+WEB_REPORT_PATH = DATA / "news_web_latest.json"
+
+def collect_web_rss():
+    items, errors = [], []
+    for publisher, url in WEB_FEEDS.items():
+        try:
+            r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
+            r.raise_for_status()
+            root = ET.fromstring(r.text)
+            nodes = [n for n in root.iter() if local_name(n.tag) in {"item", "entry"}]
+            for node in nodes[:MAX_ITEMS]:
+                title = child_text(node, {"title"})
+                description = child_text(node, {"description", "summary", "encoded", "content"})
+                link = ""
+                for child in node:
+                    if local_name(child.tag) == "link":
+                        link = child.attrib.get("href") or (child.text or "").strip()
+                        if link: break
+                if not link: link = child_text(node, {"link", "guid", "id"})
+                if not link: continue
+                published = child_text(node, {"pubdate", "published", "updated", "date"})
+                pu, pt = normalize_published_time(published)
+                items.append({"publisher":publisher,"source_mode":"publisher_website_rss",
+                    "title":title,"description":re.sub(r"\\s+"," ",re.sub(r"<[^>]+>"," ",description)).strip()[:4000],
+                    "article_url":link,"media_url":find_media(node),"published_at":published,
+                    "published_at_utc":pu,"published_at_tehran":pt,
+                    "collected_at":datetime.now(timezone.utc).isoformat()})
+        except Exception as exc:
+            errors.append({"publisher":publisher,"error":str(exc)})
+    report={"generated_at":datetime.now(timezone.utc).isoformat(),"source_mode":"publisher_website_rss_separate_from_instagram",
+        "publishing_enabled":False,"count":len(items),"errors":errors,"items":items}
+    WEB_REPORT_PATH.write_text(json.dumps(report,ensure_ascii=False,indent=2)+"\\n",encoding="utf-8")
+    print(json.dumps({"website_rss_items":len(items),"website_rss_errors":len(errors)}))
+
+
 def main():
     DATA.mkdir(parents=True, exist_ok=True)
     state = load_json(STATE_PATH, {"seen_ids": []})
