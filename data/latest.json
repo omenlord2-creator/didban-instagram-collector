@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "generated_at": null,
+  "source_mode": "public_rss_only",
+  "publishing_enabled": false,
+  "summary": {
+    "accounts": 5,
+    "new_posts": 0,
+    "publish_ready": 0,
+    "blocked_or_incomplete": 0
+  },
+  "accounts": {},
+  "errors": [],
+  "items": [],
+  "note": "Initial placeholder. Actual feed results will appear after the first successful GitHub Actions run."
+}
