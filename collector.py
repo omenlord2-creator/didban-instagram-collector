@@ -103,7 +103,7 @@ def exact_instagram_url(*values):
         if not value:
             continue
         match = re.search(
-            r"https?://(?:www\\.)?instagram\\.com/(?:p|reel|tv)/[A-Za-z0-9_-]+/?(?:\\?[^\\s]*)?",
+            r"https?://(?:www\.)?instagram\.com/(?:p|reel|tv)/[A-Za-z0-9_-]+/?(?:\?[^\s]*)?",
             value,
         )
         if match:
@@ -132,7 +132,7 @@ def parse_feed(xml_text, username):
         media_url = find_media(node)
         published = child_text(node, {"pubdate", "published", "updated", "date"})
         caption = re.sub(r"<[^>]+>", " ", description or title)
-        caption = re.sub(r"\\s+", " ", caption).strip()
+        caption = re.sub(r"\s+", " ", caption).strip()
         fingerprint = hashlib.sha256(permalink.encode("utf-8")).hexdigest()
         posts.append({
             "id": fingerprint,
