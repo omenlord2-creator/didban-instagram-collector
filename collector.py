@@ -157,6 +157,7 @@ def feed_candidates(username):
 
 def fetch_account(username):
     errors = []
+    best_incomplete = None
     for url in feed_candidates(username):
         try:
             response = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
@@ -169,11 +170,18 @@ def fetch_account(username):
                 continue
             posts = parse_feed(response.text, username)
             if posts:
-                return posts, None, url
-            errors.append(f"{url}: no usable Instagram permalinks")
+                if any(post["publish_ready"] for post in posts):
+                    return posts, None, url
+                if best_incomplete is None:
+                    best_incomplete = (posts, url)
+                errors.append(f"{url}: posts found but direct media URLs are missing")
+            else:
+                errors.append(f"{url}: no usable Instagram permalinks")
         except (requests.RequestException, ET.ParseError) as exc:
             errors.append(f"{url}: {type(exc).__name__}: {exc}")
         time.sleep(1)
+    if best_incomplete:
+        return best_incomplete[0], " | ".join(errors), best_incomplete[1]
     return [], " | ".join(errors) or "No public feed providers configured", None
 
 
