@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-20T00:00:00Z",
+  "batch_type": "manually_verified_public_instagram_sample",
+  "source_mode": "public_instagram_pages_no_login",
+  "publishing_enabled": false,
+  "note": "A manually verified sample batch, kept separate from the automated collector output. These are Instagram posts, not publisher website RSS articles. Media playback/download was not validated; use the original permalink to view media.",
+  "count": 5,
+  "items": [
+    {
+      "id": "bbcpersian-Df8CESflM7L",
+      "account": "bbcpersian",
+      "publisher": "BBC Persian",
+      "post_url": "https://www.instagram.com/reel/Df8CESflM7L/",
+      "published_at": "2026-11-19T21:20:21Z",
+      "caption": "سرخط آخرین خبرهای پنجشنبه ۲۸ آبان ۱۴۰۵",
+      "media_type": "reel",
+      "media_preview_available": true,
+      "verification": "public post page and caption metadata fetched"
+    },
+    {
+      "id": "dw_persian-Df7FkNzCtF0",
+      "account": "dw_persian",
+      "publisher": "DW Persian",
+      "post_url": "https://www.instagram.com/p/Df7FkNzCtF0/",
+      "published_at": "2026-11-19T12:31:50Z",
+      "caption": "به گزارش نیویورک‌تایمز، دولت آمریکا در حال بررسی احتمال دور دیگری از حملات نظامی علیه ایران است؛ متن پست این موضوع را به نقل از منابع آگاه گزارش می‌کند.",
+      "media_type": "post",
+      "media_preview_available": true,
+      "verification": "public post page and caption metadata fetched"
+    },
+    {
+      "id": "iranintltv-Df2l5KwCgZV",
+      "account": "iranintltv",
+      "publisher": "Iran International",
+      "post_url": "https://www.instagram.com/reel/Df2l5KwCgZV/",
+      "published_at": "2026-11-17",
+      "caption": null,
+      "media_type": "reel",
+      "media_preview_available": true,
+      "verification": "public post page and account/date metadata fetched; caption text was not exposed by public page"
+    },
+    {
+      "id": "isna.news-Df6_xn0Kuit",
+      "account": "isna.news",
+      "publisher": "ISNA",
+      "post_url": "https://www.instagram.com/reel/Df6_xn0Kuit/",
+      "published_at": "2026-11-19T11:43:15Z",
+      "caption": "نخستین نشست سه‌جانبه شی، ترامپ و پوتین؛ از همکاری جهانی تا مهار تهدیدها.",
+      "media_type": "reel",
+      "media_preview_available": true,
+      "verification": "public post page and caption metadata fetched"
+    },
+    {
+      "id": "irnanews1313-DfcYVCmsF-T",
+      "account": "irnanews1313",
+      "publisher": "IRNA",
+      "post_url": "https://www.instagram.com/reel/DfcYVCmsF-T/",
+      "published_at": "2026-11-07T14:20:25Z",
+      "caption": "مروری بر آنچه در «خبرگردی» ۱۶ آبان می‌بینید؛ با یادبود محمد ملک‌دار، همکار خبرگزاری ایرنا.",
+      "media_type": "reel",
+      "media_preview_available": true,
+      "verification": "public post page and caption metadata fetched"
+    }
+  ]
+}
