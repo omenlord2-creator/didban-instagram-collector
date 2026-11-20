@@ -90,7 +90,7 @@ def find_media(node):
             if src:
                 candidates.append((src.strip(), "image"))
         if child.text and name in {"description", "summary", "encoded"}:
-            for src in re.findall(r'<img[^>]+src=["\\']([^"\\']+)', child.text, re.I):
+            for src in re.findall(r'<img[^>]+src=["\']([^"\']+)', child.text, re.I):
                 candidates.append((src.strip(), "image"))
     for url, mime in candidates:
         if is_direct_media(url, mime):
@@ -222,8 +222,8 @@ def main():
         "items": new_items,
         "note": "Public feed collection only. Publishing remains disabled pending verified results and explicit approval.",
     }
-    LATEST_PATH.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\\n", encoding="utf-8")
-    STATE_PATH.write_text(json.dumps({"seen_ids": sorted(seen)[-10000:]}, indent=2) + "\\n", encoding="utf-8")
+    LATEST_PATH.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    STATE_PATH.write_text(json.dumps({"seen_ids": sorted(seen)[-10000:]}, indent=2) + "\n", encoding="utf-8")
     print(json.dumps(payload["summary"], ensure_ascii=False))
     for username, result in account_results.items():
         print(
