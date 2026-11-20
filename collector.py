@@ -42,7 +42,7 @@ RSSHUB_INSTANCES = [
     if x.strip()
 ]
 MAX_ITEMS = int(os.getenv("MAX_ITEMS_PER_ACCOUNT", "12"))
-TIMEOUT = int(os.getenv("REQUEST_TIMEOUT", "25"))
+TIMEOUT = int(os.getenv("REQUEST_TIMEOUT", "10"))
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; DIDBAN-Public-Feed-Collector/1.1)",
     "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml;q=0.9, */*;q=0.8",
@@ -202,7 +202,7 @@ def fetch_account(username):
                 errors.append(f"{url}: no usable Instagram permalinks")
         except (requests.RequestException, ET.ParseError) as exc:
             errors.append(f"{url}: {type(exc).__name__}: {exc}")
-        time.sleep(1)
+        time.sleep(0.25)
     if best_incomplete:
         return best_incomplete[0], " | ".join(errors), best_incomplete[1]
     return [], " | ".join(errors) or "No public feed providers configured", None
