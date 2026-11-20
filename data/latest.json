@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T18:40:34.697742+00:00",
+  "generated_at": "2026-11-20T19:45:29.175110+00:00",
   "source_mode": "public_feeds_no_login",
   "publishing_enabled": false,
   "summary": {
@@ -27,7 +27,7 @@
       "new": 0,
       "ready": 0,
       "needs_media_url": 0,
-      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: HTTP 500 | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
+      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: HTTP 500 | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: HTTP 503"
     },
     "iranintltv": {
       "label": "Iran International",
@@ -36,7 +36,7 @@
       "new": 0,
       "ready": 0,
       "needs_media_url": 0,
-      "error": "https://openrss.org/feed/www.instagram.com/iranintltv: no usable Instagram permalinks | https://rsshub.cmyr.dev/instagram/2/user/iranintltv: HTTP 500 | https://rsshub.app/instagram/2/user/iranintltv: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/iranintltv: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
+      "error": "https://openrss.org/feed/www.instagram.com/iranintltv: no usable Instagram permalinks | https://rsshub.cmyr.dev/instagram/2/user/iranintltv: HTTP 500 | https://rsshub.app/instagram/2/user/iranintltv: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/iranintltv: HTTP 503"
     },
     "isna.news": {
       "label": "ISNA",
@@ -45,7 +45,7 @@
       "new": 0,
       "ready": 0,
       "needs_media_url": 0,
-      "error": "https://openrss.org/feed/www.instagram.com/isna.news: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/isna.news: HTTP 500 | https://rsshub.app/instagram/2/user/isna.news: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/isna.news: HTTP 503"
+      "error": "https://openrss.org/feed/www.instagram.com/isna.news: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/isna.news: HTTP 500 | https://rsshub.app/instagram/2/user/isna.news: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/isna.news: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
     },
     "irnanews1313": {
       "label": "IRNA",
@@ -54,7 +54,7 @@
       "new": 0,
       "ready": 0,
       "needs_media_url": 0,
-      "error": "https://openrss.org/feed/www.instagram.com/irnanews1313: no usable Instagram permalinks | https://rsshub.cmyr.dev/instagram/2/user/irnanews1313: HTTP 500 | https://rsshub.app/instagram/2/user/irnanews1313: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/irnanews1313: HTTP 503"
+      "error": "https://openrss.org/feed/www.instagram.com/irnanews1313: no usable Instagram permalinks | https://rsshub.cmyr.dev/instagram/2/user/irnanews1313: ReadTimeout: HTTPSConnectionPool(host='rsshub.cmyr.dev', port=443): Read timed out. (read timeout=10) | https://rsshub.app/instagram/2/user/irnanews1313: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/irnanews1313: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
     }
   },
   "errors": [
@@ -64,19 +64,19 @@
     },
     {
       "account": "dw_persian",
-      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: HTTP 500 | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
+      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: HTTP 500 | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: HTTP 503"
     },
     {
       "account": "iranintltv",
-      "error": "https://openrss.org/feed/www.instagram.com/iranintltv: no usable Instagram permalinks | https://rsshub.cmyr.dev/instagram/2/user/iranintltv: HTTP 500 | https://rsshub.app/instagram/2/user/iranintltv: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/iranintltv: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
+      "error": "https://openrss.org/feed/www.instagram.com/iranintltv: no usable Instagram permalinks | https://rsshub.cmyr.dev/instagram/2/user/iranintltv: HTTP 500 | https://rsshub.app/instagram/2/user/iranintltv: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/iranintltv: HTTP 503"
     },
     {
       "account": "isna.news",
-      "error": "https://openrss.org/feed/www.instagram.com/isna.news: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/isna.news: HTTP 500 | https://rsshub.app/instagram/2/user/isna.news: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/isna.news: HTTP 503"
+      "error": "https://openrss.org/feed/www.instagram.com/isna.news: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/isna.news: HTTP 500 | https://rsshub.app/instagram/2/user/isna.news: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/isna.news: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
     },
     {
       "account": "irnanews1313",
-      "error": "https://openrss.org/feed/www.instagram.com/irnanews1313: no usable Instagram permalinks | https://rsshub.cmyr.dev/instagram/2/user/irnanews1313: HTTP 500 | https://rsshub.app/instagram/2/user/irnanews1313: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/irnanews1313: HTTP 503"
+      "error": "https://openrss.org/feed/www.instagram.com/irnanews1313: no usable Instagram permalinks | https://rsshub.cmyr.dev/instagram/2/user/irnanews1313: ReadTimeout: HTTPSConnectionPool(host='rsshub.cmyr.dev', port=443): Read timed out. (read timeout=10) | https://rsshub.app/instagram/2/user/irnanews1313: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/irnanews1313: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
     }
   ],
   "items": [],
