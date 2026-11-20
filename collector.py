@@ -189,18 +189,23 @@ def main():
     DATA.mkdir(parents=True, exist_ok=True)
     state = load_json(STATE_PATH, {"seen_ids": []})
     seen = set(state.get("seen_ids", []))
-    new_items, account_results, errors = [], {}, []
+    new_items, current_items, account_results, errors = [], [], {}, []
 
     for username, label in ACCOUNTS.items():
         posts, error, provider = fetch_account(username)
         fresh = []
         for post in posts:
-            if post["id"] not in seen:
+            is_new = post["id"] not in seen
+            post["is_new"] = is_new
+            current_items.append(post)
+            # Only mark a post as seen after its direct media URL is available.
+            # This lets a later run recover an item that initially arrived without media.
+            if is_new and post["publish_ready"]:
                 seen.add(post["id"])
                 fresh.append(post)
                 new_items.append(post)
-        ready_count = sum(1 for p in fresh if p["publish_ready"])
-        media_missing = sum(1 for p in fresh if not p["publish_ready"])
+        ready_count = sum(1 for p in posts if p["publish_ready"])
+        media_missing = sum(1 for p in posts if not p["publish_ready"])
         account_results[username] = {
             "label": label,
             "provider": provider,
@@ -213,6 +218,7 @@ def main():
         if error:
             errors.append({"account": username, "error": error})
 
+    current_items.sort(key=lambda p: p.get("published_at") or p["collected_at"], reverse=True)
     new_items.sort(key=lambda p: p.get("published_at") or p["collected_at"], reverse=True)
     payload = {
         "schema_version": 1,
@@ -221,14 +227,16 @@ def main():
         "publishing_enabled": False,
         "summary": {
             "accounts": len(ACCOUNTS),
+            "fetched_posts": len(current_items),
             "new_posts": len(new_items),
-            "publish_ready": sum(1 for p in new_items if p["publish_ready"]),
-            "blocked_or_incomplete": sum(1 for p in new_items if not p["publish_ready"]) + len(errors),
+            "publish_ready": sum(1 for p in current_items if p["publish_ready"]),
+            "blocked_or_incomplete": sum(1 for p in current_items if not p["publish_ready"]) + len(errors),
         },
         "accounts": account_results,
         "errors": errors,
-        "items": new_items,
-        "note": "Public feed collection only. Publishing remains disabled pending verified results and explicit approval.",
+        "items": current_items,
+        "new_items": new_items,
+        "note": "Items contains the current feed snapshot for downstream news-list ingestion. Only media-complete new posts are marked seen. Publishing remains disabled pending verification and explicit approval.",
     }
     LATEST_PATH.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     STATE_PATH.write_text(json.dumps({"seen_ids": sorted(seen)[-10000:]}, indent=2) + "\n", encoding="utf-8")
