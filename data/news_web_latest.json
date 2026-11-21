@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T22:23:42.348607+00:00",
+  "generated_at": "2026-11-21T23:23:36.490961+00:00",
   "source_mode": "publisher_website_rss_separate_from_instagram",
   "publishing_enabled": false,
   "count": 36,
@@ -20,7 +20,31 @@
       "published_at": "",
       "published_at_utc": null,
       "published_at_tehran": null,
-      "collected_at": "2026-11-21T22:23:35.196927+00:00"
+      "collected_at": "2026-11-21T23:23:33.218997+00:00"
+    },
+    {
+      "publisher": "BBC Persian",
+      "source_mode": "publisher_website_rss",
+      "title": "شوک نفتی ناشی از جنگ ایران بر مذاکرات اقلیمی کاپ ۳۱ در ترکیه سایه انداخت",
+      "description": "مذاکرات اجلاس تغییرات اقلیمی سازمان ملل متحد، کاپ ۳۱، در آنتالیای ترکیه برای دومین روز پس از موعد پایان آن ادامه یافته است؛ در حالی که اختلاف شدید کشورها بر سر آینده سوخت‌های فسیلی، دستیابی به توافق نهایی را دشوار کرده است.",
+      "article_url": "https://www.bbc.com/persian/articles/cx5y1gd37je0o?at_medium=RSS&at_campaign=rss",
+      "media_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a2c8/live/91b7db10-e600-11f1-99a1-253766e7ad8b.png",
+      "published_at": "Sat, 21 Nov 2026 23:13:47 GMT",
+      "published_at_utc": "2026-11-21T23:13:47+00:00",
+      "published_at_tehran": "2026-11-22T02:43:47+03:30",
+      "collected_at": "2026-11-21T23:23:33.219071+00:00"
+    },
+    {
+      "publisher": "BBC Persian",
+      "source_mode": "publisher_website_rss",
+      "title": "حمله به کشتی باری عازم روسیه در خلیج فنلاند",
+      "description": "یک کشتی باری روسی که عازم منطقه کالینینگراد بود، روز شنبه ۳۰ آبان در خلیج فنلاند هدف حمله پهپادی قرار گرفت و دچار آتش‌سوزی شد. این کشتی پس از حمله وارد آب‌های فنلاند شد و مقام‌های نظامی آن کشور احتمال داده‌اند که اوکراین عامل حمله بوده باشد. کی‌یف هنوز درباره این حمله اظهارنظر نکرده است.",
+      "article_url": "https://www.bbc.com/persian/articles/cr782j432w8qo?at_medium=RSS&at_campaign=rss",
+      "media_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4cee/live/4e2fa7a0-e5c5-11f1-a738-4787e1a18cce.jpg",
+      "published_at": "Sat, 21 Nov 2026 22:32:55 GMT",
+      "published_at_utc": "2026-11-21T22:32:55+00:00",
+      "published_at_tehran": "2026-11-22T02:02:55+03:30",
+      "collected_at": "2026-11-21T23:23:33.219109+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -32,7 +56,7 @@
       "published_at": "Sat, 21 Nov 2026 18:31:24 GMT",
       "published_at_utc": "2026-11-21T18:31:24+00:00",
       "published_at_tehran": "2026-11-21T22:01:24+03:30",
-      "collected_at": "2026-11-21T22:23:35.197019+00:00"
+      "collected_at": "2026-11-21T23:23:33.219149+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -44,7 +68,7 @@
       "published_at": "Sat, 21 Nov 2026 10:09:42 GMT",
       "published_at_utc": "2026-11-21T10:09:42+00:00",
       "published_at_tehran": "2026-11-21T13:39:42+03:30",
-      "collected_at": "2026-11-21T22:23:35.197065+00:00"
+      "collected_at": "2026-11-21T23:23:33.219183+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -56,7 +80,7 @@
       "published_at": "Sat, 21 Nov 2026 10:22:45 GMT",
       "published_at_utc": "2026-11-21T10:22:45+00:00",
       "published_at_tehran": "2026-11-21T13:52:45+03:30",
-      "collected_at": "2026-11-21T22:23:35.197103+00:00"
+      "collected_at": "2026-11-21T23:23:33.219218+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -68,7 +92,7 @@
       "published_at": "Sat, 21 Nov 2026 06:09:26 GMT",
       "published_at_utc": "2026-11-21T06:09:26+00:00",
       "published_at_tehran": "2026-11-21T09:39:26+03:30",
-      "collected_at": "2026-11-21T22:23:35.197137+00:00"
+      "collected_at": "2026-11-21T23:23:33.219248+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -80,7 +104,7 @@
       "published_at": "Sat, 21 Nov 2026 07:11:57 GMT",
       "published_at_utc": "2026-11-21T07:11:57+00:00",
       "published_at_tehran": "2026-11-21T10:41:57+03:30",
-      "collected_at": "2026-11-21T22:23:35.197171+00:00"
+      "collected_at": "2026-11-21T23:23:33.219275+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -92,31 +116,7 @@
       "published_at": "Sat, 21 Nov 2026 00:43:18 GMT",
       "published_at_utc": "2026-11-21T00:43:18+00:00",
       "published_at_tehran": "2026-11-21T04:13:18+03:30",
-      "collected_at": "2026-11-21T22:23:35.197203+00:00"
-    },
-    {
-      "publisher": "BBC Persian",
-      "source_mode": "publisher_website_rss",
-      "title": "بازگشت «آزمایش زندان استنفورد»؛ آیا یک پژوهش جنجالی باید به شوی تلویزیونی تبدیل شود؟",
-      "description": "بیش از نیم قرن پس از آن‌که یکی از مشهورترین و جنجالی‌ترین پژوهش‌های روان‌شناسی، در پی اتهام‌های مربوط به آزار شرکت‌کنندگان و وارد آمدن فشار شدید روانی به آن‌ها، زودتر از موعد متوقف شد، «آزمایش زندان استنفورد» این بار در قالب یک مجموعه واقع‌نمای شش قسمتی از نتفلیکس بازسازی شده است.",
-      "article_url": "https://www.bbc.com/persian/articles/cmq5n1d8wyxwo?at_medium=RSS&at_campaign=rss",
-      "media_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e13f/live/e112fb00-d3a8-11f1-a5cd-49637fcbd4e4.jpg",
-      "published_at": "Sat, 21 Nov 2026 00:22:56 GMT",
-      "published_at_utc": "2026-11-21T00:22:56+00:00",
-      "published_at_tehran": "2026-11-21T03:52:56+03:30",
-      "collected_at": "2026-11-21T22:23:35.197243+00:00"
-    },
-    {
-      "publisher": "BBC Persian",
-      "source_mode": "publisher_website_rss",
-      "title": "تاج آسیا بر سر «بانوی بم»؛ مرضیه جعفری بهترین مربی زن آسیا کیست؟",
-      "description": "بیش از بیست‌ودو سال پیش، زلزله شهر بم را با خاک یکسان کرد. امروز زنی از همان شهر برای دومین بار جایزه بهترین مربی زن آسیا را از آنِ خود کرد. مرضیه جعفری، سرمربی تیم ملی فوتبال زنان ایران و باشگاه خاتون بم، با این عنوان دومین مربی زن تاریخ این جایزه شد که دو سال پیاپی برنده آن می‌شود.",
-      "article_url": "https://www.bbc.com/persian/articles/cr930nvjv57ko?at_medium=RSS&at_campaign=rss",
-      "media_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3e84/live/e454cca0-e4cc-11f1-8ebd-0fa6091698b5.jpg",
-      "published_at": "Fri, 20 Nov 2026 18:41:23 GMT",
-      "published_at_utc": "2026-11-20T18:41:23+00:00",
-      "published_at_tehran": "2026-11-20T22:11:23+03:30",
-      "collected_at": "2026-11-21T22:23:35.197281+00:00"
+      "collected_at": "2026-11-21T23:23:33.219304+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -128,7 +128,19 @@
       "published_at": "Fri, 20 Nov 2026 05:52:06 GMT",
       "published_at_utc": "2026-11-20T05:52:06+00:00",
       "published_at_tehran": "2026-11-20T09:22:06+03:30",
-      "collected_at": "2026-11-21T22:23:35.197314+00:00"
+      "collected_at": "2026-11-21T23:23:33.219330+00:00"
+    },
+    {
+      "publisher": "BBC Persian",
+      "source_mode": "publisher_website_rss",
+      "title": "ترامپ: قیمت بنزین به این بستگی دارد که تکلیف‌مان را با ایران چطور روشن کنیم",
+      "description": "دونالد ترامپ، رئیس‌جمهور آمریکا، در نخستین نشست خبری خود پس از دیدار سه‌جانبه با رهبران چین و روسیه، گفت که روند قیمت بنزین در آمریکا تا حدی به چگونگی حل‌وفصل اختلافات با ایران بستگی دارد. او ضمن دفاع از تصمیم خود برای آغاز جنگ با ایران، دیدار با رهبران چین و روسیه را موفقیت‌آمیز توصیف کرد و از احتمال دستیابی به توافقی برای پایان جنگ اوکراین سخن گفت. آقای ترامپ همچنین تهدید کرد که شرکت‌های آمریکایی را از ساخت مراکز داده هوش مصنوعی در خارج از این کشور منع خواهد کرد.",
+      "article_url": "https://www.bbc.com/persian/articles/c64gn0j53qgpo?at_medium=RSS&at_campaign=rss",
+      "media_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1f54/live/19ed9fb0-e525-11f1-a094-5fdc692f3e33.png",
+      "published_at": "Fri, 20 Nov 2026 21:14:29 GMT",
+      "published_at_utc": "2026-11-20T21:14:29+00:00",
+      "published_at_tehran": "2026-11-21T00:44:29+03:30",
+      "collected_at": "2026-11-21T23:23:33.219357+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -140,19 +152,67 @@
       "published_at": "",
       "published_at_utc": null,
       "published_at_tehran": null,
-      "collected_at": "2026-11-21T22:23:35.197338+00:00"
+      "collected_at": "2026-11-21T23:23:33.219377+00:00"
     },
     {
-      "publisher": "BBC Persian",
+      "publisher": "ISNA",
       "source_mode": "publisher_website_rss",
-      "title": "در واشنگتن چه می‌گذرد؟ اختلاف بر سر ادامه جنگ با ایران",
-      "description": "رسانه‌های آمریکایی در روزهای اخیر از واشنگتنی گزارش می‌دهند که دو هفته پس از شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای، هنوز بر سر نحوه برخورد با جنگ ایران به جمع‌بندی نرسیده است.",
-      "article_url": "https://www.bbc.com/persian/articles/cqe85mn3k0n1o?at_medium=RSS&at_campaign=rss",
-      "media_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/46f9/live/c7d2a2c0-e4c0-11f1-87df-79d8910e0f29.jpg",
-      "published_at": "Fri, 20 Nov 2026 09:50:18 GMT",
-      "published_at_utc": "2026-11-20T09:50:18+00:00",
-      "published_at_tehran": "2026-11-20T13:20:18+03:30",
-      "collected_at": "2026-11-21T22:23:35.197371+00:00"
+      "title": "جفری ساکس: آمریکا نه در جنگ تجاری و نه نظامی حریف چین نیست",
+      "description": "اقتصاددان مشهور آمریکایی تاکید کرد واشنگتن دریافته است نه در جنگ تجاری و نه در یک جنگ گرم، توان پیروزی بر چین را ندارد و نزدیکی روابط دو کشور «قطعاً ممکن و مطلوب» است.",
+      "article_url": "https://www.isna.ir/news/1405090100025/%D8%AC%D9%81%D8%B1%DB%8C-%D8%B3%D8%A7%DA%A9%D8%B3-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%86%D9%87-%D8%AF%D8%B1-%D8%AC%D9%86%DA%AF-%D8%AA%D8%AC%D8%A7%D8%B1%DB%8C-%D9%88-%D9%86%D9%87-%D9%86%D8%B8%D8%A7%D9%85%DB%8C-%D8%AD%D8%B1%DB%8C%D9%81-%DA%86%DB%8C%D9%86-%D9%86%DB%8C%D8%B3%D8%AA",
+      "media_url": "https://cdn.isna.ir/d/2026/11/22/4/64064613.jpg",
+      "published_at": "Sat, 21 Nov 2026 23:15:29 GMT",
+      "published_at_utc": "2026-11-21T23:15:29+00:00",
+      "published_at_tehran": "2026-11-22T02:45:29+03:30",
+      "collected_at": "2026-11-21T23:23:35.337092+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "کسب رتبه نخست بخش بین‌الملل مسابقه «عکاسی کار» ۲۰۲۶ ترکیه توسط عکاس خراسانی",
+      "description": "عکاس خراسانی و عضو پاتوق عکس حوزه هنری انقلاب اسلامی خراسان رضوی، در هفتمین دوره مسابقه بین‌المللی «عکاسی کار» ۲۰۲۶ ترکیه، از میان ۳۱۶۲ اثر ارسالی از سراسر جهان، رتبه نخست بخش بین‌الملل را کسب کرد.",
+      "article_url": "https://www.isna.ir/news/1405083021099/%DA%A9%D8%B3%D8%A8-%D8%B1%D8%AA%D8%A8%D9%87-%D9%86%D8%AE%D8%B3%D8%AA-%D8%A8%D8%AE%D8%B4-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D9%87-%D8%B9%DA%A9%D8%A7%D8%B3%DB%8C-%DA%A9%D8%A7%D8%B1-%DB%B2%DB%B0%DB%B2%DB%B6-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87-%D8%AA%D9%88%D8%B3%D8%B7",
+      "media_url": "https://cdn.isna.ir/d/off/khorasan/2026/11/21/4/64063890.jpg",
+      "published_at": "Sat, 21 Nov 2026 23:00:00 GMT",
+      "published_at_utc": "2026-11-21T23:00:00+00:00",
+      "published_at_tehran": "2026-11-22T02:30:00+03:30",
+      "collected_at": "2026-11-21T23:23:35.337143+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "ترس از قضاوت؛ مانعی برای مشارکت دانشجویان در کلاس",
+      "description": "یک روانشناس گفت: مقایسه دانشجویان با یکدیگر، ترس از قضاوت شدن و تجربه تحقیر و تمسخر در محیط خانواده و جامعه، می‌تواند اعتمادبه‌نفس دانشجویان را کاهش دهد و اضطراب آن‌ها را هنگام حضور در جمع و ارائه مطالب درسی افزایش دهد.",
+      "article_url": "https://www.isna.ir/news/1405083021095/%D8%AA%D8%B1%D8%B3-%D8%A7%D8%B2-%D9%82%D8%B6%D8%A7%D9%88%D8%AA-%D9%85%D8%A7%D9%86%D8%B9%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%B4%D8%A7%D8%B1%DA%A9%D8%AA-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88%DB%8C%D8%A7%D9%86-%D8%AF%D8%B1-%DA%A9%D9%84%D8%A7%D8%B3",
+      "media_url": "https://cdn.isna.ir/d/2022/12/19/4/62461692.jpg",
+      "published_at": "Sat, 21 Nov 2026 22:50:00 GMT",
+      "published_at_utc": "2026-11-21T22:50:00+00:00",
+      "published_at_tehran": "2026-11-22T02:20:00+03:30",
+      "collected_at": "2026-11-21T23:23:35.337180+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "حکیم جفریز خواستار استیضاح وزیر جنگ آمریکا شد",
+      "description": "رهبر دموکرات‌های مجلس نمایندگان آمریکا با متهم کردن پیت هگست، وزیر جنگ این کشور، به سوءاستفاده از قدرت و تضعیف امنیت ملی، خواستار استیضاح او شد.",
+      "article_url": "https://www.isna.ir/news/1405090100024/%D8%AD%DA%A9%DB%8C%D9%85-%D8%AC%D9%81%D8%B1%DB%8C%D8%B2-%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D8%B6%D8%A7%D8%AD-%D9%88%D8%B2%DB%8C%D8%B1-%D8%AC%D9%86%DA%AF-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B4%D8%AF",
+      "media_url": "https://cdn.isna.ir/d/2026/10/12/4/64011120.jpg",
+      "published_at": "Sat, 21 Nov 2026 22:48:25 GMT",
+      "published_at_utc": "2026-11-21T22:48:25+00:00",
+      "published_at_tehran": "2026-11-22T02:18:25+03:30",
+      "collected_at": "2026-11-21T23:23:35.337213+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "دستگیری قاتل در کمتر از ۲۴ ساعت در ارومیه",
+      "description": "فرمانده انتظامی آذربایجان غربی از شناسایی و دستگیری عامل قتل یک نفر و مجروحیت دو نفر در ارومیه در کمتر از ۲۴ ساعت توسط تیم ویژه پلیس آگاهی استان خبر داد.",
+      "article_url": "https://www.isna.ir/news/1405090100023/%D8%B2%D9%85%DB%8C%D9%86-%D9%84%D8%B1%D8%B2%D9%87-%DB%B4-%DB%B3-%D8%B1%DB%8C%D8%B4%D8%AA%D8%B1%DB%8C-%D8%AE%D9%88%DB%8C-%D8%B1%D8%A7-%D9%84%D8%B1%D8%B2%D8%A7%D9%86%D8%AF",
+      "media_url": "https://cdn.isna.ir/d/2026/11/19/4/64061408.jpg",
+      "published_at": "Sat, 21 Nov 2026 22:39:28 GMT",
+      "published_at_utc": "2026-11-21T22:39:28+00:00",
+      "published_at_tehran": "2026-11-22T02:09:28+03:30",
+      "collected_at": "2026-11-21T23:23:35.337243+00:00"
     },
     {
       "publisher": "ISNA",
@@ -164,7 +224,7 @@
       "published_at": "Sat, 21 Nov 2026 22:15:47 GMT",
       "published_at_utc": "2026-11-21T22:15:47+00:00",
       "published_at_tehran": "2026-11-22T01:45:47+03:30",
-      "collected_at": "2026-11-21T22:23:41.327501+00:00"
+      "collected_at": "2026-11-21T23:23:35.337272+00:00"
     },
     {
       "publisher": "ISNA",
@@ -176,7 +236,7 @@
       "published_at": "Sat, 21 Nov 2026 22:15:00 GMT",
       "published_at_utc": "2026-11-21T22:15:00+00:00",
       "published_at_tehran": "2026-11-22T01:45:00+03:30",
-      "collected_at": "2026-11-21T22:23:41.327552+00:00"
+      "collected_at": "2026-11-21T23:23:35.337300+00:00"
     },
     {
       "publisher": "ISNA",
@@ -188,7 +248,7 @@
       "published_at": "Sat, 21 Nov 2026 22:13:02 GMT",
       "published_at_utc": "2026-11-21T22:13:02+00:00",
       "published_at_tehran": "2026-11-22T01:43:02+03:30",
-      "collected_at": "2026-11-21T22:23:41.327590+00:00"
+      "collected_at": "2026-11-21T23:23:35.337328+00:00"
     },
     {
       "publisher": "ISNA",
@@ -200,7 +260,7 @@
       "published_at": "Sat, 21 Nov 2026 21:57:13 GMT",
       "published_at_utc": "2026-11-21T21:57:13+00:00",
       "published_at_tehran": "2026-11-22T01:27:13+03:30",
-      "collected_at": "2026-11-21T22:23:41.327640+00:00"
+      "collected_at": "2026-11-21T23:23:35.337356+00:00"
     },
     {
       "publisher": "ISNA",
@@ -212,7 +272,7 @@
       "published_at": "Sat, 21 Nov 2026 21:45:00 GMT",
       "published_at_utc": "2026-11-21T21:45:00+00:00",
       "published_at_tehran": "2026-11-22T01:15:00+03:30",
-      "collected_at": "2026-11-21T22:23:41.327681+00:00"
+      "collected_at": "2026-11-21T23:23:35.337384+00:00"
     },
     {
       "publisher": "ISNA",
@@ -224,7 +284,7 @@
       "published_at": "Sat, 21 Nov 2026 21:43:01 GMT",
       "published_at_utc": "2026-11-21T21:43:01+00:00",
       "published_at_tehran": "2026-11-22T01:13:01+03:30",
-      "collected_at": "2026-11-21T22:23:41.327717+00:00"
+      "collected_at": "2026-11-21T23:23:35.337412+00:00"
     },
     {
       "publisher": "ISNA",
@@ -236,67 +296,19 @@
       "published_at": "Sat, 21 Nov 2026 21:40:00 GMT",
       "published_at_utc": "2026-11-21T21:40:00+00:00",
       "published_at_tehran": "2026-11-22T01:10:00+03:30",
-      "collected_at": "2026-11-21T22:23:41.327751+00:00"
+      "collected_at": "2026-11-21T23:23:35.337443+00:00"
     },
     {
-      "publisher": "ISNA",
+      "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "ترویج فرهنگ مطالعه به یک جریان مستمر اجتماعی تبدیل شود",
-      "description": "معاون سیاسی امنیتی و اجتماعی استاندار لرستان در جریان بازدید از برخی کتابفروشی های مرکز استان بمناسبت هفته کتاب با اشاره به اهمیت کتاب در شکل‌گیری جامعه‌ای آگاه، پویا و توسعه‌یافته، اظهار کرد: کتاب صرفاً یک ابزار آموزشی یا وسیله‌ای برای انتقال اطلاعات نیست، بلکه یکی از مهم‌ترین بسترهای رشد فکری، ارتقای آگاهی عمومی، تقویت قدرت تحلیل و شکل‌گیری نگرش صحیح در جامعه به شمار می‌رود.",
-      "article_url": "https://www.isna.ir/news/1405090100018/%D8%AA%D8%B1%D9%88%DB%8C%D8%AC-%D9%81%D8%B1%D9%87%D9%86%DA%AF-%D9%85%D8%B7%D8%A7%D9%84%D8%B9%D9%87-%D8%A8%D9%87-%DB%8C%DA%A9-%D8%AC%D8%B1%DB%8C%D8%A7%D9%86-%D9%85%D8%B3%D8%AA%D9%85%D8%B1-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84-%D8%B4%D9%88%D8%AF",
-      "media_url": "https://cdn.isna.ir/d/2026/11/22/4/64064609.jpg",
-      "published_at": "Sat, 21 Nov 2026 21:33:12 GMT",
-      "published_at_utc": "2026-11-21T21:33:12+00:00",
-      "published_at_tehran": "2026-11-22T01:03:12+03:30",
-      "collected_at": "2026-11-21T22:23:41.327784+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "شکار ۲ پهپاد آمریکایی در آسمان تنگه هرمز",
-      "description": "نیروی هوافضای سپاه پاسداران انقلاب اسلامی با انتشار تصاویری، انهدام یک فروند پهپاد MQ-۹ و یک فروند پهپاد MQ-۱ را در منطقه تنگه هرمز نشان داد.",
-      "article_url": "https://www.isna.ir/news/1405090100017/%D8%B4%DA%A9%D8%A7%D8%B1-%DB%B2-%D9%BE%D9%87%D9%BE%D8%A7%D8%AF-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1-%D8%A2%D8%B3%D9%85%D8%A7%D9%86-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2",
-      "media_url": "https://cdn.isna.ir/d/2026/11/22/4/64064608.jpg",
-      "published_at": "Sat, 21 Nov 2026 21:30:53 GMT",
-      "published_at_utc": "2026-11-21T21:30:53+00:00",
-      "published_at_tehran": "2026-11-22T01:00:53+03:30",
-      "collected_at": "2026-11-21T22:23:41.327817+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "آغاز فصل کشت کلزا در شهرستان باشت با زیر کشت رفتن بیش از ۵۰ هکتار از اراضی کشاورزی",
-      "description": "مدیر جهاد کشاورزی باشت از آغاز فصل کشت کلزا در این شهرستان خبرداد و گفت: بیش از ۵۰ هکتار از اراضی کشاورزی با هدف افزایش تنوع زیستی و تولید روغن‌های خوراکی به زیر کشت این محصول رفته است.",
-      "article_url": "https://www.isna.ir/news/1405090100008/%D8%A2%D8%BA%D8%A7%D8%B2-%D9%81%D8%B5%D9%84-%DA%A9%D8%B4%D8%AA-%DA%A9%D9%84%D8%B2%D8%A7-%D8%AF%D8%B1-%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D8%A7%D8%B4%D8%AA-%D8%A8%D8%A7-%D8%B2%DB%8C%D8%B1-%DA%A9%D8%B4%D8%AA-%D8%B1%D9%81%D8%AA%D9%86-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B5%DB%B0-%D9%87%DA%A9%D8%AA%D8%A7%D8%B1",
-      "media_url": "https://cdn.isna.ir/d/2026/04/19/4/63807937.jpg",
-      "published_at": "Sat, 21 Nov 2026 21:28:00 GMT",
-      "published_at_utc": "2026-11-21T21:28:00+00:00",
-      "published_at_tehran": "2026-11-22T00:58:00+03:30",
-      "collected_at": "2026-11-21T22:23:41.327848+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "آیا توافق‌ میان روسیه، چین و آمریکا در آینده می‌تواند به تضعیف ناتو و اروپا منجر شود؟",
-      "description": "کارشناس مسائل روسیه با اشاره به اهمیت برگزاری نخستین نشست سه‌جانبه رؤسای جمهور چین، آمریکا و روسیه، این نشست را نشانه‌ای از حرکت قدرت‌های بزرگ به سمت طراحی معماری جدید امنیتی و مدیریت معادلات جهانی دانست و گفت: اگرچه اختلافات بنیادینی میان این سه کشور وجود دارد، اما نشانه‌های همگرایی و شکل‌گیری الگویی جدید از همکاری میان آنها قابل مشاهده است؛ الگویی که می‌تواند جایگاه اروپا را تحت تأثیر قرار دهد.",
-      "article_url": "https://www.isna.ir/news/1405083020712/%D8%A2%DB%8C%D8%A7-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D9%85%DB%8C%D8%A7%D9%86-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%DA%86%DB%8C%D9%86-%D9%88-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D8%B1-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D9%85%DB%8C-%D8%AA%D9%88%D8%A7%D9%86%D8%AF-%D8%A8%D9%87-%D8%AA%D8%B6%D8%B9%DB%8C%D9%81",
-      "media_url": "https://cdn.isna.ir/d/2026/11/20/4/64062764.jpg",
-      "published_at": "Sat, 21 Nov 2026 21:25:00 GMT",
-      "published_at_utc": "2026-11-21T21:25:00+00:00",
-      "published_at_tehran": "2026-11-22T00:55:00+03:30",
-      "collected_at": "2026-11-21T22:23:41.327879+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "از خاموشی ارتباطی تا انقلاب اینترنتی",
-      "description": "روستاها خاستگاه تولید، کشاورزی، دامپروری، صنایع‌دستی و بخش مهمی از هویت اقتصادی و اجتماعی لرستان هستند؛ مناطقی که ظرفیت‌های ارزشمند آنها برای رشد و شکوفایی، بیش از هر چیز به فراهم بودن زیرساخت‌های اساسی نیاز دارد.",
-      "article_url": "https://www.isna.ir/news/1405090100016/%D8%A7%D8%B2-%D8%AE%D8%A7%D9%85%D9%88%D8%B4%DB%8C-%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7%DB%8C-%D8%AA%D8%A7-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA%DB%8C",
-      "media_url": "https://cdn.isna.ir/d/off/zanjan/2020/12/31/4/61815455.jpg",
-      "published_at": "Sat, 21 Nov 2026 21:21:06 GMT",
-      "published_at_utc": "2026-11-21T21:21:06+00:00",
-      "published_at_tehran": "2026-11-22T00:51:06+03:30",
-      "collected_at": "2026-11-21T22:23:41.327910+00:00"
+      "title": "تلاش آیزنکوت برای تشکیل کابینه جدید رژیم اسرائیل/اختلاف‌ با لیکود و احزاب عربی ادامه دارد",
+      "description": "تهران - ایرنا - «گادی آیزنکوت» رئیس حزب «یاشار» و مامور تشکیل کابینه جدید رژیم صهیونیستی در ادامه رایزنی‌ های سیاسی برای کنار زدن «بنیامین نتانیاهو»، از حزب لیکود برای آغاز مذاکرات فشرده دعوت کرده اما این تلاش‌ ها به رغم حمایت برخی جریان‌های سیاسی، همچنان با اختلاف‌های جدی درباره ترکیب ائتلاف آینده و مشارکت احزاب عربی و حریدی روبه‌رو است.",
+      "article_url": "https://www.irna.ir/news/86328732/%D8%AA%D9%84%D8%A7%D8%B4-%D8%A2%DB%8C%D8%B2%D9%86%DA%A9%D9%88%D8%AA-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D8%B4%DA%A9%DB%8C%D9%84-%DA%A9%D8%A7%D8%A8%DB%8C%D9%86%D9%87-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B1%DA%98%DB%8C%D9%85-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%81-%D8%A8%D8%A7-%D9%84%DB%8C%DA%A9%D9%88%D8%AF",
+      "media_url": "https://img9.irna.ir/d/r2/2026/11/18/4/173251655.jpg",
+      "published_at": "Sat, 21 Nov 2026 22:47:09 GMT",
+      "published_at_utc": "2026-11-21T22:47:09+00:00",
+      "published_at_tehran": "2026-11-22T02:17:09+03:30",
+      "collected_at": "2026-11-21T23:23:36.490586+00:00"
     },
     {
       "publisher": "IRNA",
@@ -308,7 +320,7 @@
       "published_at": "Sat, 21 Nov 2026 22:22:19 GMT",
       "published_at_utc": "2026-11-21T22:22:19+00:00",
       "published_at_tehran": "2026-11-22T01:52:19+03:30",
-      "collected_at": "2026-11-21T22:23:42.348239+00:00"
+      "collected_at": "2026-11-21T23:23:36.490636+00:00"
     },
     {
       "publisher": "IRNA",
@@ -320,7 +332,7 @@
       "published_at": "Sat, 21 Nov 2026 22:20:56 GMT",
       "published_at_utc": "2026-11-21T22:20:56+00:00",
       "published_at_tehran": "2026-11-22T01:50:56+03:30",
-      "collected_at": "2026-11-21T22:23:42.348293+00:00"
+      "collected_at": "2026-11-21T23:23:36.490673+00:00"
     },
     {
       "publisher": "IRNA",
@@ -332,7 +344,7 @@
       "published_at": "Sat, 21 Nov 2026 22:19:49 GMT",
       "published_at_utc": "2026-11-21T22:19:49+00:00",
       "published_at_tehran": "2026-11-22T01:49:49+03:30",
-      "collected_at": "2026-11-21T22:23:42.348331+00:00"
+      "collected_at": "2026-11-21T23:23:36.490725+00:00"
     },
     {
       "publisher": "IRNA",
@@ -344,7 +356,7 @@
       "published_at": "Sat, 21 Nov 2026 21:54:10 GMT",
       "published_at_utc": "2026-11-21T21:54:10+00:00",
       "published_at_tehran": "2026-11-22T01:24:10+03:30",
-      "collected_at": "2026-11-21T22:23:42.348364+00:00"
+      "collected_at": "2026-11-21T23:23:36.490763+00:00"
     },
     {
       "publisher": "IRNA",
@@ -356,7 +368,7 @@
       "published_at": "Sat, 21 Nov 2026 20:58:19 GMT",
       "published_at_utc": "2026-11-21T20:58:19+00:00",
       "published_at_tehran": "2026-11-22T00:28:19+03:30",
-      "collected_at": "2026-11-21T22:23:42.348395+00:00"
+      "collected_at": "2026-11-21T23:23:36.490794+00:00"
     },
     {
       "publisher": "IRNA",
@@ -368,7 +380,7 @@
       "published_at": "Sat, 21 Nov 2026 20:41:32 GMT",
       "published_at_utc": "2026-11-21T20:41:32+00:00",
       "published_at_tehran": "2026-11-22T00:11:32+03:30",
-      "collected_at": "2026-11-21T22:23:42.348426+00:00"
+      "collected_at": "2026-11-21T23:23:36.490822+00:00"
     },
     {
       "publisher": "IRNA",
@@ -380,7 +392,7 @@
       "published_at": "Sat, 21 Nov 2026 20:30:19 GMT",
       "published_at_utc": "2026-11-21T20:30:19+00:00",
       "published_at_tehran": "2026-11-22T00:00:19+03:30",
-      "collected_at": "2026-11-21T22:23:42.348457+00:00"
+      "collected_at": "2026-11-21T23:23:36.490849+00:00"
     },
     {
       "publisher": "IRNA",
@@ -392,7 +404,7 @@
       "published_at": "Sat, 21 Nov 2026 20:14:11 GMT",
       "published_at_utc": "2026-11-21T20:14:11+00:00",
       "published_at_tehran": "2026-11-21T23:44:11+03:30",
-      "collected_at": "2026-11-21T22:23:42.348486+00:00"
+      "collected_at": "2026-11-21T23:23:36.490876+00:00"
     },
     {
       "publisher": "IRNA",
@@ -404,7 +416,7 @@
       "published_at": "Sat, 21 Nov 2026 20:13:37 GMT",
       "published_at_utc": "2026-11-21T20:13:37+00:00",
       "published_at_tehran": "2026-11-21T23:43:37+03:30",
-      "collected_at": "2026-11-21T22:23:42.348514+00:00"
+      "collected_at": "2026-11-21T23:23:36.490902+00:00"
     },
     {
       "publisher": "IRNA",
@@ -416,7 +428,7 @@
       "published_at": "Sat, 21 Nov 2026 20:02:39 GMT",
       "published_at_utc": "2026-11-21T20:02:39+00:00",
       "published_at_tehran": "2026-11-21T23:32:39+03:30",
-      "collected_at": "2026-11-21T22:23:42.348543+00:00"
+      "collected_at": "2026-11-21T23:23:36.490930+00:00"
     },
     {
       "publisher": "IRNA",
@@ -428,19 +440,7 @@
       "published_at": "Sat, 21 Nov 2026 19:58:02 GMT",
       "published_at_utc": "2026-11-21T19:58:02+00:00",
       "published_at_tehran": "2026-11-21T23:28:02+03:30",
-      "collected_at": "2026-11-21T22:23:42.348573+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "کارت‌های پرتراکنش در نانوایی‌هایی اردبیل پاکسازی  شد",
-      "description": "اردبیل _ ایرنا _ استاندار اردبیل گفت: با هدف  مقابله با تخلفات نانوایی‌های استان ، کارت‌های پرتراکنش شناسایی و پاکسازی شد.",
-      "article_url": "https://www.irna.ir/news/86328705/%DA%A9%D8%A7%D8%B1%D8%AA-%D9%87%D8%A7%DB%8C-%D9%BE%D8%B1%D8%AA%D8%B1%D8%A7%DA%A9%D9%86%D8%B4-%D8%AF%D8%B1-%D9%86%D8%A7%D9%86%D9%88%D8%A7%DB%8C%DB%8C-%D9%87%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84-%D9%BE%D8%A7%DA%A9%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B4%D8%AF",
-      "media_url": "https://img9.irna.ir/d/r1/2022/06/14/4/169747543.jpg",
-      "published_at": "Sat, 21 Nov 2026 19:51:29 GMT",
-      "published_at_utc": "2026-11-21T19:51:29+00:00",
-      "published_at_tehran": "2026-11-21T23:21:29+03:30",
-      "collected_at": "2026-11-21T22:23:42.348603+00:00"
+      "collected_at": "2026-11-21T23:23:36.490958+00:00"
     }
   ]
 }\n
