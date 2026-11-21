@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-21T07:28:31.124334+00:00",
+  "generated_at": "2026-11-21T08:34:01.952221+00:00",
   "source_mode": "public_feeds_no_login",
   "publishing_enabled": false,
   "summary": {
     "accounts": 5,
     "fetched_posts": 30,
-    "new_posts": 11,
+    "new_posts": 0,
     "publish_ready": 30,
     "blocked_or_incomplete": 2
   },
@@ -27,13 +27,13 @@
       "new": 0,
       "ready": 0,
       "needs_media_url": 0,
-      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: ReadTimeout: HTTPSConnectionPool(host='rsshub.cmyr.dev', port=443): Read timed out. (read timeout=10) | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: HTTP 503"
+      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: HTTP 500 | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: HTTP 503"
     },
     "iranintltv": {
       "label": "Iran International",
       "provider": "https://openrss.org/feed/www.instagram.com/iranintltv",
       "fetched": 10,
-      "new": 9,
+      "new": 0,
       "ready": 10,
       "needs_media_url": 0,
       "error": null
@@ -45,13 +45,13 @@
       "new": 0,
       "ready": 0,
       "needs_media_url": 0,
-      "error": "https://openrss.org/feed/www.instagram.com/isna.news: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/isna.news: HTTP 500 | https://rsshub.app/instagram/2/user/isna.news: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/isna.news: HTTP 503"
+      "error": "https://openrss.org/feed/www.instagram.com/isna.news: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/isna.news: HTTP 500 | https://rsshub.app/instagram/2/user/isna.news: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/isna.news: HTTP 503"
     },
     "irnanews1313": {
       "label": "IRNA",
       "provider": "https://openrss.org/feed/www.instagram.com/irnanews1313",
       "fetched": 10,
-      "new": 2,
+      "new": 0,
       "ready": 10,
       "needs_media_url": 0,
       "error": null
@@ -60,11 +60,11 @@
   "errors": [
     {
       "account": "dw_persian",
-      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: ReadTimeout: HTTPSConnectionPool(host='rsshub.cmyr.dev', port=443): Read timed out. (read timeout=10) | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: HTTP 503"
+      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: HTTP 500 | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: HTTP 503"
     },
     {
       "account": "isna.news",
-      "error": "https://openrss.org/feed/www.instagram.com/isna.news: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/isna.news: HTTP 500 | https://rsshub.app/instagram/2/user/isna.news: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/isna.news: HTTP 503"
+      "error": "https://openrss.org/feed/www.instagram.com/isna.news: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/isna.news: HTTP 500 | https://rsshub.app/instagram/2/user/isna.news: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/isna.news: HTTP 503"
     }
   ],
   "items": [
@@ -77,7 +77,7 @@
       "published_at": "Thu, 19 Nov 2026 18:00:03 GMT",
       "published_at_utc": "2026-11-19T18:00:03+00:00",
       "published_at_tehran": "2026-11-19T21:30:03+03:30",
-      "collected_at": "2026-11-21T07:28:31.123240+00:00",
+      "collected_at": "2026-11-21T08:34:01.950827+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -91,7 +91,7 @@
       "published_at": "Thu, 19 Nov 2026 17:00:27 GMT",
       "published_at_utc": "2026-11-19T17:00:27+00:00",
       "published_at_tehran": "2026-11-19T20:30:27+03:30",
-      "collected_at": "2026-11-21T07:28:31.123291+00:00",
+      "collected_at": "2026-11-21T08:34:01.950917+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -105,7 +105,7 @@
       "published_at": "Thu, 19 Nov 2026 15:00:28 GMT",
       "published_at_utc": "2026-11-19T15:00:28+00:00",
       "published_at_tehran": "2026-11-19T18:30:28+03:30",
-      "collected_at": "2026-11-21T07:28:31.123342+00:00",
+      "collected_at": "2026-11-21T08:34:01.951000+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -119,7 +119,7 @@
       "published_at": "Thu, 19 Nov 2026 13:59:42 GMT",
       "published_at_utc": "2026-11-19T13:59:42+00:00",
       "published_at_tehran": "2026-11-19T17:29:42+03:30",
-      "collected_at": "2026-11-21T07:28:31.123399+00:00",
+      "collected_at": "2026-11-21T08:34:01.951095+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -133,7 +133,7 @@
       "published_at": "Thu, 19 Nov 2026 13:55:57 GMT",
       "published_at_utc": "2026-11-19T13:55:57+00:00",
       "published_at_tehran": "2026-11-19T17:25:57+03:30",
-      "collected_at": "2026-11-21T07:28:31.123452+00:00",
+      "collected_at": "2026-11-21T08:34:01.951184+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -147,7 +147,7 @@
       "published_at": "Thu, 19 Nov 2026 13:40:14 GMT",
       "published_at_utc": "2026-11-19T13:40:14+00:00",
       "published_at_tehran": "2026-11-19T17:10:14+03:30",
-      "collected_at": "2026-11-21T07:28:31.123510+00:00",
+      "collected_at": "2026-11-21T08:34:01.951312+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -161,10 +161,10 @@
       "published_at": "Fri, 20 Nov 2026 22:00:15 GMT",
       "published_at_utc": "2026-11-20T22:00:15+00:00",
       "published_at_tehran": "2026-11-21T01:30:15+03:30",
-      "collected_at": "2026-11-21T07:28:27.078494+00:00",
+      "collected_at": "2026-11-21T08:33:48.502612+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "0699373e73c86547e378dc0bafd5db60acfa50688c5731f74d45a13aede5c598",
@@ -175,10 +175,10 @@
       "published_at": "Fri, 20 Nov 2026 21:46:32 GMT",
       "published_at_utc": "2026-11-20T21:46:32+00:00",
       "published_at_tehran": "2026-11-21T01:16:32+03:30",
-      "collected_at": "2026-11-21T07:28:27.078559+00:00",
+      "collected_at": "2026-11-21T08:33:48.502715+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "9fe180fc3747e0a52e5373a09d17a7ead533bd1afd598758c3f8d50f7a651c7d",
@@ -189,7 +189,7 @@
       "published_at": "Fri, 20 Nov 2026 21:30:07 GMT",
       "published_at_utc": "2026-11-20T21:30:07+00:00",
       "published_at_tehran": "2026-11-21T01:00:07+03:30",
-      "collected_at": "2026-11-21T07:28:11.721921+00:00",
+      "collected_at": "2026-11-21T08:33:34.664108+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -203,10 +203,10 @@
       "published_at": "Fri, 20 Nov 2026 21:10:01 GMT",
       "published_at_utc": "2026-11-20T21:10:01+00:00",
       "published_at_tehran": "2026-11-21T00:40:01+03:30",
-      "collected_at": "2026-11-21T07:28:27.078654+00:00",
+      "collected_at": "2026-11-21T08:33:48.502863+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "e31207df92a8ad1444e97a2df818eb46919f8d2b6d044720f5523511a1034a98",
@@ -217,10 +217,10 @@
       "published_at": "Fri, 20 Nov 2026 21:01:14 GMT",
       "published_at_utc": "2026-11-20T21:01:14+00:00",
       "published_at_tehran": "2026-11-21T00:31:14+03:30",
-      "collected_at": "2026-11-21T07:28:27.078711+00:00",
+      "collected_at": "2026-11-21T08:33:48.502957+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a492b1087a121557aff0e8b6cc739dba8ffa8ebac45b77231f954288bf62e9ae",
@@ -231,7 +231,7 @@
       "published_at": "Fri, 20 Nov 2026 20:32:06 GMT",
       "published_at_utc": "2026-11-20T20:32:06+00:00",
       "published_at_tehran": "2026-11-21T00:02:06+03:30",
-      "collected_at": "2026-11-21T07:28:11.722066+00:00",
+      "collected_at": "2026-11-21T08:33:34.664344+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -245,10 +245,10 @@
       "published_at": "Fri, 20 Nov 2026 20:30:50 GMT",
       "published_at_utc": "2026-11-20T20:30:50+00:00",
       "published_at_tehran": "2026-11-21T00:00:50+03:30",
-      "collected_at": "2026-11-21T07:28:27.078762+00:00",
+      "collected_at": "2026-11-21T08:33:48.503045+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "54a1fb7b8293407b17eecdde00cf877202609402f75b5a3741fcb39a38c4a911",
@@ -259,10 +259,10 @@
       "published_at": "Fri, 20 Nov 2026 20:00:39 GMT",
       "published_at_utc": "2026-11-20T20:00:39+00:00",
       "published_at_tehran": "2026-11-20T23:30:39+03:30",
-      "collected_at": "2026-11-21T07:28:27.078827+00:00",
+      "collected_at": "2026-11-21T08:33:48.503129+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "92b081cca72b8f6f8d5054976eaf6bbce8a5bf845997526e79f183ae18097b4d",
@@ -273,10 +273,10 @@
       "published_at": "Fri, 20 Nov 2026 19:30:18 GMT",
       "published_at_utc": "2026-11-20T19:30:18+00:00",
       "published_at_tehran": "2026-11-20T23:00:18+03:30",
-      "collected_at": "2026-11-21T07:28:27.078876+00:00",
+      "collected_at": "2026-11-21T08:33:48.503213+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a901350be8aa6d44927c1a1e67de13ab8d664e52575146432bd5ba690dc3466f",
@@ -287,10 +287,10 @@
       "published_at": "Fri, 20 Nov 2026 19:30:12 GMT",
       "published_at_utc": "2026-11-20T19:30:12+00:00",
       "published_at_tehran": "2026-11-20T23:00:12+03:30",
-      "collected_at": "2026-11-21T07:28:27.078961+00:00",
+      "collected_at": "2026-11-21T08:33:48.503383+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "b36274dc288ae50d9923c090fea8d8597232939e926a631be65c7083c8320332",
@@ -301,10 +301,10 @@
       "published_at": "Fri, 20 Nov 2026 19:00:11 GMT",
       "published_at_utc": "2026-11-20T19:00:11+00:00",
       "published_at_tehran": "2026-11-20T22:30:11+03:30",
-      "collected_at": "2026-11-21T07:28:27.079010+00:00",
+      "collected_at": "2026-11-21T08:33:48.503470+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3ae3aeeeb17469f05c9e608a55044ba1199feb7299f62d74ed1ea68730cf9aeb",
@@ -315,7 +315,7 @@
       "published_at": "Fri, 20 Nov 2026 17:51:55 GMT",
       "published_at_utc": "2026-11-20T17:51:55+00:00",
       "published_at_tehran": "2026-11-20T21:21:55+03:30",
-      "collected_at": "2026-11-21T07:28:11.722154+00:00",
+      "collected_at": "2026-11-21T08:33:34.664510+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -329,10 +329,10 @@
       "published_at": "Fri, 20 Nov 2026 17:45:07 GMT",
       "published_at_utc": "2026-11-20T17:45:07+00:00",
       "published_at_tehran": "2026-11-20T21:15:07+03:30",
-      "collected_at": "2026-11-21T07:28:31.122987+00:00",
+      "collected_at": "2026-11-21T08:34:01.950418+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "9712ce3251f5ac33195097c8c0718e4a056c6cfd4aaf952187346353334ae9d9",
@@ -343,10 +343,10 @@
       "published_at": "Fri, 20 Nov 2026 17:20:05 GMT",
       "published_at_utc": "2026-11-20T17:20:05+00:00",
       "published_at_tehran": "2026-11-20T20:50:05+03:30",
-      "collected_at": "2026-11-21T07:28:31.123068+00:00",
+      "collected_at": "2026-11-21T08:34:01.950541+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3c60b90a72fb7bd80e58f54ffe0511f9884af9c45b29824189c89e581f0dd8a2",
@@ -357,7 +357,7 @@
       "published_at": "Fri, 20 Nov 2026 17:07:19 GMT",
       "published_at_utc": "2026-11-20T17:07:19+00:00",
       "published_at_tehran": "2026-11-20T20:37:19+03:30",
-      "collected_at": "2026-11-21T07:28:11.722233+00:00",
+      "collected_at": "2026-11-21T08:33:34.664669+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -371,7 +371,7 @@
       "published_at": "Fri, 20 Nov 2026 17:01:12 GMT",
       "published_at_utc": "2026-11-20T17:01:12+00:00",
       "published_at_tehran": "2026-11-20T20:31:12+03:30",
-      "collected_at": "2026-11-21T07:28:11.722349+00:00",
+      "collected_at": "2026-11-21T08:33:34.664864+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -385,7 +385,7 @@
       "published_at": "Fri, 20 Nov 2026 15:15:21 GMT",
       "published_at_utc": "2026-11-20T15:15:21+00:00",
       "published_at_tehran": "2026-11-20T18:45:21+03:30",
-      "collected_at": "2026-11-21T07:28:11.722409+00:00",
+      "collected_at": "2026-11-21T08:33:34.664970+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -399,7 +399,7 @@
       "published_at": "Fri, 20 Nov 2026 14:33:08 GMT",
       "published_at_utc": "2026-11-20T14:33:08+00:00",
       "published_at_tehran": "2026-11-20T18:03:08+03:30",
-      "collected_at": "2026-11-21T07:28:11.722490+00:00",
+      "collected_at": "2026-11-21T08:33:34.665111+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -413,7 +413,7 @@
       "published_at": "Fri, 20 Nov 2026 14:28:15 GMT",
       "published_at_utc": "2026-11-20T14:28:15+00:00",
       "published_at_tehran": "2026-11-20T17:58:15+03:30",
-      "collected_at": "2026-11-21T07:28:11.722538+00:00",
+      "collected_at": "2026-11-21T08:33:34.665196+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -427,7 +427,7 @@
       "published_at": "Fri, 20 Nov 2026 14:17:17 GMT",
       "published_at_utc": "2026-11-20T14:17:17+00:00",
       "published_at_tehran": "2026-11-20T17:47:17+03:30",
-      "collected_at": "2026-11-21T07:28:11.722639+00:00",
+      "collected_at": "2026-11-21T08:33:34.665383+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -441,7 +441,7 @@
       "published_at": "Fri, 20 Nov 2026 13:30:35 GMT",
       "published_at_utc": "2026-11-20T13:30:35+00:00",
       "published_at_tehran": "2026-11-20T17:00:35+03:30",
-      "collected_at": "2026-11-21T07:28:27.079062+00:00",
+      "collected_at": "2026-11-21T08:33:48.503570+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -455,7 +455,7 @@
       "published_at": "Fri, 20 Nov 2026 13:00:46 GMT",
       "published_at_utc": "2026-11-20T13:00:46+00:00",
       "published_at_tehran": "2026-11-20T16:30:46+03:30",
-      "collected_at": "2026-11-21T07:28:11.722747+00:00",
+      "collected_at": "2026-11-21T08:33:34.665547+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -469,7 +469,7 @@
       "published_at": "Fri, 20 Nov 2026 11:06:42 GMT",
       "published_at_utc": "2026-11-20T11:06:42+00:00",
       "published_at_tehran": "2026-11-20T14:36:42+03:30",
-      "collected_at": "2026-11-21T07:28:31.123134+00:00",
+      "collected_at": "2026-11-21T08:34:01.950644+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -483,167 +483,12 @@
       "published_at": "Fri, 20 Nov 2026 09:30:09 GMT",
       "published_at_utc": "2026-11-20T09:30:09+00:00",
       "published_at_tehran": "2026-11-20T13:00:09+03:30",
-      "collected_at": "2026-11-21T07:28:31.123192+00:00",
+      "collected_at": "2026-11-21T08:34:01.950741+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
     }
   ],
-  "new_items": [
-    {
-      "id": "28941fee11cfc6195a9e65e35d7b199787cdf8d9e6dff3d3d60227df0ef9ee99",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/Df-rbBzj-7_",
-      "caption": ". ویدیوی رسیده به ایران‌اینترنشنال نشان می‌دهد مراسم زادروز جاویدنام محمد معصومی بر سر مزارش برگزار شده است. �محمد معصومی، ۱۸ دی‌ماه ۱۴۰۴ در محله زینبیه اصفهان با شلیک گلوله کشته شد.",
-      "media_url": "https://scontent-den2-1.cdninstagram.com/v/t51.82787-15/916893789_18454379833176167_4018139069236723298_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=KNZbnPB1FaMQ7kNvwGWbuvf&amp;_nc_oc=Adq6jkxKMQ_eBtbm78IyFYHFowZbSt71XOSPj9dhuDJh73BO0OSqa26uhKNVa7n3aGY&amp;_nc_zt=23&amp;_nc_ht=scontent-den2-1.cdninstagram.com&amp;_nc_gid=JUjbtLGI3djjyTIqzDcynQ&amp;_nc_ss=7aa8c&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQRUNvqSVHotQmPA945WZgzbxr2_RIiOli1Hy9c-Jpmusw&amp;oe=6B06B660",
-      "published_at": "Fri, 20 Nov 2026 22:00:15 GMT",
-      "published_at_utc": "2026-11-20T22:00:15+00:00",
-      "published_at_tehran": "2026-11-21T01:30:15+03:30",
-      "collected_at": "2026-11-21T07:28:27.078494+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "0699373e73c86547e378dc0bafd5db60acfa50688c5731f74d45a13aede5c598",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/Df-p2gogJZ3",
-      "caption": "⁨ ⁨ سرخط خبرهای شنبه ۳۰ آبان⁩⁩",
-      "media_url": "https://scontent-den2-1.cdninstagram.com/v/t51.82787-15/914594736_18454377421176167_4982150293613764637_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=bh3HAsGnVt4Q7kNvwGdcThc&amp;_nc_oc=AdoXxpB1_DlUjksksZsREkIBOO230FWT88ppQXvDxydWTqY8_0RiKpWKZlNU-qhV60U&amp;_nc_zt=23&amp;_nc_ht=scontent-den2-1.cdninstagram.com&amp;_nc_gid=JUjbtLGI3djjyTIqzDcynQ&amp;_nc_ss=7aa8c&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQQaarD1RGUBwOGR9pU_-QXLlMd-3BBnBVCdi93pc1SDNg&amp;oe=6B06974E",
-      "published_at": "Fri, 20 Nov 2026 21:46:32 GMT",
-      "published_at_utc": "2026-11-20T21:46:32+00:00",
-      "published_at_tehran": "2026-11-21T01:16:32+03:30",
-      "collected_at": "2026-11-21T07:28:27.078559+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "40f93685b15e554306a2b912d153752818990b203cf9492ee88b504914105c25",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/Df-lrDQGuhb",
-      "caption": "‌ وزارت خزانه‌داری آمریکا جمعه ۲۹ آبان اعلام کرد مجید تاج، برادر مهدی تاج، رییس فدراسیون فوتبال ایران، و سه شهروند ایرانی دیگر را در ارتباط با فعالیت‌های اقتصادی تحریمی جمهوری اسلامی به فهرست تحریم‌های خود اضافه کرده است. به گفته وزارت خزانه‌داری آمریکا، مجید تاج و محمدجواد باوند، از مقام‌های پیشین سازمان اطلاعات سپاه پاسداران، به‌عنوان واسطه‌های فروش نفت فعالیت می‌کردند و در جمع‌آوری و انتقال درآمدهای نفتی به حکومت ایران، با هدف دور زدن تحریم‌ها و محاصره دریایی آمریکا، نقش داشتند. ایران‌اینترنشنال پیش‌تر در گزارشی اختصاصی، بر اساس اسناد محرمانه و اطلاعات منابع آگاه، از نقش محمدجواد باوند در شبکه فروش نفت تحریمی و ارتباط او با واسطه‌هایی از جمله مجید تاج خبر داده بود. وزارت خزانه‌داری آمریکا همچنین اعلام کرد برخی واسطه‌های فروش نفت در موارد متعددی بخشی از درآمدهای نفتی را به‌جای انتقال به حکومت، برای منافع شخصی خود نگه داشته‌اند. دو فرد دیگر تحریم‌شده، مجتبی عرب‌نژاد و محمدحسین ثروتی هستند که به‌ترتیب با هواپیمایی ماهان و شرکت سپهر انرژی جهان‌نما پارس ارتباط دارند.",
-      "media_url": "https://scontent-den2-1.cdninstagram.com/v/t51.82787-15/916025947_18454372180176167_8039879895393583030_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=n7VbGZkzZ4UQ7kNvwEIsvnu&amp;_nc_oc=Adp8sGKiSB4byqhWGvVSydeuqJsYLrgHesexSmoo7067U1j_Y27-JUecj0oqM4-NP9w&amp;_nc_zt=23&amp;_nc_ht=scontent-den2-1.cdninstagram.com&amp;_nc_gid=JUjbtLGI3djjyTIqzDcynQ&amp;_nc_ss=7aa8c&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQSjFt-WAuu-GNcXMWlyFXgzzUEh4bNqyPtnp0CQ1x24kw&amp;oe=6B069CA9",
-      "published_at": "Fri, 20 Nov 2026 21:10:01 GMT",
-      "published_at_utc": "2026-11-20T21:10:01+00:00",
-      "published_at_tehran": "2026-11-21T00:40:01+03:30",
-      "collected_at": "2026-11-21T07:28:27.078654+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "e31207df92a8ad1444e97a2df818eb46919f8d2b6d044720f5523511a1034a98",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/Df-kqvnmRel",
-      "caption": ". یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، قطع گسترده درختان را در جنگل‌های آمل نشان می‌دهد و می‌گوید: «اینها که می‌بینید، تازه نزدیک جاده است. دورتر برویم بیشتر قطع کرده‌اند.»",
-      "media_url": "https://scontent-den2-1.cdninstagram.com/v/t51.82787-15/918017191_18454370125176167_4956299005434016133_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=dlHA-BPuw7UQ7kNvwFJCDLh&amp;_nc_oc=AdqgefNsegfLtkYd3NUNdTXA5ZSrgpoAoqmSY7rRMX0xgZ7-FW7T9p4kzQvAeJjkRPQ&amp;_nc_zt=23&amp;_nc_ht=scontent-den2-1.cdninstagram.com&amp;_nc_gid=JUjbtLGI3djjyTIqzDcynQ&amp;_nc_ss=7aa8c&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQShzNTzGz3POekEvDov543Vzy-seFpybBcuc1dqkg5TEA&amp;oe=6B06869A",
-      "published_at": "Fri, 20 Nov 2026 21:01:14 GMT",
-      "published_at_utc": "2026-11-20T21:01:14+00:00",
-      "published_at_tehran": "2026-11-21T00:31:14+03:30",
-      "collected_at": "2026-11-21T07:28:27.078711+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "fb995d8edcfc80877bac9a2f48e327dfd886b2589107f4e5b07d8d57cea2b033",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/Df-hMBblODK",
-      "caption": ". شعارنویسی به عنوان بخشی از اعتراضات ایرانیان، همچنان در نقاط مختلف ایران جریان دارد. ویدیوی رسیده به ایران‌اینترنشنال نشان می‌دهد در سمنان روی دیوارهای شهر شعار «جاوید شاه» نوشته شده است.",
-      "media_url": "https://scontent-den2-1.cdninstagram.com/v/t51.82787-15/918168085_18454365886176167_442688518606568312_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=NWF2vrgUHaAQ7kNvwG--SJK&amp;_nc_oc=AdogyLSCDEbyE1GH_H4dfAcrRkk_p1CM5Dz7EDAsqYej_GKtPZc-80peKECMADvTmfw&amp;_nc_zt=23&amp;_nc_ht=scontent-den2-1.cdninstagram.com&amp;_nc_gid=JUjbtLGI3djjyTIqzDcynQ&amp;_nc_ss=7aa8c&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQRrm-EzsvblZIhLVyPNP6z2LDoOdIUGTX2fiOYC5ArrfA&amp;oe=6B068387",
-      "published_at": "Fri, 20 Nov 2026 20:30:50 GMT",
-      "published_at_utc": "2026-11-20T20:30:50+00:00",
-      "published_at_tehran": "2026-11-21T00:00:50+03:30",
-      "collected_at": "2026-11-21T07:28:27.078762+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "54a1fb7b8293407b17eecdde00cf877202609402f75b5a3741fcb39a38c4a911",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/Df-du9VjDyR",
-      "caption": "یک مخاطب ۲۹ آبان با ارسال ویدیویی از جاده اهواز، گفت که دود پالایشگاه باعث آلودگی شدید هوا و «احساس خفگی» شماری از شهروندان شده است.",
-      "media_url": "https://scontent-den2-1.cdninstagram.com/v/t51.82787-15/920669017_18454361995176167_6307747149233935920_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=SkKU6rSCFzQQ7kNvwGYpOET&amp;_nc_oc=AdrNEFy1GbI9lYgeZ-QA5jONG5S7AeZu3629xPz8Gm9sbpR4GGK2IZg_bAYEsafQIQ8&amp;_nc_zt=23&amp;_nc_ht=scontent-den2-1.cdninstagram.com&amp;_nc_gid=JUjbtLGI3djjyTIqzDcynQ&amp;_nc_ss=7aa8c&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQT0dZySb2JDsDhzjtlhFl8NuzIGrquo6upF8NusqHgglg&amp;oe=6B06AD26",
-      "published_at": "Fri, 20 Nov 2026 20:00:39 GMT",
-      "published_at_utc": "2026-11-20T20:00:39+00:00",
-      "published_at_tehran": "2026-11-20T23:30:39+03:30",
-      "collected_at": "2026-11-21T07:28:27.078827+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "92b081cca72b8f6f8d5054976eaf6bbce8a5bf845997526e79f183ae18097b4d",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/Df-aQyKnxUd",
-      "caption": ". شعارنویسی به عنوان بخشی از اعتراضات ایرانیان، همچنان در نقاط مختلف ایران جریان دارد. ویدیوی رسیده به ایران‌اینترنشنال نشان می‌دهد در هشتگرد روی یکی از دیوارهای شهر شعار «جاوید شاه» نوشته شده است.",
-      "media_url": "https://scontent-den2-1.cdninstagram.com/v/t51.82787-15/921017066_18454358665176167_234471404635007934_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=P4o026qenHEQ7kNvwFe2coa&amp;_nc_oc=AdoxxJ7R4uy-F0BFHqaS86d7byWgFOquYlg1bVGmS0SY_CyCzAgtS90xocDZNesX8KM&amp;_nc_zt=23&amp;_nc_ht=scontent-den2-1.cdninstagram.com&amp;_nc_gid=JUjbtLGI3djjyTIqzDcynQ&amp;_nc_ss=7aa8c&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQQXnrg_SUfyxaclrBuWNfWtQr9RoP08MB-tMm3aV12tFA&amp;oe=6B06AFAF",
-      "published_at": "Fri, 20 Nov 2026 19:30:18 GMT",
-      "published_at_utc": "2026-11-20T19:30:18+00:00",
-      "published_at_tehran": "2026-11-20T23:00:18+03:30",
-      "collected_at": "2026-11-21T07:28:27.078876+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "a901350be8aa6d44927c1a1e67de13ab8d664e52575146432bd5ba690dc3466f",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/Df-aQBJF1pl",
-      "caption": "یکی از نزدیکان خانواده سوگند صیادی، نوجوان ۱۶ ساله ساکن کرمانشاه، می‌گوید پدر او روز مرگش به مدرسه رفت، در برابر کادر مدرسه و دانش‌آموزان کتکش زد و پس از گرفتن پرونده تحصیلی دخترش، او را به خانه برد و از پنجره به بیرون پرتاب کرد. به گفته این منبع، مدیر مدرسه پیش از آن در تماس با پدر سوگند مدعی شده بود که او دوست‌پسر دارد. این آشنای خانواده که پس از پخش «برنامه با کامبیز حسینی» درباره مرگ سوگند و خشونت علیه زنان و کودکان با برنامه تماس گرفت، او را نوجوانی درس‌خوان و امیدوار به آینده توصیف کرد که می‌خواست به دانشگاه برود، دندان‌پزشک شود و مستقل از پدرش زندگی کند، زندگی که به دست همان پدر در ۱۶ سالگی پایان یافت. به گزارش میزان، حمیدرضا کریمی، دادستان کرمانشاه، تائید کرده که تحقیقات قضائی درباره پدر سوگند با اتهاماتی از جمله ضرب و جرح و قتل در جریان است. او با این حال تاکید کرده که فرضیه خودکشی هم در دست بررسی است. روایت این منبع، خشونت روز مرگ این نوجوان را به سال‌ها ضرب‌وشتم در خانواده، تهدید پدر و دسترسی بی‌اجازه به دفتر خاطرات سوگند پیوند می‌دهد. گزارش کامل را در وب‌سایت ایران‌اینترنشنال بخوانید.",
-      "media_url": "https://scontent-den2-1.cdninstagram.com/v/t39.30808-6/917085137_1602017831964145_8020534000754430531_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=qDcCU46sbdMQ7kNvwE5Cb4R&amp;_nc_oc=AdrNh32V96ur5mLxfMYLKLXwfg3Onsz6MP4QiVDboPRJea6zgSLbk_lWZSpjaasyoyM&amp;_nc_zt=23&amp;_nc_ht=scontent-den2-1.cdninstagram.com&amp;_nc_gid=JUjbtLGI3djjyTIqzDcynQ&amp;_nc_ss=7aa8c&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQQjDncxt7gL1AFGp42rg8nM9oJ1Ve7BMSUWB5K-sXuA8A&amp;oe=6B0687A2",
-      "published_at": "Fri, 20 Nov 2026 19:30:12 GMT",
-      "published_at_utc": "2026-11-20T19:30:12+00:00",
-      "published_at_tehran": "2026-11-20T23:00:12+03:30",
-      "collected_at": "2026-11-21T07:28:27.078961+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "b36274dc288ae50d9923c090fea8d8597232939e926a631be65c7083c8320332",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/Df-W0MxjV9h",
-      "caption": ". یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، در خصوص گرانی‌های روزافزون در ایران می‌گوید: «یک کیلو گوجه‌فرنگی و یک کیلو پیاز شده ۳۷۳ هزار تومان. لعنت بر جمهوری اسلامی.»",
-      "media_url": "https://scontent-den2-1.cdninstagram.com/v/t51.82787-15/916581768_18454355185176167_4847139311104769291_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=pq4zUQ451eEQ7kNvwEmLw6h&amp;_nc_oc=Adps5HE64VfXCNIvNnrOjAAvwweuyhQCeFlmcGOx8pP4xUm74nlHqfVB7P5fVxkMeXE&amp;_nc_zt=23&amp;_nc_ht=scontent-den2-1.cdninstagram.com&amp;_nc_gid=JUjbtLGI3djjyTIqzDcynQ&amp;_nc_ss=7aa8c&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQQ0J-5LIrwZStGKvCtfrh1Qqss_SgT2ARkJoNhgBoNBVQ&amp;oe=6B068696",
-      "published_at": "Fri, 20 Nov 2026 19:00:11 GMT",
-      "published_at_utc": "2026-11-20T19:00:11+00:00",
-      "published_at_tehran": "2026-11-20T22:30:11+03:30",
-      "collected_at": "2026-11-21T07:28:27.079010+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "768803e17d1b6d8b613743d9fd0a7f24c53e382cc1acafe68d3f4f2a6aa712b0",
-      "source": "irnanews1313",
-      "post_url": "https://www.instagram.com/p/Df-OOSZM-0o",
-      "caption": ". 🔹رنج جنــ..ــگ ▪️گفت اتفاقی پیدایش کردیم. اتفاقی در آن خاک و آوار، یعنی چیزی شبیه به معجزه. برای مستندسازی که رفته تا سندی ثبت کند از اولین لحظه های انفــ..ــجار، اتفاقی معنا و مفهوم زیادی دارد. ▪️از درجه تلخی میناب گفت؛ از جاهایی که خلاف آب شنا کرده؛ یعنی جاهایی رفته که کمتر کسی به آنجا سری زده میان پژوهش‌های میدانی‌اش. ▪️بهانه به گفت‌وگو نشستن ما هم انگار همین بود، همین تفاوت. ▪️قسمت جدید «رنج جنــ..ــگ» را در گفت‌وگو با حامد هادیان، مستندساز بحران ببینید. #ایرنا",
-      "media_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/918400193_1121827744083242_7218388932472145082_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=106&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=Q8yeQ1rqqj8Q7kNvwHOQif7&amp;_nc_oc=AdoJvLW_DrClsB9rpaCuYjfjxto1mvupAu8EkZrShH9K5VpVNBPpt-IM_i42H84hDNU&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.cdninstagram.com&amp;_nc_gid=mnIDWZnYBZJ5BfGxUubacw&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQRcn3LqXNSZiB4A0wwZeW7HdBx0LJReajdE4LK2rv4Jeg&amp;oe=6B068390",
-      "published_at": "Fri, 20 Nov 2026 17:45:07 GMT",
-      "published_at_utc": "2026-11-20T17:45:07+00:00",
-      "published_at_tehran": "2026-11-20T21:15:07+03:30",
-      "collected_at": "2026-11-21T07:28:31.122987+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "9712ce3251f5ac33195097c8c0718e4a056c6cfd4aaf952187346353334ae9d9",
-      "source": "irnanews1313",
-      "post_url": "https://www.instagram.com/p/Df-LXBSMbGL",
-      "caption": ". 🔹لایحه بودجه ۱۴۰۶ تا دو هفته آینده به دولت می‌رود ▪️محمد قاسمی معاون هماهنگی برنامه و بودجه سازمان برنامه و بودجه کشور: لایحه بودجه ظرف دو هفته آینده برای تصویب به دولت می‌رود. ▪️اوراق نفتی در سقف بودجه سال ۱۴۰۵ پیش‌بینی شده است؛ به این معنا که بخشی از نفتی که ممکن است امکان صادرات آن فراهم نشود، پشتوانه فیزیکی این اوراق خواهد بود. #ایرنا",
-      "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/912350696_1666964274963761_8478648470072759171_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=102&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=Yq8lM3Xisg0Q7kNvwFJPAfO&amp;_nc_oc=Adp3W6hx3C1KY8TgKFBM9BKeiEyofBwRsBqa8D21gDnu9OHfNRfWoP_eD2r7wTHgzQM&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;_nc_gid=mnIDWZnYBZJ5BfGxUubacw&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQwAAAA&amp;oh=00_AQQtNDSiTJTuTc5S1NRxNjkfrhhzchvlY3Ll7FjGRf8mug&amp;oe=6B06B2FC",
-      "published_at": "Fri, 20 Nov 2026 17:20:05 GMT",
-      "published_at_utc": "2026-11-20T17:20:05+00:00",
-      "published_at_tehran": "2026-11-20T20:50:05+03:30",
-      "collected_at": "2026-11-21T07:28:31.123068+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    }
-  ],
+  "new_items": [],
   "note": "Items contains the current feed snapshot for downstream news-list ingestion. Only media-complete new posts are marked seen. Publishing remains disabled pending verification and explicit approval."
 }
