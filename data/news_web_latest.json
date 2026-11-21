@@ -1,26 +1,46 @@
 {
-  "generated_at": "2026-11-20T23:29:45.493618+00:00",
+  "generated_at": "2026-11-21T00:33:04.294084+00:00",
   "source_mode": "publisher_website_rss_separate_from_instagram",
   "publishing_enabled": false,
-  "count": 36,
+  "count": 12,
   "errors": [
     {
       "publisher": "DW Persian",
       "error": "syntax error: line 1, column 0"
+    },
+    {
+      "publisher": "ISNA",
+      "error": "HTTPSConnectionPool(host='www.isna.ir', port=443): Read timed out. (read timeout=10)"
+    },
+    {
+      "publisher": "IRNA",
+      "error": "HTTPSConnectionPool(host='www.irna.ir', port=443): Read timed out. (read timeout=10)"
     }
   ],
   "items": [
     {
       "publisher": "BBC Persian",
       "source_mode": "publisher_website_rss",
-      "title": "اکسیوس: ویتکاف و کوشنر در برلین با مقام‌های قطر درباره مذاکرات ایران و آمریکا دیدار کردند",
-      "description": "وب‌سایت اکسیوس به نقل از دو منبع آگاه گزارش داد که استیو ویتکاف و جرد کوشنر، فرستادگان دونالد ترامپ، در برلین با مقام‌های ارشد قطر درباره تلاش‌ها برای ازسرگیری مذاکرات ایران و آمریکا دیدار کردند. به گفته منابع اکسیوس، این تلاش‌ها تاکنون پیشرفت قابل‌توجهی نداشته است. دونالد ترامپ نیز روز جمعه گفت ایران خواهان توافق است، اما حاضر نیست توافقی را بپذیرد که از نظر او قابل قبول باشد.",
-      "article_url": "https://www.bbc.co.uk/persian/live/cmqx50ez02ent?at_medium=RSS&at_campaign=rss",
-      "media_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c290/live/d2028150-e52b-11f1-a094-5fdc692f3e33.jpg",
+      "title": "عراقچی: امکان حل اختلاف بر سر ذخایر اورانیوم غنی‌شده وجود دارد؛ دکترین هسته‌ای ما تغییر نکرده است",
+      "description": "عباس عراقچی می‌گوید که دستیابی به راه‌حلی برای اختلاف بر سر ذخایر اورانیوم غنی‌شده امکان‌پذیر است، اما خروج این ذخایر از کشور خط قرمز تهران است. او همچنین تاکید کرد که دکترین هسته‌ای ایران تغییر نکرده است. آقای عراقچی بار دیگر گفت که طرح دو‌روزه ایران برای بازگشایی تنگه هرمز همچنان روی میز است، اما آمریکا باید ابتدا صریحا اعلام کند که خواهان توافق است و اقدامات اعتمادساز انجام دهد. او تایید کرد که تبادل پیام میان تهران و واشنگتن از طریق میانجی‌ها ادامه دارد. دونالد ترامپ نیز پیش‌تر گفت که ایران خواهان توافق است، اما حاضر نیست توافقی را بپذیرد که از نظر او قابل قبول باشد.",
+      "article_url": "https://www.bbc.co.uk/persian/live/cm2051rlyl5yt?at_medium=RSS&at_campaign=rss",
+      "media_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a47/live/ef700ab0-e539-11f1-99a1-253766e7ad8b.jpg",
       "published_at": "",
       "published_at_utc": null,
       "published_at_tehran": null,
-      "collected_at": "2026-11-20T23:29:42.091530+00:00"
+      "collected_at": "2026-11-21T00:32:41.949192+00:00"
+    },
+    {
+      "publisher": "BBC Persian",
+      "source_mode": "publisher_website_rss",
+      "title": "بازگشت «آزمایش زندان استنفورد»؛ آیا یک پژوهش جنجالی باید به شوی تلویزیونی تبدیل شود؟",
+      "description": "بیش از نیم قرن پس از آن‌که یکی از مشهورترین و جنجالی‌ترین پژوهش‌های روان‌شناسی، در پی اتهام‌های مربوط به آزار شرکت‌کنندگان و وارد آمدن فشار شدید روانی به آن‌ها، زودتر از موعد متوقف شد، «آزمایش زندان استنفورد» این بار در قالب یک مجموعه واقع‌نمای شش قسمتی از نتفلیکس بازسازی شده است.",
+      "article_url": "https://www.bbc.com/persian/articles/cmq5n1d8wyxwo?at_medium=RSS&at_campaign=rss",
+      "media_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e13f/live/e112fb00-d3a8-11f1-a5cd-49637fcbd4e4.jpg",
+      "published_at": "Sat, 21 Nov 2026 00:22:56 GMT",
+      "published_at_utc": "2026-11-21T00:22:56+00:00",
+      "published_at_tehran": "2026-11-21T03:52:56+03:30",
+      "collected_at": "2026-11-21T00:32:41.949262+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -32,19 +52,7 @@
       "published_at": "Fri, 20 Nov 2026 21:14:29 GMT",
       "published_at_utc": "2026-11-20T21:14:29+00:00",
       "published_at_tehran": "2026-11-21T00:44:29+03:30",
-      "collected_at": "2026-11-20T23:29:42.092117+00:00"
-    },
-    {
-      "publisher": "BBC Persian",
-      "source_mode": "publisher_website_rss",
-      "title": "تاج آسیا بر سر «بانوی بم»؛ مرضیه جعفری بهترین مربی زن آسیا کیست؟",
-      "description": "بیش از بیست‌ودو سال پیش، زلزله شهر بم را با خاک یکسان کرد. امروز زنی از همان شهر برای دومین بار جایزه بهترین مربی زن آسیا را از آنِ خود کرد. مرضیه جعفری، سرمربی تیم ملی فوتبال زنان ایران و باشگاه خاتون بم، با این عنوان دومین مربی زن تاریخ این جایزه شد که دو سال پیاپی برنده آن می‌شود.",
-      "article_url": "https://www.bbc.com/persian/articles/cr930nvjv57ko?at_medium=RSS&at_campaign=rss",
-      "media_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3e84/live/e454cca0-e4cc-11f1-8ebd-0fa6091698b5.jpg",
-      "published_at": "Fri, 20 Nov 2026 18:41:23 GMT",
-      "published_at_utc": "2026-11-20T18:41:23+00:00",
-      "published_at_tehran": "2026-11-20T22:11:23+03:30",
-      "collected_at": "2026-11-20T23:29:42.092192+00:00"
+      "collected_at": "2026-11-21T00:32:41.949301+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -56,7 +64,19 @@
       "published_at": "Fri, 20 Nov 2026 17:33:31 GMT",
       "published_at_utc": "2026-11-20T17:33:31+00:00",
       "published_at_tehran": "2026-11-20T21:03:31+03:30",
-      "collected_at": "2026-11-20T23:29:42.092249+00:00"
+      "collected_at": "2026-11-21T00:32:41.949333+00:00"
+    },
+    {
+      "publisher": "BBC Persian",
+      "source_mode": "publisher_website_rss",
+      "title": "تاج آسیا بر سر «بانوی بم»؛ مرضیه جعفری بهترین مربی زن آسیا کیست؟",
+      "description": "بیش از بیست‌ودو سال پیش، زلزله شهر بم را با خاک یکسان کرد. امروز زنی از همان شهر برای دومین بار جایزه بهترین مربی زن آسیا را از آنِ خود کرد. مرضیه جعفری، سرمربی تیم ملی فوتبال زنان ایران و باشگاه خاتون بم، با این عنوان دومین مربی زن تاریخ این جایزه شد که دو سال پیاپی برنده آن می‌شود.",
+      "article_url": "https://www.bbc.com/persian/articles/cr930nvjv57ko?at_medium=RSS&at_campaign=rss",
+      "media_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3e84/live/e454cca0-e4cc-11f1-8ebd-0fa6091698b5.jpg",
+      "published_at": "Fri, 20 Nov 2026 18:41:23 GMT",
+      "published_at_utc": "2026-11-20T18:41:23+00:00",
+      "published_at_tehran": "2026-11-20T22:11:23+03:30",
+      "collected_at": "2026-11-21T00:32:41.949364+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -68,7 +88,7 @@
       "published_at": "Fri, 20 Nov 2026 16:57:13 GMT",
       "published_at_utc": "2026-11-20T16:57:13+00:00",
       "published_at_tehran": "2026-11-20T20:27:13+03:30",
-      "collected_at": "2026-11-20T23:29:42.092302+00:00"
+      "collected_at": "2026-11-21T00:32:41.949393+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -80,7 +100,7 @@
       "published_at": "Fri, 20 Nov 2026 15:41:34 GMT",
       "published_at_utc": "2026-11-20T15:41:34+00:00",
       "published_at_tehran": "2026-11-20T19:11:34+03:30",
-      "collected_at": "2026-11-20T23:29:42.092351+00:00"
+      "collected_at": "2026-11-21T00:32:41.949419+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -92,7 +112,7 @@
       "published_at": "Fri, 20 Nov 2026 14:23:42 GMT",
       "published_at_utc": "2026-11-20T14:23:42+00:00",
       "published_at_tehran": "2026-11-20T17:53:42+03:30",
-      "collected_at": "2026-11-20T23:29:42.092398+00:00"
+      "collected_at": "2026-11-21T00:32:41.949445+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -104,7 +124,19 @@
       "published_at": "Fri, 20 Nov 2026 05:52:06 GMT",
       "published_at_utc": "2026-11-20T05:52:06+00:00",
       "published_at_tehran": "2026-11-20T09:22:06+03:30",
-      "collected_at": "2026-11-20T23:29:42.092442+00:00"
+      "collected_at": "2026-11-21T00:32:41.949471+00:00"
+    },
+    {
+      "publisher": "BBC Persian",
+      "source_mode": "publisher_website_rss",
+      "title": "آنچه گذشت؛ اکسیوس: ویتکاف و کوشنر در برلین با مقام‌های قطر درباره مذاکرات ایران و آمریکا دیدار کردند",
+      "description": "وب‌سایت اکسیوس به نقل از دو منبع آگاه گزارش داد که استیو ویتکاف و جرد کوشنر، فرستادگان دونالد ترامپ، در برلین با مقام‌های ارشد قطر درباره تلاش‌ها برای ازسرگیری مذاکرات ایران و آمریکا دیدار کردند. به گفته منابع اکسیوس، این تلاش‌ها تاکنون پیشرفت قابل‌توجهی نداشته است. دونالد ترامپ نیز روز جمعه گفت ایران خواهان توافق است، اما حاضر نیست توافقی را بپذیرد که از نظر او قابل قبول باشد.",
+      "article_url": "https://www.bbc.co.uk/persian/live/cmqx50ez02ent?at_medium=RSS&at_campaign=rss",
+      "media_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c290/live/d2028150-e52b-11f1-a094-5fdc692f3e33.jpg",
+      "published_at": "",
+      "published_at_utc": null,
+      "published_at_tehran": null,
+      "collected_at": "2026-11-21T00:32:41.949491+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -116,7 +148,7 @@
       "published_at": "Fri, 20 Nov 2026 09:50:18 GMT",
       "published_at_utc": "2026-11-20T09:50:18+00:00",
       "published_at_tehran": "2026-11-20T13:20:18+03:30",
-      "collected_at": "2026-11-20T23:29:42.092485+00:00"
+      "collected_at": "2026-11-21T00:32:41.949518+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -128,319 +160,7 @@
       "published_at": "Fri, 20 Nov 2026 07:20:42 GMT",
       "published_at_utc": "2026-11-20T07:20:42+00:00",
       "published_at_tehran": "2026-11-20T10:50:42+03:30",
-      "collected_at": "2026-11-20T23:29:42.092528+00:00"
-    },
-    {
-      "publisher": "BBC Persian",
-      "source_mode": "publisher_website_rss",
-      "title": "ایلان ماسک: هزینه‌ ۴۴۶ میلیون دلاری در انتخابات آمریکا «خیلی احمقانه» بود",
-      "description": "ایلان ماسک می‌گوید که پس از شکست‌ گسترده جمهوری‌خواهان، احساس می‌کند که هزینه‌ بی‌سابقه‌ای که برای انتخابات میان‌دوره‌ای آمریکا صرف کرده «خیلی احمقانه» بوده است.\nمدیرعامل تسلا و اسپیس‌ایکس، بزرگ‌ترین کمک‌کننده مالی انفرادی در این انتخابات بود و ۴۴۶ میلیون دلار (معادل ۳۳۹ میلیون پوند) برای حمایت از حزب دونالد ترامپ اختصاص داد. بیشتر این پول در تگزاس هزینه شد، جایی که بسیاری از شرکت‌های ایلان ماسک در آن مستقر هستند.",
-      "article_url": "https://www.bbc.com/persian/articles/cmy0edgr8kp7o?at_medium=RSS&at_campaign=rss",
-      "media_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f0ca/live/7937dc70-e41b-11f1-9e08-55a8a3b48445.jpg",
-      "published_at": "Thu, 19 Nov 2026 18:58:30 GMT",
-      "published_at_utc": "2026-11-19T18:58:30+00:00",
-      "published_at_tehran": "2026-11-19T22:28:30+03:30",
-      "collected_at": "2026-11-20T23:29:42.092577+00:00"
-    },
-    {
-      "publisher": "BBC Persian",
-      "source_mode": "publisher_website_rss",
-      "title": "افزایش فشار اسرائیل برای اقدام نظامی؛ ادعای تازه درباره توانمندی‌های ایران",
-      "description": "تشدید تنش میان آمریکا و ایران و تلاش‌های دولت بنیامین نتانیاهو برای متقاعد کردن دونالد ترامپ به انجام حمله‌ای تازه علیه ایران، محور گزارش‌های رسانه‌های آمریکا در ۲۴ ساعت گذشته بوده است.",
-      "article_url": "https://www.bbc.com/persian/articles/c98r757728vko?at_medium=RSS&at_campaign=rss",
-      "media_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/99a7/live/a5396ca0-e3f6-11f1-99b6-a35a62fa4264.jpg",
-      "published_at": "Thu, 19 Nov 2026 09:57:42 GMT",
-      "published_at_utc": "2026-11-19T09:57:42+00:00",
-      "published_at_tehran": "2026-11-19T13:27:42+03:30",
-      "collected_at": "2026-11-20T23:29:42.092621+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "یک روانشناس: دنبال‌کنندگان زیاد در فضای مجازی به معنای داشتن دوستان صمیمی نیست",
-      "description": "یک روانشناس بالینی با اشاره به اینکه افرادی که در فضای مجازی دنبال‌کنندگان زیادی دارند اما در دنیای واقعی از روابط دوستانه و صمیمی محدودی برخوردارند، گفت: داشتن دنبال‌کنندگان زیاد لزوما به معنا برخورداری از دوستان صمیمی متعدد نیست و داشتن دنبال‌کنندگان و ارتباطات اجتماعی مجازی زیاد به این معنا نیست که فرد از حمایت عاطفی و همدلی برخوردار است.",
-      "article_url": "https://www.isna.ir/news/1405082920364/%DB%8C%DA%A9-%D8%B1%D9%88%D8%A7%D9%86%D8%B4%D9%86%D8%A7%D8%B3-%D8%AF%D9%86%D8%A8%D8%A7%D9%84-%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D8%B2%DB%8C%D8%A7%D8%AF-%D8%AF%D8%B1-%D9%81%D8%B6%D8%A7%DB%8C-%D9%85%D8%AC%D8%A7%D8%B2%DB%8C-%D8%A8%D9%87-%D9%85%D8%B9%D9%86%D8%A7%DB%8C-%D8%AF%D8%A7%D8%B4%D8%AA%D9%86",
-      "media_url": "https://cdn.isna.ir/d/off/khorasan/2026/11/19/4/64061600.jpg",
-      "published_at": "Fri, 20 Nov 2026 23:15:00 GMT",
-      "published_at_utc": "2026-11-20T23:15:00+00:00",
-      "published_at_tehran": "2026-11-21T02:45:00+03:30",
-      "collected_at": "2026-11-20T23:29:44.315264+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "حمله سایبری به وزارت کشاورزی آمریکا",
-      "description": "ان‌بی‌سی نیوز گزارش داد که وزارت کشاورزی آمریکا (USDA) در روزهای اخیر از یک نقض امنیتی که بر سیستم پرداخت‌های آن تأثیر گذاشته، خبر داده است.",
-      "article_url": "https://www.isna.ir/news/1405083020380/%D8%AD%D9%85%D9%84%D9%87-%D8%B3%D8%A7%DB%8C%D8%A8%D8%B1%DB%8C-%D8%A8%D9%87-%D9%88%D8%B2%D8%A7%D8%B1%D8%AA-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
-      "media_url": "https://cdn.isna.ir/d/2026/10/03/4/63999462.jpg",
-      "published_at": "Fri, 20 Nov 2026 23:05:49 GMT",
-      "published_at_utc": "2026-11-20T23:05:49+00:00",
-      "published_at_tehran": "2026-11-21T02:35:49+03:30",
-      "collected_at": "2026-11-20T23:29:44.315328+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "در پی حملات یمن جیزان در تاریکی فرو رفت",
-      "description": "رسانه‌ها عصر جمعه تصاویری را منتشر کردند که نشان دهنده قطع کامل برق در شهر جیزان (جازان) عربستان سعودی بود و همزمان گزارش‌هایی مبنی بر آتش‌سوزی بزرگ در نیروگاه برق شقیق منتشر شد.",
-      "article_url": "https://www.isna.ir/news/1405083020379/%D8%AF%D8%B1-%D9%BE%DB%8C-%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%DB%8C%D9%85%D9%86-%D8%AC%DB%8C%D8%B2%D8%A7%D9%86-%D8%AF%D8%B1-%D8%AA%D8%A7%D8%B1%DB%8C%DA%A9%DB%8C-%D9%81%D8%B1%D9%88-%D8%B1%D9%81%D8%AA",
-      "media_url": "https://cdn.isna.ir/d/2026/08/09/4/63929016.jpg",
-      "published_at": "Fri, 20 Nov 2026 22:57:53 GMT",
-      "published_at_utc": "2026-11-20T22:57:53+00:00",
-      "published_at_tehran": "2026-11-21T02:27:53+03:30",
-      "collected_at": "2026-11-20T23:29:44.315379+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "گزارش اینستاگرامی وزیر امور خارجه در خصوص سفر به پاکستان ‌و عمان",
-      "description": "در سفر اخیر به پاکستان، ضمن شرکت در سی‌امین اجلاس وزرای امور خارجه کشورهای عضو سازمان همکاری اقتصادی (اکو)، فرصت دیدار و گفت‌وگو با وزیر امور خارجه، نخست‌وزیر و فرمانده ارتش این کشور فراهم شد.",
-      "article_url": "https://www.isna.ir/news/1405083020378/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%A7%DB%8C%D9%86%D8%B3%D8%AA%D8%A7%DA%AF%D8%B1%D8%A7%D9%85%DB%8C-%D9%88%D8%B2%DB%8C%D8%B1-%D8%A7%D9%85%D9%88%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%87-%D8%AF%D8%B1-%D8%AE%D8%B5%D9%88%D8%B5-%D8%B3%D9%81%D8%B1-%D8%A8%D9%87-%D9%BE%D8%A7%DA%A9%D8%B3%D8%AA%D8%A7%D9%86-%D9%88",
-      "media_url": "https://cdn.isna.ir/d/2026/10/31/4/64035208.jpg",
-      "published_at": "Fri, 20 Nov 2026 22:47:29 GMT",
-      "published_at_utc": "2026-11-20T22:47:29+00:00",
-      "published_at_tehran": "2026-11-21T02:17:29+03:30",
-      "collected_at": "2026-11-20T23:29:44.315427+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "آیا بیگ بنگ شروع همه چیز بود؟",
-      "description": "عضو هیأت علمی گروه فیزیک دانشگاه فردوسی مشهد، گفت: بسیاری از مردم فکر می‌کنند که مه‌بانگ لحظه‌ای است که در آن تمام ماده و انرژی موجود در جهان در یک نقطه کوچک متمرکز بود سپس این نقطه منفجر شد و ماده را به سراسر فضا پرتاب کرد و جهان متولد شد.",
-      "article_url": "https://www.isna.ir/news/1405082920360/%D8%A2%DB%8C%D8%A7-%D8%A8%DB%8C%DA%AF-%D8%A8%D9%86%DA%AF-%D8%B4%D8%B1%D9%88%D8%B9-%D9%87%D9%85%D9%87-%DA%86%DB%8C%D8%B2-%D8%A8%D9%88%D8%AF",
-      "media_url": "https://cdn.isna.ir/d/off/khorasan/2026/11/19/4/64062139.jpg",
-      "published_at": "Fri, 20 Nov 2026 22:41:00 GMT",
-      "published_at_utc": "2026-11-20T22:41:00+00:00",
-      "published_at_tehran": "2026-11-21T02:11:00+03:30",
-      "collected_at": "2026-11-20T23:29:44.315474+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "وبگاه آمریکایی: ویتکاف و کوشنر با مقامات قطری درباره مذاکرات ایران گفت‌وگو کردند",
-      "description": "وبگاه خبری آمریکایی آکسیوس مدعی شد که استیو ویتکاف و جارد کوشنر، فرستادگان دونالد ترامپ، رئیس جمهور آمریکا روز پنجشنبه در برلین با مقامات عالی‌رتبه قطری دیدار کردند تا درباره تلاش‌های میانجیگری بین آمریکا و ایران گفت‌وگو کنند.",
-      "article_url": "https://www.isna.ir/news/1405083020377/%D9%88%D8%A8%DA%AF%D8%A7%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D9%88%DB%8C%D8%AA%DA%A9%D8%A7%D9%81-%D9%88-%DA%A9%D9%88%D8%B4%D9%86%D8%B1-%D8%A8%D8%A7-%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA-%D9%82%D8%B7%D8%B1%DB%8C-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D8%A7%D8%AA",
-      "media_url": "https://cdn.isna.ir/d/2026/11/21/4/64063241.jpg",
-      "published_at": "Fri, 20 Nov 2026 22:35:42 GMT",
-      "published_at_utc": "2026-11-20T22:35:42+00:00",
-      "published_at_tehran": "2026-11-21T02:05:42+03:30",
-      "collected_at": "2026-11-20T23:29:44.315520+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "این پروتئین، آسیب‌های بیماری آلزایمر را تشدید می‌کند",
-      "description": "پژوهش جدید دانشمندان سوئدی نشان می‌دهد که یک پروتئین در سلول‌های ایمنی مغز ممکن است آسیب بیماری آلزایمر را تسریع کند.",
-      "article_url": "https://www.isna.ir/news/1405082920108/%D8%A7%DB%8C%D9%86-%D9%BE%D8%B1%D9%88%D8%AA%D8%A6%DB%8C%D9%86-%D8%A2%D8%B3%DB%8C%D8%A8-%D9%87%D8%A7%DB%8C-%D8%A8%DB%8C%D9%85%D8%A7%D8%B1%DB%8C-%D8%A2%D9%84%D8%B2%D8%A7%DB%8C%D9%85%D8%B1-%D8%B1%D8%A7-%D8%AA%D8%B4%D8%AF%DB%8C%D8%AF-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF",
-      "media_url": "https://cdn.isna.ir/d/2026/11/20/4/64062464.jpg",
-      "published_at": "Fri, 20 Nov 2026 22:35:00 GMT",
-      "published_at_utc": "2026-11-20T22:35:00+00:00",
-      "published_at_tehran": "2026-11-21T02:05:00+03:30",
-      "collected_at": "2026-11-20T23:29:44.315563+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "ایجاد ۱۲ ایست بازرسی امنیتی برای محافظت از میادین نفتی جرف النصر",
-      "description": "وزارت کشور عراق از ایجاد ۱۲ ایست بازرسی امنیتی برای آنچه «محافظت از خطوط لوله و تأسیسات نفتی در منطقه جرف النصر در استان بابِل» خوانده شده همزمان با استقرار مجدد نیروهای امنیتی و نظامی در منطقه خبر داد. این در حالی است که اسکای نیوز گزارش داد فالح الزیدی امروز شنبه به این منطقه سفر می‌کند.",
-      "article_url": "https://www.isna.ir/news/1405083020376/%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF-%DB%B1%DB%B2-%D8%A7%DB%8C%D8%B3%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%D8%B3%DB%8C-%D8%A7%D9%85%D9%86%DB%8C%D8%AA%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%AA-%D8%A7%D8%B2-%D9%85%DB%8C%D8%A7%D8%AF%DB%8C%D9%86-%D9%86%D9%81%D8%AA%DB%8C-%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D9%86%D8%B5%D8%B1",
-      "media_url": "https://cdn.isna.ir/d/2026/11/21/4/64063240.jpg",
-      "published_at": "Fri, 20 Nov 2026 22:27:24 GMT",
-      "published_at_utc": "2026-11-20T22:27:24+00:00",
-      "published_at_tehran": "2026-11-21T01:57:24+03:30",
-      "collected_at": "2026-11-20T23:29:44.315609+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "قطعی شدن مدال قره گوزلو با صعود به نیمه نهایی‌",
-      "description": "به گزارش ایسنا، مسابقات اسنوکر ١٥ توپ انفرادی قهرمانی جهان با برگزاری دیدارهای  یک چهارم نهایی مردان در ایندور هند پیگیری شد و علی قره گوزلو با صعود به مرحله نیمه نهایی مدال خود را قطعی کرد.",
-      "article_url": "https://www.isna.ir/news/1405083020375/%D9%82%D8%B7%D8%B9%DB%8C-%D8%B4%D8%AF%D9%86-%D9%85%D8%AF%D8%A7%D9%84-%D9%82%D8%B1%D9%87-%DA%AF%D9%88%D8%B2%D9%84%D9%88-%D8%A8%D8%A7-%D8%B5%D8%B9%D9%88%D8%AF-%D8%A8%D9%87-%D9%86%DB%8C%D9%85%D9%87-%D9%86%D9%87%D8%A7%DB%8C%DB%8C",
-      "media_url": "https://cdn.isna.ir/d/2025/08/10/4/63550272.jpg",
-      "published_at": "Fri, 20 Nov 2026 22:08:37 GMT",
-      "published_at_utc": "2026-11-20T22:08:37+00:00",
-      "published_at_tehran": "2026-11-21T01:38:37+03:30",
-      "collected_at": "2026-11-20T23:29:44.315653+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "بایرن مونیخ دو امتیاز دیگر از دست داد",
-      "description": "شاگردان ونسان کمپانی در دیدار برابر کلن متوقف شدند.",
-      "article_url": "https://www.isna.ir/news/1405083020374/%D8%A8%D8%A7%DB%8C%D8%B1%D9%86-%D9%85%D9%88%D9%86%DB%8C%D8%AE-%D8%AF%D9%88-%D8%A7%D9%85%D8%AA%DB%8C%D8%A7%D8%B2-%D8%AF%DB%8C%DA%AF%D8%B1-%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA-%D8%AF%D8%A7%D8%AF",
-      "media_url": "https://cdn.isna.ir/d/2026/02/14/4/63750983.jpg",
-      "published_at": "Fri, 20 Nov 2026 22:04:44 GMT",
-      "published_at_utc": "2026-11-20T22:04:44+00:00",
-      "published_at_tehran": "2026-11-21T01:34:44+03:30",
-      "collected_at": "2026-11-20T23:29:44.315696+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "نوسازی بیش از ۱۲ هزار دستگاه تاکسی در تهران/ انتقال ترمینال‌های جنوب و غرب به منطقه ۱۸",
-      "description": "شهردار تهران از نوسازی بیش از ۱۲ هزار دستگاه تاکسی و برقی‌سازی بیش از دو هزار تاکسی در پایتخت خبر داد و اعلام کرد: انتقال ترمینال‌های جنوب و غرب تهران به محدوده هاب لجستیکی پیش‌بینی‌شده در منطقه ۱۸ نیز در دستور کار مدیریت شهری قرار دارد.",
-      "article_url": "https://www.isna.ir/news/1405083020373/%D9%86%D9%88%D8%B3%D8%A7%D8%B2%DB%8C-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B1%DB%B2-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AA%D8%A7%DA%A9%D8%B3%DB%8C-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84-%D8%AA%D8%B1%D9%85%DB%8C%D9%86%D8%A7%D9%84-%D9%87%D8%A7%DB%8C",
-      "media_url": "https://cdn.isna.ir/d/2026/11/11/4/64050392.jpg",
-      "published_at": "Fri, 20 Nov 2026 22:01:55 GMT",
-      "published_at_utc": "2026-11-20T22:01:55+00:00",
-      "published_at_tehran": "2026-11-21T01:31:55+03:30",
-      "collected_at": "2026-11-20T23:29:44.315746+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "وزارت خزانه‌داری آمریکا در اقدامی خصمانه ۴ تبعه ایرانی را تحریم کرد",
-      "description": "به گزارش ایسنا، این وزارتخانه در اقدامی خصمانه ادعا کرد علیه چهار تبعه ایرانی را به اتهام دور زدن تحریم‌های قبلی، تحریم کرده است.",
-      "article_url": "https://www.isna.ir/news/1405083020372/%D9%88%D8%B2%D8%A7%D8%B1%D8%AA-%D8%AE%D8%B2%D8%A7%D9%86%D9%87-%D8%AF%D8%A7%D8%B1%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D8%B1-%D8%A7%D9%82%D8%AF%D8%A7%D9%85%DB%8C-%D8%AE%D8%B5%D9%85%D8%A7%D9%86%D9%87-%DB%B4-%D8%AA%D8%A8%D8%B9%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%B1%D8%A7-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85",
-      "media_url": "https://cdn.isna.ir/d/2026/11/16/4/64057369.jpg",
-      "published_at": "Fri, 20 Nov 2026 21:49:00 GMT",
-      "published_at_utc": "2026-11-20T21:49:00+00:00",
-      "published_at_tehran": "2026-11-21T01:19:00+03:30",
-      "collected_at": "2026-11-20T23:29:44.315793+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "فعال شدن آژیرهای خطر در ریاض و استان السلیل عربستان",
-      "description": "تهران- ایرنا- منابع خبری گزارش دادند که آژیرهای خطر در ریاض پایتخت و استان السلیل عربستان به صدا در آمده‌اند.",
-      "article_url": "https://www.irna.ir/news/86327761/%D9%81%D8%B9%D8%A7%D9%84-%D8%B4%D8%AF%D9%86-%D8%A2%DA%98%DB%8C%D8%B1%D9%87%D8%A7%DB%8C-%D8%AE%D8%B7%D8%B1-%D8%AF%D8%B1-%D8%B1%DB%8C%D8%A7%D8%B6-%D9%88-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%A7%D9%84%D8%B3%D9%84%DB%8C%D9%84-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86",
-      "media_url": "https://img9.irna.ir/d/r2/2026/05/12/4/172860039.jpg",
-      "published_at": "Fri, 20 Nov 2026 23:25:29 GMT",
-      "published_at_utc": "2026-11-20T23:25:29+00:00",
-      "published_at_tehran": "2026-11-21T02:55:29+03:30",
-      "collected_at": "2026-11-20T23:29:45.493103+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "سازمان ملل در آستانه خلا رهبری؛ مخالفت دو عضو دارای حق وتو شورای امنیت با گرینسپن",
-      "description": "نیویورک- ایرنا- «ربکا گرینسپن» نامزد کاستاریکایی در نهمین دور رای گیری غیررسمی شورای امنیت برای انتخاب دبیرکل بعدی سازمان ملل با مخالفت دو عضو دائم و دارای حق وتوی شورا روبرو شد و این رای گیری بدون توافق بر سر جانشین «آنتونیو گوترش» پایان یافت؛ آن هم در شرایطی که تنها یک ماه به پایان دوره دبیرکلی او باقی مانده و هنوز چشم انداز روشنی برای انتخاب جانشین او وجود ندارد.",
-      "article_url": "https://www.irna.ir/news/86327751/%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86-%D9%85%D9%84%D9%84-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%D8%AE%D9%84%D8%A7-%D8%B1%D9%87%D8%A8%D8%B1%DB%8C-%D9%85%D8%AE%D8%A7%D9%84%D9%81%D8%AA-%D8%AF%D9%88-%D8%B9%D8%B6%D9%88-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%D8%AD%D9%82-%D9%88%D8%AA%D9%88-%D8%B4%D9%88%D8%B1%D8%A7%DB%8C",
-      "media_url": "https://img9.irna.ir/d/r2/2026/11/21/4/173255238.jpg",
-      "published_at": "Fri, 20 Nov 2026 23:21:13 GMT",
-      "published_at_utc": "2026-11-20T23:21:13+00:00",
-      "published_at_tehran": "2026-11-21T02:51:13+03:30",
-      "collected_at": "2026-11-20T23:29:45.493171+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "عضو ارشد انصارالله یمن: بنادر عربستان خوش شانس تر از بنادر فلسطین اشغالی نیستند",
-      "description": "تهران- ایرنا- محمد الفرح عضو ارشد جنبش انصارالله یمن در پیامی تاکید کرد که بنادر عربستان از بنادر فلسطین اشغالی که توسط یمن دو سال تعطیل شدند، خوش شانس تر نبوده و وضعیت بهتری نخواهند داشت.",
-      "article_url": "https://www.irna.ir/news/86327752/%D8%B9%D8%B6%D9%88-%D8%A7%D8%B1%D8%B4%D8%AF-%D8%A7%D9%86%D8%B5%D8%A7%D8%B1%D8%A7%D9%84%D9%84%D9%87-%DB%8C%D9%85%D9%86-%D8%A8%D9%86%D8%A7%D8%AF%D8%B1-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%AE%D9%88%D8%B4-%D8%B4%D8%A7%D9%86%D8%B3-%D8%AA%D8%B1-%D8%A7%D8%B2-%D8%A8%D9%86%D8%A7%D8%AF%D8%B1-%D9%81%D9%84%D8%B3%D8%B7%DB%8C%D9%86",
-      "media_url": "https://img9.irna.ir/d/r2/2026/02/09/4/172705835.jpg",
-      "published_at": "Fri, 20 Nov 2026 23:16:18 GMT",
-      "published_at_utc": "2026-11-20T23:16:18+00:00",
-      "published_at_tehran": "2026-11-21T02:46:18+03:30",
-      "collected_at": "2026-11-20T23:29:45.493222+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "وزارت کشاورزی آمریکا هدف حمله سایبری قرار گرفت",
-      "description": "نیویورک- ایرنا- رسانه آمریکایی ان‌بی‌سی نیوز اعلام کرد که در پی اختلال‌های گسترده زیرساخت‌های آمریکا، وزارت کشاورزی این کشور نیز هدف حمله سایبری قرار گرفت.",
-      "article_url": "https://www.irna.ir/news/86327758/%D9%88%D8%B2%D8%A7%D8%B1%D8%AA-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%87%D8%AF%D9%81-%D8%AD%D9%85%D9%84%D9%87-%D8%B3%D8%A7%DB%8C%D8%A8%D8%B1%DB%8C-%D9%82%D8%B1%D8%A7%D8%B1-%DA%AF%D8%B1%D9%81%D8%AA",
-      "media_url": "https://img9.irna.ir/d/r2/2026/11/21/4/173255243.jpg",
-      "published_at": "Fri, 20 Nov 2026 23:09:37 GMT",
-      "published_at_utc": "2026-11-20T23:09:37+00:00",
-      "published_at_tehran": "2026-11-21T02:39:37+03:30",
-      "collected_at": "2026-11-20T23:29:45.493270+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "هشت حمله هوایی عربستان به استان تعز یمن",
-      "description": "تهران- ایرنا- منابع خبری گزارش دادند که جنگنده‌های عربستان در هشت نوبت استان تعز یمن را بمباران کرده‌اند.",
-      "article_url": "https://www.irna.ir/news/86327757/%D9%87%D8%B4%D8%AA-%D8%AD%D9%85%D9%84%D9%87-%D9%87%D9%88%D8%A7%DB%8C%DB%8C-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%AA%D8%B9%D8%B2-%DB%8C%D9%85%D9%86",
-      "media_url": "https://img9.irna.ir/d/r2/2026/07/25/4/172999499.jpg",
-      "published_at": "Fri, 20 Nov 2026 23:04:48 GMT",
-      "published_at_utc": "2026-11-20T23:04:48+00:00",
-      "published_at_tehran": "2026-11-21T02:34:48+03:30",
-      "collected_at": "2026-11-20T23:29:45.493314+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "ادعای زلنسکی: روسیه به هیچ قانونی پایبند نیست",
-      "description": "تهران- ایرنا- ولودیمیر زلنسکی رئیس جمهور اوکراین در توجیه حمله این کشور به پل کریمه، ادعا کرد که روسیه حتی در زمان جنگ نیز به هیچ قانونی پایبند نیست و اوکراین ناچار به پاسخگویی بود.",
-      "article_url": "https://www.irna.ir/news/86327743/%D8%A7%D8%AF%D8%B9%D8%A7%DB%8C-%D8%B2%D9%84%D9%86%D8%B3%DA%A9%DB%8C-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D8%A8%D9%87-%D9%87%DB%8C%DA%86-%D9%82%D8%A7%D9%86%D9%88%D9%86%DB%8C-%D9%BE%D8%A7%DB%8C%D8%A8%D9%86%D8%AF-%D9%86%DB%8C%D8%B3%D8%AA",
-      "media_url": "https://img9.irna.ir/d/r2/2026/11/21/4/173255240.jpg",
-      "published_at": "Fri, 20 Nov 2026 23:01:23 GMT",
-      "published_at_utc": "2026-11-20T23:01:23+00:00",
-      "published_at_tehran": "2026-11-21T02:31:23+03:30",
-      "collected_at": "2026-11-20T23:29:45.493357+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "فعال شدن سامانه‌های هشدار در جنوب عربستان",
-      "description": "تهران- ایرنا- منابع خبری گزارش دادند که سامانه‌های هشدار زود هنگام در شهر نجران واقع در جنوب عربستان فعال شده‌اند.",
-      "article_url": "https://www.irna.ir/news/86327754/%D9%81%D8%B9%D8%A7%D9%84-%D8%B4%D8%AF%D9%86-%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%AF%D8%B1-%D8%AC%D9%86%D9%88%D8%A8-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86",
-      "media_url": "https://img9.irna.ir/d/r2/2026/06/03/4/172902931.jpg",
-      "published_at": "Fri, 20 Nov 2026 22:57:29 GMT",
-      "published_at_utc": "2026-11-20T22:57:29+00:00",
-      "published_at_tehran": "2026-11-21T02:27:29+03:30",
-      "collected_at": "2026-11-20T23:29:45.493400+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "حمله تند نخست‌وزیر اسبق رژیم صهیونیستی به نتانیاهو: بازنده و فریبکار است",
-      "description": "تهران- ایرنا- «ایهود باراک» نخست‌وزیر اسبق رژیم صهیونیستی در پیامی بنیامین نتانیاهو را بازنده و فریبکار خواند و او را فاقد صلاحیت نخست وزیری دانست.",
-      "article_url": "https://www.irna.ir/news/86327753/%D8%AD%D9%85%D9%84%D9%87-%D8%AA%D9%86%D8%AF-%D9%86%D8%AE%D8%B3%D8%AA-%D9%88%D8%B2%DB%8C%D8%B1-%D8%A7%D8%B3%D8%A8%D9%82-%D8%B1%DA%98%DB%8C%D9%85-%D8%B5%D9%87%DB%8C%D9%88%D9%86%DB%8C%D8%B3%D8%AA%DB%8C-%D8%A8%D9%87-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D8%A8%D8%A7%D8%B2%D9%86%D8%AF%D9%87-%D9%88",
-      "media_url": "https://img9.irna.ir/d/r2/2026/03/24/4/172779872.jpg",
-      "published_at": "Fri, 20 Nov 2026 22:53:07 GMT",
-      "published_at_utc": "2026-11-20T22:53:07+00:00",
-      "published_at_tehran": "2026-11-21T02:23:07+03:30",
-      "collected_at": "2026-11-20T23:29:45.493443+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "آنروا: ۸۵ درصد ساکنان غزه برای دسترسی به آب با مشکل مواجه‌اند",
-      "description": "تهران- ایرنا- آژانس امدادرسانی و کاریابی سازمان ملل متحد برای آوارگان فلسطینی (آنروا) در گزارشی اعلام کرد که ۸۵ درصد ساکنان نوار غزه با قطعی‌های مکرر و پیش‌بینی‌نشده در دسترسی به آب سالم مواجه هستند.",
-      "article_url": "https://www.irna.ir/news/86327750/%D8%A2%D9%86%D8%B1%D9%88%D8%A7-%DB%B8%DB%B5-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%B3%D8%A7%DA%A9%D9%86%D8%A7%D9%86-%D8%BA%D8%B2%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%A8%D9%87-%D8%A2%D8%A8-%D8%A8%D8%A7-%D9%85%D8%B4%DA%A9%D9%84-%D9%85%D9%88%D8%A7%D8%AC%D9%87-%D8%A7%D9%86%D8%AF",
-      "media_url": "https://img9.irna.ir/d/r2/2026/11/21/4/173255239.jpg",
-      "published_at": "Fri, 20 Nov 2026 22:41:56 GMT",
-      "published_at_utc": "2026-11-20T22:41:56+00:00",
-      "published_at_tehran": "2026-11-21T02:11:56+03:30",
-      "collected_at": "2026-11-20T23:29:45.493485+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "بایدن: نتانیاهو گرایش‌هایی شبیه ترامپ داشت",
-      "description": "نیویورک- ایرنا- جو بایدن رئیس‌جمهور پیشین آمریکا گفت: بنیامین نتانیاهو نخست‌وزیر (رژیم) اسرائیل برای حفظ منافع شخصی خود، نهادهای دموکراتیک را تضعیف می‌کرد، تلاش‌ها برای برقراری صلح در خاورمیانه را مختل می‌ساخت و رفتارهایی از خود نشان می‌داد که  دارای «گرایش‌هایی شبیه ترامپ» بود.",
-      "article_url": "https://www.irna.ir/news/86327737/%D8%A8%D8%A7%DB%8C%D8%AF%D9%86-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%DA%AF%D8%B1%D8%A7%DB%8C%D8%B4-%D9%87%D8%A7%DB%8C%DB%8C-%D8%B4%D8%A8%DB%8C%D9%87-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%AF%D8%A7%D8%B4%D8%AA",
-      "media_url": "https://img9.irna.ir/d/r2/2026/11/21/4/173255222.jpg",
-      "published_at": "Fri, 20 Nov 2026 22:14:01 GMT",
-      "published_at_utc": "2026-11-20T22:14:01+00:00",
-      "published_at_tehran": "2026-11-21T01:44:01+03:30",
-      "collected_at": "2026-11-20T23:29:45.493528+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "پاییز در خراسان‌شمالی؛ از ثبت ۱۶ میلی‌متر باران تا مسدودی محور روستایی",
-      "description": "بجنورد- ایرنا- بارش‌های پاییزی روز جمعه در خراسان‌شمالی در حالی در برخی مناطق به بیش از ۱۶ میلی‌متر رسید که شدت بارندگی و نامساعد شدن شرایط جوی، برخی محورهای  روستایی بجنورد را مسدود کرد.",
-      "article_url": "https://www.irna.ir/news/86327745/%D9%BE%D8%A7%DB%8C%DB%8C%D8%B2-%D8%AF%D8%B1-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D9%84%DB%8C-%D8%A7%D8%B2-%D8%AB%D8%A8%D8%AA-%DB%B1%DB%B6-%D9%85%DB%8C%D9%84%DB%8C-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7%D8%B1%D8%A7%D9%86-%D8%AA%D8%A7-%D9%85%D8%B3%D8%AF%D9%88%D8%AF%DB%8C-%D9%85%D8%AD%D9%88%D8%B1",
-      "media_url": "https://img9.irna.ir/d/r1/2026/11/08/4/173227708.jpg",
-      "published_at": "Fri, 20 Nov 2026 22:01:26 GMT",
-      "published_at_utc": "2026-11-20T22:01:26+00:00",
-      "published_at_tehran": "2026-11-21T01:31:26+03:30",
-      "collected_at": "2026-11-20T23:29:45.493570+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "اعلام وضعیت اضطراری جنگنده اف-۱۶ آمریکایی پس از بازگشت از تنگه هرمز",
-      "description": "تهران- ایرنا- منابع خبری گزارش دادند که یک فروند جنگنده اف-۱۶ نیروی هوایی آمریکا پس از بازگشت از تنگه هرمز، در آسمان امارات متحده عربی کد اضطراری ۷۷۰۰ ارسال کرده و به سرعت در حال کاهش ارتفاع بوده است.",
-      "article_url": "https://www.irna.ir/news/86327735/%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D9%88%D8%B6%D8%B9%DB%8C%D8%AA-%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%DB%8C-%D8%AC%D9%86%DA%AF%D9%86%D8%AF%D9%87-%D8%A7%D9%81-%DB%B1%DB%B6-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D9%BE%D8%B3-%D8%A7%D8%B2-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%A7%D8%B2-%D8%AA%D9%86%DA%AF%D9%87",
-      "media_url": "https://img9.irna.ir/d/r2/2026/11/21/4/173255227.jpg",
-      "published_at": "Fri, 20 Nov 2026 21:59:02 GMT",
-      "published_at_utc": "2026-11-20T21:59:02+00:00",
-      "published_at_tehran": "2026-11-21T01:29:02+03:30",
-      "collected_at": "2026-11-20T23:29:45.493614+00:00"
+      "collected_at": "2026-11-21T00:32:41.949545+00:00"
     }
   ]
 }\n
