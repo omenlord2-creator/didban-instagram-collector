@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-21T05:10:33.722813+00:00",
+  "generated_at": "2026-11-21T06:09:28.405710+00:00",
   "source_mode": "public_feeds_no_login",
   "publishing_enabled": false,
   "summary": {
     "accounts": 5,
     "fetched_posts": 30,
-    "new_posts": 0,
+    "new_posts": 9,
     "publish_ready": 30,
     "blocked_or_incomplete": 2
   },
@@ -15,7 +15,7 @@
       "label": "BBC Persian",
       "provider": "https://openrss.org/feed/www.instagram.com/bbcpersian",
       "fetched": 10,
-      "new": 0,
+      "new": 9,
       "ready": 10,
       "needs_media_url": 0,
       "error": null
@@ -27,7 +27,7 @@
       "new": 0,
       "ready": 0,
       "needs_media_url": 0,
-      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: HTTP 500 | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: HTTP 503"
+      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: HTTP 500 | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
     },
     "iranintltv": {
       "label": "Iran International",
@@ -45,7 +45,7 @@
       "new": 0,
       "ready": 0,
       "needs_media_url": 0,
-      "error": "https://openrss.org/feed/www.instagram.com/isna.news: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/isna.news: HTTP 500 | https://rsshub.app/instagram/2/user/isna.news: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/isna.news: HTTP 503"
+      "error": "https://openrss.org/feed/www.instagram.com/isna.news: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/isna.news: HTTP 500 | https://rsshub.app/instagram/2/user/isna.news: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/isna.news: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
     },
     "irnanews1313": {
       "label": "IRNA",
@@ -60,11 +60,11 @@
   "errors": [
     {
       "account": "dw_persian",
-      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: HTTP 500 | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: HTTP 503"
+      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: HTTP 500 | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
     },
     {
       "account": "isna.news",
-      "error": "https://openrss.org/feed/www.instagram.com/isna.news: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/isna.news: HTTP 500 | https://rsshub.app/instagram/2/user/isna.news: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/isna.news: HTTP 503"
+      "error": "https://openrss.org/feed/www.instagram.com/isna.news: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/isna.news: HTTP 500 | https://rsshub.app/instagram/2/user/isna.news: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/isna.news: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
     }
   ],
   "items": [
@@ -77,7 +77,7 @@
       "published_at": "Wed, 18 Nov 2026 11:58:49 GMT",
       "published_at_utc": "2026-11-18T11:58:49+00:00",
       "published_at_tehran": "2026-11-18T15:28:49+03:30",
-      "collected_at": "2026-11-21T05:10:30.287573+00:00",
+      "collected_at": "2026-11-21T06:09:16.742311+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -91,7 +91,7 @@
       "published_at": "Thu, 19 Nov 2026 18:00:03 GMT",
       "published_at_utc": "2026-11-19T18:00:03+00:00",
       "published_at_tehran": "2026-11-19T21:30:03+03:30",
-      "collected_at": "2026-11-21T05:10:33.721848+00:00",
+      "collected_at": "2026-11-21T06:09:28.404283+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -105,7 +105,7 @@
       "published_at": "Thu, 19 Nov 2026 17:00:27 GMT",
       "published_at_utc": "2026-11-19T17:00:27+00:00",
       "published_at_tehran": "2026-11-19T20:30:27+03:30",
-      "collected_at": "2026-11-21T05:10:33.721896+00:00",
+      "collected_at": "2026-11-21T06:09:28.404377+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -119,7 +119,7 @@
       "published_at": "Thu, 19 Nov 2026 15:00:28 GMT",
       "published_at_utc": "2026-11-19T15:00:28+00:00",
       "published_at_tehran": "2026-11-19T18:30:28+03:30",
-      "collected_at": "2026-11-21T05:10:33.721937+00:00",
+      "collected_at": "2026-11-21T06:09:28.404459+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -133,7 +133,7 @@
       "published_at": "Thu, 19 Nov 2026 13:59:42 GMT",
       "published_at_utc": "2026-11-19T13:59:42+00:00",
       "published_at_tehran": "2026-11-19T17:29:42+03:30",
-      "collected_at": "2026-11-21T05:10:33.721988+00:00",
+      "collected_at": "2026-11-21T06:09:28.404577+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -147,7 +147,7 @@
       "published_at": "Thu, 19 Nov 2026 13:55:57 GMT",
       "published_at_utc": "2026-11-19T13:55:57+00:00",
       "published_at_tehran": "2026-11-19T17:25:57+03:30",
-      "collected_at": "2026-11-21T05:10:33.722036+00:00",
+      "collected_at": "2026-11-21T06:09:28.404673+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -161,7 +161,7 @@
       "published_at": "Thu, 19 Nov 2026 13:40:14 GMT",
       "published_at_utc": "2026-11-19T13:40:14+00:00",
       "published_at_tehran": "2026-11-19T17:10:14+03:30",
-      "collected_at": "2026-11-21T05:10:33.722087+00:00",
+      "collected_at": "2026-11-21T06:09:28.404767+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -175,7 +175,7 @@
       "published_at": "Thu, 19 Nov 2026 08:30:53 GMT",
       "published_at_utc": "2026-11-19T08:30:53+00:00",
       "published_at_tehran": "2026-11-19T12:00:53+03:30",
-      "collected_at": "2026-11-21T05:10:33.722140+00:00",
+      "collected_at": "2026-11-21T06:09:28.404867+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -189,24 +189,136 @@
       "published_at": "Thu, 19 Nov 2026 07:37:55 GMT",
       "published_at_utc": "2026-11-19T07:37:55+00:00",
       "published_at_tehran": "2026-11-19T11:07:55+03:30",
-      "collected_at": "2026-11-21T05:10:33.722186+00:00",
+      "collected_at": "2026-11-21T06:09:28.404945+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
     },
     {
-      "id": "b77d6441c02fa3100a696af45192bff6188e7ab3b7bfad4717411c612e16b4ea",
+      "id": "9fe180fc3747e0a52e5373a09d17a7ead533bd1afd598758c3f8d50f7a651c7d",
       "source": "bbcpersian",
-      "post_url": "https://www.instagram.com/p/DadB5jOCFPr",
-      "caption": "‌ مشخصات ماهواره‌ای تلویزیون بی‌بی‌سی فارسی: یاه‌ست ۵۲/۵ شرقی فرکانس ۱۱۹۹۶ ترنسپوندر ۱۵ پولاریزاسیون عمودی هات‌برد ۱۳ شرقی فرکانس ۱۱۷۲۷ ترنسپوندر ۵۰ پولاریزاسیون عمودی",
-      "media_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/736456395_18612040564007680_7095125163360035354_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=109&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=JIe-re3wZxIQ7kNvwH_4oR4&amp;_nc_oc=AdqmdJh_IjwJGvD9UdNbl-Qw3Y9p1v5OKWSYwf_sstk-hlWkTQIDxES5atYJC281qBU&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw5-1.cdninstagram.com&amp;_nc_gid=Mpbk9O2Nio5qa6yFV_p6-w&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQRo-P1lnTuXZ389jXmeH2m0E456pwLmaoaCdjwCCJ0MCg&amp;oe=6B063259",
-      "published_at": "Mon, 06 Jul 2026 13:45:31 GMT",
-      "published_at_utc": "2026-07-06T13:45:31+00:00",
-      "published_at_tehran": "2026-07-06T17:15:31+03:30",
-      "collected_at": "2026-11-21T05:10:15.861531+00:00",
+      "post_url": "https://www.instagram.com/p/Df-n-R3EuhP",
+      "caption": "وب‌سایت اکسیوس به نقل از دو منبع آگاه گزارش داد که استیو ویتکاف و جرد کوشنر، فرستادگان دونالد ترامپ، روز پنجشنبه در برلین با مقام‌های ارشد قطر درباره تلاش‌های میانجی‌گرانه برای ازسرگیری مذاکرات ایران و آمریکا دیدار کردند. به گفته این منابع، محمد بن عبدالرحمن آل ثانی، نخست‌وزیر قطر، و علی الثوادی، فرستاده ویژه آن کشور، در این نشست حضور داشتند. قطر طی هفته‌های گذشته تلاش کرده است با میانجی‌گری میان تهران و واشنگتن، زمینه توافقی برای ازسرگیری آتش‌بس، احیای مذاکرات هسته‌ای و جلوگیری از آغاز دوباره جنگ را فراهم کند. اکسیوس همچنین به نقل از یک دیپلمات آگاه گزارش داده است که علی الثوادی هفته گذشته در ترکیه با عباس عراقچی، وزیر خارجه ایران، دیدار کرد و او را در جریان گفت‌وگوهای اخیر مقام‌های قطری با دونالد ترامپ و جی‌دی ونس، معاون رئیس‌جمهور آمریکا، قرار داد. دو طرف همچنین درباره راه‌های خروج مذاکرات از بن‌بست گفت‌وگو کردند. به گفته این دیپلمات، یک هیئت فنی ایرانی نیز اوایل این هفته برای ادامه مذاکرات به دوحه سفر کرد. عباس عراقچی هم در چارچوب تلاش‌ها برای یافتن راه‌حل دیپلماتیک به پاکستان و عمان سفر کرده و در عمان بار دیگر با علی الثوادی دیدار کرده است. با وجود این رفت‌وآمدها و تماس‌های دیپلماتیک، منابع اکسیوس می‌گویند که تاکنون پیشرفت قابل‌توجهی در مذاکرات حاصل نشده است. دونالد ترامپ روز جمعه در یک نشست خبری گفت که ایران خواهان توافق است، اما حاضر نیست توافقی را بپذیرد که از نظر او قابل‌قبول باشد. رئیس‌جمهور آمریکا همچنین روز پنجشنبه در گفت‌وگو با اکسیوس گفته بود که برای تصمیم‌گیری درباره اقدام بعدی خود در قبال ایران عجله‌ای ندارد و پس از آغاز سال جدید میلادی اوضاع را بررسی خواهد کرد. 📸AFP via Getty Images",
+      "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t39.30808-6/913180085_1629636762527080_8669216248079751996_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=102&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=yaAW1vwSJksQ7kNvwEqm6MN&amp;_nc_oc=AdooGQi0YxmPoBH8KaDYvaCGG8BnKnd92taYoHUC4jYy8UdB4EJEUwQazUW0j8ZrdxI&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.cdninstagram.com&amp;_nc_gid=tDYwzkPL3mk6TnuKXS_CkQ&amp;_nc_ss=7aa8c&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQSjKqFGvjlXARfe7VvBf-CP-95EyFYdgFSUctiiha6a7w&amp;oe=6B069614",
+      "published_at": "Fri, 20 Nov 2026 21:30:07 GMT",
+      "published_at_utc": "2026-11-20T21:30:07+00:00",
+      "published_at_tehran": "2026-11-21T01:00:07+03:30",
+      "collected_at": "2026-11-21T06:08:59.596825+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "id": "a492b1087a121557aff0e8b6cc739dba8ffa8ebac45b77231f954288bf62e9ae",
+      "source": "bbcpersian",
+      "post_url": "https://www.instagram.com/p/Df-hVYNPozb",
+      "caption": "⠀⠀⠀⠀⠀⠀⠀⠀ آخرین خبرهای مهم روز جمعه ۲۹ آبان ۱۴۰۵",
+      "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/915798005_18662296174007680_6511051971707847379_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=iummHtuWYnMQ7kNvwF9s1MP&amp;_nc_oc=AdrxKjbDCT2Wm5T9_T4gq-OFltv6Lk5VXdKLTX6Xk96l2tO_Jx7sfXnssuobW0iXhGo&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;_nc_gid=tDYwzkPL3mk6TnuKXS_CkQ&amp;_nc_ss=7aa8c&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQSMs-ry5SX0jt9SaXO7GO_dgsYwcZ4OipqCVCWVw6wuHQ&amp;oe=6B069071",
+      "published_at": "Fri, 20 Nov 2026 20:32:06 GMT",
+      "published_at_utc": "2026-11-20T20:32:06+00:00",
+      "published_at_tehran": "2026-11-21T00:02:06+03:30",
+      "collected_at": "2026-11-21T06:08:59.596946+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": true
+    },
+    {
+      "id": "3ae3aeeeb17469f05c9e608a55044ba1199feb7299f62d74ed1ea68730cf9aeb",
+      "source": "bbcpersian",
+      "post_url": "https://www.instagram.com/p/Df-PALRusSu",
+      "caption": "⁨ کشتی مسافربری ام‌وی موآنزا پس از آنکه کنترل آن از دست خدمه خارج شد با صخره‌های بیسمارک برخورد کرده است. به گفته شاهدان عینی، اندکی پس از برخورد کشتی با صخره‌ها، دود غلیظی از آن بلند شد. تاکنون گزارشی از مجروح شدن افراد در این حادثه منتشر نشده است. علت این سانحه و میزان خسارت وارده به کشتی هنوز مشخص نیست. کشتی ام‌وی موآنزا یکی از بزرگ‌ترین طرح‌های دولتی تانزانیا برای بهبود حمل‌ونقل دریایی در این کشور است.⁩",
+      "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/917494480_18662258119007680_6358150369073545432_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=EKkuNuRA1KQQ7kNvwGxi_mP&amp;_nc_oc=AdooUspeS_Q9F7hvYBTO8uN3MqVZ1P1oTxD1K0_C_9gUY2vKsBekXc2rJJa3aN6Aryg&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;_nc_gid=tDYwzkPL3mk6TnuKXS_CkQ&amp;_nc_ss=7aa8c&amp;_nc_ct=RQosPBUKFQwAAAA&amp;oh=00_AQSKBx2j7_2COR1Ay4QIzOu6ZpBGo8_XuS6VaqZM53jlXw&amp;oe=6B067836",
+      "published_at": "Fri, 20 Nov 2026 17:51:55 GMT",
+      "published_at_utc": "2026-11-20T17:51:55+00:00",
+      "published_at_tehran": "2026-11-20T21:21:55+03:30",
+      "collected_at": "2026-11-21T06:08:59.597063+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": true
+    },
+    {
+      "id": "3c60b90a72fb7bd80e58f54ffe0511f9884af9c45b29824189c89e581f0dd8a2",
+      "source": "bbcpersian",
+      "post_url": "https://www.instagram.com/p/Df-J5ianUK4",
+      "caption": "‌ نیروهای اوکراینی طی هفت ماه گذشته در یک خط لوله قدیمی گاز متعلق به دوران شوروی در منطقه خارکیف، در کنار نیروهای روسی زندگی کرده و با آن‌ها جنگیده‌اند. قطر این لوله کمی بیش از یک متر است و فقط می‌توان در آن سینه‌خیز رفت. اما این مسیر نسبت به پهپادهایی که حالا آسمان بالای خط مقدم را پر کرده‌اند، امنیت بیشتری دارد.؛ پهپادهایی که مانع پیشروی هر دو طرف در میدان نبرد شده‌اند. بی‌بی‌سی نخستین رسانه بین‌المللی است که وارد این خط لوله که درون آن نبردی زیرزمینی در جریان است، شده است. این ویدیو نمایی از فضای داخل این خط لوله را نشان می‌دهد.",
+      "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/902954830_18662246431007680_5516235695748558074_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=PJEK5aycwD0Q7kNvwELtgZk&amp;_nc_oc=AdqbyNPUHfQEE_hq-b0GAkBZr6LR50bn-JJ7kKLzSViyF3mf-NUzyn_4S2DINc-7G6c&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;_nc_gid=tDYwzkPL3mk6TnuKXS_CkQ&amp;_nc_ss=7aa8c&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQS2yYqLfoxDyZ0myOVSJ68j6pvZWZRBIli_bZltN1TKuw&amp;oe=6B0675F7",
+      "published_at": "Fri, 20 Nov 2026 17:07:19 GMT",
+      "published_at_utc": "2026-11-20T17:07:19+00:00",
+      "published_at_tehran": "2026-11-20T20:37:19+03:30",
+      "collected_at": "2026-11-21T06:08:59.597182+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": true
+    },
+    {
+      "id": "eb133146e6d08bed80a94ad99b6490c5837d19c02d1e1599bd07c178327dfe8e",
+      "source": "bbcpersian",
+      "post_url": "https://www.instagram.com/p/Df-JMrBmtUB",
+      "caption": "بولا تینوبو، رئیس‌ جمهور نیجریه از پارلمان این کشور خواسته است تا اقدام به خودکشی را از فهرست جرایم کیفری خارج کند. بر اساس پیشنهاد او، افرادی که از اقدام به خودکشی جان سالم به در می‌برند به جای پیگرد قضایی باید از خدمات درمانی و توان‌بخشی و حمایت روانی برخوردار شوند. بر اساس قوانین کنونی نیجریه، اقدام به خودکشی جرم محسوب می‌شود و مجازات آن می‌تواند تا یک سال زندان، جریمه نقدی یا هر دو را در پی داشته باشد. طرح پیشنهادی دولت پس از سال‌ها مطالبه متخصصان سلامت روان برای اصلاح قانون مطرح شده است. استدلال حامیان طرح این است که پیش‌بینی مجازات در مورد افرادی که از اقدام به خودکشی کرده‌اند، ممکن است مانع از آن شود که افرادی که افکار خودکشی دارند، برای کمک گرفتن به مراکز درمانی مراجعه کنند. همچنین خانواده‌ها هم ممکن است از ترس پیگرد قانونی و انگ اجتماعی، چنین مواردی را پنهان کنند. گادزویل آکپابیو، رئیس مجلس سنای نیجریه که پیش‌تر حامی زندانی ‌کردن افرادی بود که اقدام به خودکشی کرده‌اند، اکنون از پیشنهاد رئیس‌جمهور استقبال کرده است. او تاکید کرد که مجازات افرادی که به دلیل مشکلات سلامت روان دست به چنین اقدامی زده‌اند، نادیده گرفتن شرایط آنهاست. نیجریه یکی از چندین کشور آفریقایی است که اقدام به خودکشی در آنها همچنان جرم محسوب می‌شود. غنا در سال&nbsp;۲۰۲۳ این اقدام را از فهرست جرائم کیفری خارج کرد و دادگاه عالی کنیا هم در سال&nbsp;۲۰۲۵ جرم انگاشتن آن را مغایر قانون اساسی دانست. 📞اگر افکار خودکشی دارید یا نگران سلامت روان خود هستید، با خدمات درمانی، اورژانس یا نهادهای تخصصی حمایت از سلامت روان در محل زندگی خود تماس بگیرید. Reuters #bbcpersian",
+      "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/917181225_18662244592007680_3287792861279288487_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=oFDOdvpl1nwQ7kNvwE0TQQ2&amp;_nc_oc=AdpON5l7xFlRGzfaA2slTa1hAH6jLugNllQ3xXVBq0n8fnnIqKRZWLaUN6e2V61iMf4&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;_nc_gid=tDYwzkPL3mk6TnuKXS_CkQ&amp;_nc_ss=7aa8c&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQSYzRIe4aUJsST8Hi12a78vbrF9wgnXi4nzk8LIGw3yUQ&amp;oe=6B06832A",
+      "published_at": "Fri, 20 Nov 2026 17:01:12 GMT",
+      "published_at_utc": "2026-11-20T17:01:12+00:00",
+      "published_at_tehran": "2026-11-20T20:31:12+03:30",
+      "collected_at": "2026-11-21T06:08:59.597339+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": true
+    },
+    {
+      "id": "937d7778fc3dc6d26df536d937098634aa705ac2926df347f2499b10e31c5f90",
+      "source": "bbcpersian",
+      "post_url": "https://www.instagram.com/p/Df99FdXjrz0",
+      "caption": "⁨ چین اعلام کرده تا سال ۲۰۳۰ هوش مصنوعی را از مهدکودک تا دبیرستان وارد برنامه درسی همه مدارس می‌کند. در مدرسه‌ای در پکن دانش‌آموزان با هوش مصنوعی محصول می‌سازند، اما کارشناسان نسبت به تشدید نابرابری هشدار می‌دهند. آرزو میرزاخانی در خبرنامه این هفته برنامه کلیک، نگاهی داشته به این موضوع.⁩",
+      "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/916987377_18662226856007680_3098593768127883514_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=m2n6-s6EO7sQ7kNvwEU99cG&amp;_nc_oc=AdpeFqEt28CPYhG3YUgjrgNkExi7iWp_3fhIExWEKtjMWD8sZXXJLztCpwGKCMH4Fcs&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;_nc_gid=tDYwzkPL3mk6TnuKXS_CkQ&amp;_nc_ss=7aa8c&amp;_nc_ct=RQosPBUKFQwAAAA&amp;oh=00_AQRnYvBM4X0RpD0ZyoDiAOZkjN2LMWFAXwFGs-c9rY6cqg&amp;oe=6B069FB1",
+      "published_at": "Fri, 20 Nov 2026 15:15:21 GMT",
+      "published_at_utc": "2026-11-20T15:15:21+00:00",
+      "published_at_tehran": "2026-11-20T18:45:21+03:30",
+      "collected_at": "2026-11-21T06:08:59.597435+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": true
+    },
+    {
+      "id": "a9a7b0d248a4257ebb472aa5389e9e6ef3a641b1762e711ded9317e942cc4c5b",
+      "source": "bbcpersian",
+      "post_url": "https://www.instagram.com/p/Df94QOaw04r",
+      "caption": "‌ نیروهای دولتی عراق از نخستین ایست بازرسی کتائب حزب‌الله در منطقه جرف‌نصر در جنوب بغداد عبور کردند. این در حالی است که نیروهای مسلح این گروه همچنان در مواضع خود مستقر بودند. به نظر می‌رسد این بخشی از مصالحه‌ای است که سعی دارد از رویارویی نیروهای دولتی با کتائب حزب‌الله جلوگیری کند. علی زیدی، نخست‌وزیر عراق، این هفته به کتائب حزب‌الله مهلت داده بود تا منطقه جرف صخر، معروف به جرف‌نصر، را ترک کنند. این تصمیم پس از آن گرفته شد که دولت عراق اعلام کرد قاچاق نفت در این منطقه انجام می‌شود. گروه مسلح کتائب حزب‌الله این ادعا را رد کرده است. کتائب حزب‌الله از گروه‌های مسلح مورد حمایت ایران است. این گروه بیش از یک دهه است که پس از مشارکت در پس‌ گرفتن منطقه جرف‌نصر از گروه داعش، در این منطقه حضور دارد. عراق با افزایش فشارهای آمریکا برای محدود کردن نفوذ ایران و مهار گروه‌های مسلح مورد حمایت تهران روبه‌رو است آمریکا این گروه‌های مسلح را «سازمان‌های تروریستی» می‌داند.",
+      "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/915426203_18662210776007680_78274562754085619_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=h4zGFgE6JDQQ7kNvwGZUhvU&amp;_nc_oc=AdoQrdOeMk7XI0mZZEjy48kDuO1jpTbGeQhc3K8KXGMth1e9067fDZqG2oEbWjx1vEs&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;_nc_gid=tDYwzkPL3mk6TnuKXS_CkQ&amp;_nc_ss=7aa8c&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQQg6FF1Ux4mz8bTdziIQ0mtEfZ6j2Sv8-caj4pJvkBQkA&amp;oe=6B069731",
+      "published_at": "Fri, 20 Nov 2026 14:33:08 GMT",
+      "published_at_utc": "2026-11-20T14:33:08+00:00",
+      "published_at_tehran": "2026-11-20T18:03:08+03:30",
+      "collected_at": "2026-11-21T06:08:59.597572+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": true
+    },
+    {
+      "id": "f79532f035a89f2d7e8f197e62c69c068729eeb97be8f84ae00b31dccdcec6b1",
+      "source": "bbcpersian",
+      "post_url": "https://www.instagram.com/p/Df93sZoHUDQ",
+      "caption": "⠀⠀⠀⠀⠀⠀ سرخط خبرها، جمعه ۲۹ آبان ۱۴۰۵",
+      "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/902954783_18662209717007680_1462216588695538640_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=99d8QirvpO8Q7kNvwHx6cSV&amp;_nc_oc=AdqzeuQzsBh2jLrLkFRMxfxiXqu_172aQKhzNwPdvYe-xY1F6szhrLSXA8nQAL2rgkM&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;_nc_gid=tDYwzkPL3mk6TnuKXS_CkQ&amp;_nc_ss=7aa8c&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQQvXXF7vRcT8xlpNOYxwbsSpscg1owjxgiPD1RdyAFBnA&amp;oe=6B06A7A1",
+      "published_at": "Fri, 20 Nov 2026 14:28:15 GMT",
+      "published_at_utc": "2026-11-20T14:28:15+00:00",
+      "published_at_tehran": "2026-11-20T17:58:15+03:30",
+      "collected_at": "2026-11-21T06:08:59.597661+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": true
+    },
+    {
+      "id": "340280df4403b0212e36179776a6240b78e458e8d5b1f5d9c905a765ece8732e",
+      "source": "bbcpersian",
+      "post_url": "https://www.instagram.com/p/Df92cE3iBox",
+      "caption": "⠀⠀⠀⠀⠀⠀⠀⠀ احمد بخشایش اردستانی، عضو کمیسیون امنیت ملی مجلس ایران، می‌گوید بخشی از جامعه و افکار عمومی کشور «تا حدودی برای ساخت سلاح هسته‌ای» آمادگی دارند. به گفته او، فشارهای آمریکا ایران را به سمت طرح موضوع ساخت سلاح هسته‌ای سوق داده و به نظر می‌رسد افکار عمومی نیز تا اندازه‌ای برای چنین تغییری آماده شده است. این نماینده مجلس در عین حال با اشاره به روابط ایران با کشورهایی مانند چین و روسیه، تاکید کرده است که در این زمینه ملاحظاتی وجود دارد. به گفته آقای بخشایش اردستانی، «این کشورها به ایران توصیه می‌کنند با احتیاط بیشتری عمل کند و فعلا به سمت چنین تصمیمی نرود.» او همچنین گفته است موافقان برخورداری ایران از سلاح هسته‌ای بر این باورند که دستیابی به چنین سلاحی می‌تواند «قدرت بازدارندگی» کشور را افزایش دهد. در هفته‌های اخیر بحث بازنگری در دکترین هسته‌ای ایران و حتی احتمال خروج از پیمان منع گسترش سلاح‌های هسته‌ای (ان‌پی‌تی)، از سوی شماری از مقام‌های سیاسی، نظامی و مذهبی جمهوری اسلامی مطرح شده و به یکی از موضوعات بحث‌برانگیز در فضای سیاسی ایران تبدیل شده است. 📸JAMARAN",
+      "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t39.30808-6/915668769_1629286749228748_7922607412625907712_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=SORqCT4F6GQQ7kNvwH6gRfB&amp;_nc_oc=AdpTZPEaKHQBwkfy5lHSJVtwC7aMDiqtKIGl5mPj4dBv67GBNvCqVXXDJhWAuSfQsGE&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;_nc_gid=tDYwzkPL3mk6TnuKXS_CkQ&amp;_nc_ss=7aa8c&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQSb6dVAVhWfpQDz0B80ZWRstiKugzTYjvTkAyrv8RXuOw&amp;oe=6B06A020",
+      "published_at": "Fri, 20 Nov 2026 14:17:17 GMT",
+      "published_at_utc": "2026-11-20T14:17:17+00:00",
+      "published_at_tehran": "2026-11-20T17:47:17+03:30",
+      "collected_at": "2026-11-21T06:08:59.597816+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": true
     },
     {
       "id": "55e0bbbce6174e2bd33916cf533d851c2ad0be18b132b3a98360fbe373792f8c",
@@ -217,7 +329,7 @@
       "published_at": "Fri, 20 Nov 2026 13:30:35 GMT",
       "published_at_utc": "2026-11-20T13:30:35+00:00",
       "published_at_tehran": "2026-11-20T17:00:35+03:30",
-      "collected_at": "2026-11-21T05:10:30.287019+00:00",
+      "collected_at": "2026-11-21T06:09:16.741356+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -231,7 +343,7 @@
       "published_at": "Fri, 20 Nov 2026 13:13:50 GMT",
       "published_at_utc": "2026-11-20T13:13:50+00:00",
       "published_at_tehran": "2026-11-20T16:43:50+03:30",
-      "collected_at": "2026-11-21T05:10:30.287109+00:00",
+      "collected_at": "2026-11-21T06:09:16.741496+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -245,21 +357,7 @@
       "published_at": "Fri, 20 Nov 2026 13:00:46 GMT",
       "published_at_utc": "2026-11-20T13:00:46+00:00",
       "published_at_tehran": "2026-11-20T16:30:46+03:30",
-      "collected_at": "2026-11-21T05:10:15.860664+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": false
-    },
-    {
-      "id": "77c578dfe11b9477d09a1971687c99440d55ae95494c377d8169a33abc4b7b9b",
-      "source": "bbcpersian",
-      "post_url": "https://www.instagram.com/p/Df9snstvoJ5",
-      "caption": "⁨ ‌ دو مرد بریتانیایی که به همکاری با یک سرویس اطلاعاتی خارجی در ارتباط با توطئه احتمالی علیه پایگاه هوایی فرفورد متهم شده‌اند، از طریق ارتباط ویدیویی در دادگاه اولد بیلی لندن حاضر شدند و هر دو نفر، اتهامات علیه خود را رد کردند. پایگاه هوایی فرفورد در غرب لندن، پیش‌تر محل استقرار بمب‌افکن‌های آمریکایی بود. نیروی هوایی آمریکا از این پایگاه در جنگ با ایران استفاده کرده است. محمد عبدالکریم، ۲۴ ساله، که با وثیقه آزاد است، روی صندلی چرخ‌دار در جلسه امروز، جمعه، حاضر شد. وکیل او گفت موکلش مشکل تکلم دارد. دادستان‌ها می‌گویند عبدالکریم با فردی به نام «علی» در خارج از بریتانیا در ارتباط بوده، ۷۰ هزار پوند دریافت کرده و با خرید خودروهای ون، بنزین و مهره‌های فلزی، (برای ترکش) افرادی را برای انتقال خودروها به نزدیکی پایگاه استخدام کرده است. نعمان اصغر، ۲۵ ساله، نیز متهم است که از پایگاه فیلم‌برداری کرده و تصاویر را از طریق تماس تصویری زنده با «علی» به اشتراک گذاشته است. هر دو نفر این اتهامات را رد کردند. پلیس ضد تروریسم بریتانیا می‌گوید سپاه پاسداران انقلاب اسلامی آنها را استخدام کرده بود. جمهوری اسلامی ایران هرگونه دخالت در این ماجرا را رد کرده است.⁩",
-      "media_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/916993568_18662187250007680_5796755594260366230_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=100&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=v980tlPEteMQ7kNvwHP0xv0&amp;_nc_oc=AdoNdH19MKTUAOnigVanTyzMIaydWmA-YjHyJpWY2QwGuvMZ-OShB04g83jeaXoP5qs&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw6-1.cdninstagram.com&amp;_nc_gid=Mpbk9O2Nio5qa6yFV_p6-w&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQSUz12qSs-3KeGPJvOFyySaBgkTYWJKi69qDt8KFp8vlw&amp;oe=6B061489",
-      "published_at": "Fri, 20 Nov 2026 12:51:29 GMT",
-      "published_at_utc": "2026-11-20T12:51:29+00:00",
-      "published_at_tehran": "2026-11-20T16:21:29+03:30",
-      "collected_at": "2026-11-21T05:10:15.860850+00:00",
+      "collected_at": "2026-11-21T06:08:59.597959+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -273,7 +371,7 @@
       "published_at": "Fri, 20 Nov 2026 12:49:16 GMT",
       "published_at_utc": "2026-11-20T12:49:16+00:00",
       "published_at_tehran": "2026-11-20T16:19:16+03:30",
-      "collected_at": "2026-11-21T05:10:30.287182+00:00",
+      "collected_at": "2026-11-21T06:09:16.741649+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -287,7 +385,7 @@
       "published_at": "Fri, 20 Nov 2026 12:31:21 GMT",
       "published_at_utc": "2026-11-20T12:31:21+00:00",
       "published_at_tehran": "2026-11-20T16:01:21+03:30",
-      "collected_at": "2026-11-21T05:10:30.287239+00:00",
+      "collected_at": "2026-11-21T06:09:16.741753+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -301,7 +399,7 @@
       "published_at": "Fri, 20 Nov 2026 12:31:04 GMT",
       "published_at_utc": "2026-11-20T12:31:04+00:00",
       "published_at_tehran": "2026-11-20T16:01:04+03:30",
-      "collected_at": "2026-11-21T05:10:30.287291+00:00",
+      "collected_at": "2026-11-21T06:09:16.741844+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -315,7 +413,7 @@
       "published_at": "Fri, 20 Nov 2026 12:25:41 GMT",
       "published_at_utc": "2026-11-20T12:25:41+00:00",
       "published_at_tehran": "2026-11-20T15:55:41+03:30",
-      "collected_at": "2026-11-21T05:10:30.287363+00:00",
+      "collected_at": "2026-11-21T06:09:16.741930+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -329,7 +427,7 @@
       "published_at": "Fri, 20 Nov 2026 12:17:06 GMT",
       "published_at_utc": "2026-11-20T12:17:06+00:00",
       "published_at_tehran": "2026-11-20T15:47:06+03:30",
-      "collected_at": "2026-11-21T05:10:30.287427+00:00",
+      "collected_at": "2026-11-21T06:09:16.742038+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -343,7 +441,7 @@
       "published_at": "Fri, 20 Nov 2026 12:04:35 GMT",
       "published_at_utc": "2026-11-20T12:04:35+00:00",
       "published_at_tehran": "2026-11-20T15:34:35+03:30",
-      "collected_at": "2026-11-21T05:10:30.287478+00:00",
+      "collected_at": "2026-11-21T06:09:16.742130+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -357,21 +455,7 @@
       "published_at": "Fri, 20 Nov 2026 11:50:17 GMT",
       "published_at_utc": "2026-11-20T11:50:17+00:00",
       "published_at_tehran": "2026-11-20T15:20:17+03:30",
-      "collected_at": "2026-11-21T05:10:30.287534+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": false
-    },
-    {
-      "id": "886bc4ed8c0d0f728862a1ce81d34188380381f64fbb74a8cab2bb1ce89b3a3b",
-      "source": "bbcpersian",
-      "post_url": "https://www.instagram.com/p/Df9k-H7nhQW",
-      "caption": "‌ یک پلنگ سیاه ماده یک‌ساله از چاهی به عمق ۱۲ متر در منطقه راتناگیری، در ایالت ماهاراشترا در هند، نجات داده شد. این پلنگ کمیاب داخل چاه بدون حفاظی سقوط کرده و روی سنگی در آن پناه گرفته بود. با کمک اهالی روستا، ماموران محیط‌زیست قفسی را به داخل چاه عمیق و باریک فرستادند و زمانی که پلنگ روی آن پرید، موفق شدند او را به دام بیندازند. این پلنگ پس از انجام معاینات پزشکی، دوباره در طبیعت رها شد.",
-      "media_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/902954801_18662172418007680_8393887141474282027_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=AnKD6pTiKHYQ7kNvwGH-3xB&amp;_nc_oc=AdoeLd-5M8AbOmp0dN1FYL5uxr5_uZ7hz3Q1U-J9rX1wfdch5V5UcFWa27kRHst6yNk&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw5-2.cdninstagram.com&amp;_nc_gid=Mpbk9O2Nio5qa6yFV_p6-w&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQRP-mcmw_T5rFCLK9a902uX7ppggGYw8X5Kyk1yS_3K_A&amp;oe=6B060E80",
-      "published_at": "Fri, 20 Nov 2026 11:44:38 GMT",
-      "published_at_utc": "2026-11-20T11:44:38+00:00",
-      "published_at_tehran": "2026-11-20T15:14:38+03:30",
-      "collected_at": "2026-11-21T05:10:15.860925+00:00",
+      "collected_at": "2026-11-21T06:09:16.742234+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -385,21 +469,7 @@
       "published_at": "Fri, 20 Nov 2026 11:06:42 GMT",
       "published_at_utc": "2026-11-20T11:06:42+00:00",
       "published_at_tehran": "2026-11-20T14:36:42+03:30",
-      "collected_at": "2026-11-21T05:10:33.721734+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": false
-    },
-    {
-      "id": "2a77ac575802b96b75b17bf18e230a36e31cf8f568c3dbb10845ee847fe0c92d",
-      "source": "bbcpersian",
-      "post_url": "https://www.instagram.com/p/Df9cShTBtkl",
-      "caption": "‌ پس از ۱۳ سال انتظار، بازی GTA 6 هیجان زیادی در میان طرفداران بازی‌های ویدیویی و اینفلوئنسرها در سراسر دنیا به وجود آورده است. در همین حال، بعضی از تولیدکنندگان محتوا با جان بخشیدن به شخصیت‌های خاص و ربات‌مانند نسخه‌های قدیمی این بازی، صدها میلیون بازدید در شبکه‌های اجتماعی به دست آورده‌اند. برای «اوال محمد» از غنا و «لاکشیتا جتوات» از هند، این کار بازگشتی نوستالژیک به بازی‌ دوران کودکی آنهاست. در عین حال، فرصتی برای جذب مخاطبان جدید و افزایش دنبال‌کنندگانشان در فضای مجازی فراهم کرده است.",
-      "media_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/902825548_18662159593007680_5192951284157103712_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=TpZHQiVBNbcQ7kNvwFCyeqx&amp;_nc_oc=Ado_6L1eMcr2h1DPPzjl36HtMdnkdKTrDYDA8x1BtWy62yeiXn1iXDOiskLlmZMc640&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw5-2.cdninstagram.com&amp;_nc_gid=Mpbk9O2Nio5qa6yFV_p6-w&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQSDIdi26TztRuAcyu1mcgYEBgEiuTr6tO4EDnA5MC3HfA&amp;oe=6B0608AA",
-      "published_at": "Fri, 20 Nov 2026 10:28:47 GMT",
-      "published_at_utc": "2026-11-20T10:28:47+00:00",
-      "published_at_tehran": "2026-11-20T13:58:47+03:30",
-      "collected_at": "2026-11-21T05:10:15.860995+00:00",
+      "collected_at": "2026-11-21T06:09:28.404080+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -413,82 +483,139 @@
       "published_at": "Fri, 20 Nov 2026 09:30:09 GMT",
       "published_at_utc": "2026-11-20T09:30:09+00:00",
       "published_at_tehran": "2026-11-20T13:00:09+03:30",
-      "collected_at": "2026-11-21T05:10:33.721799+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": false
-    },
-    {
-      "id": "655617302a39879b234adedc9bab83a66a15e31ef58562d70ba83b2bac65ba3e",
-      "source": "bbcpersian",
-      "post_url": "https://www.instagram.com/p/Df9IX1viO8N",
-      "caption": "⠀⠀⠀⠀⠀⠀⠀⠀ بازی ویدیویی «جی‌تی‌ای ۶» پس از انتشار پرسر‌وصدا در روز گذشته و در پی ۱۳ سال انتظار، طبق برآوردها به بزرگ‌ترین رویداد تجاری در تاریخ صنعت سرگرمی تبدیل شده است. بر اساس گزارش پلتفرم تحلیلی «سنسورتاور» پیش‌فروش و فروش این بازی در روز نخست عرضه از مجموع ۲۴/۵ میلیون نسخه فراتر رفته و حدود ۲/۳۶ میلیارد دلاردرآمد داشته است. برای مقایسه، پرفروش‌ترین فیلم سینمایی امسال تاکنون، یعنی «مردعنکبوتی: روز کاملا جدید» در مجموع اکران خود در سینماها ۲/۵ میلیارد دلار فروش داشته است. شرکت راک‌استار، سازنده این بازی ویدیویی و شرکت مادر آن، تیک‌تو، هنوز جزئیاتی درباره میزان فروش این بازی منتشر نکرده‌اند، اما اعلام کردند که میزان تقاضا برای آن «بی‌سابقه» بوده است. بی‌بی‌سی برای دریافت توضیحات بیشتر با هر دو شرکت تماس گرفته است. این بازی جدیدترین نسخه از مجموعه بازی‌های شبیه‌ساز دنیای تبهکاری شرکت راک‌استار است که نزدیک به سه دهه قدمت دارد و به یکی از محبوب‌ترین مجموعه‌های بازی در تاریخ تبدیل شده است. 📸Nexpher Images via Getty Images",
-      "media_url": "https://scontent-dfw5-2.cdninstagram.com/v/t39.30808-6/910465200_1628972975926792_5279734190974214342_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=FBQNXOLO2wAQ7kNvwFH4eou&amp;_nc_oc=AdqjGl28evmEuf_Vy0Mj3WGsLOwnvzjGJV4jZdqz9UXsg-ChYrJe1I-0GyMNtBEu4eg&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw5-2.cdninstagram.com&amp;_nc_gid=Mpbk9O2Nio5qa6yFV_p6-w&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQQWUz-JuLAx4v9ZsHEDc_Zfbwp0vdFagfz_dcNWsEhQXg&amp;oe=6B0636ED",
-      "published_at": "Fri, 20 Nov 2026 07:34:45 GMT",
-      "published_at_utc": "2026-11-20T07:34:45+00:00",
-      "published_at_tehran": "2026-11-20T11:04:45+03:30",
-      "collected_at": "2026-11-21T05:10:15.861082+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": false
-    },
-    {
-      "id": "5f81e626d71edd4688a681d406404817dc80e2279c57b1d7f9993b50ca6b361e",
-      "source": "bbcpersian",
-      "post_url": "https://www.instagram.com/p/Df9BRbFCPu6",
-      "caption": "⠀⠀⠀⠀⠀⠀⠀ شان کرنکراس، مدیر ارشد امنیت سایبری کاخ سفید، در پی بروز اختلالات گسترده فناوری که طی روزهای اخیر بخش‌هایی از صنعت هوایی، نظام بانکی و سامانه‌های امنیت ملی آمریکا را مختل کرد، از سمت خود کناره‌گیری کرده است. برخی گزارش‌ها حاکی از آن است که جدایی او از این سمت با توافق و به‌صورت دوستانه انجام شده است، اما گزارش‌های دیگری به نقل از منابع ناشناس می‌گویند که او از سمتش برکنار شده است. کناره‌گیری این مقام امنیت سایبری در شرایطی صورت می‌گیرد که دونالد ترامپ، رئیس‌جمهور آمریکا، و دولتش به دلیل نحوه واکنش به مجموعه‌ای از اختلالات در سیستم های فناوری در هفته گذشته با انتقادهایی روبه‌رو هستند. این اختلالات شامل قطعی گسترده جهانی بود که صدها میلیون کاربر مایکروسافت را تحت تاثیر قرار داد و همچنین توقف سراسری پروازها در آمریکا را در پی داشت. شان کرنکراس در بیانیه‌ای اعلام کرد که خدمت در دولت ترامپ «افتخار بزرگی» برای او بوده است. 📸Bloomberg via Getty Images",
-      "media_url": "https://scontent-dfw5-2.cdninstagram.com/v/t39.30808-6/920351216_1628931195930970_1561023336666136707_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=qSSTnZiHRQ4Q7kNvwGZz9if&amp;_nc_oc=Adq82mmfkcAszTVUDe-2nOuXn3LPKbLoMquspZ8EHe1sn2-pw_7QC6Y5uJ1K7bomKUQ&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw5-2.cdninstagram.com&amp;_nc_gid=Mpbk9O2Nio5qa6yFV_p6-w&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQSu7wPBdflduFakp3u_1_DLoLcpT2nsRbDpy_zKLZg_kw&amp;oe=6B062524",
-      "published_at": "Fri, 20 Nov 2026 06:32:42 GMT",
-      "published_at_utc": "2026-11-20T06:32:42+00:00",
-      "published_at_tehran": "2026-11-20T10:02:42+03:30",
-      "collected_at": "2026-11-21T05:10:15.861163+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": false
-    },
-    {
-      "id": "5bb0c7b77e980facd3423f118014aaba17fb7460e601a52d676d66ef7cbb751d",
-      "source": "bbcpersian",
-      "post_url": "https://www.instagram.com/p/Df809KXmCBf",
-      "caption": "کارشناسان آن را بزرگترین پیشرفت در درمان سرطان لوزالمعده (پانکراس) در دهه‌های اخیر می‌دانند: قرصی روزانه که به نظر می‌رسد تومورها را در برخی از بیماران مبتلا به یکی از کشنده‌ترین و سخت‌ترین سرطان‌ها کوچک کرده و حتی ممکن است آنها را از بین ببرد. این سرطان در اسکن‌های یک نفر از هر ۱۲ بیمار که در آزمایش‌های اولیه پزشکی به همراه شیمی‌درمانی، داروی «داراکسونراسیب» دریافت کرده بودند، غیرقابل تشخیص شد. رشد تومورها تقریباً در تمام ۶۱ شرکت‌کننده‌ای که اخیراً به سرطان پانکراس پیشرفته مبتلا شده بودند که به سایر قسمت‌های بدن گسترش یافته بود، متوقف شد. اما پزشکان تأکید می‌کنند که هنوز تا دانستن اینکه این دارو تا چه مدت می‌تواند بیماری را مهار کند، راه درازی در پیش است و نباید به عنوان یک درمان در نظر گرفته شود. مرکز تحقیقات سرطان بریتانیا آن را «بزرگترین جهش رو به جلو در دهه‌ها» برای بیماران سرطان لوزالمعده نامید. دکتر سم گادفری از این موسسه خیریه به بی‌بی‌سی نیوز گفت که نتایج فوق‌العاده هیجان‌انگیز بوده‌اند. «کاری که این داروی جدید انجام داده این است که راهی برای درمان غیردارویی پیدا کرده است.» «ما بالاخره شاهد پیشرفتی در سرطان پانکراس هستیم که مدت‌ها به تعویق افتاده بود.» درمان سرطان لوزالمعده به سختی مشهور است و کمترین میزان بقا را در بین تمام سرطان‌های رایج در بریتانیا دارد. به گفته سازمان «تحقیقات سرطان بریتانیا»، هر سال ۱۱۵۰۰ مورد ابتلا به این بیماری در بریتانیا تشخیص داده می‌شود و حدود ۱۰۲۰۰ نفر بر اثر آن جان خود را از دست می‌دهند. اگرچه شیمی‌درمانی می‌تواند تومورها را کمی کوچک کند، اما سرطان اغلب دوباره رشد می‌کند. بیشتر بیماران مبتلا به بیماری پیشرفته ماه‌ها زنده می‌مانند، نه سال‌ها. پزشکان امیدوارند که این درمان جدید بتواند زمان بیشتری را در اختیار بیماران قرار دهد، حتی اگر نتواند سرطان‌ها را برای همیشه متوقف کند. این آزمایش به طور متوسط به مدت یک سال و نیم بیماران را تحت نظر داشت و برخی در این مدت شاهد بازگشت سرطان خود نبودند. در این کارآزمایی بالینی، رشد تومورها در ۹۰ درصد از بیماران متوقف شد. در کمی بیش از ۶۰ درصد از بیماران، تومورها کوچک شدند یا از بین رفتند و در حدود ۸ درصد از بیماران، یعنی یک نفر از هر ۱۲ نفر، تومورها در تصاویر سی‌تی اسکن دیگر قابل تشخیص نبودند. مطالعات طولانی‌تری برای درک اینکه آیا می‌توان هر یک از این سرطان‌ها را به حالت بهبودی درآورد و برای چه مدت، مورد نیاز است. 📷 Getty Images",
-      "media_url": "https://scontent-dfw5-2.cdninstagram.com/v/t39.30808-6/910648509_1628832635940826_4498706507458724162_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=3DoyH4bwCgcQ7kNvwFM1JAU&amp;_nc_oc=Adpn_fPmydwzq_u6Pyz96iGC2FuofmFp7fQu2BZy7KfKrLr4s4YTzlDb6I0CpMlncdo&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw5-2.cdninstagram.com&amp;_nc_gid=Mpbk9O2Nio5qa6yFV_p6-w&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQR4ki9IBW4MiAtAUNCiM3OGWWb8NuGFv61p4pVfoQOzmw&amp;oe=6B0624BE",
-      "published_at": "Fri, 20 Nov 2026 04:45:05 GMT",
-      "published_at_utc": "2026-11-20T04:45:05+00:00",
-      "published_at_tehran": "2026-11-20T08:15:05+03:30",
-      "collected_at": "2026-11-21T05:10:15.861296+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": false
-    },
-    {
-      "id": "da1667193a3d2bc0fb0fa057831a0b844bdfc5fcd3a7a1134bef0ece7d42f694",
-      "source": "bbcpersian",
-      "post_url": "https://www.instagram.com/p/Df8qnSkiIqf",
-      "caption": "در ادامه واکنش‌ها به مرگ مشکوک به قتل سوگند صیادی، دانش‌آموز ۱۶ ساله در کرمانشاه که با خشم اذهان عمومی و حساسیت قضایی روبرو شده است، سخنگوی وزارت آموزش و پرورش ایران گفته است: «پیگیری ابعاد این پرونده با جدیت ادامه دارد و در صورت احراز هرگونه قصور یا تخلف از سوی عوامل مدرسه، برخورد قانونی صورت خواهد گرفت.» همچنین روز پنجشنبه ۲۸ آبان، مقام‌ها شایعات در ارتباط با تیراندازی به پدر سوگند صیادی را رد کردند و تصریح کردند که این فرد در بازداشت به سر می‌برد. به گزارش خبرگزاری ایسنا، دادستان کرمانشاه در همین رابطه گفته است: «تیراندازی به پدر مرحوم سوگند صیادی صحت ندارد؛ متهم در حال حاضر در بازداشت است و تحقیقات از او ادامه دارد؛ مطالب منتشرشده درباره آزاد بودن، وقوع تیراندازی و مجروح شدن متهم اساساً تکذیب می‌شود؛ پرونده مرگ سوگند صیادی با حساسیت و جدیت در حال رسیدگی است.» یک روز پس از خاکسپاری سوگند صیادی، مقام ها از بازداشت پدر و مدیر مدرسه او خبر دادند. همچنین وبسایت حقوق‌بشری هه‌نگاو درباره نحوه مرگ این دختر دانش‌آموز روایت‌هایی را به نقل از منابع خودش منتشر کرد که در آن به «سقوط از طبقه پنجم یک ساختمان» اشاره شده بود اما علت مرگ همچنان رسما اعلام نشده است. در همین حال، خبرگزاری رکنا یک فایل صوتی منتشر کرد که در آن فردی که گفته شد از دوستان سوگند است، می‌گوید او پیش از رفتن به خانه گفته بود: «اگر به خانه بروم، پدرم من را می‌کشد.» تشییع و خاکسپاری سوگند صیادی دوشنبه ۲۵ آبان ماه در روستای دارتوت صیادی شهرستان گیلانغرب انجام شد. 📷 hammihanonline",
-      "media_url": "https://scontent-dfw5-2.cdninstagram.com/v/t39.30808-6/913179832_1628776422613114_8441376502179366578_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=5T_7h6UPslMQ7kNvwEcQ6hB&amp;_nc_oc=AdpaaMdDV62ZWD876eUO3_04nh5bo-hR65lXXveEMt1R8DuCdHe8FPSnBruDhMfsR80&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw5-2.cdninstagram.com&amp;_nc_gid=Mpbk9O2Nio5qa6yFV_p6-w&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQRx1MRMmXu5jDIRmnHCDTBq_LXPaodP0MihAnB3wiyuxw&amp;oe=6B06385D",
-      "published_at": "Fri, 20 Nov 2026 03:14:43 GMT",
-      "published_at_utc": "2026-11-20T03:14:43+00:00",
-      "published_at_tehran": "2026-11-20T06:44:43+03:30",
-      "collected_at": "2026-11-21T05:10:15.861409+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": false
-    },
-    {
-      "id": "024fc165e578f01371d500a13c14aeca79fff20ee1440bdecde66a1e15f647d2",
-      "source": "bbcpersian",
-      "post_url": "https://www.instagram.com/p/Df8jyrTiV6y",
-      "caption": "بنابر گزارش رسانه‌ها در ایران ناهید شعشعانی، صداپیشه و مدیر دوبلاژ برجسته ایرانی درگذشت. به گزارش شرق، ناهید شعشعانی، مدیر دوبلاژ و صداپیشه ایرانی (متولد ۱۳۲۷ در تهران) در سال ۱۳۴۸ وارد عرصه حرفه‌ای دوبله شد. او از جمله گویندگی انیمیشن «زهره و زهرا» و بیش از ۱۲ سال مدیریت دوبلاژ سریال مطرح «پرستاران» را برعهده داشت. ناهید شعشعانی مدیریت دوبلاژ بسیاری از کارهای رده سنی کودک و نوجوان را هم انجام می‌داد، از جمله انیمیشن‌های «اسپایدرمن»، «بتمن» و «وودی وودی پیکر»، و از آثار برجسته صداپیشگی او به شخصیت عمه خانم در مجموعه کارتونی «حنا دختری در مزرعه» و مادر «هاچ زنبور عسل» اشاره شده است. مدیریت دوبلاژ انیمیشن راتاتویی یا همان موش سرآشپز، از دیگر آثار برجسته خانم شعشعانی است. 📷 Instagram/nahidshashani",
-      "media_url": "https://scontent-dfw5-2.cdninstagram.com/v/t39.30808-6/910779058_1628722445951845_6324604970262348411_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=0XsSxvLwpf4Q7kNvwFAjF6P&amp;_nc_oc=AdrB-_Gjp0CcwE3Zw_IJlD5e_0ZKjZt8WRDfEsirX2-XPJdPUoMnBVzmbnxw8VENC6U&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw5-2.cdninstagram.com&amp;_nc_gid=Mpbk9O2Nio5qa6yFV_p6-w&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQSfzEEaN8r_zPSuar_denCOJX3-ZP0UD2bOosZm9Ourcg&amp;oe=6B063A13",
-      "published_at": "Fri, 20 Nov 2026 02:15:06 GMT",
-      "published_at_utc": "2026-11-20T02:15:06+00:00",
-      "published_at_tehran": "2026-11-20T05:45:06+03:30",
-      "collected_at": "2026-11-21T05:10:15.861478+00:00",
+      "collected_at": "2026-11-21T06:09:28.404191+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
     }
   ],
-  "new_items": [],
+  "new_items": [
+    {
+      "id": "9fe180fc3747e0a52e5373a09d17a7ead533bd1afd598758c3f8d50f7a651c7d",
+      "source": "bbcpersian",
+      "post_url": "https://www.instagram.com/p/Df-n-R3EuhP",
+      "caption": "وب‌سایت اکسیوس به نقل از دو منبع آگاه گزارش داد که استیو ویتکاف و جرد کوشنر، فرستادگان دونالد ترامپ، روز پنجشنبه در برلین با مقام‌های ارشد قطر درباره تلاش‌های میانجی‌گرانه برای ازسرگیری مذاکرات ایران و آمریکا دیدار کردند. به گفته این منابع، محمد بن عبدالرحمن آل ثانی، نخست‌وزیر قطر، و علی الثوادی، فرستاده ویژه آن کشور، در این نشست حضور داشتند. قطر طی هفته‌های گذشته تلاش کرده است با میانجی‌گری میان تهران و واشنگتن، زمینه توافقی برای ازسرگیری آتش‌بس، احیای مذاکرات هسته‌ای و جلوگیری از آغاز دوباره جنگ را فراهم کند. اکسیوس همچنین به نقل از یک دیپلمات آگاه گزارش داده است که علی الثوادی هفته گذشته در ترکیه با عباس عراقچی، وزیر خارجه ایران، دیدار کرد و او را در جریان گفت‌وگوهای اخیر مقام‌های قطری با دونالد ترامپ و جی‌دی ونس، معاون رئیس‌جمهور آمریکا، قرار داد. دو طرف همچنین درباره راه‌های خروج مذاکرات از بن‌بست گفت‌وگو کردند. به گفته این دیپلمات، یک هیئت فنی ایرانی نیز اوایل این هفته برای ادامه مذاکرات به دوحه سفر کرد. عباس عراقچی هم در چارچوب تلاش‌ها برای یافتن راه‌حل دیپلماتیک به پاکستان و عمان سفر کرده و در عمان بار دیگر با علی الثوادی دیدار کرده است. با وجود این رفت‌وآمدها و تماس‌های دیپلماتیک، منابع اکسیوس می‌گویند که تاکنون پیشرفت قابل‌توجهی در مذاکرات حاصل نشده است. دونالد ترامپ روز جمعه در یک نشست خبری گفت که ایران خواهان توافق است، اما حاضر نیست توافقی را بپذیرد که از نظر او قابل‌قبول باشد. رئیس‌جمهور آمریکا همچنین روز پنجشنبه در گفت‌وگو با اکسیوس گفته بود که برای تصمیم‌گیری درباره اقدام بعدی خود در قبال ایران عجله‌ای ندارد و پس از آغاز سال جدید میلادی اوضاع را بررسی خواهد کرد. 📸AFP via Getty Images",
+      "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t39.30808-6/913180085_1629636762527080_8669216248079751996_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=102&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=yaAW1vwSJksQ7kNvwEqm6MN&amp;_nc_oc=AdooGQi0YxmPoBH8KaDYvaCGG8BnKnd92taYoHUC4jYy8UdB4EJEUwQazUW0j8ZrdxI&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.cdninstagram.com&amp;_nc_gid=tDYwzkPL3mk6TnuKXS_CkQ&amp;_nc_ss=7aa8c&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQSjKqFGvjlXARfe7VvBf-CP-95EyFYdgFSUctiiha6a7w&amp;oe=6B069614",
+      "published_at": "Fri, 20 Nov 2026 21:30:07 GMT",
+      "published_at_utc": "2026-11-20T21:30:07+00:00",
+      "published_at_tehran": "2026-11-21T01:00:07+03:30",
+      "collected_at": "2026-11-21T06:08:59.596825+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": true
+    },
+    {
+      "id": "a492b1087a121557aff0e8b6cc739dba8ffa8ebac45b77231f954288bf62e9ae",
+      "source": "bbcpersian",
+      "post_url": "https://www.instagram.com/p/Df-hVYNPozb",
+      "caption": "⠀⠀⠀⠀⠀⠀⠀⠀ آخرین خبرهای مهم روز جمعه ۲۹ آبان ۱۴۰۵",
+      "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/915798005_18662296174007680_6511051971707847379_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=iummHtuWYnMQ7kNvwF9s1MP&amp;_nc_oc=AdrxKjbDCT2Wm5T9_T4gq-OFltv6Lk5VXdKLTX6Xk96l2tO_Jx7sfXnssuobW0iXhGo&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;_nc_gid=tDYwzkPL3mk6TnuKXS_CkQ&amp;_nc_ss=7aa8c&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQSMs-ry5SX0jt9SaXO7GO_dgsYwcZ4OipqCVCWVw6wuHQ&amp;oe=6B069071",
+      "published_at": "Fri, 20 Nov 2026 20:32:06 GMT",
+      "published_at_utc": "2026-11-20T20:32:06+00:00",
+      "published_at_tehran": "2026-11-21T00:02:06+03:30",
+      "collected_at": "2026-11-21T06:08:59.596946+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": true
+    },
+    {
+      "id": "3ae3aeeeb17469f05c9e608a55044ba1199feb7299f62d74ed1ea68730cf9aeb",
+      "source": "bbcpersian",
+      "post_url": "https://www.instagram.com/p/Df-PALRusSu",
+      "caption": "⁨ کشتی مسافربری ام‌وی موآنزا پس از آنکه کنترل آن از دست خدمه خارج شد با صخره‌های بیسمارک برخورد کرده است. به گفته شاهدان عینی، اندکی پس از برخورد کشتی با صخره‌ها، دود غلیظی از آن بلند شد. تاکنون گزارشی از مجروح شدن افراد در این حادثه منتشر نشده است. علت این سانحه و میزان خسارت وارده به کشتی هنوز مشخص نیست. کشتی ام‌وی موآنزا یکی از بزرگ‌ترین طرح‌های دولتی تانزانیا برای بهبود حمل‌ونقل دریایی در این کشور است.⁩",
+      "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/917494480_18662258119007680_6358150369073545432_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=EKkuNuRA1KQQ7kNvwGxi_mP&amp;_nc_oc=AdooUspeS_Q9F7hvYBTO8uN3MqVZ1P1oTxD1K0_C_9gUY2vKsBekXc2rJJa3aN6Aryg&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;_nc_gid=tDYwzkPL3mk6TnuKXS_CkQ&amp;_nc_ss=7aa8c&amp;_nc_ct=RQosPBUKFQwAAAA&amp;oh=00_AQSKBx2j7_2COR1Ay4QIzOu6ZpBGo8_XuS6VaqZM53jlXw&amp;oe=6B067836",
+      "published_at": "Fri, 20 Nov 2026 17:51:55 GMT",
+      "published_at_utc": "2026-11-20T17:51:55+00:00",
+      "published_at_tehran": "2026-11-20T21:21:55+03:30",
+      "collected_at": "2026-11-21T06:08:59.597063+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": true
+    },
+    {
+      "id": "3c60b90a72fb7bd80e58f54ffe0511f9884af9c45b29824189c89e581f0dd8a2",
+      "source": "bbcpersian",
+      "post_url": "https://www.instagram.com/p/Df-J5ianUK4",
+      "caption": "‌ نیروهای اوکراینی طی هفت ماه گذشته در یک خط لوله قدیمی گاز متعلق به دوران شوروی در منطقه خارکیف، در کنار نیروهای روسی زندگی کرده و با آن‌ها جنگیده‌اند. قطر این لوله کمی بیش از یک متر است و فقط می‌توان در آن سینه‌خیز رفت. اما این مسیر نسبت به پهپادهایی که حالا آسمان بالای خط مقدم را پر کرده‌اند، امنیت بیشتری دارد.؛ پهپادهایی که مانع پیشروی هر دو طرف در میدان نبرد شده‌اند. بی‌بی‌سی نخستین رسانه بین‌المللی است که وارد این خط لوله که درون آن نبردی زیرزمینی در جریان است، شده است. این ویدیو نمایی از فضای داخل این خط لوله را نشان می‌دهد.",
+      "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/902954830_18662246431007680_5516235695748558074_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=PJEK5aycwD0Q7kNvwELtgZk&amp;_nc_oc=AdqbyNPUHfQEE_hq-b0GAkBZr6LR50bn-JJ7kKLzSViyF3mf-NUzyn_4S2DINc-7G6c&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;_nc_gid=tDYwzkPL3mk6TnuKXS_CkQ&amp;_nc_ss=7aa8c&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQS2yYqLfoxDyZ0myOVSJ68j6pvZWZRBIli_bZltN1TKuw&amp;oe=6B0675F7",
+      "published_at": "Fri, 20 Nov 2026 17:07:19 GMT",
+      "published_at_utc": "2026-11-20T17:07:19+00:00",
+      "published_at_tehran": "2026-11-20T20:37:19+03:30",
+      "collected_at": "2026-11-21T06:08:59.597182+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": true
+    },
+    {
+      "id": "eb133146e6d08bed80a94ad99b6490c5837d19c02d1e1599bd07c178327dfe8e",
+      "source": "bbcpersian",
+      "post_url": "https://www.instagram.com/p/Df-JMrBmtUB",
+      "caption": "بولا تینوبو، رئیس‌ جمهور نیجریه از پارلمان این کشور خواسته است تا اقدام به خودکشی را از فهرست جرایم کیفری خارج کند. بر اساس پیشنهاد او، افرادی که از اقدام به خودکشی جان سالم به در می‌برند به جای پیگرد قضایی باید از خدمات درمانی و توان‌بخشی و حمایت روانی برخوردار شوند. بر اساس قوانین کنونی نیجریه، اقدام به خودکشی جرم محسوب می‌شود و مجازات آن می‌تواند تا یک سال زندان، جریمه نقدی یا هر دو را در پی داشته باشد. طرح پیشنهادی دولت پس از سال‌ها مطالبه متخصصان سلامت روان برای اصلاح قانون مطرح شده است. استدلال حامیان طرح این است که پیش‌بینی مجازات در مورد افرادی که از اقدام به خودکشی کرده‌اند، ممکن است مانع از آن شود که افرادی که افکار خودکشی دارند، برای کمک گرفتن به مراکز درمانی مراجعه کنند. همچنین خانواده‌ها هم ممکن است از ترس پیگرد قانونی و انگ اجتماعی، چنین مواردی را پنهان کنند. گادزویل آکپابیو، رئیس مجلس سنای نیجریه که پیش‌تر حامی زندانی ‌کردن افرادی بود که اقدام به خودکشی کرده‌اند، اکنون از پیشنهاد رئیس‌جمهور استقبال کرده است. او تاکید کرد که مجازات افرادی که به دلیل مشکلات سلامت روان دست به چنین اقدامی زده‌اند، نادیده گرفتن شرایط آنهاست. نیجریه یکی از چندین کشور آفریقایی است که اقدام به خودکشی در آنها همچنان جرم محسوب می‌شود. غنا در سال&nbsp;۲۰۲۳ این اقدام را از فهرست جرائم کیفری خارج کرد و دادگاه عالی کنیا هم در سال&nbsp;۲۰۲۵ جرم انگاشتن آن را مغایر قانون اساسی دانست. 📞اگر افکار خودکشی دارید یا نگران سلامت روان خود هستید، با خدمات درمانی، اورژانس یا نهادهای تخصصی حمایت از سلامت روان در محل زندگی خود تماس بگیرید. Reuters #bbcpersian",
+      "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/917181225_18662244592007680_3287792861279288487_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=oFDOdvpl1nwQ7kNvwE0TQQ2&amp;_nc_oc=AdpON5l7xFlRGzfaA2slTa1hAH6jLugNllQ3xXVBq0n8fnnIqKRZWLaUN6e2V61iMf4&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;_nc_gid=tDYwzkPL3mk6TnuKXS_CkQ&amp;_nc_ss=7aa8c&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQSYzRIe4aUJsST8Hi12a78vbrF9wgnXi4nzk8LIGw3yUQ&amp;oe=6B06832A",
+      "published_at": "Fri, 20 Nov 2026 17:01:12 GMT",
+      "published_at_utc": "2026-11-20T17:01:12+00:00",
+      "published_at_tehran": "2026-11-20T20:31:12+03:30",
+      "collected_at": "2026-11-21T06:08:59.597339+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": true
+    },
+    {
+      "id": "937d7778fc3dc6d26df536d937098634aa705ac2926df347f2499b10e31c5f90",
+      "source": "bbcpersian",
+      "post_url": "https://www.instagram.com/p/Df99FdXjrz0",
+      "caption": "⁨ چین اعلام کرده تا سال ۲۰۳۰ هوش مصنوعی را از مهدکودک تا دبیرستان وارد برنامه درسی همه مدارس می‌کند. در مدرسه‌ای در پکن دانش‌آموزان با هوش مصنوعی محصول می‌سازند، اما کارشناسان نسبت به تشدید نابرابری هشدار می‌دهند. آرزو میرزاخانی در خبرنامه این هفته برنامه کلیک، نگاهی داشته به این موضوع.⁩",
+      "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/916987377_18662226856007680_3098593768127883514_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=m2n6-s6EO7sQ7kNvwEU99cG&amp;_nc_oc=AdpeFqEt28CPYhG3YUgjrgNkExi7iWp_3fhIExWEKtjMWD8sZXXJLztCpwGKCMH4Fcs&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;_nc_gid=tDYwzkPL3mk6TnuKXS_CkQ&amp;_nc_ss=7aa8c&amp;_nc_ct=RQosPBUKFQwAAAA&amp;oh=00_AQRnYvBM4X0RpD0ZyoDiAOZkjN2LMWFAXwFGs-c9rY6cqg&amp;oe=6B069FB1",
+      "published_at": "Fri, 20 Nov 2026 15:15:21 GMT",
+      "published_at_utc": "2026-11-20T15:15:21+00:00",
+      "published_at_tehran": "2026-11-20T18:45:21+03:30",
+      "collected_at": "2026-11-21T06:08:59.597435+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": true
+    },
+    {
+      "id": "a9a7b0d248a4257ebb472aa5389e9e6ef3a641b1762e711ded9317e942cc4c5b",
+      "source": "bbcpersian",
+      "post_url": "https://www.instagram.com/p/Df94QOaw04r",
+      "caption": "‌ نیروهای دولتی عراق از نخستین ایست بازرسی کتائب حزب‌الله در منطقه جرف‌نصر در جنوب بغداد عبور کردند. این در حالی است که نیروهای مسلح این گروه همچنان در مواضع خود مستقر بودند. به نظر می‌رسد این بخشی از مصالحه‌ای است که سعی دارد از رویارویی نیروهای دولتی با کتائب حزب‌الله جلوگیری کند. علی زیدی، نخست‌وزیر عراق، این هفته به کتائب حزب‌الله مهلت داده بود تا منطقه جرف صخر، معروف به جرف‌نصر، را ترک کنند. این تصمیم پس از آن گرفته شد که دولت عراق اعلام کرد قاچاق نفت در این منطقه انجام می‌شود. گروه مسلح کتائب حزب‌الله این ادعا را رد کرده است. کتائب حزب‌الله از گروه‌های مسلح مورد حمایت ایران است. این گروه بیش از یک دهه است که پس از مشارکت در پس‌ گرفتن منطقه جرف‌نصر از گروه داعش، در این منطقه حضور دارد. عراق با افزایش فشارهای آمریکا برای محدود کردن نفوذ ایران و مهار گروه‌های مسلح مورد حمایت تهران روبه‌رو است آمریکا این گروه‌های مسلح را «سازمان‌های تروریستی» می‌داند.",
+      "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/915426203_18662210776007680_78274562754085619_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=h4zGFgE6JDQQ7kNvwGZUhvU&amp;_nc_oc=AdoQrdOeMk7XI0mZZEjy48kDuO1jpTbGeQhc3K8KXGMth1e9067fDZqG2oEbWjx1vEs&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;_nc_gid=tDYwzkPL3mk6TnuKXS_CkQ&amp;_nc_ss=7aa8c&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQQg6FF1Ux4mz8bTdziIQ0mtEfZ6j2Sv8-caj4pJvkBQkA&amp;oe=6B069731",
+      "published_at": "Fri, 20 Nov 2026 14:33:08 GMT",
+      "published_at_utc": "2026-11-20T14:33:08+00:00",
+      "published_at_tehran": "2026-11-20T18:03:08+03:30",
+      "collected_at": "2026-11-21T06:08:59.597572+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": true
+    },
+    {
+      "id": "f79532f035a89f2d7e8f197e62c69c068729eeb97be8f84ae00b31dccdcec6b1",
+      "source": "bbcpersian",
+      "post_url": "https://www.instagram.com/p/Df93sZoHUDQ",
+      "caption": "⠀⠀⠀⠀⠀⠀ سرخط خبرها، جمعه ۲۹ آبان ۱۴۰۵",
+      "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/902954783_18662209717007680_1462216588695538640_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=99d8QirvpO8Q7kNvwHx6cSV&amp;_nc_oc=AdqzeuQzsBh2jLrLkFRMxfxiXqu_172aQKhzNwPdvYe-xY1F6szhrLSXA8nQAL2rgkM&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;_nc_gid=tDYwzkPL3mk6TnuKXS_CkQ&amp;_nc_ss=7aa8c&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQQvXXF7vRcT8xlpNOYxwbsSpscg1owjxgiPD1RdyAFBnA&amp;oe=6B06A7A1",
+      "published_at": "Fri, 20 Nov 2026 14:28:15 GMT",
+      "published_at_utc": "2026-11-20T14:28:15+00:00",
+      "published_at_tehran": "2026-11-20T17:58:15+03:30",
+      "collected_at": "2026-11-21T06:08:59.597661+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": true
+    },
+    {
+      "id": "340280df4403b0212e36179776a6240b78e458e8d5b1f5d9c905a765ece8732e",
+      "source": "bbcpersian",
+      "post_url": "https://www.instagram.com/p/Df92cE3iBox",
+      "caption": "⠀⠀⠀⠀⠀⠀⠀⠀ احمد بخشایش اردستانی، عضو کمیسیون امنیت ملی مجلس ایران، می‌گوید بخشی از جامعه و افکار عمومی کشور «تا حدودی برای ساخت سلاح هسته‌ای» آمادگی دارند. به گفته او، فشارهای آمریکا ایران را به سمت طرح موضوع ساخت سلاح هسته‌ای سوق داده و به نظر می‌رسد افکار عمومی نیز تا اندازه‌ای برای چنین تغییری آماده شده است. این نماینده مجلس در عین حال با اشاره به روابط ایران با کشورهایی مانند چین و روسیه، تاکید کرده است که در این زمینه ملاحظاتی وجود دارد. به گفته آقای بخشایش اردستانی، «این کشورها به ایران توصیه می‌کنند با احتیاط بیشتری عمل کند و فعلا به سمت چنین تصمیمی نرود.» او همچنین گفته است موافقان برخورداری ایران از سلاح هسته‌ای بر این باورند که دستیابی به چنین سلاحی می‌تواند «قدرت بازدارندگی» کشور را افزایش دهد. در هفته‌های اخیر بحث بازنگری در دکترین هسته‌ای ایران و حتی احتمال خروج از پیمان منع گسترش سلاح‌های هسته‌ای (ان‌پی‌تی)، از سوی شماری از مقام‌های سیاسی، نظامی و مذهبی جمهوری اسلامی مطرح شده و به یکی از موضوعات بحث‌برانگیز در فضای سیاسی ایران تبدیل شده است. 📸JAMARAN",
+      "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t39.30808-6/915668769_1629286749228748_7922607412625907712_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=SORqCT4F6GQQ7kNvwH6gRfB&amp;_nc_oc=AdpTZPEaKHQBwkfy5lHSJVtwC7aMDiqtKIGl5mPj4dBv67GBNvCqVXXDJhWAuSfQsGE&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;_nc_gid=tDYwzkPL3mk6TnuKXS_CkQ&amp;_nc_ss=7aa8c&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQSb6dVAVhWfpQDz0B80ZWRstiKugzTYjvTkAyrv8RXuOw&amp;oe=6B06A020",
+      "published_at": "Fri, 20 Nov 2026 14:17:17 GMT",
+      "published_at_utc": "2026-11-20T14:17:17+00:00",
+      "published_at_tehran": "2026-11-20T17:47:17+03:30",
+      "collected_at": "2026-11-21T06:08:59.597816+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": true
+    }
+  ],
   "note": "Items contains the current feed snapshot for downstream news-list ingestion. Only media-complete new posts are marked seen. Publishing remains disabled pending verification and explicit approval."
 }
