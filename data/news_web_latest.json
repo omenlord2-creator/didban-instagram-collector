@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T21:27:28.273159+00:00",
+  "generated_at": "2026-11-22T22:27:48.076211+00:00",
   "source_mode": "publisher_website_rss_separate_from_instagram",
   "publishing_enabled": false,
   "count": 36,
@@ -16,11 +16,23 @@
       "title": "حادثه «بین یک نفتکش و نیروهای نظامی» در دریای عمان",
       "description": "سازمان عملیات تجارت دریایی بریتانیا اعلام کرد که روز یکشنبه گزارشی مبنی بر وقوع حادثه‌ای «میان یک نفت‌کش و نیروهای نظامی» در دریای عمان دریافت کرده است. هنوز اطلاعاتی در مورد مالکیت این نفتکش و هویت نیروهای نظامی درگیر منتشر نشده است، اما این گزارش در پی اخبار ضدونقیضی مبنی بر تلاش ایران برای شکستن محاصره دریایی آمریکا و از سرگیری صادرات نفت خود، منتشر می‌شود.",
       "article_url": "https://www.bbc.co.uk/persian/live/c539gj7rnrg1t?at_medium=RSS&at_campaign=rss",
-      "media_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3fe/live/c3a9eb10-e649-11f1-ae24-ab01d1219f55.jpg",
+      "media_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad6e/live/266604a0-e6c2-11f1-99a1-253766e7ad8b.jpg",
       "published_at": "",
       "published_at_utc": null,
       "published_at_tehran": null,
-      "collected_at": "2026-11-22T21:27:24.335368+00:00"
+      "collected_at": "2026-11-22T22:27:44.758186+00:00"
+    },
+    {
+      "publisher": "BBC Persian",
+      "source_mode": "publisher_website_rss",
+      "title": "دموکرات‌ها بزرگترین اکثریت در مجلس نمایندگان طی ۳۵ سال گذشته را کسب کردند",
+      "description": "دموکرات‌ها با مشخص شدن آرای نهایی و پیروزی چاک هابارد بر ویرجینیا فاکس، نماینده جمهوری‌خواه کارولینای شمالی، شمار کرسی‌های خود در مجلس نمایندگان را به دست‌کم ۲۵۸ کرسی رساندند؛ رقمی که بزرگ‌ترین اکثریت این حزب در مجلس طی بیش از سه دهه محسوب می‌شود.",
+      "article_url": "https://www.bbc.com/persian/articles/cklye39le064o?at_medium=RSS&at_campaign=rss",
+      "media_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b92e/live/b738c5a0-e6bb-11f1-99b6-a35a62fa4264.jpg",
+      "published_at": "Sun, 22 Nov 2026 21:33:00 GMT",
+      "published_at_utc": "2026-11-22T21:33:00+00:00",
+      "published_at_tehran": "2026-11-23T01:03:00+03:30",
+      "collected_at": "2026-11-22T22:27:44.758270+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -32,7 +44,7 @@
       "published_at": "Sun, 22 Nov 2026 19:29:09 GMT",
       "published_at_utc": "2026-11-22T19:29:09+00:00",
       "published_at_tehran": "2026-11-22T22:59:09+03:30",
-      "collected_at": "2026-11-22T21:27:24.335439+00:00"
+      "collected_at": "2026-11-22T22:27:44.758310+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -44,7 +56,7 @@
       "published_at": "Sun, 22 Nov 2026 13:32:29 GMT",
       "published_at_utc": "2026-11-22T13:32:29+00:00",
       "published_at_tehran": "2026-11-22T17:02:29+03:30",
-      "collected_at": "2026-11-22T21:27:24.335466+00:00"
+      "collected_at": "2026-11-22T22:27:44.758343+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -56,7 +68,7 @@
       "published_at": "Sun, 22 Nov 2026 11:58:22 GMT",
       "published_at_utc": "2026-11-22T11:58:22+00:00",
       "published_at_tehran": "2026-11-22T15:28:22+03:30",
-      "collected_at": "2026-11-22T21:27:24.335489+00:00"
+      "collected_at": "2026-11-22T22:27:44.758416+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -68,7 +80,7 @@
       "published_at": "Sun, 22 Nov 2026 15:43:55 GMT",
       "published_at_utc": "2026-11-22T15:43:55+00:00",
       "published_at_tehran": "2026-11-22T19:13:55+03:30",
-      "collected_at": "2026-11-22T21:27:24.335512+00:00"
+      "collected_at": "2026-11-22T22:27:44.758458+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -80,7 +92,7 @@
       "published_at": "Sun, 22 Nov 2026 16:53:02 GMT",
       "published_at_utc": "2026-11-22T16:53:02+00:00",
       "published_at_tehran": "2026-11-22T20:23:02+03:30",
-      "collected_at": "2026-11-22T21:27:24.335533+00:00"
+      "collected_at": "2026-11-22T22:27:44.758492+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -92,7 +104,7 @@
       "published_at": "Sun, 22 Nov 2026 08:14:12 GMT",
       "published_at_utc": "2026-11-22T08:14:12+00:00",
       "published_at_tehran": "2026-11-22T11:44:12+03:30",
-      "collected_at": "2026-11-22T21:27:24.335553+00:00"
+      "collected_at": "2026-11-22T22:27:44.758524+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -104,19 +116,7 @@
       "published_at": "Sun, 22 Nov 2026 03:38:27 GMT",
       "published_at_utc": "2026-11-22T03:38:27+00:00",
       "published_at_tehran": "2026-11-22T07:08:27+03:30",
-      "collected_at": "2026-11-22T21:27:24.335574+00:00"
-    },
-    {
-      "publisher": "BBC Persian",
-      "source_mode": "publisher_website_rss",
-      "title": "گزارش‌ها می‌گویند اف‌بی‌آی در حال بررسی هک پایگاه داده‌های جنایی خود است",
-      "description": "رسانه‌های آمریکایی با استناد به دوفردی که در جریان موضوع قرار گرفته‌اند، گزارش می‌دهند که اف‌بی‌آی در حال بررسی نقض آشکار پایگاه داده‌اش از اطلاعات جرایم جنایی است. پایگاه داده مرکز ملی اطلاعات جنایی (ان‌سی‌آی‌سی) توسط نیروهای انتظامی فدرال و محلی برای به اشتراک‌گذاری اطلاعات مربوط به احکام و بررسی سوابق استفاده می‌شود.",
-      "article_url": "https://www.bbc.com/persian/articles/cm894g2e70gwo?at_medium=RSS&at_campaign=rss",
-      "media_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2b5c/live/c091afc0-e663-11f1-8ebd-1d2173202734.jpg",
-      "published_at": "Sun, 22 Nov 2026 11:01:48 GMT",
-      "published_at_utc": "2026-11-22T11:01:48+00:00",
-      "published_at_tehran": "2026-11-22T14:31:48+03:30",
-      "collected_at": "2026-11-22T21:27:24.335594+00:00"
+      "collected_at": "2026-11-22T22:27:44.758558+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -128,7 +128,7 @@
       "published_at": "Sat, 21 Nov 2026 06:09:26 GMT",
       "published_at_utc": "2026-11-21T06:09:26+00:00",
       "published_at_tehran": "2026-11-21T09:39:26+03:30",
-      "collected_at": "2026-11-22T21:27:24.335613+00:00"
+      "collected_at": "2026-11-22T22:27:44.758609+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -140,7 +140,7 @@
       "published_at": "Sat, 21 Nov 2026 07:11:57 GMT",
       "published_at_utc": "2026-11-21T07:11:57+00:00",
       "published_at_tehran": "2026-11-21T10:41:57+03:30",
-      "collected_at": "2026-11-22T21:27:24.335634+00:00"
+      "collected_at": "2026-11-22T22:27:44.758644+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -152,7 +152,115 @@
       "published_at": "Fri, 20 Nov 2026 05:52:06 GMT",
       "published_at_utc": "2026-11-20T05:52:06+00:00",
       "published_at_tehran": "2026-11-20T09:22:06+03:30",
-      "collected_at": "2026-11-22T21:27:24.335655+00:00"
+      "collected_at": "2026-11-22T22:27:44.758675+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "تاکید سفارت ایران در بیروت بر حمایت قاطعانه تهران از لبنان",
+      "description": "سفارت ایران در بیروت در پیامی به مناسبت روز استقلال لبنان تأکید کرد که جمهوری اسلامی ایران از قبل از آزادسازی سال ۲۰۰۰ قاطعانه در کنار لبنان ایستاده و همچنان به این کار ادامه می‌دهد.",
+      "article_url": "https://www.isna.ir/news/1405090200786/%D8%AA%D8%A7%DA%A9%DB%8C%D8%AF-%D8%B3%D9%81%D8%A7%D8%B1%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A8%DB%8C%D8%B1%D9%88%D8%AA-%D8%A8%D8%B1-%D8%AD%D9%85%D8%A7%DB%8C%D8%AA-%D9%82%D8%A7%D8%B7%D8%B9%D8%A7%D9%86%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A7%D8%B2-%D9%84%D8%A8%D9%86%D8%A7%D9%86",
+      "media_url": "https://cdn.isna.ir/d/2026/11/23/4/64065659.jpg",
+      "published_at": "Sun, 22 Nov 2026 22:25:05 GMT",
+      "published_at_utc": "2026-11-22T22:25:05+00:00",
+      "published_at_tehran": "2026-11-23T01:55:05+03:30",
+      "collected_at": "2026-11-22T22:27:46.904934+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "هشدارهای اطلاعاتی آمریکا درباره اختلالات فنی در آینده",
+      "description": "مدیر اطلاعات ملی آمریکا اختلالات بیشتر در خدمات فناوری ایالات متحده را در دوره آینده پیش‌بینی کرد، این در حالی است که گزارش‌های رسانه‌ها حاکی از آن بود که پروازهای خطوط هوایی دلتا در فرودگاه آتلانتا به دلیل نقص فنی با تأخیر مواجه شده‌اند.",
+      "article_url": "https://www.isna.ir/news/1405090200785/%D9%87%D8%B4%D8%AF%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%84%D8%A7%D8%AA-%D9%81%D9%86%DB%8C-%D8%AF%D8%B1-%D8%A2%DB%8C%D9%86%D8%AF%D9%87",
+      "media_url": "https://cdn.isna.ir/d/2026/11/23/4/64065658.jpg",
+      "published_at": "Sun, 22 Nov 2026 22:23:27 GMT",
+      "published_at_utc": "2026-11-22T22:23:27+00:00",
+      "published_at_tehran": "2026-11-23T01:53:27+03:30",
+      "collected_at": "2026-11-22T22:27:46.904985+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "۳۰ مورد مسمومیت و یک فوتی با متانول در شیراز و مرودشت طی ۲۴ ساعت گذشته",
+      "description": "معاون درمان دانشگاه علوم پزشکی شیراز از مراجعه حدود ۳۰ بیمار با علائم مسمومیت با متانول (الکل صنعتی) به بیمارستان‌های شیراز و مرودشت طی ۲۴ ساعت گذشته خبر داد و گفت: متأسفانه در میان این موارد، یک نفر جان خود را از دست داده است.",
+      "article_url": "https://www.isna.ir/news/1405090200784/%DB%B3%DB%B0-%D9%85%D9%88%D8%B1%D8%AF-%D9%85%D8%B3%D9%85%D9%88%D9%85%DB%8C%D8%AA-%D9%88-%DB%8C%DA%A9-%D9%81%D9%88%D8%AA%DB%8C-%D8%A8%D8%A7-%D9%85%D8%AA%D8%A7%D9%86%D9%88%D9%84-%D8%AF%D8%B1-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D9%88-%D9%85%D8%B1%D9%88%D8%AF%D8%B4%D8%AA-%D8%B7%DB%8C-%DB%B2%DB%B4-%D8%B3%D8%A7%D8%B9%D8%AA",
+      "media_url": "https://cdn.isna.ir/d/2026/11/23/4/64065660.jpg",
+      "published_at": "Sun, 22 Nov 2026 22:16:55 GMT",
+      "published_at_utc": "2026-11-22T22:16:55+00:00",
+      "published_at_tehran": "2026-11-23T01:46:55+03:30",
+      "collected_at": "2026-11-22T22:27:46.905020+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "خلاصه بازی لیورپول مقابل منچستریونایتد",
+      "description": "در هفته یازدهم رقابت‌های لیگ جزیره، تیم فوتبال لیورپول به مصاف منچستر یونایتد رفت و با نتیجه قاطع ۴ بر صفر در این دیدار به برتری رسید.",
+      "article_url": "https://www.isna.ir/news/1405090200783/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D8%A8%D8%A7%D8%B2%DB%8C-%D9%84%DB%8C%D9%88%D8%B1%D9%BE%D9%88%D9%84-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D9%85%D9%86%DA%86%D8%B3%D8%AA%D8%B1%DB%8C%D9%88%D9%86%D8%A7%DB%8C%D8%AA%D8%AF",
+      "media_url": "https://cdn.isna.ir/d/2026/11/23/4/64065652.jpg",
+      "published_at": "Sun, 22 Nov 2026 22:00:51 GMT",
+      "published_at_utc": "2026-11-22T22:00:51+00:00",
+      "published_at_tehran": "2026-11-23T01:30:51+03:30",
+      "collected_at": "2026-11-22T22:27:46.905051+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "تأکید رهبر شهید انقلاب بر تربیت نخبگان مسئولیت‌پذیر",
+      "description": "پژوهشگر حقوق خانواده و معاون پژوهش واحد بین‌الملل مکتب نرجس با بیان اینکه رهبر شهید انقلاب ما همواره تاکید داشتند علم بدون اخلاق، قدرتی بدون جهت است، گفت: علم به‌تنهایی نمی‌تواند تضمین‌کننده سعادت جامعه باشد، بلکه پیشرفت پایدار زمانی محقق می‌شود که دانش در کنار اخلاق، ایمان و مسئولیت‌پذیری اجتماعی قرار گیرد.",
+      "article_url": "https://www.isna.ir/news/1405090100702/%D8%AA%D8%A3%DA%A9%DB%8C%D8%AF-%D8%B1%D9%87%D8%A8%D8%B1-%D8%B4%D9%87%DB%8C%D8%AF-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8-%D8%A8%D8%B1-%D8%AA%D8%B1%D8%A8%DB%8C%D8%AA-%D9%86%D8%AE%D8%A8%DA%AF%D8%A7%D9%86-%D9%85%D8%B3%D8%A6%D9%88%D9%84%DB%8C%D8%AA-%D9%BE%D8%B0%DB%8C%D8%B1",
+      "media_url": "https://cdn.isna.ir/d/2026/07/01/4/63888972.jpg",
+      "published_at": "Sun, 22 Nov 2026 22:00:00 GMT",
+      "published_at_utc": "2026-11-22T22:00:00+00:00",
+      "published_at_tehran": "2026-11-23T01:30:00+03:30",
+      "collected_at": "2026-11-22T22:27:46.905082+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "مقامات شرق لیبی خواستار مداخله شورای امنیت درباره حملات به کشتی‌ها شدند",
+      "description": "در پی انفجار در عرشه یک کشتی روسی در پایگاه دریایی بنغازی مقامات شرق لیبی از شورای امنیت درخواست کردند که تحقیقات فوری درباره حملات به یک کشتی روسی و یک کشتی مالتی در بنغازی را آغاز کند.",
+      "article_url": "https://www.isna.ir/news/1405090200782/%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA-%D8%B4%D8%B1%D9%82-%D9%84%DB%8C%D8%A8%DB%8C-%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1-%D9%85%D8%AF%D8%A7%D8%AE%D9%84%D9%87-%D8%B4%D9%88%D8%B1%D8%A7%DB%8C-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D8%A8%D9%87-%DA%A9%D8%B4%D8%AA%DB%8C-%D9%87%D8%A7",
+      "media_url": "https://cdn.isna.ir/d/2026/11/23/4/64065655.jpg",
+      "published_at": "Sun, 22 Nov 2026 21:58:46 GMT",
+      "published_at_utc": "2026-11-22T21:58:46+00:00",
+      "published_at_tehran": "2026-11-23T01:28:46+03:30",
+      "collected_at": "2026-11-22T22:27:46.905112+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "برتری استاندارد لیژ با درخشش دنیس درگاهی",
+      "description": "دنیس درگاهی با گلزنی در پیروزی استاندارد لیژ مقابل لومل، تعداد گل‌های این فصل خود را به هشت رساند و به رقابت برای عنوان آقای گلی لیگ بلژیک ادامه داد.",
+      "article_url": "https://www.isna.ir/news/1405090200781/%D8%A8%D8%B1%D8%AA%D8%B1%DB%8C-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1%D8%AF-%D9%84%DB%8C%DA%98-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%AE%D8%B4%D8%B4-%D8%AF%D9%86%DB%8C%D8%B3-%D8%AF%D8%B1%DA%AF%D8%A7%D9%87%DB%8C",
+      "media_url": "https://cdn.isna.ir/d/2026/11/23/4/64065657.jpg",
+      "published_at": "Sun, 22 Nov 2026 21:52:54 GMT",
+      "published_at_utc": "2026-11-22T21:52:54+00:00",
+      "published_at_tehran": "2026-11-23T01:22:54+03:30",
+      "collected_at": "2026-11-22T22:27:46.905142+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "انرژی تاریک همان نیروی نگه‌دارنده هسته‌های اتم است!",
+      "description": "ستاره‌شناسان در جدیدترین اظهار نظر خود درباره ماده تاریک مرموز می‌گویند انرژی تاریک ممکن است از همان نیرویی ناشی شود که هسته‌های اتمی را در کنار هم نگه می‌دارد.",
+      "article_url": "https://www.isna.ir/news/1405090100513/%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D8%AA%D8%A7%D8%B1%DB%8C%DA%A9-%D9%87%D9%85%D8%A7%D9%86-%D9%86%DB%8C%D8%B1%D9%88%DB%8C-%D9%86%DA%AF%D9%87-%D8%AF%D8%A7%D8%B1%D9%86%D8%AF%D9%87-%D9%87%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C-%D8%A7%D8%AA%D9%85-%D8%A7%D8%B3%D8%AA",
+      "media_url": "https://cdn.isna.ir/d/2026/11/22/4/64065135.jpg",
+      "published_at": "Sun, 22 Nov 2026 21:40:00 GMT",
+      "published_at_utc": "2026-11-22T21:40:00+00:00",
+      "published_at_tehran": "2026-11-23T01:10:00+03:30",
+      "collected_at": "2026-11-22T22:27:46.905173+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "فراهم کردن خدمات درمانی -حمایتی مستمر و اشتغال لازمه بازگشت معتادان به جامعه است",
+      "description": "معاون قضایی رئیس‌کل دادگستری خراسان‌رضوی با بیان اینکه جمع‌آوری افراد دارای اعتیاد از سطح شهر، بدون فراهم کردن شرایط لازم برای درمان، مراقبت و بازگشت به زندگی اجتماعی، به‌تنهایی نمی‌تواند مسئله را حل کند، گفت: برای اثربخشی اقدامات، لازم است خدمات درمانی و حمایتی مستمر و زمینه اشتغال و بازگشت این افراد به جامعه فراهم شود.",
+      "article_url": "https://www.isna.ir/news/1405090100698/%D9%81%D8%B1%D8%A7%D9%87%D9%85-%DA%A9%D8%B1%D8%AF%D9%86-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%AF%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%AD%D9%85%D8%A7%DB%8C%D8%AA%DB%8C-%D9%85%D8%B3%D8%AA%D9%85%D8%B1-%D9%88-%D8%A7%D8%B4%D8%AA%D8%BA%D8%A7%D9%84-%D9%84%D8%A7%D8%B2%D9%85%D9%87-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D9%85%D8%B9%D8%AA%D8%A7%D8%AF%D8%A7%D9%86",
+      "media_url": "https://cdn.isna.ir/d/2025/12/18/4/63697579.jpg",
+      "published_at": "Sun, 22 Nov 2026 21:30:00 GMT",
+      "published_at_utc": "2026-11-22T21:30:00+00:00",
+      "published_at_tehran": "2026-11-23T01:00:00+03:30",
+      "collected_at": "2026-11-22T22:27:46.905202+00:00"
     },
     {
       "publisher": "ISNA",
@@ -164,7 +272,7 @@
       "published_at": "Sun, 22 Nov 2026 21:04:45 GMT",
       "published_at_utc": "2026-11-22T21:04:45+00:00",
       "published_at_tehran": "2026-11-23T00:34:45+03:30",
-      "collected_at": "2026-11-22T21:27:26.259430+00:00"
+      "collected_at": "2026-11-22T22:27:46.905231+00:00"
     },
     {
       "publisher": "ISNA",
@@ -176,7 +284,7 @@
       "published_at": "Sun, 22 Nov 2026 21:03:10 GMT",
       "published_at_utc": "2026-11-22T21:03:10+00:00",
       "published_at_tehran": "2026-11-23T00:33:10+03:30",
-      "collected_at": "2026-11-22T21:27:26.259469+00:00"
+      "collected_at": "2026-11-22T22:27:46.905262+00:00"
     },
     {
       "publisher": "ISNA",
@@ -188,115 +296,55 @@
       "published_at": "Sun, 22 Nov 2026 21:00:00 GMT",
       "published_at_utc": "2026-11-22T21:00:00+00:00",
       "published_at_tehran": "2026-11-23T00:30:00+03:30",
-      "collected_at": "2026-11-22T21:27:26.259495+00:00"
+      "collected_at": "2026-11-22T22:27:46.905291+00:00"
     },
     {
-      "publisher": "ISNA",
+      "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "قهرمانی قاطع کارلوس آلکاراس در آخرین رویداد فصل",
-      "description": "کارلوس آلکاراس اسپانیایی با شکست نفر نخست رنکینگ برترین تنیسورهای جهان برای نخستین بار به عنوان قهرمانی مسابقات پایان فصل در تورین ایتالیا دست یافت.",
-      "article_url": "https://www.isna.ir/news/1405090100778/%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D9%82%D8%A7%D8%B7%D8%B9-%DA%A9%D8%A7%D8%B1%D9%84%D9%88%D8%B3-%D8%A2%D9%84%DA%A9%D8%A7%D8%B1%D8%A7%D8%B3-%D8%AF%D8%B1-%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%D8%B1%D9%88%DB%8C%D8%AF%D8%A7%D8%AF-%D9%81%D8%B5%D9%84",
-      "media_url": "https://cdn.isna.ir/d/2025/09/03/4/63573445.jpg",
-      "published_at": "Sun, 22 Nov 2026 20:06:33 GMT",
-      "published_at_utc": "2026-11-22T20:06:33+00:00",
-      "published_at_tehran": "2026-11-22T23:36:33+03:30",
-      "collected_at": "2026-11-22T21:27:26.259517+00:00"
+      "title": "پسر نتانیاهو خواستار لغو جایگاه رسمی زبان عربی در سرزمین های اشغالی شد",
+      "description": "تهران-ایرنا- همزمان با ادامه کارزار بنیامین نتانیاهو علیه احزاب عربی و مخالفت وی با مشارکت این احزاب در کابینه جدید، پسرش یائیر نتانیاهو خواستار لغو جایگاه رسمی زبان عربی در سرزمین های اشغالی و حذف نوشته‌های عربی از تمامی تابلوها و اسناد رسمی این رژیم شد.",
+      "article_url": "https://www.irna.ir/news/86329695/%D9%BE%D8%B3%D8%B1-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1-%D9%84%D8%BA%D9%88-%D8%AC%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%B1%D8%B3%D9%85%DB%8C-%D8%B2%D8%A8%D8%A7%D9%86-%D8%B9%D8%B1%D8%A8%DB%8C-%D8%AF%D8%B1-%D8%B3%D8%B1%D8%B2%D9%85%DB%8C%D9%86-%D9%87%D8%A7%DB%8C",
+      "media_url": "https://img9.irna.ir/d/r2/2026/08/30/4/173074530.jpg",
+      "published_at": "Sun, 22 Nov 2026 22:11:32 GMT",
+      "published_at_utc": "2026-11-22T22:11:32+00:00",
+      "published_at_tehran": "2026-11-23T01:41:32+03:30",
+      "collected_at": "2026-11-22T22:27:48.075809+00:00"
     },
     {
-      "publisher": "ISNA",
+      "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "یمن: جنایت‌های سعودی‌ها واقعیت شکست آن‌ها در میدان را تغییر نمی‌دهد",
-      "description": "سخنگوی دولت یمن گفت: جنایت‌های دشمن سعودی، واقعیت شکست آنان در میدان را تغییر نخواهد داد.",
-      "article_url": "https://www.isna.ir/news/1405090100777/%DB%8C%D9%85%D9%86-%D8%AC%D9%86%D8%A7%DB%8C%D8%AA-%D9%87%D8%A7%DB%8C-%D8%B3%D8%B9%D9%88%D8%AF%DB%8C-%D9%87%D8%A7-%D9%88%D8%A7%D9%82%D8%B9%DB%8C%D8%AA-%D8%B4%DA%A9%D8%B3%D8%AA-%D8%A2%D9%86-%D9%87%D8%A7-%D8%AF%D8%B1-%D9%85%DB%8C%D8%AF%D8%A7%D9%86-%D8%B1%D8%A7-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D9%86%D9%85%DB%8C-%D8%AF%D9%87%D8%AF",
-      "media_url": "https://cdn.isna.ir/d/2026/09/17/4/63976553.jpg",
-      "published_at": "Sun, 22 Nov 2026 20:05:22 GMT",
-      "published_at_utc": "2026-11-22T20:05:22+00:00",
-      "published_at_tehran": "2026-11-22T23:35:22+03:30",
-      "collected_at": "2026-11-22T21:27:26.259538+00:00"
+      "title": "زخمی شدن ۱۰ تن در حملات شهپادی به دو کشتی روسی و تجاری در شرق لیبی",
+      "description": "تهران-ایرنا-به دنبال حملات شهپاد ( شناور هدایت پذیر از دور ) به یک کشتی جنگی روسیه و یک کشتی تجاری با پرچم مالت در نزدیکی سواحل بنغازی، منابع پزشکی از زخمی شدن ۱۰ نفر، از جمله اتباع روسیه و لیبی خبر دادند.",
+      "article_url": "https://www.irna.ir/news/86329694/%D8%B2%D8%AE%D9%85%DB%8C-%D8%B4%D8%AF%D9%86-%DB%B1%DB%B0-%D8%AA%D9%86-%D8%AF%D8%B1-%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D8%B4%D9%87%D9%BE%D8%A7%D8%AF%DB%8C-%D8%A8%D9%87-%D8%AF%D9%88-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%B1%D9%88%D8%B3%DB%8C-%D9%88-%D8%AA%D8%AC%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%B4%D8%B1%D9%82",
+      "media_url": "https://img9.irna.ir/d/r2/2025/05/13/4/171863270.jpg",
+      "published_at": "Sun, 22 Nov 2026 21:58:13 GMT",
+      "published_at_utc": "2026-11-22T21:58:13+00:00",
+      "published_at_tehran": "2026-11-23T01:28:13+03:30",
+      "collected_at": "2026-11-22T22:27:48.075864+00:00"
     },
     {
-      "publisher": "ISNA",
+      "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "عملکرد موفق کهگیلویه و بویراحمد در مدیریت مصرف انرژی طی سال ۱۴۰۵",
-      "description": "استاندار کهگیلویه و بویراحمد با اشاره به عملکرد مطلوب استان در مدیریت مصرف برق و گاز، گفت: با وجود ناترازی‌های موجود در حوزه انرژی، همراهی دستگاه‌های اجرایی و مشارکت مردم موجب شد استان در اجرای برنامه‌های مدیریت مصرف، نتایج قابل قبولی به دست آورد.",
-      "article_url": "https://www.isna.ir/news/1405090100776/%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%D9%85%D9%88%D9%81%D9%82-%DA%A9%D9%87%DA%AF%DB%8C%D9%84%D9%88%DB%8C%D9%87-%D9%88-%D8%A8%D9%88%DB%8C%D8%B1%D8%A7%D8%AD%D9%85%D8%AF-%D8%AF%D8%B1-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D9%85%D8%B5%D8%B1%D9%81-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D8%B7%DB%8C-%D8%B3%D8%A7%D9%84-%DB%B1%DB%B4%DB%B0%DB%B5",
-      "media_url": "https://cdn.isna.ir/d/2026/11/22/4/64065640.jpg",
-      "published_at": "Sun, 22 Nov 2026 20:03:31 GMT",
-      "published_at_utc": "2026-11-22T20:03:31+00:00",
-      "published_at_tehran": "2026-11-22T23:33:31+03:30",
-      "collected_at": "2026-11-22T21:27:26.259563+00:00"
+      "title": "مقام نظامی یمنی: آرامکو همچنان در فهرست اهداف نیروهای مسلح یمن قرار دارد",
+      "description": "تهران-ایرنا- یک منبع نظامی یمنی به مقامات دولت ریاض هشدار داد که شرکت نفتی آرامکو همچنان هدف حملات مستمر نیروهای مسلح این کشور است.",
+      "article_url": "https://www.irna.ir/news/86329689/%D9%85%D9%82%D8%A7%D9%85-%D9%86%D8%B8%D8%A7%D9%85%DB%8C-%DB%8C%D9%85%D9%86%DB%8C-%D8%A2%D8%B1%D8%A7%D9%85%DA%A9%D9%88-%D9%87%D9%85%DA%86%D9%86%D8%A7%D9%86-%D8%AF%D8%B1-%D9%81%D9%87%D8%B1%D8%B3%D8%AA-%D8%A7%D9%87%D8%AF%D8%A7%D9%81-%D9%86%DB%8C%D8%B1%D9%88%D9%87%D8%A7%DB%8C-%D9%85%D8%B3%D9%84%D8%AD-%DB%8C%D9%85%D9%86",
+      "media_url": "https://img9.irna.ir/d/r2/2020/02/16/4/156972769.jpg",
+      "published_at": "Sun, 22 Nov 2026 21:32:49 GMT",
+      "published_at_utc": "2026-11-22T21:32:49+00:00",
+      "published_at_tehran": "2026-11-23T01:02:49+03:30",
+      "collected_at": "2026-11-22T22:27:48.075905+00:00"
     },
     {
-      "publisher": "ISNA",
+      "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "احتمال قطعی گاز در شرق کرمان؛ شورای شهر بم خواستار عدالت در توزیع انرژی شد",
-      "description": "جلسه فوق‌العاده شورای شهر بم با حضور فرماندار، شهردار، مدیران بخش انرژی و نمایندگان اصناف برگزار و با توجه به احتمال اعمال محدودیت‌های تامین گاز در شرق استان(بم، ریگان، فهرج، نرماشیر و گنبکی)، بر ضرورت مدیریت کنشگرانه و جلوگیری از تحمیل بحران به ساکنان منطقه تأکید شد.",
-      "article_url": "https://www.isna.ir/news/1405090100775/%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D9%82%D8%B7%D8%B9%DB%8C-%DA%AF%D8%A7%D8%B2-%D8%AF%D8%B1-%D8%B4%D8%B1%D9%82-%DA%A9%D8%B1%D9%85%D8%A7%D9%86-%D8%B4%D9%88%D8%B1%D8%A7%DB%8C-%D8%B4%D9%87%D8%B1-%D8%A8%D9%85-%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1-%D8%B9%D8%AF%D8%A7%D9%84%D8%AA-%D8%AF%D8%B1-%D8%AA%D9%88%D8%B2%DB%8C%D8%B9",
-      "media_url": "https://cdn.isna.ir/d/2026/11/22/4/64065644.jpg",
-      "published_at": "Sun, 22 Nov 2026 20:02:34 GMT",
-      "published_at_utc": "2026-11-22T20:02:34+00:00",
-      "published_at_tehran": "2026-11-22T23:32:34+03:30",
-      "collected_at": "2026-11-22T21:27:26.259584+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "فرمانده سپاه ثارالله: انسجام حوزه و دانشگاه یک ضرورت استراتژیک است",
-      "description": "فرمانده سپاه ثارالله استان کرمان گفت: انسجام این دو بال قدرت(حوزه و دانشگاه) امروز یک ضرورت استراتژیک است، همانطور که در طول عمر انقلاب بوده و این روزها بیشتر به انسجام نیاز داریم.",
-      "article_url": "https://www.isna.ir/news/1405090100774/%D9%81%D8%B1%D9%85%D8%A7%D9%86%D8%AF%D9%87-%D8%B3%D9%BE%D8%A7%D9%87-%D8%AB%D8%A7%D8%B1%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%86%D8%B3%D8%AC%D8%A7%D9%85-%D8%AD%D9%88%D8%B2%D9%87-%D9%88-%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87-%DB%8C%DA%A9-%D8%B6%D8%B1%D9%88%D8%B1%D8%AA-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%DA%98%DB%8C%DA%A9",
-      "media_url": "https://cdn.isna.ir/d/2026/11/22/4/64065643.jpg",
-      "published_at": "Sun, 22 Nov 2026 19:55:14 GMT",
-      "published_at_utc": "2026-11-22T19:55:14+00:00",
-      "published_at_tehran": "2026-11-22T23:25:14+03:30",
-      "collected_at": "2026-11-22T21:27:26.259604+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "یمن: آرامکو همچنان در فهرست اهداف نیروهای مسلح ما قرار دارد",
-      "description": "یک منبع نظامی یمن از ادامه هدف قرار گرفتن شرکت نفتی آرامکو عربستان خبر داد و به شرکت‌های هواپیمایی و سرمایه‌گذاران درباره نزدیک شدن به فرودگاه‌ها و تأسیسات نفتی این کشور هشدار داد.",
-      "article_url": "https://www.isna.ir/news/1405090100773/%DB%8C%D9%85%D9%86-%D8%A2%D8%B1%D8%A7%D9%85%DA%A9%D9%88-%D9%87%D9%85%DA%86%D9%86%D8%A7%D9%86-%D8%AF%D8%B1-%D9%81%D9%87%D8%B1%D8%B3%D8%AA-%D8%A7%D9%87%D8%AF%D8%A7%D9%81-%D9%86%DB%8C%D8%B1%D9%88%D9%87%D8%A7%DB%8C-%D9%85%D8%B3%D9%84%D8%AD-%D9%85%D8%A7-%D9%82%D8%B1%D8%A7%D8%B1-%D8%AF%D8%A7%D8%B1%D8%AF",
-      "media_url": "https://cdn.isna.ir/d/2026/10/05/4/64002307.jpg",
-      "published_at": "Sun, 22 Nov 2026 19:53:11 GMT",
-      "published_at_utc": "2026-11-22T19:53:11+00:00",
-      "published_at_tehran": "2026-11-22T23:23:11+03:30",
-      "collected_at": "2026-11-22T21:27:26.259624+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "وزیر خارجه مصر: ایران و آمریکا می‌توانند به توافق دست یابند",
-      "description": "همزمان با تلاش میانجیگران برای خاتمه جنگ آمریکا علیه ایران، وزیر امور خارجه مصر گفت ایران و آمریکا همچنان می‌توانند به توافق دست یابند.",
-      "article_url": "https://www.isna.ir/news/1405090100772/%D9%88%D8%B2%DB%8C%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%87-%D9%85%D8%B5%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%85%DB%8C-%D8%AA%D9%88%D8%A7%D9%86%D9%86%D8%AF-%D8%A8%D9%87-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%AF%D8%B3%D8%AA-%DB%8C%D8%A7%D8%A8%D9%86%D8%AF",
-      "media_url": "https://cdn.isna.ir/d/2026/08/26/4/63949707.jpg",
-      "published_at": "Sun, 22 Nov 2026 19:50:21 GMT",
-      "published_at_utc": "2026-11-22T19:50:21+00:00",
-      "published_at_tehran": "2026-11-22T23:20:21+03:30",
-      "collected_at": "2026-11-22T21:27:26.259644+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "کشف و ضبط ۵ دستگاه ماینر غیرمجاز در  قم",
-      "description": "مجری طرح جمع‌آوری برق‌های غیرمجاز و رمزارز شرکت توزیع نیروی برق استان قم از شناسایی و جمع‌آوری تعداد ۵ دستگاه استخراج غیرمجاز رمزارز از یک واحد تجاری و دو واحد مسکونی در قم خبر داد.",
-      "article_url": "https://www.isna.ir/news/1405090100770/%DA%A9%D8%B4%D9%81-%D9%88-%D8%B6%D8%A8%D8%B7-%DB%B5-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%85%D8%A7%DB%8C%D9%86%D8%B1-%D8%BA%DB%8C%D8%B1%D9%85%D8%AC%D8%A7%D8%B2-%D8%AF%D8%B1-%D9%82%D9%85",
-      "media_url": "https://cdn.isna.ir/d/off/gilan/2026/11/02/4/64036937.jpg",
-      "published_at": "Sun, 22 Nov 2026 19:35:21 GMT",
-      "published_at_utc": "2026-11-22T19:35:21+00:00",
-      "published_at_tehran": "2026-11-22T23:05:21+03:30",
-      "collected_at": "2026-11-22T21:27:26.259664+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "فرمانده سپاه مازندران: بسیج یک فرهنگ و ترجمه عملی مردم‌سالاری دینی است",
-      "description": "فرمانده سپاه کربلای مازندران بسیج را فراتر از یک تشکیلات اداری و سازمانی دانست و گفت: بسیج یک فرهنگ، یک نگاه توحیدی به انسان و ترجمه عملی مردم‌سالاری دینی است. این تفکر انسان مسئول، مؤمن و اهل میدان تربیت می‌کند و بر همین اساس، هرگاه امور کشور به اراده و ظرفیت مردم سپرده شده، بسیاری از بن‌بست‌ها در عرصه دفاع، سازندگی و مدیریت بحران‌ها برطرف شده است.",
-      "article_url": "https://www.isna.ir/news/1405090100769/%D8%B3%D8%B1%D8%AF%D8%A7%D8%B1-%D9%85%D9%88%D8%AD%D8%AF-%D8%A8%D8%B3%DB%8C%D8%AC-%DB%8C%DA%A9-%D9%81%D8%B1%D9%87%D9%86%DA%AF-%D9%88-%D8%AA%D8%B1%D8%AC%D9%85%D9%87-%D8%B9%D9%85%D9%84%DB%8C-%D9%85%D8%B1%D8%AF%D9%85-%D8%B3%D8%A7%D9%84%D8%A7%D8%B1%DB%8C-%D8%AF%DB%8C%D9%86%DB%8C-%D8%A7%D8%B3%D8%AA",
-      "media_url": "https://cdn.isna.ir/d/2026/11/22/4/64065638.jpg",
-      "published_at": "Sun, 22 Nov 2026 19:35:08 GMT",
-      "published_at_utc": "2026-11-22T19:35:08+00:00",
-      "published_at_tehran": "2026-11-22T23:05:08+03:30",
-      "collected_at": "2026-11-22T21:27:26.259687+00:00"
+      "title": "حمله عربستان به یک کارخانه در استان صنعای یمن",
+      "description": "تهران-ایرنا- یک کارخانه سنگ‌شکن استان صنعا هدف حمله عربستان قرار گرفت و در جریان آن یکی از کارگران آن کشته شد.",
+      "article_url": "https://www.irna.ir/news/86329688/%D8%AD%D9%85%D9%84%D9%87-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%87-%DB%8C%DA%A9-%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87-%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%B5%D9%86%D8%B9%D8%A7%DB%8C-%DB%8C%D9%85%D9%86",
+      "media_url": "https://img9.irna.ir/d/r2/2026/10/28/4/173204515.jpg",
+      "published_at": "Sun, 22 Nov 2026 21:30:11 GMT",
+      "published_at_utc": "2026-11-22T21:30:11+00:00",
+      "published_at_tehran": "2026-11-23T01:00:11+03:30",
+      "collected_at": "2026-11-22T22:27:48.075944+00:00"
     },
     {
       "publisher": "IRNA",
@@ -308,7 +356,7 @@
       "published_at": "Sun, 22 Nov 2026 21:22:25 GMT",
       "published_at_utc": "2026-11-22T21:22:25+00:00",
       "published_at_tehran": "2026-11-23T00:52:25+03:30",
-      "collected_at": "2026-11-22T21:27:28.272905+00:00"
+      "collected_at": "2026-11-22T22:27:48.075982+00:00"
     },
     {
       "publisher": "IRNA",
@@ -320,7 +368,7 @@
       "published_at": "Sun, 22 Nov 2026 21:21:50 GMT",
       "published_at_utc": "2026-11-22T21:21:50+00:00",
       "published_at_tehran": "2026-11-23T00:51:50+03:30",
-      "collected_at": "2026-11-22T21:27:28.272943+00:00"
+      "collected_at": "2026-11-22T22:27:48.076016+00:00"
     },
     {
       "publisher": "IRNA",
@@ -332,7 +380,7 @@
       "published_at": "Sun, 22 Nov 2026 21:19:56 GMT",
       "published_at_utc": "2026-11-22T21:19:56+00:00",
       "published_at_tehran": "2026-11-23T00:49:56+03:30",
-      "collected_at": "2026-11-22T21:27:28.272969+00:00"
+      "collected_at": "2026-11-22T22:27:48.076051+00:00"
     },
     {
       "publisher": "IRNA",
@@ -344,7 +392,7 @@
       "published_at": "Sun, 22 Nov 2026 21:19:25 GMT",
       "published_at_utc": "2026-11-22T21:19:25+00:00",
       "published_at_tehran": "2026-11-23T00:49:25+03:30",
-      "collected_at": "2026-11-22T21:27:28.272991+00:00"
+      "collected_at": "2026-11-22T22:27:48.076084+00:00"
     },
     {
       "publisher": "IRNA",
@@ -356,7 +404,7 @@
       "published_at": "Sun, 22 Nov 2026 21:11:30 GMT",
       "published_at_utc": "2026-11-22T21:11:30+00:00",
       "published_at_tehran": "2026-11-23T00:41:30+03:30",
-      "collected_at": "2026-11-22T21:27:28.273014+00:00"
+      "collected_at": "2026-11-22T22:27:48.076114+00:00"
     },
     {
       "publisher": "IRNA",
@@ -368,7 +416,7 @@
       "published_at": "Sun, 22 Nov 2026 21:10:36 GMT",
       "published_at_utc": "2026-11-22T21:10:36+00:00",
       "published_at_tehran": "2026-11-23T00:40:36+03:30",
-      "collected_at": "2026-11-22T21:27:28.273036+00:00"
+      "collected_at": "2026-11-22T22:27:48.076145+00:00"
     },
     {
       "publisher": "IRNA",
@@ -380,7 +428,7 @@
       "published_at": "Sun, 22 Nov 2026 21:06:26 GMT",
       "published_at_utc": "2026-11-22T21:06:26+00:00",
       "published_at_tehran": "2026-11-23T00:36:26+03:30",
-      "collected_at": "2026-11-22T21:27:28.273057+00:00"
+      "collected_at": "2026-11-22T22:27:48.076176+00:00"
     },
     {
       "publisher": "IRNA",
@@ -392,55 +440,7 @@
       "published_at": "Sun, 22 Nov 2026 20:47:26 GMT",
       "published_at_utc": "2026-11-22T20:47:26+00:00",
       "published_at_tehran": "2026-11-23T00:17:26+03:30",
-      "collected_at": "2026-11-22T21:27:28.273077+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "۳۰ مورد مسمومیت و یک فوتی با متانول در شیراز و مرودشت طی ۲۴ ساعت گذشته",
-      "description": "شیراز -ایرنا- معاون درمان دانشگاه علوم پزشکی شیراز از مراجعه حدود ۳۰ بیمار با علائم مسمومیت با متانول (الکل صنعتی) به بیمارستان‌های شیراز و مرودشت طی ۲۴ ساعت گذشته خبر داد و گفت: متاسفانه در میان این موارد، یک نفر جان خود را از دست داده است.",
-      "article_url": "https://www.irna.ir/news/86329682/%DB%B3%DB%B0-%D9%85%D9%88%D8%B1%D8%AF-%D9%85%D8%B3%D9%85%D9%88%D9%85%DB%8C%D8%AA-%D9%88-%DB%8C%DA%A9-%D9%81%D9%88%D8%AA%DB%8C-%D8%A8%D8%A7-%D9%85%D8%AA%D8%A7%D9%86%D9%88%D9%84-%D8%AF%D8%B1-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D9%88-%D9%85%D8%B1%D9%88%D8%AF%D8%B4%D8%AA-%D8%B7%DB%8C-%DB%B2%DB%B4-%D8%B3%D8%A7%D8%B9%D8%AA",
-      "media_url": "https://img9.irna.ir/d/r2/2025/12/17/4/172593845.jpg",
-      "published_at": "Sun, 22 Nov 2026 20:42:25 GMT",
-      "published_at_utc": "2026-11-22T20:42:25+00:00",
-      "published_at_tehran": "2026-11-23T00:12:25+03:30",
-      "collected_at": "2026-11-22T21:27:28.273097+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "رئیس سازمان مدیریت بحران کشور:مدارس از مهم‌ترین کانون‌های نهادینه‌سازی فرهنگ ایمنی هستند",
-      "description": "تهران- ایرنا- رئیس سازمان مدیریت بحران کشور گفت: مدارس یکی از مهم‌ترین کانون‌های نهادینه‌سازی فرهنگ ایمنی هستند.",
-      "article_url": "https://www.irna.ir/news/86329669/%D8%B1%D8%A6%DB%8C%D8%B3-%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D8%A8%D8%AD%D8%B1%D8%A7%D9%86-%DA%A9%D8%B4%D9%88%D8%B1-%D9%85%D8%AF%D8%A7%D8%B1%D8%B3-%D8%A7%D8%B2-%D9%85%D9%87%D9%85-%D8%AA%D8%B1%DB%8C%D9%86-%DA%A9%D8%A7%D9%86%D9%88%D9%86-%D9%87%D8%A7%DB%8C-%D9%86%D9%87%D8%A7%D8%AF%DB%8C%D9%86%D9%87-%D8%B3%D8%A7%D8%B2%DB%8C",
-      "media_url": "https://img9.irna.ir/d/r1/2025/12/08/4/172579205.jpg",
-      "published_at": "Sun, 22 Nov 2026 20:05:05 GMT",
-      "published_at_utc": "2026-11-22T20:05:05+00:00",
-      "published_at_tehran": "2026-11-22T23:35:05+03:30",
-      "collected_at": "2026-11-22T21:27:28.273117+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "فیلم| شینا انصاری به گلستان می‌آید؛ آینده پارک ملی در نشست سه استاندار",
-      "description": "گرگان_ایرنا_ قدیر حسن‌زاده مدیرکل حفاظت محیط زیست گلستان از سفر شینا انصاری، معاون رئیس‌جمهور و رئیس سازمان حفاظت محیط زیست، به استان خبر داد و گفت: برگزاری جلسه شورای راهبری پارک ملی و ذخیره‌گاه زیست‌کره گلستان با حضور استانداران سه استان و نمایندگان جوامع محلی، از برنامه‌های اصلی این سفر است.",
-      "article_url": "https://www.irna.ir/news/86329671/%D9%81%DB%8C%D9%84%D9%85-%D8%B4%DB%8C%D9%86%D8%A7-%D8%A7%D9%86%D8%B5%D8%A7%D8%B1%DB%8C-%D8%A8%D9%87-%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86-%D9%85%DB%8C-%D8%A2%DB%8C%D8%AF-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D9%BE%D8%A7%D8%B1%DA%A9-%D9%85%D9%84%DB%8C-%D8%AF%D8%B1-%D9%86%D8%B4%D8%B3%D8%AA-%D8%B3%D9%87",
-      "media_url": "https://img9.irna.ir/d/r2/2026/11/22/4/173259866.jpg",
-      "published_at": "Sun, 22 Nov 2026 19:58:59 GMT",
-      "published_at_utc": "2026-11-22T19:58:59+00:00",
-      "published_at_tehran": "2026-11-22T23:28:59+03:30",
-      "collected_at": "2026-11-22T21:27:28.273137+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "کتاب \"در خیابان فرخی\" در یزد رونمایی شد + فیلم",
-      "description": "یزد- ایرنا- کتاب در خیابان فرخی، نوشته مریم موسوی در ۸۵ صفحه و با  ۱۸ داستان اجتماعی، یکشنبه شب طی مراسمی با حضور جمعی از اهالی فرهنگ و پژوهش در یزد رونمایی شد .",
-      "article_url": "https://www.irna.ir/news/86329641/%DA%A9%D8%AA%D8%A7%D8%A8-%D8%AF%D8%B1-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D9%81%D8%B1%D8%AE%DB%8C-%D8%AF%D8%B1-%DB%8C%D8%B2%D8%AF-%D8%B1%D9%88%D9%86%D9%85%D8%A7%DB%8C%DB%8C-%D8%B4%D8%AF-%D9%81%DB%8C%D9%84%D9%85",
-      "media_url": "https://img9.irna.ir/d/r2/2026/11/22/4/173259830.jpg",
-      "published_at": "Sun, 22 Nov 2026 19:52:39 GMT",
-      "published_at_utc": "2026-11-22T19:52:39+00:00",
-      "published_at_tehran": "2026-11-22T23:22:39+03:30",
-      "collected_at": "2026-11-22T21:27:28.273156+00:00"
+      "collected_at": "2026-11-22T22:27:48.076208+00:00"
     }
   ]
 }\n
