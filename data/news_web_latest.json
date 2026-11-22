@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T00:23:26.159244+00:00",
+  "generated_at": "2026-11-22T01:55:02.792768+00:00",
   "source_mode": "publisher_website_rss_separate_from_instagram",
   "publishing_enabled": false,
   "count": 36,
@@ -20,7 +20,19 @@
       "published_at": "",
       "published_at_utc": null,
       "published_at_tehran": null,
-      "collected_at": "2026-11-22T00:23:22.569136+00:00"
+      "collected_at": "2026-11-22T01:55:00.302899+00:00"
+    },
+    {
+      "publisher": "BBC Persian",
+      "source_mode": "publisher_website_rss",
+      "title": "وقتی کره شمالی به کره جنوبی یورش می‌برد؛ آیا سناریوی بازی جدید «کال آو دیوتی» واقع‌بینانه است؟",
+      "description": "تریلر تازه‌ترین نسخه از مجموعه پرفروش بازی‌های ویدئویی «کال آو دیوتی» با صحنه‌ای از سربازان وظیفه جوان کره جنوبی آغاز می‌شد که ظاهرا در حال انجام یک گشت عادی هستند. لحظاتی بعد، حمله موشکی کره شمالی، شبه‌جزیره را وارد جنگی تمام‌عیار می‌کند.",
+      "article_url": "https://www.bbc.com/persian/articles/c6y0e4l5984no?at_medium=RSS&at_campaign=rss",
+      "media_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4e95/live/d4b2d1b0-cc68-11f1-baeb-8d65d4bcd7ab.jpg",
+      "published_at": "Sun, 22 Nov 2026 00:54:31 GMT",
+      "published_at_utc": "2026-11-22T00:54:31+00:00",
+      "published_at_tehran": "2026-11-22T04:24:31+03:30",
+      "collected_at": "2026-11-22T01:55:00.302981+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -32,19 +44,7 @@
       "published_at": "Sun, 22 Nov 2026 00:16:02 GMT",
       "published_at_utc": "2026-11-22T00:16:02+00:00",
       "published_at_tehran": "2026-11-22T03:46:02+03:30",
-      "collected_at": "2026-11-22T00:23:22.569221+00:00"
-    },
-    {
-      "publisher": "BBC Persian",
-      "source_mode": "publisher_website_rss",
-      "title": "شوک نفتی ناشی از جنگ ایران بر مذاکرات اقلیمی کاپ ۳۱ در ترکیه سایه انداخت",
-      "description": "مذاکرات اجلاس تغییرات اقلیمی سازمان ملل متحد، کاپ ۳۱، در آنتالیای ترکیه برای دومین روز پس از موعد پایان آن ادامه یافته است؛ در حالی که اختلاف شدید کشورها بر سر آینده سوخت‌های فسیلی، دستیابی به توافق نهایی را دشوار کرده است.",
-      "article_url": "https://www.bbc.com/persian/articles/cx5y1gd37je0o?at_medium=RSS&at_campaign=rss",
-      "media_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a2c8/live/91b7db10-e600-11f1-99a1-253766e7ad8b.png",
-      "published_at": "Sat, 21 Nov 2026 23:13:47 GMT",
-      "published_at_utc": "2026-11-21T23:13:47+00:00",
-      "published_at_tehran": "2026-11-22T02:43:47+03:30",
-      "collected_at": "2026-11-22T00:23:22.569267+00:00"
+      "collected_at": "2026-11-22T01:55:00.303034+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -56,7 +56,19 @@
       "published_at": "Sat, 21 Nov 2026 22:32:55 GMT",
       "published_at_utc": "2026-11-21T22:32:55+00:00",
       "published_at_tehran": "2026-11-22T02:02:55+03:30",
-      "collected_at": "2026-11-22T00:23:22.569308+00:00"
+      "collected_at": "2026-11-22T01:55:00.303106+00:00"
+    },
+    {
+      "publisher": "BBC Persian",
+      "source_mode": "publisher_website_rss",
+      "title": "شوک نفتی ناشی از جنگ ایران بر مذاکرات اقلیمی کاپ ۳۱ در ترکیه سایه انداخت",
+      "description": "مذاکرات اجلاس تغییرات اقلیمی سازمان ملل متحد، کاپ ۳۱، در آنتالیای ترکیه برای دومین روز پس از موعد پایان آن ادامه یافته است؛ در حالی که اختلاف شدید کشورها بر سر آینده سوخت‌های فسیلی، دستیابی به توافق نهایی را دشوار کرده است.",
+      "article_url": "https://www.bbc.com/persian/articles/cx5y1gd37je0o?at_medium=RSS&at_campaign=rss",
+      "media_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a2c8/live/91b7db10-e600-11f1-99a1-253766e7ad8b.png",
+      "published_at": "Sat, 21 Nov 2026 23:13:47 GMT",
+      "published_at_utc": "2026-11-21T23:13:47+00:00",
+      "published_at_tehran": "2026-11-22T02:43:47+03:30",
+      "collected_at": "2026-11-22T01:55:00.303160+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -68,7 +80,7 @@
       "published_at": "Sat, 21 Nov 2026 18:31:24 GMT",
       "published_at_utc": "2026-11-21T18:31:24+00:00",
       "published_at_tehran": "2026-11-21T22:01:24+03:30",
-      "collected_at": "2026-11-22T00:23:22.569348+00:00"
+      "collected_at": "2026-11-22T01:55:00.303215+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -80,7 +92,7 @@
       "published_at": "Sat, 21 Nov 2026 10:09:42 GMT",
       "published_at_utc": "2026-11-21T10:09:42+00:00",
       "published_at_tehran": "2026-11-21T13:39:42+03:30",
-      "collected_at": "2026-11-22T00:23:22.569390+00:00"
+      "collected_at": "2026-11-22T01:55:00.303263+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -92,7 +104,7 @@
       "published_at": "Sat, 21 Nov 2026 10:22:45 GMT",
       "published_at_utc": "2026-11-21T10:22:45+00:00",
       "published_at_tehran": "2026-11-21T13:52:45+03:30",
-      "collected_at": "2026-11-22T00:23:22.569426+00:00"
+      "collected_at": "2026-11-22T01:55:00.303308+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -104,19 +116,7 @@
       "published_at": "Sat, 21 Nov 2026 06:09:26 GMT",
       "published_at_utc": "2026-11-21T06:09:26+00:00",
       "published_at_tehran": "2026-11-21T09:39:26+03:30",
-      "collected_at": "2026-11-22T00:23:22.569460+00:00"
-    },
-    {
-      "publisher": "BBC Persian",
-      "source_mode": "publisher_website_rss",
-      "title": "ناوهای هواپیمابر آمریکا چه ظرفیت‌هایی ایجاد می‌کنند و چه محدودیت‌هایی دارند؟",
-      "description": "با تایید خروج ناو هواپیمابر جورج واشنگتن در ۱۸ نوامبر، شمار ناوهای هواپیمابر آمریکا در نزدیکی ایران دوباره به دو فروند رسید. با این حال، هم‌پوشانی کوتاه‌مدت حضور ناوهای تئودور روزولت، جورج واشنگتن و جورج اچ. دبلیو. بوش، برای چند روز سه فرودگاه شناور با ده‌ها جنگنده و شناور همراه را در اختیار واشنگتن قرار داد؛ نیرویی که می‌توانست هم امکان حملات بیشتری را فراهم کند و هم در مقابله با پاسخ احتمالی ایران به کار بیاید.",
-      "article_url": "https://www.bbc.com/persian/articles/crz6q1el2pg9o?at_medium=RSS&at_campaign=rss",
-      "media_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/07d2/live/d46d3c30-e4dd-11f1-9cc5-e9713e77fd78.jpg",
-      "published_at": "Sat, 21 Nov 2026 07:11:57 GMT",
-      "published_at_utc": "2026-11-21T07:11:57+00:00",
-      "published_at_tehran": "2026-11-21T10:41:57+03:30",
-      "collected_at": "2026-11-22T00:23:22.569493+00:00"
+      "collected_at": "2026-11-22T01:55:00.303355+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -128,7 +128,19 @@
       "published_at": "",
       "published_at_utc": null,
       "published_at_tehran": null,
-      "collected_at": "2026-11-22T00:23:22.569516+00:00"
+      "collected_at": "2026-11-22T01:55:00.303384+00:00"
+    },
+    {
+      "publisher": "BBC Persian",
+      "source_mode": "publisher_website_rss",
+      "title": "ناوهای هواپیمابر آمریکا چه ظرفیت‌هایی ایجاد می‌کنند و چه محدودیت‌هایی دارند؟",
+      "description": "با تایید خروج ناو هواپیمابر جورج واشنگتن در ۱۸ نوامبر، شمار ناوهای هواپیمابر آمریکا در نزدیکی ایران دوباره به دو فروند رسید. با این حال، هم‌پوشانی کوتاه‌مدت حضور ناوهای تئودور روزولت، جورج واشنگتن و جورج اچ. دبلیو. بوش، برای چند روز سه فرودگاه شناور با ده‌ها جنگنده و شناور همراه را در اختیار واشنگتن قرار داد؛ نیرویی که می‌توانست هم امکان حملات بیشتری را فراهم کند و هم در مقابله با پاسخ احتمالی ایران به کار بیاید.",
+      "article_url": "https://www.bbc.com/persian/articles/crz6q1el2pg9o?at_medium=RSS&at_campaign=rss",
+      "media_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/07d2/live/d46d3c30-e4dd-11f1-9cc5-e9713e77fd78.jpg",
+      "published_at": "Sat, 21 Nov 2026 07:11:57 GMT",
+      "published_at_utc": "2026-11-21T07:11:57+00:00",
+      "published_at_tehran": "2026-11-21T10:41:57+03:30",
+      "collected_at": "2026-11-22T01:55:00.303428+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -140,19 +152,31 @@
       "published_at": "Fri, 20 Nov 2026 05:52:06 GMT",
       "published_at_utc": "2026-11-20T05:52:06+00:00",
       "published_at_tehran": "2026-11-20T09:22:06+03:30",
-      "collected_at": "2026-11-22T00:23:22.569571+00:00"
+      "collected_at": "2026-11-22T01:55:00.303470+00:00"
     },
     {
-      "publisher": "BBC Persian",
+      "publisher": "ISNA",
       "source_mode": "publisher_website_rss",
-      "title": "ترامپ: قیمت بنزین به این بستگی دارد که تکلیف‌مان را با ایران چطور روشن کنیم",
-      "description": "دونالد ترامپ، رئیس‌جمهور آمریکا، در نخستین نشست خبری خود پس از دیدار سه‌جانبه با رهبران چین و روسیه، گفت که روند قیمت بنزین در آمریکا تا حدی به چگونگی حل‌وفصل اختلافات با ایران بستگی دارد. او ضمن دفاع از تصمیم خود برای آغاز جنگ با ایران، دیدار با رهبران چین و روسیه را موفقیت‌آمیز توصیف کرد و از احتمال دستیابی به توافقی برای پایان جنگ اوکراین سخن گفت. آقای ترامپ همچنین تهدید کرد که شرکت‌های آمریکایی را از ساخت مراکز داده هوش مصنوعی در خارج از این کشور منع خواهد کرد.",
-      "article_url": "https://www.bbc.com/persian/articles/c64gn0j53qgpo?at_medium=RSS&at_campaign=rss",
-      "media_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1f54/live/19ed9fb0-e525-11f1-a094-5fdc692f3e33.png",
-      "published_at": "Fri, 20 Nov 2026 21:14:29 GMT",
-      "published_at_utc": "2026-11-20T21:14:29+00:00",
-      "published_at_tehran": "2026-11-21T00:44:29+03:30",
-      "collected_at": "2026-11-22T00:23:22.569604+00:00"
+      "title": "رکوردشکنی ایران در دولت الکترونیک/صعود در رده‌بندی جهانی",
+      "description": "ایران در تازه‌ترین ارزیابی سازمان ملل متحد از شاخص توسعه دولت الکترونیک در سال ۲۰۲۶، با ۱۴ پله صعود از رتبه ۱۰۱ به جایگاه ۸۷ جهان رسیده و بالاترین امتیاز خود از زمان آغاز این ارزیابی‌ها را ثبت کرد؛ دستاوردی که رشد خدمات آنلاین، بهبود زیرساخت‌های ارتباطی و توسعه خدمات دیجیتال را به‌عنوان پیشران‌های اصلی تحول دولت الکترونیک کشور برجسته می‌کند.",
+      "article_url": "https://www.isna.ir/news/1405083020882/%D8%B1%DA%A9%D9%88%D8%B1%D8%AF%D8%B4%DA%A9%D9%86%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%AF%D9%88%D9%84%D8%AA-%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%D9%88%D9%86%DB%8C%DA%A9-%D8%B5%D8%B9%D9%88%D8%AF-%D8%AF%D8%B1-%D8%B1%D8%AF%D9%87-%D8%A8%D9%86%D8%AF%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C",
+      "media_url": "https://cdn.isna.ir/d/2017/08/01/4/57530237.jpg",
+      "published_at": "Sun, 22 Nov 2026 01:30:00 GMT",
+      "published_at_utc": "2026-11-22T01:30:00+00:00",
+      "published_at_tehran": "2026-11-22T05:00:00+03:30",
+      "collected_at": "2026-11-22T01:55:01.877080+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "اختلاف در کاخ سفید؛ وزیر امنیت داخلی آمریکا از مصاحبه منع شد",
+      "description": "وال‌ استریت ژورنال گزارش داد، رئیس دفتر کاخ سفید، وزیر امنیت داخلی آمریکا را پس از اظهارات درباره ارتباط احتمالی اختلالات فناوری با هوش مصنوعی از مصاحبه‌های تلویزیونی منع کرد.",
+      "article_url": "https://www.isna.ir/news/1405090100027/%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%81-%D8%AF%D8%B1-%DA%A9%D8%A7%D8%AE-%D8%B3%D9%81%DB%8C%D8%AF-%D9%88%D8%B2%DB%8C%D8%B1-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D8%B2-%D9%85%D8%B5%D8%A7%D8%AD%D8%A8%D9%87-%D9%85%D9%86%D8%B9-%D8%B4%D8%AF",
+      "media_url": "https://cdn.isna.ir/d/2026/11/22/4/64064616.jpg",
+      "published_at": "Sun, 22 Nov 2026 00:30:47 GMT",
+      "published_at_utc": "2026-11-22T00:30:47+00:00",
+      "published_at_tehran": "2026-11-22T04:00:47+03:30",
+      "collected_at": "2026-11-22T01:55:01.877160+00:00"
     },
     {
       "publisher": "ISNA",
@@ -164,7 +188,7 @@
       "published_at": "Sun, 22 Nov 2026 00:17:00 GMT",
       "published_at_utc": "2026-11-22T00:17:00+00:00",
       "published_at_tehran": "2026-11-22T03:47:00+03:30",
-      "collected_at": "2026-11-22T00:23:24.565378+00:00"
+      "collected_at": "2026-11-22T01:55:01.877220+00:00"
     },
     {
       "publisher": "ISNA",
@@ -176,7 +200,7 @@
       "published_at": "Sat, 21 Nov 2026 23:50:40 GMT",
       "published_at_utc": "2026-11-21T23:50:40+00:00",
       "published_at_tehran": "2026-11-22T03:20:40+03:30",
-      "collected_at": "2026-11-22T00:23:24.565437+00:00"
+      "collected_at": "2026-11-22T01:55:01.877268+00:00"
     },
     {
       "publisher": "ISNA",
@@ -188,7 +212,7 @@
       "published_at": "Sat, 21 Nov 2026 23:50:00 GMT",
       "published_at_utc": "2026-11-21T23:50:00+00:00",
       "published_at_tehran": "2026-11-22T03:20:00+03:30",
-      "collected_at": "2026-11-22T00:23:24.565482+00:00"
+      "collected_at": "2026-11-22T01:55:01.877313+00:00"
     },
     {
       "publisher": "ISNA",
@@ -200,7 +224,7 @@
       "published_at": "Sat, 21 Nov 2026 23:35:00 GMT",
       "published_at_utc": "2026-11-21T23:35:00+00:00",
       "published_at_tehran": "2026-11-22T03:05:00+03:30",
-      "collected_at": "2026-11-22T00:23:24.565535+00:00"
+      "collected_at": "2026-11-22T01:55:01.877359+00:00"
     },
     {
       "publisher": "ISNA",
@@ -212,7 +236,7 @@
       "published_at": "Sat, 21 Nov 2026 23:30:00 GMT",
       "published_at_utc": "2026-11-21T23:30:00+00:00",
       "published_at_tehran": "2026-11-22T03:00:00+03:30",
-      "collected_at": "2026-11-22T00:23:24.565573+00:00"
+      "collected_at": "2026-11-22T01:55:01.877403+00:00"
     },
     {
       "publisher": "ISNA",
@@ -224,7 +248,7 @@
       "published_at": "Sat, 21 Nov 2026 23:15:29 GMT",
       "published_at_utc": "2026-11-21T23:15:29+00:00",
       "published_at_tehran": "2026-11-22T02:45:29+03:30",
-      "collected_at": "2026-11-22T00:23:24.565610+00:00"
+      "collected_at": "2026-11-22T01:55:01.877447+00:00"
     },
     {
       "publisher": "ISNA",
@@ -236,7 +260,7 @@
       "published_at": "Sat, 21 Nov 2026 23:00:00 GMT",
       "published_at_utc": "2026-11-21T23:00:00+00:00",
       "published_at_tehran": "2026-11-22T02:30:00+03:30",
-      "collected_at": "2026-11-22T00:23:24.565645+00:00"
+      "collected_at": "2026-11-22T01:55:01.877490+00:00"
     },
     {
       "publisher": "ISNA",
@@ -248,7 +272,7 @@
       "published_at": "Sat, 21 Nov 2026 22:50:00 GMT",
       "published_at_utc": "2026-11-21T22:50:00+00:00",
       "published_at_tehran": "2026-11-22T02:20:00+03:30",
-      "collected_at": "2026-11-22T00:23:24.565679+00:00"
+      "collected_at": "2026-11-22T01:55:01.877532+00:00"
     },
     {
       "publisher": "ISNA",
@@ -260,7 +284,7 @@
       "published_at": "Sat, 21 Nov 2026 22:48:25 GMT",
       "published_at_utc": "2026-11-21T22:48:25+00:00",
       "published_at_tehran": "2026-11-22T02:18:25+03:30",
-      "collected_at": "2026-11-22T00:23:24.565712+00:00"
+      "collected_at": "2026-11-22T01:55:01.877576+00:00"
     },
     {
       "publisher": "ISNA",
@@ -272,31 +296,19 @@
       "published_at": "Sat, 21 Nov 2026 22:39:28 GMT",
       "published_at_utc": "2026-11-21T22:39:28+00:00",
       "published_at_tehran": "2026-11-22T02:09:28+03:30",
-      "collected_at": "2026-11-22T00:23:24.565744+00:00"
+      "collected_at": "2026-11-22T01:55:01.877620+00:00"
     },
     {
-      "publisher": "ISNA",
+      "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "یازدهمین برد رئال با کامبک برابر سلتاویگو رقم خورد",
-      "description": "تیم فوتبال رئال مادرید در جریان هفته سیزدهم لالیگای اسپانیا برابر سلتاویگو به برتری رسید.",
-      "article_url": "https://www.isna.ir/news/1405090100022/%DB%8C%D8%A7%D8%B2%D8%AF%D9%87%D9%85%DB%8C%D9%86-%D8%A8%D8%B1%D8%AF-%D8%B1%D8%A6%D8%A7%D9%84-%D8%A8%D8%A7-%DA%A9%D8%A7%D9%85%D8%A8%DA%A9-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%B3%D9%84%D8%AA%D8%A7%D9%88%DB%8C%DA%AF%D9%88-%D8%B1%D9%82%D9%85-%D8%AE%D9%88%D8%B1%D8%AF",
-      "media_url": "https://cdn.isna.ir/d/2026/11/22/4/64064612.jpg",
-      "published_at": "Sat, 21 Nov 2026 22:15:47 GMT",
-      "published_at_utc": "2026-11-21T22:15:47+00:00",
-      "published_at_tehran": "2026-11-22T01:45:47+03:30",
-      "collected_at": "2026-11-22T00:23:24.565776+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "هوش مصنوعی در ورزش؛ اصلاح مسیر قهرمان‌پروری",
-      "description": "یک مدرس هوش مصنوعی در دانشگاه فردوسی مشهد گفت: هوش مصنوعی می‌تواند با جمع‌آوری داده‌های چندساله از جمله شاخص‌های آمادگی جسمانی، مهارت‌های حرکتی، نتایج مسابقات و ارزیابی‌های مربیان، تصویری دقیق از روند رشد ورزشکار ارائه دهد و با حذف نگاه تک‌بعدی و تکیه بر داده‌های مستمر، فرصت ارزیابی منصفانه‌تری را برای ورزشکاران فراهم کند.",
-      "article_url": "https://www.isna.ir/news/1405083021093/%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%AF%D8%B1-%D9%88%D8%B1%D8%B2%D8%B4-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%85%D8%B3%DB%8C%D8%B1-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D9%BE%D8%B1%D9%88%D8%B1%DB%8C",
-      "media_url": "https://cdn.isna.ir/d/off/khorasan/2026/11/21/4/64063665.jpg",
-      "published_at": "Sat, 21 Nov 2026 22:15:00 GMT",
-      "published_at_utc": "2026-11-21T22:15:00+00:00",
-      "published_at_tehran": "2026-11-22T01:45:00+03:30",
-      "collected_at": "2026-11-22T00:23:24.565808+00:00"
+      "title": "جوزف عون: تکمیل استقلال لبنان مستلزم پایان اشغالگری اسرائیل است",
+      "description": "تهران - ایرنا - رئیس‌جمهوری لبنان با اشاره به تداوم اشغال بخش‌هایی از خاک این کشور توسط رژیم صهیونیستی گفت که تکمیل استقلال لبنان مستلزم پایان اشغالگری اسرائیل است.",
+      "article_url": "https://www.irna.ir/news/86328743/%D8%AC%D9%88%D8%B2%D9%81-%D8%B9%D9%88%D9%86-%D8%AA%DA%A9%D9%85%DB%8C%D9%84-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%A7%D8%B4%D8%BA%D8%A7%D9%84%DA%AF%D8%B1%DB%8C-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84",
+      "media_url": "https://img9.irna.ir/d/r2/2026/05/09/4/172851543.jpg",
+      "published_at": "Sun, 22 Nov 2026 01:14:59 GMT",
+      "published_at_utc": "2026-11-22T01:14:59+00:00",
+      "published_at_tehran": "2026-11-22T04:44:59+03:30",
+      "collected_at": "2026-11-22T01:55:02.792269+00:00"
     },
     {
       "publisher": "IRNA",
@@ -308,7 +320,7 @@
       "published_at": "Sun, 22 Nov 2026 00:06:36 GMT",
       "published_at_utc": "2026-11-22T00:06:36+00:00",
       "published_at_tehran": "2026-11-22T03:36:36+03:30",
-      "collected_at": "2026-11-22T00:23:26.158796+00:00"
+      "collected_at": "2026-11-22T01:55:02.792331+00:00"
     },
     {
       "publisher": "IRNA",
@@ -320,7 +332,7 @@
       "published_at": "Sat, 21 Nov 2026 23:41:18 GMT",
       "published_at_utc": "2026-11-21T23:41:18+00:00",
       "published_at_tehran": "2026-11-22T03:11:18+03:30",
-      "collected_at": "2026-11-22T00:23:26.158856+00:00"
+      "collected_at": "2026-11-22T01:55:02.792382+00:00"
     },
     {
       "publisher": "IRNA",
@@ -332,7 +344,7 @@
       "published_at": "Sat, 21 Nov 2026 23:30:45 GMT",
       "published_at_utc": "2026-11-21T23:30:45+00:00",
       "published_at_tehran": "2026-11-22T03:00:45+03:30",
-      "collected_at": "2026-11-22T00:23:26.158903+00:00"
+      "collected_at": "2026-11-22T01:55:02.792428+00:00"
     },
     {
       "publisher": "IRNA",
@@ -344,7 +356,7 @@
       "published_at": "Sat, 21 Nov 2026 22:47:09 GMT",
       "published_at_utc": "2026-11-21T22:47:09+00:00",
       "published_at_tehran": "2026-11-22T02:17:09+03:30",
-      "collected_at": "2026-11-22T00:23:26.158943+00:00"
+      "collected_at": "2026-11-22T01:55:02.792472+00:00"
     },
     {
       "publisher": "IRNA",
@@ -356,7 +368,7 @@
       "published_at": "Sat, 21 Nov 2026 22:22:19 GMT",
       "published_at_utc": "2026-11-21T22:22:19+00:00",
       "published_at_tehran": "2026-11-22T01:52:19+03:30",
-      "collected_at": "2026-11-22T00:23:26.158981+00:00"
+      "collected_at": "2026-11-22T01:55:02.792516+00:00"
     },
     {
       "publisher": "IRNA",
@@ -368,7 +380,7 @@
       "published_at": "Sat, 21 Nov 2026 22:20:56 GMT",
       "published_at_utc": "2026-11-21T22:20:56+00:00",
       "published_at_tehran": "2026-11-22T01:50:56+03:30",
-      "collected_at": "2026-11-22T00:23:26.159019+00:00"
+      "collected_at": "2026-11-22T01:55:02.792560+00:00"
     },
     {
       "publisher": "IRNA",
@@ -380,7 +392,7 @@
       "published_at": "Sat, 21 Nov 2026 22:19:49 GMT",
       "published_at_utc": "2026-11-21T22:19:49+00:00",
       "published_at_tehran": "2026-11-22T01:49:49+03:30",
-      "collected_at": "2026-11-22T00:23:26.159054+00:00"
+      "collected_at": "2026-11-22T01:55:02.792601+00:00"
     },
     {
       "publisher": "IRNA",
@@ -392,7 +404,7 @@
       "published_at": "Sat, 21 Nov 2026 21:54:10 GMT",
       "published_at_utc": "2026-11-21T21:54:10+00:00",
       "published_at_tehran": "2026-11-22T01:24:10+03:30",
-      "collected_at": "2026-11-22T00:23:26.159089+00:00"
+      "collected_at": "2026-11-22T01:55:02.792641+00:00"
     },
     {
       "publisher": "IRNA",
@@ -404,7 +416,7 @@
       "published_at": "Sat, 21 Nov 2026 20:58:19 GMT",
       "published_at_utc": "2026-11-21T20:58:19+00:00",
       "published_at_tehran": "2026-11-22T00:28:19+03:30",
-      "collected_at": "2026-11-22T00:23:26.159136+00:00"
+      "collected_at": "2026-11-22T01:55:02.792682+00:00"
     },
     {
       "publisher": "IRNA",
@@ -416,7 +428,7 @@
       "published_at": "Sat, 21 Nov 2026 20:41:32 GMT",
       "published_at_utc": "2026-11-21T20:41:32+00:00",
       "published_at_tehran": "2026-11-22T00:11:32+03:30",
-      "collected_at": "2026-11-22T00:23:26.159174+00:00"
+      "collected_at": "2026-11-22T01:55:02.792722+00:00"
     },
     {
       "publisher": "IRNA",
@@ -428,19 +440,7 @@
       "published_at": "Sat, 21 Nov 2026 20:30:19 GMT",
       "published_at_utc": "2026-11-21T20:30:19+00:00",
       "published_at_tehran": "2026-11-22T00:00:19+03:30",
-      "collected_at": "2026-11-22T00:23:26.159207+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "مسمومان مصرف الکل در نیشابور به ۳۳ نفر افزایش یافت/ مرگ سه نفر",
-      "description": "مشهد-ایرنا- سرپرست معاونت درمان دانشگاه علوم پزشکی نیشابور گفت: شمار مسمومان مصرف الکل خانگی در نیشابور به ۳۳ نفر افزایش یافت و متاسفانه سه نفر جان باخته‌اند.",
-      "article_url": "https://www.irna.ir/news/86328702/%D9%85%D8%B3%D9%85%D9%88%D9%85%D8%A7%D9%86-%D9%85%D8%B5%D8%B1%D9%81-%D8%A7%D9%84%DA%A9%D9%84-%D8%AF%D8%B1-%D9%86%DB%8C%D8%B4%D8%A7%D8%A8%D9%88%D8%B1-%D8%A8%D9%87-%DB%B3%DB%B3-%D9%86%D9%81%D8%B1-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%8C%D8%A7%D9%81%D8%AA-%D9%85%D8%B1%DA%AF-%D8%B3%D9%87-%D9%86%D9%81%D8%B1",
-      "media_url": "https://img9.irna.ir/d/r2/2025/01/09/4/171612842.jpg",
-      "published_at": "Sat, 21 Nov 2026 20:14:11 GMT",
-      "published_at_utc": "2026-11-21T20:14:11+00:00",
-      "published_at_tehran": "2026-11-21T23:44:11+03:30",
-      "collected_at": "2026-11-22T00:23:26.159240+00:00"
+      "collected_at": "2026-11-22T01:55:02.792764+00:00"
     }
   ]
 }\n
