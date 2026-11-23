@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-23T03:12:42.749348+00:00",
+  "generated_at": "2026-11-23T04:26:55.645245+00:00",
   "source_mode": "public_feeds_no_login",
   "publishing_enabled": false,
   "summary": {
     "accounts": 5,
-    "fetched_posts": 30,
-    "new_posts": 2,
-    "publish_ready": 30,
-    "blocked_or_incomplete": 2
+    "fetched_posts": 40,
+    "new_posts": 10,
+    "publish_ready": 40,
+    "blocked_or_incomplete": 1
   },
   "accounts": {
     "bbcpersian": {
@@ -22,12 +22,12 @@
     },
     "dw_persian": {
       "label": "DW Persian",
-      "provider": null,
-      "fetched": 0,
-      "new": 0,
-      "ready": 0,
+      "provider": "https://openrss.org/feed/www.instagram.com/dw_persian",
+      "fetched": 10,
+      "new": 10,
+      "ready": 10,
       "needs_media_url": 0,
-      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: HTTP 500 | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: HTTP 503"
+      "error": null
     },
     "iranintltv": {
       "label": "Iran International",
@@ -45,13 +45,13 @@
       "new": 0,
       "ready": 0,
       "needs_media_url": 0,
-      "error": "https://openrss.org/feed/www.instagram.com/isna.news: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/isna.news: ReadTimeout: HTTPSConnectionPool(host='rsshub.cmyr.dev', port=443): Read timed out. (read timeout=10) | https://rsshub.app/instagram/2/user/isna.news: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/isna.news: HTTP 503"
+      "error": "https://openrss.org/feed/www.instagram.com/isna.news: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/isna.news: HTTP 500 | https://rsshub.app/instagram/2/user/isna.news: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/isna.news: HTTP 503"
     },
     "irnanews1313": {
       "label": "IRNA",
       "provider": "https://openrss.org/feed/www.instagram.com/irnanews1313",
       "fetched": 10,
-      "new": 2,
+      "new": 0,
       "ready": 10,
       "needs_media_url": 0,
       "error": null
@@ -59,15 +59,39 @@
   },
   "errors": [
     {
-      "account": "dw_persian",
-      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: HTTP 500 | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: HTTP 503"
-    },
-    {
       "account": "isna.news",
-      "error": "https://openrss.org/feed/www.instagram.com/isna.news: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/isna.news: ReadTimeout: HTTPSConnectionPool(host='rsshub.cmyr.dev', port=443): Read timed out. (read timeout=10) | https://rsshub.app/instagram/2/user/isna.news: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/isna.news: HTTP 503"
+      "error": "https://openrss.org/feed/www.instagram.com/isna.news: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/isna.news: HTTP 500 | https://rsshub.app/instagram/2/user/isna.news: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/isna.news: HTTP 503"
     }
   ],
   "items": [
+    {
+      "id": "e45cf38149ca330c3b25dd52aac8bff48b3691b27752b49266dc560a2d288c4d",
+      "source": "dw_persian",
+      "post_url": "https://www.instagram.com/p/DaxtHa0ik29",
+      "caption": ". اخبار موثق، گزارش‌های مستقل و نگاهی متعهدانه به ارزش‌های دموکراتیک؛ در کانال واتس‌اپ دویچه ‌وله فارسی. برای پیوستن به کانال به لینک در بایو و یا استوری مراجعه کنید.",
+      "media_url": "https://scontent-lax3-2.cdninstagram.com/v/t39.30808-6/748330339_1556120006178845_6297153189667636691_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=107&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=K1htiEG5LxoQ7kNvwHTCsh7&amp;_nc_oc=Adr18ZjcMguIKgFvZQxVxZlPt6ysLAxkyOswfhTW6wd5dBEH9LKHFsCHN4Aa4KYz9eE&amp;_nc_zt=23&amp;_nc_ht=scontent-lax3-2.cdninstagram.com&amp;_nc_gid=Gl3ZMzr8T9ihHcSWwpxcyg&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQSzxeybSNlo-Wz5XS58qy7QfCQ56xet0HZxDzftA9LPIQ&amp;oe=6B062E22",
+      "published_at": "Tue, 14 Jul 2026 14:27:57 GMT",
+      "published_at_utc": "2026-07-14T14:27:57+00:00",
+      "published_at_tehran": "2026-07-14T17:57:57+03:30",
+      "collected_at": "2026-11-23T04:26:48.166885+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": true
+    },
+    {
+      "id": "a3d1991e6e8eeb931ae50501c0047abb4f64450286de700949a65b075ace154e",
+      "source": "dw_persian",
+      "post_url": "https://www.instagram.com/p/DZFmEDnjJvQ",
+      "caption": "اپلیکیشن DW Access اکنون حتی در شرایط سانسور، اینترنت ضعیف و قطعی‌های کوتاه‌مدت نیز دسترسی به اخبار را فراهم می‌کند. با حداقل اتصال به اینترنت، این اپلیکیشن همان چیزی است که برای به‌روز ماندن در مورد خبرها نیاز دارید. ما این نسخه را برای شما مقاوم‌تر و آسان‌تر از نو طراحی کرده‌ایم. این برنامه در فروشگاه‌های آنلاین موجود نیست و فقط از همین طریق قابل دریافت است. لطفا هنگام اولین بارگذاری کمی صبور باشید؛ پس از آن، برنامه به‌صورت روان اجرا خواهد شد. اگر این اپلیکیشن را دارید، به تنظیمات بروید و روی Update کلیک کنید. برای دریافت لینک به استوری و یا هایلایت مراجعه کنید.",
+      "media_url": "https://scontent-lax3-1.cdninstagram.com/v/t39.30808-6/710481837_1519023859888460_6492775008338961732_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=106&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=LdHysM9S6IkQ7kNvwEMrCRJ&amp;_nc_oc=Adqgq6EjUqPFsFNkc4W2MD9_s_ShKWsr6Qh6Z8HwM-O5y6ZVQz9g3XkfPXpCbBDjBp4&amp;_nc_zt=23&amp;_nc_ht=scontent-lax3-1.cdninstagram.com&amp;_nc_gid=Gl3ZMzr8T9ihHcSWwpxcyg&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQQ7JI1SaQh7Ip7rqVDIg-GwdAEwAdeUiAcLtQNqh9eI0A&amp;oe=6B0624C3",
+      "published_at": "Tue, 02 Jun 2026 14:48:21 GMT",
+      "published_at_utc": "2026-06-02T14:48:21+00:00",
+      "published_at_tehran": "2026-06-02T18:18:21+03:30",
+      "collected_at": "2026-11-23T04:26:48.167002+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": true
+    },
     {
       "id": "02ae478854f07638977c78803ee0d2d11fc5c8ef01db0a514c6a7f7ca3dd88f4",
       "source": "irnanews1313",
@@ -77,10 +101,10 @@
       "published_at": "Sun, 22 Nov 2026 15:57:18 GMT",
       "published_at_utc": "2026-11-22T15:57:18+00:00",
       "published_at_tehran": "2026-11-22T19:27:18+03:30",
-      "collected_at": "2026-11-23T03:12:42.748078+00:00",
+      "collected_at": "2026-11-23T04:26:55.643889+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "49ab35f36012bb3134f371a5c374392d63b6eb5aaffd13d3175a9e52bd482ea9",
@@ -91,7 +115,7 @@
       "published_at": "Sun, 22 Nov 2026 14:11:14 GMT",
       "published_at_utc": "2026-11-22T14:11:14+00:00",
       "published_at_tehran": "2026-11-22T17:41:14+03:30",
-      "collected_at": "2026-11-23T03:12:24.599199+00:00",
+      "collected_at": "2026-11-23T04:26:47.693203+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -105,7 +129,7 @@
       "published_at": "Sun, 22 Nov 2026 14:09:57 GMT",
       "published_at_utc": "2026-11-22T14:09:57+00:00",
       "published_at_tehran": "2026-11-22T17:39:57+03:30",
-      "collected_at": "2026-11-23T03:12:24.599351+00:00",
+      "collected_at": "2026-11-23T04:26:47.693361+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -119,7 +143,7 @@
       "published_at": "Sun, 22 Nov 2026 13:38:21 GMT",
       "published_at_utc": "2026-11-22T13:38:21+00:00",
       "published_at_tehran": "2026-11-22T17:08:21+03:30",
-      "collected_at": "2026-11-23T03:12:29.309130+00:00",
+      "collected_at": "2026-11-23T04:26:48.209649+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -133,7 +157,7 @@
       "published_at": "Sun, 22 Nov 2026 13:37:45 GMT",
       "published_at_utc": "2026-11-22T13:37:45+00:00",
       "published_at_tehran": "2026-11-22T17:07:45+03:30",
-      "collected_at": "2026-11-23T03:12:24.599418+00:00",
+      "collected_at": "2026-11-23T04:26:47.693453+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -147,7 +171,7 @@
       "published_at": "Sun, 22 Nov 2026 13:15:40 GMT",
       "published_at_utc": "2026-11-22T13:15:40+00:00",
       "published_at_tehran": "2026-11-22T16:45:40+03:30",
-      "collected_at": "2026-11-23T03:12:24.599661+00:00",
+      "collected_at": "2026-11-23T04:26:47.693698+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -161,7 +185,7 @@
       "published_at": "Sun, 22 Nov 2026 13:14:49 GMT",
       "published_at_utc": "2026-11-22T13:14:49+00:00",
       "published_at_tehran": "2026-11-22T16:44:49+03:30",
-      "collected_at": "2026-11-23T03:12:29.309213+00:00",
+      "collected_at": "2026-11-23T04:26:48.209766+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -175,7 +199,7 @@
       "published_at": "Sun, 22 Nov 2026 12:48:38 GMT",
       "published_at_utc": "2026-11-22T12:48:38+00:00",
       "published_at_tehran": "2026-11-22T16:18:38+03:30",
-      "collected_at": "2026-11-23T03:12:29.309274+00:00",
+      "collected_at": "2026-11-23T04:26:48.209857+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -189,7 +213,7 @@
       "published_at": "Sun, 22 Nov 2026 12:46:04 GMT",
       "published_at_utc": "2026-11-22T12:46:04+00:00",
       "published_at_tehran": "2026-11-22T16:16:04+03:30",
-      "collected_at": "2026-11-23T03:12:24.599789+00:00",
+      "collected_at": "2026-11-23T04:26:47.693867+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -203,7 +227,7 @@
       "published_at": "Sun, 22 Nov 2026 12:38:01 GMT",
       "published_at_utc": "2026-11-22T12:38:01+00:00",
       "published_at_tehran": "2026-11-22T16:08:01+03:30",
-      "collected_at": "2026-11-23T03:12:29.309342+00:00",
+      "collected_at": "2026-11-23T04:26:48.209981+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -217,7 +241,7 @@
       "published_at": "Sun, 22 Nov 2026 12:28:37 GMT",
       "published_at_utc": "2026-11-22T12:28:37+00:00",
       "published_at_tehran": "2026-11-22T15:58:37+03:30",
-      "collected_at": "2026-11-23T03:12:24.599863+00:00",
+      "collected_at": "2026-11-23T04:26:47.694014+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -231,7 +255,7 @@
       "published_at": "Sun, 22 Nov 2026 12:17:40 GMT",
       "published_at_utc": "2026-11-22T12:17:40+00:00",
       "published_at_tehran": "2026-11-22T15:47:40+03:30",
-      "collected_at": "2026-11-23T03:12:24.599937+00:00",
+      "collected_at": "2026-11-23T04:26:47.694126+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -245,7 +269,7 @@
       "published_at": "Sun, 22 Nov 2026 12:04:06 GMT",
       "published_at_utc": "2026-11-22T12:04:06+00:00",
       "published_at_tehran": "2026-11-22T15:34:06+03:30",
-      "collected_at": "2026-11-23T03:12:29.309410+00:00",
+      "collected_at": "2026-11-23T04:26:48.210088+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -259,7 +283,7 @@
       "published_at": "Sun, 22 Nov 2026 12:01:03 GMT",
       "published_at_utc": "2026-11-22T12:01:03+00:00",
       "published_at_tehran": "2026-11-22T15:31:03+03:30",
-      "collected_at": "2026-11-23T03:12:29.309463+00:00",
+      "collected_at": "2026-11-23T04:26:48.210171+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -273,7 +297,7 @@
       "published_at": "Sun, 22 Nov 2026 11:57:23 GMT",
       "published_at_utc": "2026-11-22T11:57:23+00:00",
       "published_at_tehran": "2026-11-22T15:27:23+03:30",
-      "collected_at": "2026-11-23T03:12:29.309522+00:00",
+      "collected_at": "2026-11-23T04:26:48.210264+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -287,7 +311,7 @@
       "published_at": "Sun, 22 Nov 2026 11:44:04 GMT",
       "published_at_utc": "2026-11-22T11:44:04+00:00",
       "published_at_tehran": "2026-11-22T15:14:04+03:30",
-      "collected_at": "2026-11-23T03:12:24.600011+00:00",
+      "collected_at": "2026-11-23T04:26:47.694242+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -301,7 +325,7 @@
       "published_at": "Sun, 22 Nov 2026 11:30:13 GMT",
       "published_at_utc": "2026-11-22T11:30:13+00:00",
       "published_at_tehran": "2026-11-22T15:00:13+03:30",
-      "collected_at": "2026-11-23T03:12:29.309571+00:00",
+      "collected_at": "2026-11-23T04:26:48.210344+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -315,7 +339,7 @@
       "published_at": "Sun, 22 Nov 2026 11:23:00 GMT",
       "published_at_utc": "2026-11-22T11:23:00+00:00",
       "published_at_tehran": "2026-11-22T14:53:00+03:30",
-      "collected_at": "2026-11-23T03:12:29.309673+00:00",
+      "collected_at": "2026-11-23T04:26:48.210475+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -329,7 +353,7 @@
       "published_at": "Sun, 22 Nov 2026 11:14:42 GMT",
       "published_at_utc": "2026-11-22T11:14:42+00:00",
       "published_at_tehran": "2026-11-22T14:44:42+03:30",
-      "collected_at": "2026-11-23T03:12:29.309732+00:00",
+      "collected_at": "2026-11-23T04:26:48.210567+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -343,7 +367,7 @@
       "published_at": "Sun, 22 Nov 2026 10:54:54 GMT",
       "published_at_utc": "2026-11-22T10:54:54+00:00",
       "published_at_tehran": "2026-11-22T14:24:54+03:30",
-      "collected_at": "2026-11-23T03:12:24.600116+00:00",
+      "collected_at": "2026-11-23T04:26:47.694394+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -357,7 +381,7 @@
       "published_at": "Sun, 22 Nov 2026 10:30:46 GMT",
       "published_at_utc": "2026-11-22T10:30:46+00:00",
       "published_at_tehran": "2026-11-22T14:00:46+03:30",
-      "collected_at": "2026-11-23T03:12:42.748147+00:00",
+      "collected_at": "2026-11-23T04:26:55.643990+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -371,10 +395,10 @@
       "published_at": "Sun, 22 Nov 2026 09:30:17 GMT",
       "published_at_utc": "2026-11-22T09:30:17+00:00",
       "published_at_tehran": "2026-11-22T13:00:17+03:30",
-      "collected_at": "2026-11-23T03:12:42.748202+00:00",
+      "collected_at": "2026-11-23T04:26:55.644074+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "6681b763b68d785c3df73cfd6812c19cb4ea2e068fee38e28b9e4949054a9cb0",
@@ -385,7 +409,7 @@
       "published_at": "Sun, 22 Nov 2026 09:21:09 GMT",
       "published_at_utc": "2026-11-22T09:21:09+00:00",
       "published_at_tehran": "2026-11-22T12:51:09+03:30",
-      "collected_at": "2026-11-23T03:12:24.600187+00:00",
+      "collected_at": "2026-11-23T04:26:47.694504+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -399,7 +423,7 @@
       "published_at": "Sun, 22 Nov 2026 08:30:28 GMT",
       "published_at_utc": "2026-11-22T08:30:28+00:00",
       "published_at_tehran": "2026-11-22T12:00:28+03:30",
-      "collected_at": "2026-11-23T03:12:42.748254+00:00",
+      "collected_at": "2026-11-23T04:26:55.644163+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -413,7 +437,7 @@
       "published_at": "Sun, 22 Nov 2026 07:30:51 GMT",
       "published_at_utc": "2026-11-22T07:30:51+00:00",
       "published_at_tehran": "2026-11-22T11:00:51+03:30",
-      "collected_at": "2026-11-23T03:12:42.748321+00:00",
+      "collected_at": "2026-11-23T04:26:55.644265+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -427,7 +451,7 @@
       "published_at": "Sun, 22 Nov 2026 06:30:05 GMT",
       "published_at_utc": "2026-11-22T06:30:05+00:00",
       "published_at_tehran": "2026-11-22T10:00:05+03:30",
-      "collected_at": "2026-11-23T03:12:42.748372+00:00",
+      "collected_at": "2026-11-23T04:26:55.644346+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -441,7 +465,7 @@
       "published_at": "Sun, 22 Nov 2026 05:33:49 GMT",
       "published_at_utc": "2026-11-22T05:33:49+00:00",
       "published_at_tehran": "2026-11-22T09:03:49+03:30",
-      "collected_at": "2026-11-23T03:12:42.748425+00:00",
+      "collected_at": "2026-11-23T04:26:55.644427+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -455,7 +479,7 @@
       "published_at": "Sat, 21 Nov 2026 18:30:08 GMT",
       "published_at_utc": "2026-11-21T18:30:08+00:00",
       "published_at_tehran": "2026-11-21T22:00:08+03:30",
-      "collected_at": "2026-11-23T03:12:42.748491+00:00",
+      "collected_at": "2026-11-23T04:26:55.644530+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -469,7 +493,7 @@
       "published_at": "Sat, 21 Nov 2026 17:30:29 GMT",
       "published_at_utc": "2026-11-21T17:30:29+00:00",
       "published_at_tehran": "2026-11-21T21:00:29+03:30",
-      "collected_at": "2026-11-23T03:12:42.748554+00:00",
+      "collected_at": "2026-11-23T04:26:55.644621+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -483,37 +507,261 @@
       "published_at": "Sat, 21 Nov 2026 15:30:49 GMT",
       "published_at_utc": "2026-11-21T15:30:49+00:00",
       "published_at_tehran": "2026-11-21T19:00:49+03:30",
-      "collected_at": "2026-11-23T03:12:42.748606+00:00",
+      "collected_at": "2026-11-23T04:26:55.644704+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
-    }
-  ],
-  "new_items": [
+    },
     {
-      "id": "02ae478854f07638977c78803ee0d2d11fc5c8ef01db0a514c6a7f7ca3dd88f4",
-      "source": "irnanews1313",
-      "post_url": "https://www.instagram.com/p/DgDLeW7sy4z",
-      "caption": ". 🔹زنان در متن مدیریت شهری ▪️با هدف پررنگ‌تر شدن نقش زنان در مدیریت شهری و رسیدگی به نیازها و مسائل آنان، ایجاد ساختار امور زنان و خانواده در شهرداری‌های سراسر کشور در دستور کار وزارت کشور قرار گرفته است؛ اقدامی که قرار است به بهبود امنیت، امکانات و کیفیت زندگی زنان در شهرها کمک کند. #ایرنا",
-      "media_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/920018488_1159084776652667_4396609519361528190_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=104&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=d5b_IPXEOyIQ7kNvwG1JdUm&amp;_nc_oc=AdoT7fDpVQaVnrXSkR-looM7NvQYCCb0y9qIJdz0nceNIYRjCijD1rMHBJZb3BEEDVE&amp;_nc_zt=23&amp;_nc_ht=scontent-phl2-1.cdninstagram.com&amp;_nc_gid=nwIUam8kIfSdFUR1kvdvXg&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQwAAAA&amp;oh=00_AQQNq4NDqQp8UV6KBK8E7LOBznGV_oQ9rbDr5DebuQKUkw&amp;oe=6B08F4A8",
-      "published_at": "Sun, 22 Nov 2026 15:57:18 GMT",
-      "published_at_utc": "2026-11-22T15:57:18+00:00",
-      "published_at_tehran": "2026-11-22T19:27:18+03:30",
-      "collected_at": "2026-11-23T03:12:42.748078+00:00",
+      "id": "c0f218a4125b52a56130a5203492b42057ca2e690546f58b14ac1c0702d07eeb",
+      "source": "dw_persian",
+      "post_url": "https://www.instagram.com/p/Df9wzkYioOK",
+      "caption": ". حوثی‌های یمن روز جمعه ۲۹ آبان تهدید کردند در صورت حمله نیروهای ائتلاف به رهبری عربستان سعودی به بندر استراتژیک حدیده در دریای سرخ، به بنادر عربستان سعودی در این دریا حمله خواهند کرد. یحیی سریع، سخنگوی نظامی حوثی‌ها، در بیانیه‌ای اعلام کرد: «ما به همه کارمندان، کارگران و کسانی که در اطراف این بنادر هستند هشدار می‌دهیم که فوراً آنها را تخلیه کرده و فاصله بگیرند. ما همچنین از همه شرکت‌های کشتیرانی می‌خواهیم که فوراً کشتی‌های خود را از این بنادر خارج کنند.» پیش‌تر ائتلاف به رهبری عربستان از غیرنظامیان خواسته بود برای امنیت خود مناطق بندر حدیده را تخلیه کنند. درگیری‌ها بین ائتلاف به رهبری عربستان، که از دولت به رسمیت شناخته شده بین‌المللی یمن حمایت می‌کند، و حوثی‌ها که از سوی جمهوری اسلامی ایران حمایت می‌شوند و کنترل صنعا، پایتخت یمن را در دست دارند، در جریان جنگ آمریکا و اسرائیل علیه ایران تشدید شده و جبهه دیگری را در این درگیری گشوده است. حوثی‌ها همچنین به خطوط هوایی هشدار دادند از حریم هوایی عربستان سعودی دوری کنند و آن را صحنه عملیات خود در ساعات آینده خواندند.",
+      "media_url": "https://scontent-lax3-2.cdninstagram.com/v/t39.30808-6/910577624_1676489770808534_7599359111026706445_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=111&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=Hkvu8tHyy_8Q7kNvwGECc3C&amp;_nc_oc=AdrdNMmnlhz5TDTtMWweHCJmRw_rs9LwM5FJgS_sffODUHkh_BWzW_TyPQfuMo0b6rg&amp;_nc_zt=23&amp;_nc_ht=scontent-lax3-2.cdninstagram.com&amp;_nc_gid=Gl3ZMzr8T9ihHcSWwpxcyg&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQSpB7QmJKSXTSl9CnKMtyScLO9Ri6GcYHkbHyYHZcNBqA&amp;oe=6B062EFA",
+      "published_at": "Fri, 20 Nov 2026 13:28:03 GMT",
+      "published_at_utc": "2026-11-20T13:28:03+00:00",
+      "published_at_tehran": "2026-11-20T16:58:03+03:30",
+      "collected_at": "2026-11-23T04:26:48.165789+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": true
     },
     {
-      "id": "7305c1b463d6ff3a6d8edf3d892837e2ec47d0b60e0f61a4855f2cb6b36a8548",
-      "source": "irnanews1313",
-      "post_url": "https://www.instagram.com/p/DgCfLxQBhoc",
-      "caption": ". 🔹جفری ساکس: ترامپ یک احمق و دشمن شماره یک اروپا است. #ایرنا",
-      "media_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/926023737_18661275718040439_2561461045011767194_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=104&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=efJuXC1u-IQQ7kNvwH9lr37&amp;_nc_oc=AdoS2pcJecz29EefXg9xZ08djV1LMc-vr-0Co7ozko05e-kb1aUly32qhvd2QAB5q-I&amp;_nc_zt=23&amp;_nc_ht=scontent-phl2-1.cdninstagram.com&amp;_nc_gid=nwIUam8kIfSdFUR1kvdvXg&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQwAAAA&amp;oh=00_AQSPdxBxWmq9LF1mE5HZtwtwxjCZuvlTgEASgBlyEGb1VA&amp;oe=6B08FF1A",
-      "published_at": "Sun, 22 Nov 2026 09:30:17 GMT",
-      "published_at_utc": "2026-11-22T09:30:17+00:00",
-      "published_at_tehran": "2026-11-22T13:00:17+03:30",
-      "collected_at": "2026-11-23T03:12:42.748202+00:00",
+      "id": "7c4b38b6c4595e8df0296213c19fd6d573211b5094d2ac6be1b23063707d7e32",
+      "source": "dw_persian",
+      "post_url": "https://www.instagram.com/p/Df9ur6wlY-t",
+      "caption": ". یک قاضی دادگاه لندن اعلام کرد محاکمه دو مرد متهم در ارتباط با حادثه امنیتی ماه سپتامبر در پایگاه نظامی فرفورد نیروی هوایی سلطنتی بریتانیا که به گفته دادستان‌های بریتانیایی و آمریکایی به نمایندگی از حکومت ایران سازمان‌دهی شده بود، نوامبر سال آینده در لندن برگزار خواهد شد. آمریکا از پایگاه هوایی فرفورد برای انجام حملات علیه ایران استفاده کرده بود، اما اندکی پس از بازداشت پنج مرد بریتانیایی در خارج از این پایگاه در جنوب غربی انگلستان در ساعات اولیه بامداد ۲۷ سپتامبر، بمب‌افکن‌های بی-۱ را به دلایل امنیتی از این پایگاه خارج کرد. پلیس بریتانیا و اندی برنهام، نخست‌وزیر این کشور، اعلام کردند که به \"احتمال زیاد\" حکومت ایران در حادثه پایگاه فرفورد نقش داشته است. سفیر جمهوری اسلامی در بریتانیا این موضوع را رد کرده است. دادستان‌های آمریکایی از آن زمان علیه سه مرد دیگر نیز اعلام جرم کرده‌اند. همچنین آمریکا هفته گذشته، در اقدامی جداگانه، به دلیل مسائل امنیتی هواپیماهای آمریکایی را از دومین پایگاه هوایی در بریتانیا خارج کرد. به گزارش خبرگزاری رویترز، محمد عبدالکریم ۲۴ ساله و نعمان الصغیر ۲۵ ساله، از طریق ارتباط تصویری در دادگاه حاضر شدند و وکلای آنها اعلام کردند که احتمالا هر دو اتهامات مطرح‌شده علیه خود را رد خواهند کرد. دادستان‌های بریتانیایی می‌گویند عبدالکریم، که تابعیت بریتانیا را دارد، به درخواست مردی به نام \"علی\" ترتیبی داده بود که پنج مرد با خودرو به پایگاه هوایی فرفورد بروند. ادعا شده است که این فرد \"در راستای منافع جمهوری اسلامی فعالیت می‌کرده است\". عبدالکریم بر اساس قانون امنیت ملی بریتانیا به انجام اقداماتی در فاصله ۳۱ اوت تا ۲۸ سپتامبر متهم شده است که احتمالا کمک قابل‌توجهی به یک سرویس اطلاعاتی خارجی می‌کرده است. متهم دیگر این پرونده، الصغیر، تابعیت دوگانه بریتانیایی و ایرانی دارد و تنها فرد از میان پنج نفری است که در خارج از پایگاه هوایی فرفورد بازداشت شدند و علیه او اعلام جرم شده است. با این حال، اتهام او به عملیات شناسایی ادعایی این پایگاه در ۲۲ اوت مربوط می‌شود. بابی چیما-گراب، قاضی پرونده، تاریخ برگزاری دادگاه را ۲۲ نوامبر ۲۰۲۷ تعیین کرده است.",
+      "media_url": "https://scontent-lax3-1.cdninstagram.com/v/t39.30808-6/915458188_1676471340810377_4026727925661290985_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=100&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=zosl3BSBdCYQ7kNvwFqUSym&amp;_nc_oc=AdrcQWNuBUC4Kt19-aHhRHc1GAWzZ5pieWjvzTOG1glPYoEj0yAKnqWuhZH7jbUtX4M&amp;_nc_zt=23&amp;_nc_ht=scontent-lax3-1.cdninstagram.com&amp;_nc_gid=Gl3ZMzr8T9ihHcSWwpxcyg&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQQXQhlh8OgFmWq6hmIfaDuSC_s-fLkKqfLQjLlShnp1cw&amp;oe=6B063319",
+      "published_at": "Fri, 20 Nov 2026 13:09:32 GMT",
+      "published_at_utc": "2026-11-20T13:09:32+00:00",
+      "published_at_tehran": "2026-11-20T16:39:32+03:30",
+      "collected_at": "2026-11-23T04:26:48.165997+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": true
+    },
+    {
+      "id": "fb31441de0f00cd5c3618bd74b34e9eb7010226dcab5636f50f10dfed507e14c",
+      "source": "dw_persian",
+      "post_url": "https://www.instagram.com/p/Df9uIkUlTKg",
+      "caption": ". اکرم امام‌اوغلو، بزرگ‌ترین رقیب رجب طیب اردوغان، اجازه نامزدی در انتخابات ریاست‌جمهوری ترکیه را نخواهد داشت. دادگاه ترکیه لغو مدرک دانشگاهی اکرم امام‌اوغلو، شهردار زندانی استانبول را تأیید کرد. بر اساس قوانین ترکیه، داشتن مدرک دانشگاهی یکی از شرایط قانونی نامزدی در انتخابات ریاست‌جمهوری است و از همین رو این تصمیم، مانع نامزدی امام‌اوغلو در انتخابات ریاست‌جمهوری سال ۲۰۲۸ خواهد شد. اکرم امام‌اوغلو ۱۹ مارس ۲۰۲۵ اندکی پیش از آنکه حزب جمهوری‌خواه خلق (CHP) رسماً او را به‌عنوان نامزد این حزب معرفی کند به اتهاماتی از جمله \"حمایت از تروریسم\" و \"فساد\" بازداشت شد. یک روز پیش از آن نیز اعتبار مدرک دانشگاهی او لغو شده بود. در کیفرخواستی حدوداً چهار هزار صفحه‌ای، در مجموع بیش از ۱۴۰ اتهام جداگانه علیه اکرم امام‌اوغلو مطرح شده است؛ از جمله \"رشوه‌خواری، پول‌شویی، خیانت در امانت و دستکاری در مناقصات شهرداری استانبول و شرکت‌های وابسته به آن\". ادعا می‌شود که این اقدامات خسارتی حدود ۳.۸ میلیارد دلار به شهر استانبول وارد کرده است. مجازاتی که برای او درخواست شده بین حدود ۸۰۰ تا بیش از ۲۰۰۰ سال زندان است. دادگاه همچنین در پی ممنوعیت دائمی فعالیت سیاسی اوست. همسر او،‌ دیلیک کایا امام‌اوغلو تمام این اتهامات را کاملاً بی‌اساس خواند. او در تجمع سالگرد بازداشت امام‌اوغلو در ماه مارس امسال گفته بود: «این دوره انتخابات، اعتماد جامعه را خدشه‌دار کرده، باور به دموکراسی را زیر سؤال ‌برده و رابطه شهروندان با دستگاه قضایی را متزلزل ‌ساخته است.»",
+      "media_url": "https://scontent-lax3-2.cdninstagram.com/v/t39.30808-6/914173508_1676467650810746_6066090695583590994_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=100&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=PXy8DDS7k4IQ7kNvwEWA-dd&amp;_nc_oc=AdrFBRY_5S7b7aRG0-s8IMI8yBOuVKsTUKmm300RgHs8cT2x3yp15cVeXAIjxQuKYaM&amp;_nc_zt=23&amp;_nc_ht=scontent-lax3-2.cdninstagram.com&amp;_nc_gid=Gl3ZMzr8T9ihHcSWwpxcyg&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQTAIkAh6_r6DibeyNqFtE6MqXG9Ss-9IqWfyiVCMk6GpQ&amp;oe=6B0617AB",
+      "published_at": "Fri, 20 Nov 2026 13:04:43 GMT",
+      "published_at_utc": "2026-11-20T13:04:43+00:00",
+      "published_at_tehran": "2026-11-20T16:34:43+03:30",
+      "collected_at": "2026-11-23T04:26:48.166142+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": true
+    },
+    {
+      "id": "8e22b31812e70dd7e0304b5a293059026782556291ced7f4cae6971a64e96e03",
+      "source": "dw_persian",
+      "post_url": "https://www.instagram.com/p/Df9sJmGhA5C",
+      "caption": ". خودروی برقی BYD رکورد سرعت ۵۰۰ کیلومتر بر ساعت را شکست خودروی برقی یانگ‌وانگ U9 اکستریم، محصول شرکت چینی BYD، با ثبت سرعت ۵۰۳ کیلومتر بر ساعت، دو رکورد جهانی گینس را به نام خود ثبت کرد و به سریع‌ترین خودروی تولیدی جهان تبدیل شد. #dwrev",
+      "media_url": "https://scontent-lax3-1.cdninstagram.com/v/t51.82787-15/907558730_18658839361003309_3081871022628961138_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=101&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=qiJNlKE54KMQ7kNvwEriFsg&amp;_nc_oc=AdqHysXsl5L9B1sNtgczCUuCqC7XxrzvntXkkBzwKMEUcvHxmQKwCU-uO5ny0o1ohMY&amp;_nc_zt=23&amp;_nc_ht=scontent-lax3-1.cdninstagram.com&amp;_nc_gid=Gl3ZMzr8T9ihHcSWwpxcyg&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQRlC-6xTPBiWOxR1JlX58mnMBcoG49wtJt7_E_UjzSYLA&amp;oe=6B0619B6",
+      "published_at": "Fri, 20 Nov 2026 12:47:22 GMT",
+      "published_at_utc": "2026-11-20T12:47:22+00:00",
+      "published_at_tehran": "2026-11-20T16:17:22+03:30",
+      "collected_at": "2026-11-23T04:26:48.166233+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": true
+    },
+    {
+      "id": "6473687e9839c5e85739840d1a6ad6c7be7d870cfd761254cb2d089a65762279",
+      "source": "dw_persian",
+      "post_url": "https://www.instagram.com/p/Df9pteVClcq",
+      "caption": ". خبرگزاری بلومبرگ روز جمعه ۲۹ آبان، به نقل از رئیس بخش تحقیقات پدافند هوایی ارتش اسرائیل گزارش داد این کشور سامانه \"فلاخن داوود\" (David's Sling) را ارتقا داده است. این ارتقا، برد رهگیری این سامانه را افزایش داده تا بتواند با طیف گسترده‌تری از موشک‌های بالستیک مقابله و در برابر حملات موشکی پیاپی برای چند هفته مقاومت کند. این مقام نظامی که نامش فاش نشده، اعلام کرد قابلیت‌های جدید سامانه فلاخن داوود در جریان درگیری‌های اخیر با ایران و با استفاده از داده‌های عملیاتی بهبود یافته‌اند. به گزارش بلومبرگ، یکی از اهداف این تغییرات کاهش وابستگی اسرائیل به موشک‌های رهگیر گران‌قیمت، از جمله در سامانه پیشرفته موشکی \"پیکان ۳\" (Arrow 3) است. سامانه فلاخن داوود در پی این ارتقا که با همکاری شرکت اسرائیلی \"رافائل\" و شرکت آمریکایی \"آر‌تی‌ایکس\" ساخته شده، از موشک رهگیر \"استانر\" استفاده می‌کند. بهای هر موشک استانر حدود یک میلیون دلار برآورد شده است؛ رقمی که به گفته تحلیلگر بلومبرگ، حدود یک‌سوم هزینه موشک رهگیر \"پیکان ۳\" است. هزینه هر موشک رهگیر پاتریوت PAC-3 نیز ممکن است از چهار میلیون دلار فراتر برود. در گزارش بلومبرگ آمده است که حملات موشکی ایران در درگیری‌های اخیر، برخی نقاط ضعف سامانه دفاعی اسرائیل را آشکار کرد و هم‌زمان اطلاعات عملیاتی ارزشمندی برای ارتقای سامانه‌های رهگیری در اختیار ارتش این کشور قرار داد. دفاع هوایی اسرائیل از یک سامانه سه‌لایه تشکیل شده است. برای موشک‌های میان‌برد، پهپادها و موشک‌های کروز، سامانه \"فلاخن داوود\" که به \"چوب جادو\" هم معروف است، به کار گرفته می‌شود. گنبد آهنین (Iron Dome) نیز موشک‌های کوتاه‌برد و گلوله‌های توپخانه را رهگیری می‌کند. این سامانه دفاعی در شبکه‌های اجتماعی به عنوان \"بیمه عمر اسرائیل\" ستایش شده است. \"گنبد آهنین\" در مارس ۲۰۱۱ عملیاتی شد. بهبود عملکرد سامانه دفاع موشکی \"فلاخن داوود\" در شرایطی اعلام می‌شود که گمانه‌زنی‌ها و نگرانی‌ درباره کاهش ذخایر موشک‌های رهگیر در اسرائیل و آمریکا و دشواری افزایش ظرفیت تولید این تسلیحات افزایش یافته‌اند.",
+      "media_url": "https://scontent-lax7-1.cdninstagram.com/v/t39.30808-6/911391352_1676432197480958_5847876187017898708_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=104&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=Zi0BbHXPCTMQ7kNvwFCLEdL&amp;_nc_oc=Adr5rs45j3ODh59pCSlUNeeATyIxPYKQWY1ByLMQxAunB8T3box1gkqBvM2_UZSD5Z8&amp;_nc_zt=23&amp;_nc_ht=scontent-lax7-1.cdninstagram.com&amp;_nc_gid=Gl3ZMzr8T9ihHcSWwpxcyg&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQQzTdJR7Zlf93NmYe6jeAd-z-8LxQjG9lbRH79Uw9TnYA&amp;oe=6B0606B5",
+      "published_at": "Fri, 20 Nov 2026 12:26:03 GMT",
+      "published_at_utc": "2026-11-20T12:26:03+00:00",
+      "published_at_tehran": "2026-11-20T15:56:03+03:30",
+      "collected_at": "2026-11-23T04:26:48.166393+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": true
+    },
+    {
+      "id": "44b3dfc17f996a6b2018409bdb7153a2666d407a8b82e0101513e77ee3d08e61",
+      "source": "dw_persian",
+      "post_url": "https://www.instagram.com/p/Df9mP72ilCp",
+      "caption": ". رومن گافمن، رئیس موساد و از افراد بسیار نزدیک به بنیامین نتانیاهو، نخست‌وزیر اسرائیل روز جمعه ۱۳ نوامبر در واشنگتن با مقام‌های دولت ترامپ، از جمله جان رتکلیف، رئیس سازمان اطلاعات مرکزی آمریکا (سیا) دیدار کرد. منابع آگاه به وال استریت ژورنال گفته‌اند که رئیس سازمان جاسوسی و اطلاعاتی اسرائیل در این دیدار اطلاعات محرمانه‌ای درباره برنامه هسته‌ای ایران در اختیار مقام‌های آمریکایی قرار داد. این منابع اضافه کردند که رئیس موساد از آغاز یک کارزار جدید در چارچوب حملات هوایی چندروزه علیه ایران حمایت کرده است. نتانیاهو ماه‌ها است که برای ازسرگیری حملات علیه ایران تلاش می‌کند و می‌گوید هدف اسرائیل همچنان سرنگونی نظام حاکم در ایران است. وال استریت ژورنال می‌نویسد که این تلاش‌ها در شرایطی صورت می‌گیرد که کشورهای حوزه خلیج فارس به رهبری قطر که نگران حملات تلافی‌جویانه ایران علیه زیرساخت‌های خود هستند، خواهان مذاکره و دستیابی به توافق هستند. با این حال، تمامی تلاش‌های دیپلماتیک تاکنون به بن‌بست رسیده است. یکی از مقام‌های آمریکایی گفته که کارزار فشار اقتصادی علیه ایران چنان مؤثر بوده است که رئیس‌جمهور آمریکا نیازی به انجام عملیات نظامی گسترده ندارد؛ هرچند ایالات متحده همچنان همه گزینه‌های خود را برای اطمینان از دستیابی نیافتن ایران به سلاح هسته‌ای حفظ کرده است. دفتر نخست‌وزیری اسرائیل به درخواست وال‌استریت ژورنال برای اظهارنظر در این باره پاسخی نداد. سازمان اطلاعات مرکزی آمریکا (سیا) نیز از اظهارنظر در این باره خودداری کرد. تصمیم نهایی درباره اینکه آیا حملات علیه ایران از سر گرفته شوند یا خیر، بر عهده دونالد ترامپ است. ترامپ در ماه‌های اخیر بارها میان تهدید به ازسرگیری حملات گسترده علیه ایران و تمایل خود برای دستیابی به توافق با \"رهبران تندروی\" ایران تغییر موضع داده است. بسیاری از تحلیلگران معتقدند که ازسرگیری حملات نظامی بعید است ایران را به سمت توافق سوق دهد یا موجب سرنگونی نظام حاکم در این کشور شود. ایران و آمریکا همچنان در خشکی و دریا به تبادل آتش ادامه می‌دهند، هرچند شدت درگیری‌ها در مقایسه با ماه‌های نخست جنگ کاهش یافته است. سپاه پاسداران و ارتش جمهوری اسلامی در هفته‌های اخیر چندین کشتی‌ در تنگه هرمز را هدف قرار داده‌اند و نیروهای آمریکایی نیز اهدافی متعلق به سپاه پاسداران را در جزیره قشم، بزرگ‌ترین جزیره ایران در نزدیکی تنگه هرمز، بمباران کرده‌اند. از ماه ژوئن ۲۰۲۶ تاکنون، اسرائیل هدف موشک‌های ایران قرار نگرفته است.",
+      "media_url": "https://scontent-lax3-2.cdninstagram.com/v/t39.30808-6/910988472_1676404584150386_3241066568888049212_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=108&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=Xli1zhXK-fAQ7kNvwHfCAZm&amp;_nc_oc=AdpRMA9sz8qybUF2IHwHm_aSRZi794C9VGOoVrOo2DRdjqaG79HfK24MlQwtFAvuR_c&amp;_nc_zt=23&amp;_nc_ht=scontent-lax3-2.cdninstagram.com&amp;_nc_gid=Gl3ZMzr8T9ihHcSWwpxcyg&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQRLIKSXImKNSzssueIhd_UxuA6Net2IeJiSUDKSBVg2mw&amp;oe=6B061090",
+      "published_at": "Fri, 20 Nov 2026 11:55:49 GMT",
+      "published_at_utc": "2026-11-20T11:55:49+00:00",
+      "published_at_tehran": "2026-11-20T15:25:49+03:30",
+      "collected_at": "2026-11-23T04:26:48.166570+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": true
+    },
+    {
+      "id": "f6fd5b4fb02c14a30502b5199a9d4911de6720a73d278e6fd657fd6d6fb5fc8c",
+      "source": "dw_persian",
+      "post_url": "https://www.instagram.com/p/Df9joKEBY95",
+      "caption": ". پلمب یک تالار پذیرایی در بوکان به دلیل \"عدم رعایت شئونات\" یک تالار پذیرایی در بوکان به دلیل آنچه پلیس \"عدم رعایت شئونات و عرف جامعه\" خوانده، پلمب شد. مدیر این تالار نیز به مراجع قضایی معرفی شده است.",
+      "media_url": "https://scontent-lax3-1.cdninstagram.com/v/t51.82787-15/916680782_18658824766003309_1964929722387225527_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=WI1A31e7NdsQ7kNvwGtDlWW&amp;_nc_oc=AdqcngCbUPaaCk9jwmVnIDv4TtkgsToDzT8CKIO-24hvMNaIq9f0W6GbFO5hAmFxmuQ&amp;_nc_zt=23&amp;_nc_ht=scontent-lax3-1.cdninstagram.com&amp;_nc_gid=Gl3ZMzr8T9ihHcSWwpxcyg&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQTE038byywGDoa6z5UTyDii1uwm3hccrLfMu1CPyDMipg&amp;oe=6B0639F5",
+      "published_at": "Fri, 20 Nov 2026 11:32:54 GMT",
+      "published_at_utc": "2026-11-20T11:32:54+00:00",
+      "published_at_tehran": "2026-11-20T15:02:54+03:30",
+      "collected_at": "2026-11-23T04:26:48.166654+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": true
+    },
+    {
+      "id": "65636bdb8a56521272364f6eb26adcd5cb319e59a7021ece523ad3d344d0cc1f",
+      "source": "dw_persian",
+      "post_url": "https://www.instagram.com/p/Df9jSlGimwF",
+      "caption": ". 📸 عکس روز: از دل سنت تا میدان رقابت شهر ریاض از روز ۱۹ تا ۲۸ نوامبر برای نخستین بار میزبان جشنواره جهانی ورزش‌های سنتی \"اتنواسپورت\" است که در سال‌های گذشته در استانبول ترکیه برگزار می‌شد. هدف این جشنواره معرفی ورزش‌های قومی و سنتی کشورها و ایجاد ارتباط فرهنگی از طریق رقابت‌های ورزشی است. امسال ۱۸ کشور در ۳۸ رشته ورزشی و بازی سنتی در این رویداد شرکت دارند.",
+      "media_url": "https://scontent-lax3-2.cdninstagram.com/v/t39.30808-6/911724715_1676382360819275_4061743635007762647_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=105&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=pnBkCQv_dD4Q7kNvwGXIU3J&amp;_nc_oc=AdoWOghqrWVLmQbH8NZcbLrb3tPkpcr6oDrtOYa0Cb15vKOnDoOJiEmVulOxLcMiJVo&amp;_nc_zt=23&amp;_nc_ht=scontent-lax3-2.cdninstagram.com&amp;_nc_gid=Gl3ZMzr8T9ihHcSWwpxcyg&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQQFzO8IU7Z7ZaBlWxaPdsIbksTbbyPXfCoj7HTD1WykJg&amp;oe=6B060E42",
+      "published_at": "Fri, 20 Nov 2026 11:29:57 GMT",
+      "published_at_utc": "2026-11-20T11:29:57+00:00",
+      "published_at_tehran": "2026-11-20T14:59:57+03:30",
+      "collected_at": "2026-11-23T04:26:48.166749+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": true
+    }
+  ],
+  "new_items": [
+    {
+      "id": "e45cf38149ca330c3b25dd52aac8bff48b3691b27752b49266dc560a2d288c4d",
+      "source": "dw_persian",
+      "post_url": "https://www.instagram.com/p/DaxtHa0ik29",
+      "caption": ". اخبار موثق، گزارش‌های مستقل و نگاهی متعهدانه به ارزش‌های دموکراتیک؛ در کانال واتس‌اپ دویچه ‌وله فارسی. برای پیوستن به کانال به لینک در بایو و یا استوری مراجعه کنید.",
+      "media_url": "https://scontent-lax3-2.cdninstagram.com/v/t39.30808-6/748330339_1556120006178845_6297153189667636691_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=107&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=K1htiEG5LxoQ7kNvwHTCsh7&amp;_nc_oc=Adr18ZjcMguIKgFvZQxVxZlPt6ysLAxkyOswfhTW6wd5dBEH9LKHFsCHN4Aa4KYz9eE&amp;_nc_zt=23&amp;_nc_ht=scontent-lax3-2.cdninstagram.com&amp;_nc_gid=Gl3ZMzr8T9ihHcSWwpxcyg&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQSzxeybSNlo-Wz5XS58qy7QfCQ56xet0HZxDzftA9LPIQ&amp;oe=6B062E22",
+      "published_at": "Tue, 14 Jul 2026 14:27:57 GMT",
+      "published_at_utc": "2026-07-14T14:27:57+00:00",
+      "published_at_tehran": "2026-07-14T17:57:57+03:30",
+      "collected_at": "2026-11-23T04:26:48.166885+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": true
+    },
+    {
+      "id": "a3d1991e6e8eeb931ae50501c0047abb4f64450286de700949a65b075ace154e",
+      "source": "dw_persian",
+      "post_url": "https://www.instagram.com/p/DZFmEDnjJvQ",
+      "caption": "اپلیکیشن DW Access اکنون حتی در شرایط سانسور، اینترنت ضعیف و قطعی‌های کوتاه‌مدت نیز دسترسی به اخبار را فراهم می‌کند. با حداقل اتصال به اینترنت، این اپلیکیشن همان چیزی است که برای به‌روز ماندن در مورد خبرها نیاز دارید. ما این نسخه را برای شما مقاوم‌تر و آسان‌تر از نو طراحی کرده‌ایم. این برنامه در فروشگاه‌های آنلاین موجود نیست و فقط از همین طریق قابل دریافت است. لطفا هنگام اولین بارگذاری کمی صبور باشید؛ پس از آن، برنامه به‌صورت روان اجرا خواهد شد. اگر این اپلیکیشن را دارید، به تنظیمات بروید و روی Update کلیک کنید. برای دریافت لینک به استوری و یا هایلایت مراجعه کنید.",
+      "media_url": "https://scontent-lax3-1.cdninstagram.com/v/t39.30808-6/710481837_1519023859888460_6492775008338961732_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=106&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=LdHysM9S6IkQ7kNvwEMrCRJ&amp;_nc_oc=Adqgq6EjUqPFsFNkc4W2MD9_s_ShKWsr6Qh6Z8HwM-O5y6ZVQz9g3XkfPXpCbBDjBp4&amp;_nc_zt=23&amp;_nc_ht=scontent-lax3-1.cdninstagram.com&amp;_nc_gid=Gl3ZMzr8T9ihHcSWwpxcyg&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQQ7JI1SaQh7Ip7rqVDIg-GwdAEwAdeUiAcLtQNqh9eI0A&amp;oe=6B0624C3",
+      "published_at": "Tue, 02 Jun 2026 14:48:21 GMT",
+      "published_at_utc": "2026-06-02T14:48:21+00:00",
+      "published_at_tehran": "2026-06-02T18:18:21+03:30",
+      "collected_at": "2026-11-23T04:26:48.167002+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": true
+    },
+    {
+      "id": "c0f218a4125b52a56130a5203492b42057ca2e690546f58b14ac1c0702d07eeb",
+      "source": "dw_persian",
+      "post_url": "https://www.instagram.com/p/Df9wzkYioOK",
+      "caption": ". حوثی‌های یمن روز جمعه ۲۹ آبان تهدید کردند در صورت حمله نیروهای ائتلاف به رهبری عربستان سعودی به بندر استراتژیک حدیده در دریای سرخ، به بنادر عربستان سعودی در این دریا حمله خواهند کرد. یحیی سریع، سخنگوی نظامی حوثی‌ها، در بیانیه‌ای اعلام کرد: «ما به همه کارمندان، کارگران و کسانی که در اطراف این بنادر هستند هشدار می‌دهیم که فوراً آنها را تخلیه کرده و فاصله بگیرند. ما همچنین از همه شرکت‌های کشتیرانی می‌خواهیم که فوراً کشتی‌های خود را از این بنادر خارج کنند.» پیش‌تر ائتلاف به رهبری عربستان از غیرنظامیان خواسته بود برای امنیت خود مناطق بندر حدیده را تخلیه کنند. درگیری‌ها بین ائتلاف به رهبری عربستان، که از دولت به رسمیت شناخته شده بین‌المللی یمن حمایت می‌کند، و حوثی‌ها که از سوی جمهوری اسلامی ایران حمایت می‌شوند و کنترل صنعا، پایتخت یمن را در دست دارند، در جریان جنگ آمریکا و اسرائیل علیه ایران تشدید شده و جبهه دیگری را در این درگیری گشوده است. حوثی‌ها همچنین به خطوط هوایی هشدار دادند از حریم هوایی عربستان سعودی دوری کنند و آن را صحنه عملیات خود در ساعات آینده خواندند.",
+      "media_url": "https://scontent-lax3-2.cdninstagram.com/v/t39.30808-6/910577624_1676489770808534_7599359111026706445_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=111&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=Hkvu8tHyy_8Q7kNvwGECc3C&amp;_nc_oc=AdrdNMmnlhz5TDTtMWweHCJmRw_rs9LwM5FJgS_sffODUHkh_BWzW_TyPQfuMo0b6rg&amp;_nc_zt=23&amp;_nc_ht=scontent-lax3-2.cdninstagram.com&amp;_nc_gid=Gl3ZMzr8T9ihHcSWwpxcyg&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQSpB7QmJKSXTSl9CnKMtyScLO9Ri6GcYHkbHyYHZcNBqA&amp;oe=6B062EFA",
+      "published_at": "Fri, 20 Nov 2026 13:28:03 GMT",
+      "published_at_utc": "2026-11-20T13:28:03+00:00",
+      "published_at_tehran": "2026-11-20T16:58:03+03:30",
+      "collected_at": "2026-11-23T04:26:48.165789+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": true
+    },
+    {
+      "id": "7c4b38b6c4595e8df0296213c19fd6d573211b5094d2ac6be1b23063707d7e32",
+      "source": "dw_persian",
+      "post_url": "https://www.instagram.com/p/Df9ur6wlY-t",
+      "caption": ". یک قاضی دادگاه لندن اعلام کرد محاکمه دو مرد متهم در ارتباط با حادثه امنیتی ماه سپتامبر در پایگاه نظامی فرفورد نیروی هوایی سلطنتی بریتانیا که به گفته دادستان‌های بریتانیایی و آمریکایی به نمایندگی از حکومت ایران سازمان‌دهی شده بود، نوامبر سال آینده در لندن برگزار خواهد شد. آمریکا از پایگاه هوایی فرفورد برای انجام حملات علیه ایران استفاده کرده بود، اما اندکی پس از بازداشت پنج مرد بریتانیایی در خارج از این پایگاه در جنوب غربی انگلستان در ساعات اولیه بامداد ۲۷ سپتامبر، بمب‌افکن‌های بی-۱ را به دلایل امنیتی از این پایگاه خارج کرد. پلیس بریتانیا و اندی برنهام، نخست‌وزیر این کشور، اعلام کردند که به \"احتمال زیاد\" حکومت ایران در حادثه پایگاه فرفورد نقش داشته است. سفیر جمهوری اسلامی در بریتانیا این موضوع را رد کرده است. دادستان‌های آمریکایی از آن زمان علیه سه مرد دیگر نیز اعلام جرم کرده‌اند. همچنین آمریکا هفته گذشته، در اقدامی جداگانه، به دلیل مسائل امنیتی هواپیماهای آمریکایی را از دومین پایگاه هوایی در بریتانیا خارج کرد. به گزارش خبرگزاری رویترز، محمد عبدالکریم ۲۴ ساله و نعمان الصغیر ۲۵ ساله، از طریق ارتباط تصویری در دادگاه حاضر شدند و وکلای آنها اعلام کردند که احتمالا هر دو اتهامات مطرح‌شده علیه خود را رد خواهند کرد. دادستان‌های بریتانیایی می‌گویند عبدالکریم، که تابعیت بریتانیا را دارد، به درخواست مردی به نام \"علی\" ترتیبی داده بود که پنج مرد با خودرو به پایگاه هوایی فرفورد بروند. ادعا شده است که این فرد \"در راستای منافع جمهوری اسلامی فعالیت می‌کرده است\". عبدالکریم بر اساس قانون امنیت ملی بریتانیا به انجام اقداماتی در فاصله ۳۱ اوت تا ۲۸ سپتامبر متهم شده است که احتمالا کمک قابل‌توجهی به یک سرویس اطلاعاتی خارجی می‌کرده است. متهم دیگر این پرونده، الصغیر، تابعیت دوگانه بریتانیایی و ایرانی دارد و تنها فرد از میان پنج نفری است که در خارج از پایگاه هوایی فرفورد بازداشت شدند و علیه او اعلام جرم شده است. با این حال، اتهام او به عملیات شناسایی ادعایی این پایگاه در ۲۲ اوت مربوط می‌شود. بابی چیما-گراب، قاضی پرونده، تاریخ برگزاری دادگاه را ۲۲ نوامبر ۲۰۲۷ تعیین کرده است.",
+      "media_url": "https://scontent-lax3-1.cdninstagram.com/v/t39.30808-6/915458188_1676471340810377_4026727925661290985_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=100&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=zosl3BSBdCYQ7kNvwFqUSym&amp;_nc_oc=AdrcQWNuBUC4Kt19-aHhRHc1GAWzZ5pieWjvzTOG1glPYoEj0yAKnqWuhZH7jbUtX4M&amp;_nc_zt=23&amp;_nc_ht=scontent-lax3-1.cdninstagram.com&amp;_nc_gid=Gl3ZMzr8T9ihHcSWwpxcyg&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQQXQhlh8OgFmWq6hmIfaDuSC_s-fLkKqfLQjLlShnp1cw&amp;oe=6B063319",
+      "published_at": "Fri, 20 Nov 2026 13:09:32 GMT",
+      "published_at_utc": "2026-11-20T13:09:32+00:00",
+      "published_at_tehran": "2026-11-20T16:39:32+03:30",
+      "collected_at": "2026-11-23T04:26:48.165997+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": true
+    },
+    {
+      "id": "fb31441de0f00cd5c3618bd74b34e9eb7010226dcab5636f50f10dfed507e14c",
+      "source": "dw_persian",
+      "post_url": "https://www.instagram.com/p/Df9uIkUlTKg",
+      "caption": ". اکرم امام‌اوغلو، بزرگ‌ترین رقیب رجب طیب اردوغان، اجازه نامزدی در انتخابات ریاست‌جمهوری ترکیه را نخواهد داشت. دادگاه ترکیه لغو مدرک دانشگاهی اکرم امام‌اوغلو، شهردار زندانی استانبول را تأیید کرد. بر اساس قوانین ترکیه، داشتن مدرک دانشگاهی یکی از شرایط قانونی نامزدی در انتخابات ریاست‌جمهوری است و از همین رو این تصمیم، مانع نامزدی امام‌اوغلو در انتخابات ریاست‌جمهوری سال ۲۰۲۸ خواهد شد. اکرم امام‌اوغلو ۱۹ مارس ۲۰۲۵ اندکی پیش از آنکه حزب جمهوری‌خواه خلق (CHP) رسماً او را به‌عنوان نامزد این حزب معرفی کند به اتهاماتی از جمله \"حمایت از تروریسم\" و \"فساد\" بازداشت شد. یک روز پیش از آن نیز اعتبار مدرک دانشگاهی او لغو شده بود. در کیفرخواستی حدوداً چهار هزار صفحه‌ای، در مجموع بیش از ۱۴۰ اتهام جداگانه علیه اکرم امام‌اوغلو مطرح شده است؛ از جمله \"رشوه‌خواری، پول‌شویی، خیانت در امانت و دستکاری در مناقصات شهرداری استانبول و شرکت‌های وابسته به آن\". ادعا می‌شود که این اقدامات خسارتی حدود ۳.۸ میلیارد دلار به شهر استانبول وارد کرده است. مجازاتی که برای او درخواست شده بین حدود ۸۰۰ تا بیش از ۲۰۰۰ سال زندان است. دادگاه همچنین در پی ممنوعیت دائمی فعالیت سیاسی اوست. همسر او،‌ دیلیک کایا امام‌اوغلو تمام این اتهامات را کاملاً بی‌اساس خواند. او در تجمع سالگرد بازداشت امام‌اوغلو در ماه مارس امسال گفته بود: «این دوره انتخابات، اعتماد جامعه را خدشه‌دار کرده، باور به دموکراسی را زیر سؤال ‌برده و رابطه شهروندان با دستگاه قضایی را متزلزل ‌ساخته است.»",
+      "media_url": "https://scontent-lax3-2.cdninstagram.com/v/t39.30808-6/914173508_1676467650810746_6066090695583590994_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=100&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=PXy8DDS7k4IQ7kNvwEWA-dd&amp;_nc_oc=AdrFBRY_5S7b7aRG0-s8IMI8yBOuVKsTUKmm300RgHs8cT2x3yp15cVeXAIjxQuKYaM&amp;_nc_zt=23&amp;_nc_ht=scontent-lax3-2.cdninstagram.com&amp;_nc_gid=Gl3ZMzr8T9ihHcSWwpxcyg&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQTAIkAh6_r6DibeyNqFtE6MqXG9Ss-9IqWfyiVCMk6GpQ&amp;oe=6B0617AB",
+      "published_at": "Fri, 20 Nov 2026 13:04:43 GMT",
+      "published_at_utc": "2026-11-20T13:04:43+00:00",
+      "published_at_tehran": "2026-11-20T16:34:43+03:30",
+      "collected_at": "2026-11-23T04:26:48.166142+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": true
+    },
+    {
+      "id": "8e22b31812e70dd7e0304b5a293059026782556291ced7f4cae6971a64e96e03",
+      "source": "dw_persian",
+      "post_url": "https://www.instagram.com/p/Df9sJmGhA5C",
+      "caption": ". خودروی برقی BYD رکورد سرعت ۵۰۰ کیلومتر بر ساعت را شکست خودروی برقی یانگ‌وانگ U9 اکستریم، محصول شرکت چینی BYD، با ثبت سرعت ۵۰۳ کیلومتر بر ساعت، دو رکورد جهانی گینس را به نام خود ثبت کرد و به سریع‌ترین خودروی تولیدی جهان تبدیل شد. #dwrev",
+      "media_url": "https://scontent-lax3-1.cdninstagram.com/v/t51.82787-15/907558730_18658839361003309_3081871022628961138_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=101&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=qiJNlKE54KMQ7kNvwEriFsg&amp;_nc_oc=AdqHysXsl5L9B1sNtgczCUuCqC7XxrzvntXkkBzwKMEUcvHxmQKwCU-uO5ny0o1ohMY&amp;_nc_zt=23&amp;_nc_ht=scontent-lax3-1.cdninstagram.com&amp;_nc_gid=Gl3ZMzr8T9ihHcSWwpxcyg&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQRlC-6xTPBiWOxR1JlX58mnMBcoG49wtJt7_E_UjzSYLA&amp;oe=6B0619B6",
+      "published_at": "Fri, 20 Nov 2026 12:47:22 GMT",
+      "published_at_utc": "2026-11-20T12:47:22+00:00",
+      "published_at_tehran": "2026-11-20T16:17:22+03:30",
+      "collected_at": "2026-11-23T04:26:48.166233+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": true
+    },
+    {
+      "id": "6473687e9839c5e85739840d1a6ad6c7be7d870cfd761254cb2d089a65762279",
+      "source": "dw_persian",
+      "post_url": "https://www.instagram.com/p/Df9pteVClcq",
+      "caption": ". خبرگزاری بلومبرگ روز جمعه ۲۹ آبان، به نقل از رئیس بخش تحقیقات پدافند هوایی ارتش اسرائیل گزارش داد این کشور سامانه \"فلاخن داوود\" (David's Sling) را ارتقا داده است. این ارتقا، برد رهگیری این سامانه را افزایش داده تا بتواند با طیف گسترده‌تری از موشک‌های بالستیک مقابله و در برابر حملات موشکی پیاپی برای چند هفته مقاومت کند. این مقام نظامی که نامش فاش نشده، اعلام کرد قابلیت‌های جدید سامانه فلاخن داوود در جریان درگیری‌های اخیر با ایران و با استفاده از داده‌های عملیاتی بهبود یافته‌اند. به گزارش بلومبرگ، یکی از اهداف این تغییرات کاهش وابستگی اسرائیل به موشک‌های رهگیر گران‌قیمت، از جمله در سامانه پیشرفته موشکی \"پیکان ۳\" (Arrow 3) است. سامانه فلاخن داوود در پی این ارتقا که با همکاری شرکت اسرائیلی \"رافائل\" و شرکت آمریکایی \"آر‌تی‌ایکس\" ساخته شده، از موشک رهگیر \"استانر\" استفاده می‌کند. بهای هر موشک استانر حدود یک میلیون دلار برآورد شده است؛ رقمی که به گفته تحلیلگر بلومبرگ، حدود یک‌سوم هزینه موشک رهگیر \"پیکان ۳\" است. هزینه هر موشک رهگیر پاتریوت PAC-3 نیز ممکن است از چهار میلیون دلار فراتر برود. در گزارش بلومبرگ آمده است که حملات موشکی ایران در درگیری‌های اخیر، برخی نقاط ضعف سامانه دفاعی اسرائیل را آشکار کرد و هم‌زمان اطلاعات عملیاتی ارزشمندی برای ارتقای سامانه‌های رهگیری در اختیار ارتش این کشور قرار داد. دفاع هوایی اسرائیل از یک سامانه سه‌لایه تشکیل شده است. برای موشک‌های میان‌برد، پهپادها و موشک‌های کروز، سامانه \"فلاخن داوود\" که به \"چوب جادو\" هم معروف است، به کار گرفته می‌شود. گنبد آهنین (Iron Dome) نیز موشک‌های کوتاه‌برد و گلوله‌های توپخانه را رهگیری می‌کند. این سامانه دفاعی در شبکه‌های اجتماعی به عنوان \"بیمه عمر اسرائیل\" ستایش شده است. \"گنبد آهنین\" در مارس ۲۰۱۱ عملیاتی شد. بهبود عملکرد سامانه دفاع موشکی \"فلاخن داوود\" در شرایطی اعلام می‌شود که گمانه‌زنی‌ها و نگرانی‌ درباره کاهش ذخایر موشک‌های رهگیر در اسرائیل و آمریکا و دشواری افزایش ظرفیت تولید این تسلیحات افزایش یافته‌اند.",
+      "media_url": "https://scontent-lax7-1.cdninstagram.com/v/t39.30808-6/911391352_1676432197480958_5847876187017898708_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=104&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=Zi0BbHXPCTMQ7kNvwFCLEdL&amp;_nc_oc=Adr5rs45j3ODh59pCSlUNeeATyIxPYKQWY1ByLMQxAunB8T3box1gkqBvM2_UZSD5Z8&amp;_nc_zt=23&amp;_nc_ht=scontent-lax7-1.cdninstagram.com&amp;_nc_gid=Gl3ZMzr8T9ihHcSWwpxcyg&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQQzTdJR7Zlf93NmYe6jeAd-z-8LxQjG9lbRH79Uw9TnYA&amp;oe=6B0606B5",
+      "published_at": "Fri, 20 Nov 2026 12:26:03 GMT",
+      "published_at_utc": "2026-11-20T12:26:03+00:00",
+      "published_at_tehran": "2026-11-20T15:56:03+03:30",
+      "collected_at": "2026-11-23T04:26:48.166393+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": true
+    },
+    {
+      "id": "44b3dfc17f996a6b2018409bdb7153a2666d407a8b82e0101513e77ee3d08e61",
+      "source": "dw_persian",
+      "post_url": "https://www.instagram.com/p/Df9mP72ilCp",
+      "caption": ". رومن گافمن، رئیس موساد و از افراد بسیار نزدیک به بنیامین نتانیاهو، نخست‌وزیر اسرائیل روز جمعه ۱۳ نوامبر در واشنگتن با مقام‌های دولت ترامپ، از جمله جان رتکلیف، رئیس سازمان اطلاعات مرکزی آمریکا (سیا) دیدار کرد. منابع آگاه به وال استریت ژورنال گفته‌اند که رئیس سازمان جاسوسی و اطلاعاتی اسرائیل در این دیدار اطلاعات محرمانه‌ای درباره برنامه هسته‌ای ایران در اختیار مقام‌های آمریکایی قرار داد. این منابع اضافه کردند که رئیس موساد از آغاز یک کارزار جدید در چارچوب حملات هوایی چندروزه علیه ایران حمایت کرده است. نتانیاهو ماه‌ها است که برای ازسرگیری حملات علیه ایران تلاش می‌کند و می‌گوید هدف اسرائیل همچنان سرنگونی نظام حاکم در ایران است. وال استریت ژورنال می‌نویسد که این تلاش‌ها در شرایطی صورت می‌گیرد که کشورهای حوزه خلیج فارس به رهبری قطر که نگران حملات تلافی‌جویانه ایران علیه زیرساخت‌های خود هستند، خواهان مذاکره و دستیابی به توافق هستند. با این حال، تمامی تلاش‌های دیپلماتیک تاکنون به بن‌بست رسیده است. یکی از مقام‌های آمریکایی گفته که کارزار فشار اقتصادی علیه ایران چنان مؤثر بوده است که رئیس‌جمهور آمریکا نیازی به انجام عملیات نظامی گسترده ندارد؛ هرچند ایالات متحده همچنان همه گزینه‌های خود را برای اطمینان از دستیابی نیافتن ایران به سلاح هسته‌ای حفظ کرده است. دفتر نخست‌وزیری اسرائیل به درخواست وال‌استریت ژورنال برای اظهارنظر در این باره پاسخی نداد. سازمان اطلاعات مرکزی آمریکا (سیا) نیز از اظهارنظر در این باره خودداری کرد. تصمیم نهایی درباره اینکه آیا حملات علیه ایران از سر گرفته شوند یا خیر، بر عهده دونالد ترامپ است. ترامپ در ماه‌های اخیر بارها میان تهدید به ازسرگیری حملات گسترده علیه ایران و تمایل خود برای دستیابی به توافق با \"رهبران تندروی\" ایران تغییر موضع داده است. بسیاری از تحلیلگران معتقدند که ازسرگیری حملات نظامی بعید است ایران را به سمت توافق سوق دهد یا موجب سرنگونی نظام حاکم در این کشور شود. ایران و آمریکا همچنان در خشکی و دریا به تبادل آتش ادامه می‌دهند، هرچند شدت درگیری‌ها در مقایسه با ماه‌های نخست جنگ کاهش یافته است. سپاه پاسداران و ارتش جمهوری اسلامی در هفته‌های اخیر چندین کشتی‌ در تنگه هرمز را هدف قرار داده‌اند و نیروهای آمریکایی نیز اهدافی متعلق به سپاه پاسداران را در جزیره قشم، بزرگ‌ترین جزیره ایران در نزدیکی تنگه هرمز، بمباران کرده‌اند. از ماه ژوئن ۲۰۲۶ تاکنون، اسرائیل هدف موشک‌های ایران قرار نگرفته است.",
+      "media_url": "https://scontent-lax3-2.cdninstagram.com/v/t39.30808-6/910988472_1676404584150386_3241066568888049212_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=108&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=Xli1zhXK-fAQ7kNvwHfCAZm&amp;_nc_oc=AdpRMA9sz8qybUF2IHwHm_aSRZi794C9VGOoVrOo2DRdjqaG79HfK24MlQwtFAvuR_c&amp;_nc_zt=23&amp;_nc_ht=scontent-lax3-2.cdninstagram.com&amp;_nc_gid=Gl3ZMzr8T9ihHcSWwpxcyg&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQRLIKSXImKNSzssueIhd_UxuA6Net2IeJiSUDKSBVg2mw&amp;oe=6B061090",
+      "published_at": "Fri, 20 Nov 2026 11:55:49 GMT",
+      "published_at_utc": "2026-11-20T11:55:49+00:00",
+      "published_at_tehran": "2026-11-20T15:25:49+03:30",
+      "collected_at": "2026-11-23T04:26:48.166570+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": true
+    },
+    {
+      "id": "f6fd5b4fb02c14a30502b5199a9d4911de6720a73d278e6fd657fd6d6fb5fc8c",
+      "source": "dw_persian",
+      "post_url": "https://www.instagram.com/p/Df9joKEBY95",
+      "caption": ". پلمب یک تالار پذیرایی در بوکان به دلیل \"عدم رعایت شئونات\" یک تالار پذیرایی در بوکان به دلیل آنچه پلیس \"عدم رعایت شئونات و عرف جامعه\" خوانده، پلمب شد. مدیر این تالار نیز به مراجع قضایی معرفی شده است.",
+      "media_url": "https://scontent-lax3-1.cdninstagram.com/v/t51.82787-15/916680782_18658824766003309_1964929722387225527_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=WI1A31e7NdsQ7kNvwGtDlWW&amp;_nc_oc=AdqcngCbUPaaCk9jwmVnIDv4TtkgsToDzT8CKIO-24hvMNaIq9f0W6GbFO5hAmFxmuQ&amp;_nc_zt=23&amp;_nc_ht=scontent-lax3-1.cdninstagram.com&amp;_nc_gid=Gl3ZMzr8T9ihHcSWwpxcyg&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQTE038byywGDoa6z5UTyDii1uwm3hccrLfMu1CPyDMipg&amp;oe=6B0639F5",
+      "published_at": "Fri, 20 Nov 2026 11:32:54 GMT",
+      "published_at_utc": "2026-11-20T11:32:54+00:00",
+      "published_at_tehran": "2026-11-20T15:02:54+03:30",
+      "collected_at": "2026-11-23T04:26:48.166654+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": true
+    },
+    {
+      "id": "65636bdb8a56521272364f6eb26adcd5cb319e59a7021ece523ad3d344d0cc1f",
+      "source": "dw_persian",
+      "post_url": "https://www.instagram.com/p/Df9jSlGimwF",
+      "caption": ". 📸 عکس روز: از دل سنت تا میدان رقابت شهر ریاض از روز ۱۹ تا ۲۸ نوامبر برای نخستین بار میزبان جشنواره جهانی ورزش‌های سنتی \"اتنواسپورت\" است که در سال‌های گذشته در استانبول ترکیه برگزار می‌شد. هدف این جشنواره معرفی ورزش‌های قومی و سنتی کشورها و ایجاد ارتباط فرهنگی از طریق رقابت‌های ورزشی است. امسال ۱۸ کشور در ۳۸ رشته ورزشی و بازی سنتی در این رویداد شرکت دارند.",
+      "media_url": "https://scontent-lax3-2.cdninstagram.com/v/t39.30808-6/911724715_1676382360819275_4061743635007762647_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=105&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=pnBkCQv_dD4Q7kNvwGXIU3J&amp;_nc_oc=AdoWOghqrWVLmQbH8NZcbLrb3tPkpcr6oDrtOYa0Cb15vKOnDoOJiEmVulOxLcMiJVo&amp;_nc_zt=23&amp;_nc_ht=scontent-lax3-2.cdninstagram.com&amp;_nc_gid=Gl3ZMzr8T9ihHcSWwpxcyg&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQQFzO8IU7Z7ZaBlWxaPdsIbksTbbyPXfCoj7HTD1WykJg&amp;oe=6B060E42",
+      "published_at": "Fri, 20 Nov 2026 11:29:57 GMT",
+      "published_at_utc": "2026-11-20T11:29:57+00:00",
+      "published_at_tehran": "2026-11-20T14:59:57+03:30",
+      "collected_at": "2026-11-23T04:26:48.166749+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": true
