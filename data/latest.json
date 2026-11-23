@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-23T09:40:54.835726+00:00",
+  "generated_at": "2026-11-23T10:47:43.991245+00:00",
   "source_mode": "public_feeds_no_login",
   "publishing_enabled": false,
   "summary": {
     "accounts": 5,
     "fetched_posts": 30,
-    "new_posts": 19,
+    "new_posts": 0,
     "publish_ready": 30,
     "blocked_or_incomplete": 2
   },
@@ -15,7 +15,7 @@
       "label": "BBC Persian",
       "provider": "https://openrss.org/feed/www.instagram.com/bbcpersian",
       "fetched": 10,
-      "new": 8,
+      "new": 0,
       "ready": 10,
       "needs_media_url": 0,
       "error": null
@@ -27,13 +27,13 @@
       "new": 0,
       "ready": 0,
       "needs_media_url": 0,
-      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: ReadTimeout: HTTPSConnectionPool(host='rsshub.cmyr.dev', port=443): Read timed out. (read timeout=10) | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: HTTP 503"
+      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: ReadTimeout: HTTPSConnectionPool(host='rsshub.cmyr.dev', port=443): Read timed out. (read timeout=10) | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
     },
     "iranintltv": {
       "label": "Iran International",
       "provider": "https://openrss.org/feed/www.instagram.com/iranintltv",
       "fetched": 10,
-      "new": 10,
+      "new": 0,
       "ready": 10,
       "needs_media_url": 0,
       "error": null
@@ -45,13 +45,13 @@
       "new": 0,
       "ready": 0,
       "needs_media_url": 0,
-      "error": "https://openrss.org/feed/www.instagram.com/isna.news: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/isna.news: ReadTimeout: HTTPSConnectionPool(host='rsshub.cmyr.dev', port=443): Read timed out. (read timeout=10) | https://rsshub.app/instagram/2/user/isna.news: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/isna.news: HTTP 503"
+      "error": "https://openrss.org/feed/www.instagram.com/isna.news: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/isna.news: HTTP 500 | https://rsshub.app/instagram/2/user/isna.news: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/isna.news: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
     },
     "irnanews1313": {
       "label": "IRNA",
       "provider": "https://openrss.org/feed/www.instagram.com/irnanews1313",
       "fetched": 10,
-      "new": 1,
+      "new": 0,
       "ready": 10,
       "needs_media_url": 0,
       "error": null
@@ -60,11 +60,11 @@
   "errors": [
     {
       "account": "dw_persian",
-      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: ReadTimeout: HTTPSConnectionPool(host='rsshub.cmyr.dev', port=443): Read timed out. (read timeout=10) | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: HTTP 503"
+      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: ReadTimeout: HTTPSConnectionPool(host='rsshub.cmyr.dev', port=443): Read timed out. (read timeout=10) | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
     },
     {
       "account": "isna.news",
-      "error": "https://openrss.org/feed/www.instagram.com/isna.news: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/isna.news: ReadTimeout: HTTPSConnectionPool(host='rsshub.cmyr.dev', port=443): Read timed out. (read timeout=10) | https://rsshub.app/instagram/2/user/isna.news: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/isna.news: HTTP 503"
+      "error": "https://openrss.org/feed/www.instagram.com/isna.news: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/isna.news: HTTP 500 | https://rsshub.app/instagram/2/user/isna.news: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/isna.news: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
     }
   ],
   "items": [
@@ -77,10 +77,10 @@
       "published_at": "Sun, 22 Nov 2026 22:00:15 GMT",
       "published_at_utc": "2026-11-22T22:00:15+00:00",
       "published_at_tehran": "2026-11-23T01:30:15+03:30",
-      "collected_at": "2026-11-23T09:40:26.147354+00:00",
+      "collected_at": "2026-11-23T10:47:09.985974+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "242434c9ef677e39f526b10291066c940cd8cc3e938c78675d8a5a99e6ee936f",
@@ -91,10 +91,10 @@
       "published_at": "Sun, 22 Nov 2026 20:22:54 GMT",
       "published_at_utc": "2026-11-22T20:22:54+00:00",
       "published_at_tehran": "2026-11-22T23:52:54+03:30",
-      "collected_at": "2026-11-23T09:40:41.136288+00:00",
+      "collected_at": "2026-11-23T10:47:31.709687+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8b78271260d66c3333c4c00de247ce842690ac094aa9f349cff4663c2cb547f9",
@@ -105,10 +105,10 @@
       "published_at": "Sun, 22 Nov 2026 20:19:30 GMT",
       "published_at_utc": "2026-11-22T20:19:30+00:00",
       "published_at_tehran": "2026-11-22T23:49:30+03:30",
-      "collected_at": "2026-11-23T09:40:41.136382+00:00",
+      "collected_at": "2026-11-23T10:47:31.709791+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "4fac6bbf336c08af047161ebbf40a41144d5aa4f8f8b55386cfe70cfac73b0a7",
@@ -119,10 +119,10 @@
       "published_at": "Sun, 22 Nov 2026 20:12:21 GMT",
       "published_at_utc": "2026-11-22T20:12:21+00:00",
       "published_at_tehran": "2026-11-22T23:42:21+03:30",
-      "collected_at": "2026-11-23T09:40:41.136442+00:00",
+      "collected_at": "2026-11-23T10:47:31.709860+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "cf672708068bc69ecbe8d7c3c87bcd6e4dd6ea3b7c744743eeece633a891bb42",
@@ -133,10 +133,10 @@
       "published_at": "Sun, 22 Nov 2026 20:02:48 GMT",
       "published_at_utc": "2026-11-22T20:02:48+00:00",
       "published_at_tehran": "2026-11-22T23:32:48+03:30",
-      "collected_at": "2026-11-23T09:40:41.136501+00:00",
+      "collected_at": "2026-11-23T10:47:31.709922+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "1e49481f333355525f36da3a73f5360434544397d968d0bdd0adc64ea0ade292",
@@ -147,10 +147,10 @@
       "published_at": "Sun, 22 Nov 2026 20:00:45 GMT",
       "published_at_utc": "2026-11-22T20:00:45+00:00",
       "published_at_tehran": "2026-11-22T23:30:45+03:30",
-      "collected_at": "2026-11-23T09:40:41.136549+00:00",
+      "collected_at": "2026-11-23T10:47:31.709975+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "2764633da4ebb78e7001cfb023829475117c243d825836eee22d50f0efa4a88e",
@@ -161,10 +161,10 @@
       "published_at": "Sun, 22 Nov 2026 19:59:23 GMT",
       "published_at_utc": "2026-11-22T19:59:23+00:00",
       "published_at_tehran": "2026-11-22T23:29:23+03:30",
-      "collected_at": "2026-11-23T09:40:41.136602+00:00",
+      "collected_at": "2026-11-23T10:47:31.710033+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "4cf52bdd0379d3617d7a95f37760c541f25fc66c722d22a23289721807865b3d",
@@ -175,10 +175,10 @@
       "published_at": "Sun, 22 Nov 2026 19:28:29 GMT",
       "published_at_utc": "2026-11-22T19:28:29+00:00",
       "published_at_tehran": "2026-11-22T22:58:29+03:30",
-      "collected_at": "2026-11-23T09:40:41.136670+00:00",
+      "collected_at": "2026-11-23T10:47:31.710090+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "c147943784c92e36c3e4c83801cf9ad55090b3996b24b752a933510dd5982229",
@@ -189,10 +189,10 @@
       "published_at": "Sun, 22 Nov 2026 19:27:58 GMT",
       "published_at_utc": "2026-11-22T19:27:58+00:00",
       "published_at_tehran": "2026-11-22T22:57:58+03:30",
-      "collected_at": "2026-11-23T09:40:41.136724+00:00",
+      "collected_at": "2026-11-23T10:47:31.710146+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "940659bd9c0958151205d101dfd92e8962444a9923c37bd4246ae52d473ac5bf",
@@ -203,10 +203,10 @@
       "published_at": "Sun, 22 Nov 2026 19:13:41 GMT",
       "published_at_utc": "2026-11-22T19:13:41+00:00",
       "published_at_tehran": "2026-11-22T22:43:41+03:30",
-      "collected_at": "2026-11-23T09:40:26.147518+00:00",
+      "collected_at": "2026-11-23T10:47:09.986117+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3509735a08a8002af3b155d675d7b02fd1499e50c59f1e204a739ab15feb7f78",
@@ -217,10 +217,10 @@
       "published_at": "Sun, 22 Nov 2026 19:09:04 GMT",
       "published_at_utc": "2026-11-22T19:09:04+00:00",
       "published_at_tehran": "2026-11-22T22:39:04+03:30",
-      "collected_at": "2026-11-23T09:40:41.136768+00:00",
+      "collected_at": "2026-11-23T10:47:31.710195+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "fc6b6f26c6f2dcaeb5c03a8aec27c2a51072c0d74b36a72599fb35433adf2212",
@@ -231,10 +231,10 @@
       "published_at": "Sun, 22 Nov 2026 19:02:03 GMT",
       "published_at_utc": "2026-11-22T19:02:03+00:00",
       "published_at_tehran": "2026-11-22T22:32:03+03:30",
-      "collected_at": "2026-11-23T09:40:41.136838+00:00",
+      "collected_at": "2026-11-23T10:47:31.710279+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "bedec2ed76b066164ecc9c2dbeaef296ca36ec7d691662c6caa7e1f94fcb99b0",
@@ -245,10 +245,10 @@
       "published_at": "Sun, 22 Nov 2026 19:01:21 GMT",
       "published_at_utc": "2026-11-22T19:01:21+00:00",
       "published_at_tehran": "2026-11-22T22:31:21+03:30",
-      "collected_at": "2026-11-23T09:40:26.147613+00:00",
+      "collected_at": "2026-11-23T10:47:09.986205+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "50909268b7fa1dae832ed94247b61788bae0545898adb3aae4a29b2c73ef7c16",
@@ -259,10 +259,10 @@
       "published_at": "Sun, 22 Nov 2026 18:22:28 GMT",
       "published_at_utc": "2026-11-22T18:22:28+00:00",
       "published_at_tehran": "2026-11-22T21:52:28+03:30",
-      "collected_at": "2026-11-23T09:40:26.147856+00:00",
+      "collected_at": "2026-11-23T10:47:09.986404+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "70120de5f0797922ade543e712e87846be0d0a7985936823ae93c7aeaa15d6d3",
@@ -273,10 +273,10 @@
       "published_at": "Sun, 22 Nov 2026 17:02:45 GMT",
       "published_at_utc": "2026-11-22T17:02:45+00:00",
       "published_at_tehran": "2026-11-22T20:32:45+03:30",
-      "collected_at": "2026-11-23T09:40:26.147951+00:00",
+      "collected_at": "2026-11-23T10:47:09.986529+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "16f12a57bb7691a798dd355f621039781e950e1d195ab27f295ac054a64eeaa6",
@@ -287,10 +287,10 @@
       "published_at": "Sun, 22 Nov 2026 17:00:56 GMT",
       "published_at_utc": "2026-11-22T17:00:56+00:00",
       "published_at_tehran": "2026-11-22T20:30:56+03:30",
-      "collected_at": "2026-11-23T09:40:54.832219+00:00",
+      "collected_at": "2026-11-23T10:47:43.989941+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "e79fa6e8b125d0f891f15e5539657cabbfa2401b918a00c5bc6e7204a81e6d28",
@@ -301,10 +301,10 @@
       "published_at": "Sun, 22 Nov 2026 16:44:21 GMT",
       "published_at_utc": "2026-11-22T16:44:21+00:00",
       "published_at_tehran": "2026-11-22T20:14:21+03:30",
-      "collected_at": "2026-11-23T09:40:26.148035+00:00",
+      "collected_at": "2026-11-23T10:47:09.986633+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "c27943e60bd869f7c7bad530e234ea10eb4655a531aa4149725d16caabd87df4",
@@ -315,10 +315,10 @@
       "published_at": "Sun, 22 Nov 2026 16:05:00 GMT",
       "published_at_utc": "2026-11-22T16:05:00+00:00",
       "published_at_tehran": "2026-11-22T19:35:00+03:30",
-      "collected_at": "2026-11-23T09:40:26.148102+00:00",
+      "collected_at": "2026-11-23T10:47:09.986708+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "02ae478854f07638977c78803ee0d2d11fc5c8ef01db0a514c6a7f7ca3dd88f4",
@@ -329,7 +329,7 @@
       "published_at": "Sun, 22 Nov 2026 15:57:18 GMT",
       "published_at_utc": "2026-11-22T15:57:18+00:00",
       "published_at_tehran": "2026-11-22T19:27:18+03:30",
-      "collected_at": "2026-11-23T09:40:54.832289+00:00",
+      "collected_at": "2026-11-23T10:47:43.990022+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -343,10 +343,10 @@
       "published_at": "Sun, 22 Nov 2026 15:53:10 GMT",
       "published_at_utc": "2026-11-22T15:53:10+00:00",
       "published_at_tehran": "2026-11-22T19:23:10+03:30",
-      "collected_at": "2026-11-23T09:40:26.148180+00:00",
+      "collected_at": "2026-11-23T10:47:09.986795+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "49ab35f36012bb3134f371a5c374392d63b6eb5aaffd13d3175a9e52bd482ea9",
@@ -357,7 +357,7 @@
       "published_at": "Sun, 22 Nov 2026 14:11:14 GMT",
       "published_at_utc": "2026-11-22T14:11:14+00:00",
       "published_at_tehran": "2026-11-22T17:41:14+03:30",
-      "collected_at": "2026-11-23T09:40:26.148256+00:00",
+      "collected_at": "2026-11-23T10:47:09.986880+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -371,7 +371,7 @@
       "published_at": "Sun, 22 Nov 2026 14:09:57 GMT",
       "published_at_utc": "2026-11-22T14:09:57+00:00",
       "published_at_tehran": "2026-11-22T17:39:57+03:30",
-      "collected_at": "2026-11-23T09:40:26.148322+00:00",
+      "collected_at": "2026-11-23T10:47:09.986956+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -385,7 +385,7 @@
       "published_at": "Sun, 22 Nov 2026 10:30:46 GMT",
       "published_at_utc": "2026-11-22T10:30:46+00:00",
       "published_at_tehran": "2026-11-22T14:00:46+03:30",
-      "collected_at": "2026-11-23T09:40:54.832337+00:00",
+      "collected_at": "2026-11-23T10:47:43.990076+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -399,7 +399,7 @@
       "published_at": "Sun, 22 Nov 2026 09:30:17 GMT",
       "published_at_utc": "2026-11-22T09:30:17+00:00",
       "published_at_tehran": "2026-11-22T13:00:17+03:30",
-      "collected_at": "2026-11-23T09:40:54.832380+00:00",
+      "collected_at": "2026-11-23T10:47:43.990128+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -413,7 +413,7 @@
       "published_at": "Sun, 22 Nov 2026 08:30:28 GMT",
       "published_at_utc": "2026-11-22T08:30:28+00:00",
       "published_at_tehran": "2026-11-22T12:00:28+03:30",
-      "collected_at": "2026-11-23T09:40:54.834706+00:00",
+      "collected_at": "2026-11-23T10:47:43.990179+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -427,7 +427,7 @@
       "published_at": "Sun, 22 Nov 2026 07:30:51 GMT",
       "published_at_utc": "2026-11-22T07:30:51+00:00",
       "published_at_tehran": "2026-11-22T11:00:51+03:30",
-      "collected_at": "2026-11-23T09:40:54.834803+00:00",
+      "collected_at": "2026-11-23T10:47:43.990250+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -441,7 +441,7 @@
       "published_at": "Sun, 22 Nov 2026 06:30:05 GMT",
       "published_at_utc": "2026-11-22T06:30:05+00:00",
       "published_at_tehran": "2026-11-22T10:00:05+03:30",
-      "collected_at": "2026-11-23T09:40:54.834860+00:00",
+      "collected_at": "2026-11-23T10:47:43.990305+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -455,7 +455,7 @@
       "published_at": "Sun, 22 Nov 2026 05:33:49 GMT",
       "published_at_utc": "2026-11-22T05:33:49+00:00",
       "published_at_tehran": "2026-11-22T09:03:49+03:30",
-      "collected_at": "2026-11-23T09:40:54.834907+00:00",
+      "collected_at": "2026-11-23T10:47:43.990352+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -469,7 +469,7 @@
       "published_at": "Sat, 21 Nov 2026 18:30:08 GMT",
       "published_at_utc": "2026-11-21T18:30:08+00:00",
       "published_at_tehran": "2026-11-21T22:00:08+03:30",
-      "collected_at": "2026-11-23T09:40:54.834969+00:00",
+      "collected_at": "2026-11-23T10:47:43.990426+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -483,279 +483,12 @@
       "published_at": "Sat, 21 Nov 2026 17:30:29 GMT",
       "published_at_utc": "2026-11-21T17:30:29+00:00",
       "published_at_tehran": "2026-11-21T21:00:29+03:30",
-      "collected_at": "2026-11-23T09:40:54.835028+00:00",
+      "collected_at": "2026-11-23T10:47:43.990489+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
     }
   ],
-  "new_items": [
-    {
-      "id": "46a37b5c3518d3d4bb767432888b81bfd55aba4211989ea8c5454555143bfc00",
-      "source": "bbcpersian",
-      "post_url": "https://www.instagram.com/p/DgD1AvlF18b",
-      "caption": "‌ محمد مالجو، اقتصاددان و پژوهشگر، می‌گوید به خاطر نوشته‌هایش در زمینه اقتصاد ایران به یک سال حبس تعزیری محکوم شده است. آقای مالجو با انتشار متنی در کانال تلگرام خود نوشت: «دو دادگاهی که در اوایل تیرماه و اواسط مهرماه ۱۴۰۵ برگزار شد، سرانجام به صدور حکم یک سال حبس تعزیری برای من انجامید. در هیچ‌یک از دو جلسه دادگاه اجازه سخن‌گفتن نیافتم.» آقای مالجو می‌گوید حکم دادگاه براساس گزارش سازمان اطلاعات سپاه و به خاطر «تولید و انتشار محتوای \"براندازانه\" در رسانه شخصی‌ام در بستر تلگرام و... همکاری مستقیم با پژوهشکده بین‌المللی تاریخ اجتماعی در هلند» صادر شده است. «اولی، در واقع، نوشتن و انتشار نوشته‌هایم را هدف گرفته بود و دومی نیز حیات دانشگاهی‌ام در خارج از ایران را در شرایطی که هرگز اجازۀ عضویت در دانشگاه‌های ایران به من داده نشده است.» آقای مالجو نوشته است: «اتهاماتی را که به من نسبت دادند نپذیرفتم و نمی‌پذیرم. اما این‌ها همه بهانه بود. حکم حبس تعزیری را به دلیل دیگری برایم صادر کرده‌اند. مرا ابتدا برای اندیشیدن و نوشتن احضار کردند و سپس برای امتناع از تمکین به رویه‌ای غیرقانونی به حبس محکوم کردند.» آقای مالجو از سال گذشته در مورد احضار و بازجویی خود از سوی سازمان اطلاعات سپاه اطلاع‌رسانی کرده بود. 📸 انتخاب",
-      "media_url": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-15/927258299_18662982217007680_5546176744639712395_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=109&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=4YNV-CgUdfYQ7kNvwFbyM9w&amp;_nc_oc=Adpl-1moem1qFnnp41J6LtCitduQrOyxJjdTQhWlGcSgszodaZww_cJq3d30PTXeXek&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw6-2.cdninstagram.com&amp;_nc_gid=9Ck2in8MsUZn1RZ_llfVtQ&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQRQxoosyg-Qlstm1ATM_bRS31VC9XbxbMgIhOfzx5QuJA&amp;oe=6B092396",
-      "published_at": "Sun, 22 Nov 2026 22:00:15 GMT",
-      "published_at_utc": "2026-11-22T22:00:15+00:00",
-      "published_at_tehran": "2026-11-23T01:30:15+03:30",
-      "collected_at": "2026-11-23T09:40:26.147354+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "242434c9ef677e39f526b10291066c940cd8cc3e938c78675d8a5a99e6ee936f",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/DgDp3ulGRFO",
-      "caption": "ویدیوهای منتشرشده در شبکه‌های اجتماعی از آتش‌سوزی گسترده در بندر بنغازی در شرق لیبی حکایت دارند. دولت مستقر در شرق لیبی یکشنبه، یکم آذر، اعلام کرد بررسی‌های اولیه نشان می‌دهد انفجار یک کشتی روسی در پایگاه دریایی بنغازی احتمالا ناشی از حمله پهپادی بوده است. به گفته منابع پزشکی، ۱۰ نفر، از جمله چند شهروند روسیه و لیبی، در این حادثه به‌طور سطحی مجروح شدند و در بنغازی تحت درمان قرار گرفتند. تاکنون هیچ گروهی مسئولیت این حمله احتمالی را بر عهده نگرفته و مقام‌های روسیه نیز واکنشی نشان نداده‌اند.",
-      "media_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/919046810_18454750612176167_8398429581409660211_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=105&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=SO0qn_Rcu5gQ7kNvwEWB4Xn&amp;_nc_oc=AdqfA1wbvzmg-A__JEPCk2FlDT7KMgKzbMw1-GQrtztkV_QcaWnQTA-sEeeJN107FHo&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.cdninstagram.com&amp;_nc_gid=UqrTeuL3h360cmWKj7d5mg&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQTJTKcKhZrvZlDw05RtRRIOADxc9j10WhY-nbThkjiaLA&amp;oe=6B092DC8",
-      "published_at": "Sun, 22 Nov 2026 20:22:54 GMT",
-      "published_at_utc": "2026-11-22T20:22:54+00:00",
-      "published_at_tehran": "2026-11-22T23:52:54+03:30",
-      "collected_at": "2026-11-23T09:40:41.136288+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "8b78271260d66c3333c4c00de247ce842690ac094aa9f349cff4663c2cb547f9",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/DgDpe2VlBJ6",
-      "caption": "‌ مقام‌های دانشگاه‌های علوم پزشکی نیشابور و شیراز از مسمومیت حدود ۱۵۰ نفر بر اثر مصرف مشروبات الکلی تقلبی در نیشابور، شیراز و مرودشت خبر دادند. بر اساس آمار اعلام‌شده، تاکنون پنج نفر جان باخته‌اند، یک نفر دچار مرگ مغزی شده و شماری از مسمومان در بخش مراقبت‌های ویژه بستری هستند. سیدمیلاد تقدیسی حیدریان، سرپرست معاونت درمان دانشگاه علوم پزشکی نیشابور، یک‌شنبه اول آذر اعلام کرد که شمار مسمومان در این شهر به ۱۲۰ نفر رسیده و چهار نفر جان باخته‌اند. به گزارش خبرگزاری مهر، او افزود که یک نفر دچار مرگ مغزی شده و ۱۱ بیمار نیز تحت لوله‌گذاری داخل نای قرار گرفته‌اند. همچنین ۱۶ نفر پس از دریافت خدمات درمانی ترخیص شده و ۱۸ نفر برای ادامه درمان به مراکز درمانی مشهد انتقال یافته‌اند. هم‌زمان، معاون درمان دانشگاه علوم پزشکی شیراز از مسمومیت حدود ۳۰ نفر بر اثر مصرف متانول در شیراز و مرودشت طی ۲۴ ساعت گذشته خبر داد و گفت که یک نفر جان باخته و چهار نفر دیگر در بخش مراقبت‌های ویژه بستری هستند.",
-      "media_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/918343718_18454749937176167_3794327893891866122_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=Ngcs1lA-f00Q7kNvwH1qrcy&amp;_nc_oc=AdomJN9Z0Lbu1syQNjEqB-9hmcwXvuhYbCf1L37_WQt43ec7qlRcPj49ZG2TVxZw8Io&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.cdninstagram.com&amp;_nc_gid=UqrTeuL3h360cmWKj7d5mg&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQRTR3AwT5xHyOPPtc6qGDgqFZdumkbR8TQ7NA7ox8v1aQ&amp;oe=6B092A02",
-      "published_at": "Sun, 22 Nov 2026 20:19:30 GMT",
-      "published_at_utc": "2026-11-22T20:19:30+00:00",
-      "published_at_tehran": "2026-11-22T23:49:30+03:30",
-      "collected_at": "2026-11-23T09:40:41.136382+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "4fac6bbf336c08af047161ebbf40a41144d5aa4f8f8b55386cfe70cfac73b0a7",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/DgDoqcAkYVX",
-      "caption": "موج تازه اعتصاب کامیون‌داران و رانندگان در شهرهای مختلف ایران آغاز شده؛ از شیراز و چابهار و دزفول تا بندرعباس، سیرجان و اصفهان. در تهران هم گزارش شده گروهی از رانندگان در میدان بار از بارگیری خودداری کردند. هم‌زمان اعتراض‌های پراکنده و شعارنویسی‌های ضدحکومتی هم در نقاط مختلف ایران ادامه دارد. گفت‌وگو با آسیه امینی، تحلیل‌گر مسائل اجتماعی",
-      "media_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/928143030_18454748608176167_4898086287540816130_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=110&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=816eufipJlQQ7kNvwHasAEx&amp;_nc_oc=Adrxidznu5HFlvdgsYR6Yd3XoNI3A3uwGqnZHCo11TkkUL-PAdP6l6Y50cYI-iSgimM&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.cdninstagram.com&amp;_nc_gid=UqrTeuL3h360cmWKj7d5mg&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQRz0ClY1sncBSh6SY-3JGWFBcrauBy2w2iUmNPbso2wtw&amp;oe=6B091237",
-      "published_at": "Sun, 22 Nov 2026 20:12:21 GMT",
-      "published_at_utc": "2026-11-22T20:12:21+00:00",
-      "published_at_tehran": "2026-11-22T23:42:21+03:30",
-      "collected_at": "2026-11-23T09:40:41.136442+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "cf672708068bc69ecbe8d7c3c87bcd6e4dd6ea3b7c744743eeece633a891bb42",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/DgDnkf_Ccva",
-      "caption": "هم‌زمان با تشدید بحران سوخت و افزایش هزینه‌های حمل‌ونقل، اعتصاب کامیون‌داران در شهرهای مختلف ایران گسترش یافته و گروه‌هایی از رانندگان نیسان و وانت‌بار نیز به آن پیوسته‌اند. اتحادیه تشکل‌های کامیون‌داران و رانندگان سراسر ایران هم از اعتصاب سراسری حمایت کرده گفت‌وگو با اشکان نظام‌آبادی، روزنامه‌نگار اقتصادی",
-      "media_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/920579857_18454746709176167_5996200438947124260_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=W7uZrm_Cf20Q7kNvwEl66yF&amp;_nc_oc=AdrTXwBXv_JiLq6Xq6HwOdZAZYpIEVuMkU2DWSIdHCROo2zPi3hqfyZR47WFi1Uc3nE&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.cdninstagram.com&amp;_nc_gid=UqrTeuL3h360cmWKj7d5mg&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQSeaZ3HB2WeWH6rwFdlvR2YHZDbS5diqk1sfUiZALS_WQ&amp;oe=6B091F70",
-      "published_at": "Sun, 22 Nov 2026 20:02:48 GMT",
-      "published_at_utc": "2026-11-22T20:02:48+00:00",
-      "published_at_tehran": "2026-11-22T23:32:48+03:30",
-      "collected_at": "2026-11-23T09:40:41.136501+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "1e49481f333355525f36da3a73f5360434544397d968d0bdd0adc64ea0ade292",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/DgDnVdugVj6",
-      "caption": ". ویدیوی رسیده به ایران‌اینترنشنال نشان می‌دهد معترضان در دهلران روی دیوار یکی از معابر عمومی شهر در حمایت از مردم معترض آبدانان، شعار «درود بر آبدانان» را می‌نویسد.",
-      "media_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/916852032_18454745821176167_4683759749774283088_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=110&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=IKJ2YxB-JtYQ7kNvwEXXn3y&amp;_nc_oc=AdorHxeePpynbotvQn_dKt7QZ_O3F-DGA3349HcED-iFWi_M275jTGtnnR8lVdxvMkA&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.cdninstagram.com&amp;_nc_gid=UqrTeuL3h360cmWKj7d5mg&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQT-eKT4_Ps4dnumqSgYB5KO1XvpZq3lpT0vwqLUo61UAA&amp;oe=6B092CB3",
-      "published_at": "Sun, 22 Nov 2026 20:00:45 GMT",
-      "published_at_utc": "2026-11-22T20:00:45+00:00",
-      "published_at_tehran": "2026-11-22T23:30:45+03:30",
-      "collected_at": "2026-11-23T09:40:41.136549+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "2764633da4ebb78e7001cfb023829475117c243d825836eee22d50f0efa4a88e",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/DgDnLiICTf_",
-      "caption": "‌ علیرضا حسینعلی‌زاده، فرمانده انتظامی مشهد، یک‌شنبه اول آذر اعلام کرد که در حمله دو نفر به ماموران پلیس در بلوار امامت این شهر، سه مامور به‌طور سطحی زخمی شدند. به گفته او، پلیس به هر دو مهاجم تیراندازی کرد و یکی از آن‌ها پس از انتقال به بیمارستان جان باخت. به گزارش مرکز اطلاع‌رسانی پلیس خراسان رضوی، این حادثه شامگاه یک‌شنبه در ابتدای بلوار امامت مشهد رخ داد.",
-      "media_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/911962781_18454745413176167_6211800051930329107_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=qO78uuSi6IQQ7kNvwH1kCPY&amp;_nc_oc=Adr4G7ElsRJm3-C3Y9JNG3xuXcUVXBqt4FVxkchpQbpItq5RdlCNdbQw7LWu6Wsou8c&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.cdninstagram.com&amp;_nc_gid=UqrTeuL3h360cmWKj7d5mg&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQTROfXfymVnTGckBGD1WAH4-UwMUr5jMiaKcbUwku8o-g&amp;oe=6B090A28",
-      "published_at": "Sun, 22 Nov 2026 19:59:23 GMT",
-      "published_at_utc": "2026-11-22T19:59:23+00:00",
-      "published_at_tehran": "2026-11-22T23:29:23+03:30",
-      "collected_at": "2026-11-23T09:40:41.136602+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "4cf52bdd0379d3617d7a95f37760c541f25fc66c722d22a23289721807865b3d",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/DgDjpLuEWIC",
-      "caption": ". گروه حقوق بشری حال‌وش یک‌شنبه یکم آذر با انتشار ویدیویی گزارش داد صدها خودروی سنگین طی چند روز گذشته در گذرگاه مرز ریمدان، در استان سیستان و بلوچستان در صف مانده‌اند. رانندگان از بی‌نظمی در نوبت‌دهی، نبود امکانات رفاهی و خطر فاسدشدن محموله‌های میوه و تره‌بار خبر داده‌اند.",
-      "media_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/921801382_18454742362176167_7833770836287506700_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=Gq8pXW57-qwQ7kNvwFl6Zn9&amp;_nc_oc=AdrM9yRGun3RomHmh-pXjjx-TFHIvl302fKjFLtPWLaA3Pqe3MCAWLHT01UGVEp5sw0&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.cdninstagram.com&amp;_nc_gid=UqrTeuL3h360cmWKj7d5mg&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQTYD5MetuG-BDUFOtvMB-q1RrNkEd1rURIBuMT_9FRUlw&amp;oe=6B090F98",
-      "published_at": "Sun, 22 Nov 2026 19:28:29 GMT",
-      "published_at_utc": "2026-11-22T19:28:29+00:00",
-      "published_at_tehran": "2026-11-22T22:58:29+03:30",
-      "collected_at": "2026-11-23T09:40:41.136670+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "c147943784c92e36c3e4c83801cf9ad55090b3996b24b752a933510dd5982229",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/DgDjlYqAhxn",
-      "caption": "۹ ماه پس از حذف خامنه‌ای، یک پژوهشگر ارشد جبهه مقاومت از نفوذ موساد در عالی‌ترین سطح جمهوری اسلامی پرده برداشت. به گفته او، موساد با تسخیر نهادهای اطلاعاتی نظام، منبع تغدیه رهبران حکومت ایران درباره اسرائیل شد و توانست روایت آنان را به نفع خودش شکل دهد. گزارشی از مجتبا پورمحسن",
-      "media_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/906253654_18454742524176167_1094716616613466705_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=6oAavT0lrhcQ7kNvwFHFOZQ&amp;_nc_oc=AdrBezNTIgX3WA6b8E5XJXHZGzDnYBzi1gwWR0t6xfFULN12rQ6Kk6Om0ki_6Rk2bRk&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.cdninstagram.com&amp;_nc_gid=UqrTeuL3h360cmWKj7d5mg&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQTBQnZDQCI5ckIFqyGzJhb4GiyvyddjLCMiNEn2uOQ_5A&amp;oe=6B0938C1",
-      "published_at": "Sun, 22 Nov 2026 19:27:58 GMT",
-      "published_at_utc": "2026-11-22T19:27:58+00:00",
-      "published_at_tehran": "2026-11-22T22:57:58+03:30",
-      "collected_at": "2026-11-23T09:40:41.136724+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "940659bd9c0958151205d101dfd92e8962444a9923c37bd4246ae52d473ac5bf",
-      "source": "bbcpersian",
-      "post_url": "https://www.instagram.com/p/DgDh80pvBG7",
-      "caption": "سرکرده یکی از کارتل‌های مواد مخدر مکزیک که در فهرست ۱۰ فرد تحت تعقیب اف‌بی‌آی بود، در عملیاتی گسترده و در پی درگیری با نیروهای امنیتی مکزیک بازداشت شد. &nbsp; وزارت دفاع مکزیک اعلام کرد فاوستو ایسیدرو مزا فلورس ملقب به «ال چاپو ایسیدرو» به همراه هفت نفر دیگر، روز جمعه ۲۰ نوامبر مطابق با ۲۹ آبان در شهر گواساه در ایالت سینالوآ، به‌دست نیروهای ویژه مکزیک بازداشت شده است. &nbsp; ایسیدرو در مکزیک به اتهام جرایم سازمان‌یافته تحت تعقیب بود. اف‌بی‌آی او را متهم کرده است که با قاچاق فنتانیل، کوکائین، هروئین و دیگر مواد مخدر مرگبار، بازار آمریکا را اشباع کرده است. دولت آمریکا خواهان استرداد او شده است.",
-      "media_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/920793582_18662947138007680_5372275593673872861_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=cSbp1rkYcJMQ7kNvwGt0WBr&amp;_nc_oc=AdpUY-Mme9PA8fcRNXv8V_FllKsmQyzFT7zdjBoJav-sch9GX9wzCbAZWTwsfuoXAGI&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw6-1.cdninstagram.com&amp;_nc_gid=9Ck2in8MsUZn1RZ_llfVtQ&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQRyukOln_OyPj8OyuP9zJh5qVbd7hkkuPzL03-1SUGloQ&amp;oe=6B092B8F",
-      "published_at": "Sun, 22 Nov 2026 19:13:41 GMT",
-      "published_at_utc": "2026-11-22T19:13:41+00:00",
-      "published_at_tehran": "2026-11-22T22:43:41+03:30",
-      "collected_at": "2026-11-23T09:40:26.147518+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "3509735a08a8002af3b155d675d7b02fd1499e50c59f1e204a739ab15feb7f78",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/DgDha9hDlhx",
-      "caption": "مهدی مهدوی‌آزاد در برنامه چشم‌انداز گفت اعتصاب کامیون‌داران در سال ۱۴۰۴ به دست‌کم ۱۵۰ شهر گسترش یافت، اما سانسور و سرکوب و بازداشت‌های امنیتی مانع تداوم و گسترش آن شد.",
-      "media_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/920196945_18454738792176167_3493685808142831942_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=XZTaE0-n8g8Q7kNvwEAyLfa&amp;_nc_oc=AdqZ9a0Dwwyq9F-_ymaT5GdHOi3iUole1zbzvwhT65LwHY2FzUqDBWelv7MEvdhTHR8&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.cdninstagram.com&amp;_nc_gid=UqrTeuL3h360cmWKj7d5mg&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQRhCENhlKyPIvvmdgODU-zlvGL29Lyq767QzudwBeH4Xw&amp;oe=6B0925D8",
-      "published_at": "Sun, 22 Nov 2026 19:09:04 GMT",
-      "published_at_utc": "2026-11-22T19:09:04+00:00",
-      "published_at_tehran": "2026-11-22T22:39:04+03:30",
-      "collected_at": "2026-11-23T09:40:41.136768+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "fc6b6f26c6f2dcaeb5c03a8aec27c2a51072c0d74b36a72599fb35433adf2212",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/DgDgnhsoH3O",
-      "caption": "‌ محمد مالجو، اقتصاددان و پژوهشگر، در کانال تلگرامی خود از محکومیتش به یک سال حبس تعزیری پس از برگزاری دو جلسه دادگاه در تیر و مهر ۱۴۰۵ خبر داد. مالجو در یادداشتی با عنوان «احضار به جرم اندیشیدن، حبس به جرم تمکین‌نکردن» نوشت که در هیچ‌یک از جلسات دادگاه اجازه سخن گفتن نداشته و حکم او بر اساس گزارش بازجویان سازمان اطلاعات سپاه پاسداران صادر شده است. او این گزارش را حاوی اطلاعات نادرست و اتهام‌هایی علیه فعالیت‌های فکری و حرفه‌ای خود دانست و ادعاهای مربوط به انتشار خاطرات زندان در نشریه «آرش» و ارتباط با سازمان «پیکار» را رد کرد. مالجو همچنین گفت که انتشار مطالب «براندازانه» در کانال تلگرامی شخصی و همکاری با پژوهشکده بین‌المللی تاریخ اجتماعی از دیگر موارد مطرح‌شده علیه او بوده است. این پژوهشگر با رد اتهام‌ها اعلام کرد که سه نوبت احضار و بازجویی او بدون ابلاغ قضایی انجام شده و به همین دلیل تصمیم گرفته است به احضارهای فاقد مبنای قانونی پاسخ ندهد.",
-      "media_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/921098944_18454737238176167_4630510115084891593_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=exRyJqTTYhAQ7kNvwHCZOGj&amp;_nc_oc=AdqHnEahpGCn62WGO4rnICGImBpTXaoNNU1bxTuCj_bvs1hd1139dHhiRxIh00LNOzg&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.cdninstagram.com&amp;_nc_gid=UqrTeuL3h360cmWKj7d5mg&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQQTbeGJ0OY6qYLKUlm8xLrA0MCy0c2MJeBpryTg5fh3gw&amp;oe=6B093C41",
-      "published_at": "Sun, 22 Nov 2026 19:02:03 GMT",
-      "published_at_utc": "2026-11-22T19:02:03+00:00",
-      "published_at_tehran": "2026-11-22T22:32:03+03:30",
-      "collected_at": "2026-11-23T09:40:41.136838+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "bedec2ed76b066164ecc9c2dbeaef296ca36ec7d691662c6caa7e1f94fcb99b0",
-      "source": "bbcpersian",
-      "post_url": "https://www.instagram.com/p/DgDgiZlCX9J",
-      "caption": "سازمان عملیات تجارت دریایی بریتانیا اعلام کرد که گزارشی مبنی بر وقوع حادثه‌ای «میان یک نفت‌کش و نیروهای نظامی» در دریای عمان دریافت کرده است، اما تا لحظه انتشار این گزارش مشخص نیست چه نفتکشی هدف قرار گرفته است. در روزهای اخیر گزارش‌های ضد و نقیضی درباره بارگیری شماری از نفتکش‌های ایرانی در جزیره خارک و تلاش برای شکستن محاصره دریایی آمریکا منتشر شده است. شماری از حساب‌ها و کانال‌های نزدیک به سپاه پاسداران در شبکه‌های اجتماعی هم مدعی شده‌اند که یک نفتکش بزرگ ایرانی به نام «خط‌ شکن» در حال عبور از محاصره دریایی آمریکا و حرکت به سمت دریای عمان است. غنچه حبیبی‌آزاد از بخش راستی‌آزمایی بی‌بی‌سی فارسی این ادعاها را بررسی کرده است.",
-      "media_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.71878-15/922517955_1169552748943386_9016111983186066380_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=qic6j0EpRJcQ7kNvwHqwiG7&amp;_nc_oc=AdpeopQM8xCQIto6-fAYC5z2uK6AfcvndwmhZsAGDiogO4bHe1sVOybVlzSXYw3eFoU&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw6-1.cdninstagram.com&amp;_nc_gid=9Ck2in8MsUZn1RZ_llfVtQ&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQT1SPazu4hllfq46QB7WRi7Di8J5PBgR8M1cBOjYn1Gyw&amp;oe=6B0943A7",
-      "published_at": "Sun, 22 Nov 2026 19:01:21 GMT",
-      "published_at_utc": "2026-11-22T19:01:21+00:00",
-      "published_at_tehran": "2026-11-22T22:31:21+03:30",
-      "collected_at": "2026-11-23T09:40:26.147613+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "50909268b7fa1dae832ed94247b61788bae0545898adb3aae4a29b2c73ef7c16",
-      "source": "bbcpersian",
-      "post_url": "https://www.instagram.com/p/DgDcFm5PWxj",
-      "caption": "لوئیس پیو، شناگر استقامت بریتانیایی، برای نشان دادن پیامدهای زیست‌محیطی ویرانگر جنگ آمریکا با ایران، ۱۵ کیلومتر در آب‌های عمان در تنگه هرمز شنا کرد. او که از شبه‌جزیره مسندم در عمان شنا را آغاز کرده بود، در طول این مسیر شاهد حمله به دو کشتی نفتکش و حمل گاز بود. آقای پیو با هشدار درباره ماندگاری آلودگی‌های ناشی از جنگ، خواستار توقف فوری درگیری‌ها، بازگشایی تنگه هرمز و پاکسازی این منطقه شد.",
-      "media_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/920824334_18662932603007680_155133230218276102_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=GO0miDIxwVkQ7kNvwEM-rhm&amp;_nc_oc=AdpkPtRgPEIgepmhGq2syReituaDFjlCQn0sszQZICmuLd2rocIscB5hzRiA6fis9ns&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw6-1.cdninstagram.com&amp;_nc_gid=9Ck2in8MsUZn1RZ_llfVtQ&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQQVxsMjZOp3yP0dWi8-K801pA8oEsohsu7REInBoio75A&amp;oe=6B0944FE",
-      "published_at": "Sun, 22 Nov 2026 18:22:28 GMT",
-      "published_at_utc": "2026-11-22T18:22:28+00:00",
-      "published_at_tehran": "2026-11-22T21:52:28+03:30",
-      "collected_at": "2026-11-23T09:40:26.147856+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "70120de5f0797922ade543e712e87846be0d0a7985936823ae93c7aeaa15d6d3",
-      "source": "bbcpersian",
-      "post_url": "https://www.instagram.com/p/DgDS9vthIi8",
-      "caption": "‌ پس از واکنش‌های بسیار به اجرای مرحله دوم طرح موسوم به «هوشمندسازی یارانه آرد و نان» که طی آن خرید نان بعضی از شهروندان «نامتعارف» و «تجاری» تشخیص داده شده است، چند مقام دولت ایران با رد «سهیمه‌بندی» نان درباره وضعیت جدید توضیحاتی ارائه کردند. حسین ظفری، سخنگوی شورای آرد و نان ایران، دیروز ۳۰ آبان در جمع خبرنگاران با ذکر مواردی که از چندین ماه پایش داده‌های کارت بانکی شهروندان برای خرید نان استخراج شده گفت که مصرف حدود ۲۹۰ هزار خریدار نان، «نامتعارف» و خارج از شمول یارانه نان تشخیص داده شده است و یارانه بقیه شهروندان بدون تغییر به قوت خود باقی است. غلامرضا نوری قزلجه، وزیر جهاد سازندگی، هم با حضور در تلویزیون ایران واکنش‌ها را «فضاسازی رسانه‌‌ای» خواند و گفت که هیچ تغییری در قیمت نان و آرد و میزان یارانه آن رخ نداده است. او اما از اجرای «طرح آزمایشی برای اقدامات اصلاحی با هدف جلوگیری از تخلفات مرتبط با آرد» خبر داد. تلویزیون ایران در گزارشی، نگرانی مردم را ناشی از «شایعات و اطلاع‌رسانی ناقص» دانست اما بعضی بر این گمانند که دولت در حال محک‌ زدن واکنش مردم است. لیلی خامنه، روزنامه‌نگار اقتصادی، در گفتگو با بی‌بی‌سی فارسی با اشاره به «کسری بودجه و تحریم شدید» می‌گوید که دولت برای کاهش مصرف نان و سهمیه‌بندی قدم برمی‌دارد. #bbcpersian⁩⁩",
-      "media_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/920665357_18662913580007680_524098408104600782_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=bwBa5-SZmysQ7kNvwFby_kN&amp;_nc_oc=AdqNmBkfvtXBPCGZc6R5kYBi-svZSFuZEsRzys93z3EvrkurXU9L1W_ofGkFWfddGis&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw6-1.cdninstagram.com&amp;_nc_gid=9Ck2in8MsUZn1RZ_llfVtQ&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQwAAAA&amp;oh=00_AQTTkmRK_eDsOa3WYEsj3JdWeE_ZIWAlItmzKDzK6Z2cTQ&amp;oe=6B0928CF",
-      "published_at": "Sun, 22 Nov 2026 17:02:45 GMT",
-      "published_at_utc": "2026-11-22T17:02:45+00:00",
-      "published_at_tehran": "2026-11-22T20:32:45+03:30",
-      "collected_at": "2026-11-23T09:40:26.147951+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "16f12a57bb7691a798dd355f621039781e950e1d195ab27f295ac054a64eeaa6",
-      "source": "irnanews1313",
-      "post_url": "https://www.instagram.com/p/DgDSwa2h-tq",
-      "caption": ". 🔹مروری بر آنچه در «خبرگردی» اول آذر می بینید. ▪️«خبرگردی» را می‌توانید هر روز ساعت۱۴ زنده از تلویزیون ایرنا و کمی بعد در شبکه‌های اجتماعی تماشا کنید. #ایرنا",
-      "media_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.71878-15/912008980_1181235654256295_6797946455571490886_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=103&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=huCKQzDroPQQ7kNvwFjQavq&amp;_nc_oc=AdolgEjKxe_gjVpw1pIZ-57JBaNff0reqdInpIrmrhQXdDHVNq0DS33FVEr1cCy2QSE&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw5-1.cdninstagram.com&amp;_nc_gid=aZUlVJzqe8uyp_E6HBIsUw&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQQ0s0tHpnsihjm7FpzprKwJGgniEQJJp6-psu0vJXRLxg&amp;oe=6B092478",
-      "published_at": "Sun, 22 Nov 2026 17:00:56 GMT",
-      "published_at_utc": "2026-11-22T17:00:56+00:00",
-      "published_at_tehran": "2026-11-22T20:30:56+03:30",
-      "collected_at": "2026-11-23T09:40:54.832219+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "e79fa6e8b125d0f891f15e5539657cabbfa2401b918a00c5bc6e7204a81e6d28",
-      "source": "bbcpersian",
-      "post_url": "https://www.instagram.com/p/DgDQ29sPyiM",
-      "caption": "بنابر ویدیوهای دریافتی و گزارش رسانه‌های محلی، گروهی از دانش‌آموزان در کرمانشاه روز شنبه ۳۰ آبان در اعتراض به کشته‌شدن سوگند صیادی تجمع کردند. در تصاویری که با یک روز تاخیر منتتشر شده، شنیده می‌شود که دانش آموزان نام سوگند صیادی را فریاد می‌زنند و علیه مدیر مدرسه شعار می‌دهند. سوگند صیادی دختر ۱۶ ساله‌ای بود که خبر کشته‌شدنش واکنش‌برانگیز شد. دادستان عمومی کرمانشاه از بازداشت پدر سوگند صیادی و مدیر مدرسه این دانش‌آموز خبر داده ‌است. خبرگزاری رکنا که اولین بار این خبر را منتشر کرد در توضیحاتش نوشته بود «بر اساس اطلاعات دریافتی از منابع محلی، روز ۲۳ آبان‌ماه، از مدرسه موضوعی را با عنوان علت ارتباط شخصی به پدر سوگند اطلاع می‌دهند. گفته می‌شود پس از این اتفاق، پدر سوگند حدود ساعت ۸:۴۵ صبح به مدرسه مراجعه کرده و دخترش را با خود به خانه می‌برد. سازمان حقوق بشری هه‌نگاو هم این خبر را به نقل از منابع خودش منتشر کرده و نوشته بود که سوگند صیادی «اهل روستای علیرضاوندی از توابع گیلانغرب و ساکن محله کیانشهر کرمانشاه» از «طبقه پنجم ساختمان مسکونی به پایین پرتاب شده و جان خود را از دست داده است.» تشییع و خاکسپاری سوگند صیادی دوشنبه ۲۵ آبان ماه در روستای دارتوت صیادی شهرستان گیلانغرب انجام شد. پدر او در این مراسم حضور داشت و پس از آن بازداشت شد.",
-      "media_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/923083888_18662907868007680_2064294397015240041_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=hxdDA8ux614Q7kNvwFV4Br5&amp;_nc_oc=AdqORK9VycGSNKqPP3yivRv5Zi-7fY9xNisgC11CDbm8l02YpGE0zOZika1246OsWeo&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw6-1.cdninstagram.com&amp;_nc_gid=9Ck2in8MsUZn1RZ_llfVtQ&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQSoBvSyaSvn2xZHNMmtnf4nbYWVr7ok01fvFprT4zZ2Tg&amp;oe=6B092E4D",
-      "published_at": "Sun, 22 Nov 2026 16:44:21 GMT",
-      "published_at_utc": "2026-11-22T16:44:21+00:00",
-      "published_at_tehran": "2026-11-22T20:14:21+03:30",
-      "collected_at": "2026-11-23T09:40:26.148035+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "c27943e60bd869f7c7bad530e234ea10eb4655a531aa4149725d16caabd87df4",
-      "source": "bbcpersian",
-      "post_url": "https://www.instagram.com/p/DgDMWyJNr1u",
-      "caption": "‌ شرکت توانیر که مدیریت تولید و توزیع برق را در ایران به عهده دارد، می‌گوید از امروز قطع برنامه‌ریزی‌شده برق شروع می‌شود. به گفته مدیرعامل توانیر، قرار است برق خانه‌ها و مغازه‌ها یک روز در میان دو ساعت قطع شود و هشدار داده که اگر هوا سردتر شود، به خاطر کمبود سوخت نیروگاه‌ها، زمان خاموشی بیشتر هم می‌شود. مسعود پزشکیان رئیس‌جمهور ایران، شنبه در همایش بازار سرمایه گفت دولت می‌خواهد بر خلاف سال‌های قبل، در صورت کمبود، برق صنایع را آخر از همه قطع کند، نه قبل از قطع برق مشترکان خانگی و تجاری. این در حالی است که انتشار ویدیویی از دفتر رئیس‌جمهوری ایران که نشان می‌داد چراغ‌‌ها و سیستم گرمایش خاموش است، انتقادهایی را برانگیخته است. گزارش بهرنگ تاج‌دین را ببینید.",
-      "media_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/917425252_18662896690007680_2737794754048818213_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=3BDK7COIqEsQ7kNvwHRHtzm&amp;_nc_oc=AdrGVgFe6YUapXAKsnTosz1AanohbEM8VJVygLZq46lFRpC2o9W_Jnj5SoFlyesKyyA&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw6-1.cdninstagram.com&amp;_nc_gid=9Ck2in8MsUZn1RZ_llfVtQ&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQRvbbOCpT1XUSZZITNQieGjk7IXV74kTMezWORjpgFlbg&amp;oe=6B09390D",
-      "published_at": "Sun, 22 Nov 2026 16:05:00 GMT",
-      "published_at_utc": "2026-11-22T16:05:00+00:00",
-      "published_at_tehran": "2026-11-22T19:35:00+03:30",
-      "collected_at": "2026-11-23T09:40:26.148102+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "6ec0e13259102b7fb93126a15054fa66410af3fb795ab828cc597101f369066b",
-      "source": "bbcpersian",
-      "post_url": "https://www.instagram.com/p/DgDLAFMl_Fs",
-      "caption": "‌ وزارت خارجه عربستان، حملات ایران به بحرین را «به شدیدترین لحن ممکن» محکوم و تقبیح کرده است. در بیانیه وزارت خارجه عربستان که در شبکه اجتماعی ایکس منتشر شده آمده است که این «پادشاهی بر همبستگی کامل خود با بحرین در تمامی اقداماتی که این کشور برای حفظ امنیت و ثبات خود اتخاذ می‌کند، تأکید می‌کند.» در بیانیه ریاض همچنین تهران به تضعیف «امنیت و ثبات منطقه‌ای» متهم شده است. وزارت خارجه امارات متحده عربی نیز گفته است که حملات اخیر، «نقض آشکار» حاکمیت بحرین بوده و بر «همبستگی کامل امارات با پادشاهی برادر، بحرین، و حمایت از تمامی تدابیر اتخاذ شده برای حفظ امنیت و ثبات آن» تاکید کرده است. قطر نیز در بیانیه جداگانه‌ای حمله ایران «به یک تاسیسات صنعتی غیرنظامی» در بحرین را محکوم کرده است. وزارت خارجه قطر در بیانیه‌اش نوشته است که ما «ضمن تاکید بر مخالفت قاطع دولت قطر با حملات علیه تاسیسات اقتصادی، اماکن غیرنظامی و غیرنظامیان، تصریح می‌کنیم که تداوم این حملات به منزله تشدید خطرناک تنش است که امنیت و ثبات منطقه را تهدید می‌کند.» 📷 EPA",
-      "media_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/920196826_18662893900007680_5762013576107950486_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=1QpeLFThcogQ7kNvwG5Y3m2&amp;_nc_oc=AdoeA9_G1XmBhMn3y-JRTfEHfwbpZ-Gw93ovdIIZliAXAXB4PuAHfx804s6AY1UHCBE&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw6-1.cdninstagram.com&amp;_nc_gid=9Ck2in8MsUZn1RZ_llfVtQ&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQTRwVUueg3qDy5weyTfBNe9X1U_W8yGi8-ts6iju-Nm0w&amp;oe=6B09587A",
-      "published_at": "Sun, 22 Nov 2026 15:53:10 GMT",
-      "published_at_utc": "2026-11-22T15:53:10+00:00",
-      "published_at_tehran": "2026-11-22T19:23:10+03:30",
-      "collected_at": "2026-11-23T09:40:26.148180+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    }
-  ],
+  "new_items": [],
   "note": "Items contains the current feed snapshot for downstream news-list ingestion. Only media-complete new posts are marked seen. Publishing remains disabled pending verification and explicit approval."
 }
