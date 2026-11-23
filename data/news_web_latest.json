@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T22:06:39.634217+00:00",
+  "generated_at": "2026-11-23T23:09:04.801277+00:00",
   "source_mode": "publisher_website_rss_separate_from_instagram",
   "publishing_enabled": false,
   "count": 36,
@@ -20,7 +20,19 @@
       "published_at": "",
       "published_at_utc": null,
       "published_at_tehran": null,
-      "collected_at": "2026-11-23T22:06:36.664925+00:00"
+      "collected_at": "2026-11-23T23:09:01.717823+00:00"
+    },
+    {
+      "publisher": "BBC Persian",
+      "source_mode": "publisher_website_rss",
+      "title": "چرا انویدیا نمی‌توانست جنسن هوانگ را اخراج کند؟",
+      "description": "بازگشت جنسن هوانگ به مقام مدیرعاملی انویدیا، پس از آن‌که به رابطه‌ای با زنی که گفته می‌شود مظنون به جاسوسی برای چین بوده اعتراف کرد، در چند ساعت گذشته با سه تحول حیرت‌انگیز همراه بوده است.",
+      "article_url": "https://www.bbc.com/persian/articles/cqwy0jxl1ke1o?at_medium=RSS&at_campaign=rss",
+      "media_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cc0b/live/456f5c10-e772-11f1-99a1-253766e7ad8b.jpg",
+      "published_at": "Mon, 23 Nov 2026 22:09:12 GMT",
+      "published_at_utc": "2026-11-23T22:09:12+00:00",
+      "published_at_tehran": "2026-11-24T01:39:12+03:30",
+      "collected_at": "2026-11-23T23:09:01.717901+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -32,7 +44,7 @@
       "published_at": "Mon, 23 Nov 2026 17:21:35 GMT",
       "published_at_utc": "2026-11-23T17:21:35+00:00",
       "published_at_tehran": "2026-11-23T20:51:35+03:30",
-      "collected_at": "2026-11-23T22:06:36.665013+00:00"
+      "collected_at": "2026-11-23T23:09:01.717950+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -44,7 +56,7 @@
       "published_at": "Mon, 23 Nov 2026 15:13:36 GMT",
       "published_at_utc": "2026-11-23T15:13:36+00:00",
       "published_at_tehran": "2026-11-23T18:43:36+03:30",
-      "collected_at": "2026-11-23T22:06:36.665069+00:00"
+      "collected_at": "2026-11-23T23:09:01.717985+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -56,7 +68,7 @@
       "published_at": "Mon, 23 Nov 2026 16:10:23 GMT",
       "published_at_utc": "2026-11-23T16:10:23+00:00",
       "published_at_tehran": "2026-11-23T19:40:23+03:30",
-      "collected_at": "2026-11-23T22:06:36.665118+00:00"
+      "collected_at": "2026-11-23T23:09:01.718010+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -68,7 +80,7 @@
       "published_at": "Mon, 23 Nov 2026 12:31:09 GMT",
       "published_at_utc": "2026-11-23T12:31:09+00:00",
       "published_at_tehran": "2026-11-23T16:01:09+03:30",
-      "collected_at": "2026-11-23T22:06:36.665163+00:00"
+      "collected_at": "2026-11-23T23:09:01.718036+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -80,7 +92,7 @@
       "published_at": "Mon, 23 Nov 2026 16:24:48 GMT",
       "published_at_utc": "2026-11-23T16:24:48+00:00",
       "published_at_tehran": "2026-11-23T19:54:48+03:30",
-      "collected_at": "2026-11-23T22:06:36.665208+00:00"
+      "collected_at": "2026-11-23T23:09:01.718064+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -92,7 +104,7 @@
       "published_at": "Mon, 23 Nov 2026 08:33:36 GMT",
       "published_at_utc": "2026-11-23T08:33:36+00:00",
       "published_at_tehran": "2026-11-23T12:03:36+03:30",
-      "collected_at": "2026-11-23T22:06:36.665252+00:00"
+      "collected_at": "2026-11-23T23:09:01.718093+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -104,19 +116,7 @@
       "published_at": "Mon, 23 Nov 2026 09:27:22 GMT",
       "published_at_utc": "2026-11-23T09:27:22+00:00",
       "published_at_tehran": "2026-11-23T12:57:22+03:30",
-      "collected_at": "2026-11-23T22:06:36.665301+00:00"
-    },
-    {
-      "publisher": "BBC Persian",
-      "source_mode": "publisher_website_rss",
-      "title": "کاپ۳۱؛ پنج نکته از نشست اقلیمی که به توافق نرسید",
-      "description": "نشست کاپ۳۱ در ترکیه در حالی برگزار شد که شواهد تغییرات اقلیمی از همیشه آشکارتر بود؛ سال ۲۰۲۶ با فروریختن یخچال‌های طبیعی، رکوردشکنی دما در اروپا و آتش‌سوزی‌های گسترده در آسیا همراه بود. اما در همان حال، شکاف‌های ژئوپولیتیکی نیز عمیق‌تر از هر زمان دیگری بود.",
-      "article_url": "https://www.bbc.com/persian/articles/cvde1ddgrr2po?at_medium=RSS&at_campaign=rss",
-      "media_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/55f7/live/e38ff1a0-e71f-11f1-99b6-a35a62fa4264.jpg",
-      "published_at": "Mon, 23 Nov 2026 11:58:40 GMT",
-      "published_at_utc": "2026-11-23T11:58:40+00:00",
-      "published_at_tehran": "2026-11-23T15:28:40+03:30",
-      "collected_at": "2026-11-23T22:06:36.665345+00:00"
+      "collected_at": "2026-11-23T23:09:01.718118+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -128,7 +128,7 @@
       "published_at": "Sun, 22 Nov 2026 08:14:12 GMT",
       "published_at_utc": "2026-11-22T08:14:12+00:00",
       "published_at_tehran": "2026-11-22T11:44:12+03:30",
-      "collected_at": "2026-11-23T22:06:36.665388+00:00"
+      "collected_at": "2026-11-23T23:09:01.718144+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -140,7 +140,7 @@
       "published_at": "Sat, 21 Nov 2026 06:09:26 GMT",
       "published_at_utc": "2026-11-21T06:09:26+00:00",
       "published_at_tehran": "2026-11-21T09:39:26+03:30",
-      "collected_at": "2026-11-23T22:06:36.665431+00:00"
+      "collected_at": "2026-11-23T23:09:01.718169+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -152,7 +152,55 @@
       "published_at": "Fri, 20 Nov 2026 05:52:06 GMT",
       "published_at_utc": "2026-11-20T05:52:06+00:00",
       "published_at_tehran": "2026-11-20T09:22:06+03:30",
-      "collected_at": "2026-11-23T22:06:36.665482+00:00"
+      "collected_at": "2026-11-23T23:09:01.718198+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "سرپرست اداره‌کل تأمین اجتماعی خراسان: ۹درصد حق بیمه تامین اجتماعی به بخش درمان اختصاص دارد",
+      "description": "سرپرست اداره‌کل تأمین اجتماعی خراسان رضوی گفت: براساس قانون، ۹ درصد از حق بیمه پرداختی بیمه‌شدگان به بخش درمان اختصاص دارد و متاسفانه آمار مشخصی از سهم پرداختی بیمه‌شدگان از هزینه‌های درمان در سطح استان نداریم، چراکه این آمار به‌صورت کشوری محاسبه می‌شود.",
+      "article_url": "https://www.isna.ir/news/1405090201563/%D8%B3%D8%B1%D9%BE%D8%B1%D8%B3%D8%AA-%D8%A7%D8%AF%D8%A7%D8%B1%D9%87-%DA%A9%D9%84-%D8%AA%D8%A3%D9%85%DB%8C%D9%86-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%DB%B9%D8%AF%D8%B1%D8%B5%D8%AF-%D8%AD%D9%82-%D8%A8%DB%8C%D9%85%D9%87-%D8%AA%D8%A7%D9%85%DB%8C%D9%86-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C",
+      "media_url": "https://cdn.isna.ir/d/off/khorasan/2026/11/21/4/64063838.jpg",
+      "published_at": "Mon, 23 Nov 2026 23:00:00 GMT",
+      "published_at_utc": "2026-11-23T23:00:00+00:00",
+      "published_at_tehran": "2026-11-24T02:30:00+03:30",
+      "collected_at": "2026-11-23T23:09:03.435184+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "رئیس‌جمهور ارمنستان ۶ سفیر و نماینده این کشور در ناتو را برکنار کرد",
+      "description": "دفتر ریاست‌جمهوری ارمنستان روز دوشنبه اعلام کرد «واهاگن خاچاتوریان» رئیس‌جمهور این کشور به پیشنهاد «نیکول پاشینیان» نخست‌وزیر، شش سفیر ارمنستان در کشورهای خارجی و رئیس نمایندگی این کشور در ناتو را از سمت‌های خود برکنار کرده است.",
+      "article_url": "https://www.isna.ir/news/1405090301581/%D8%B1%D8%A6%DB%8C%D8%B3-%D8%AC%D9%85%D9%87%D9%88%D8%B1-%D8%A7%D8%B1%D9%85%D9%86%D8%B3%D8%AA%D8%A7%D9%86-%DB%B6-%D8%B3%D9%81%DB%8C%D8%B1-%D9%88-%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%D9%87-%D8%A7%DB%8C%D9%86-%DA%A9%D8%B4%D9%88%D8%B1-%D8%AF%D8%B1-%D9%86%D8%A7%D8%AA%D9%88-%D8%B1%D8%A7-%D8%A8%D8%B1%DA%A9%D9%86%D8%A7%D8%B1",
+      "media_url": "https://cdn.isna.ir/d/2024/07/06/4/63095192.jpg",
+      "published_at": "Mon, 23 Nov 2026 22:45:00 GMT",
+      "published_at_utc": "2026-11-23T22:45:00+00:00",
+      "published_at_tehran": "2026-11-24T02:15:00+03:30",
+      "collected_at": "2026-11-23T23:09:03.435225+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "یادگیری تعاملی چگونه دانشجویان را از شنوندگان منفعل خارج می‌کند؟",
+      "description": "یک استاد دانشگاه با اشاره به اینکه یادگیری تعاملی باعث می‌شود تا دانشجویان در کلاس درس شنونده نباشند، گفت: یادگیری تعاملی، نوعی مهارت تدریس است که در آن دانشجو و استاد، به شکل فعال در فرایند یادگیری شرکت می‌کنند و دانشجو فقط شنونده یا دریافت کننده صرف محتوای آموزشی نیست.",
+      "article_url": "https://www.isna.ir/news/1405090201561/%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D8%AA%D8%B9%D8%A7%D9%85%D9%84%DB%8C-%DA%86%DA%AF%D9%88%D9%86%D9%87-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88%DB%8C%D8%A7%D9%86-%D8%B1%D8%A7-%D8%A7%D8%B2-%D8%B4%D9%86%D9%88%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D9%85%D9%86%D9%81%D8%B9%D9%84-%D8%AE%D8%A7%D8%B1%D8%AC-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF",
+      "media_url": "https://cdn.isna.ir/d/off/khorasan/2026/11/04/4/64039632.jpg",
+      "published_at": "Mon, 23 Nov 2026 22:30:00 GMT",
+      "published_at_utc": "2026-11-23T22:30:00+00:00",
+      "published_at_tehran": "2026-11-24T02:00:00+03:30",
+      "collected_at": "2026-11-23T23:09:03.435254+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "ترامپ رسما رئیس اطلاعات ملی آمریکا را به‌عنوان مدیر موقت سایبری منصوب کرد",
+      "description": "بر اساس گزارش رسانه‌ها، «دونالد ترامپ» رئیس‌جمهور آمریکا روز دوشنبه «جی کلیتون» رئیس اطلاعات ملی این کشور را به‌عنوان مدیر موقت سایبری منصوب کرد.",
+      "article_url": "https://www.isna.ir/news/1405090301580/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%B1%D8%B3%D9%85%D8%A7-%D8%B1%D8%A6%DB%8C%D8%B3-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D9%85%D9%84%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%B9%D9%86%D9%88%D8%A7%D9%86-%D9%85%D8%AF%DB%8C%D8%B1-%D9%85%D9%88%D9%82%D8%AA-%D8%B3%D8%A7%DB%8C%D8%A8%D8%B1%DB%8C",
+      "media_url": "https://cdn.isna.ir/d/2026/11/23/4/64065658.jpg",
+      "published_at": "Mon, 23 Nov 2026 22:15:00 GMT",
+      "published_at_utc": "2026-11-23T22:15:00+00:00",
+      "published_at_tehran": "2026-11-24T01:45:00+03:30",
+      "collected_at": "2026-11-23T23:09:03.435280+00:00"
     },
     {
       "publisher": "ISNA",
@@ -164,7 +212,7 @@
       "published_at": "Mon, 23 Nov 2026 22:00:00 GMT",
       "published_at_utc": "2026-11-23T22:00:00+00:00",
       "published_at_tehran": "2026-11-24T01:30:00+03:30",
-      "collected_at": "2026-11-23T22:06:38.488871+00:00"
+      "collected_at": "2026-11-23T23:09:03.435305+00:00"
     },
     {
       "publisher": "ISNA",
@@ -176,7 +224,7 @@
       "published_at": "Mon, 23 Nov 2026 21:40:32 GMT",
       "published_at_utc": "2026-11-23T21:40:32+00:00",
       "published_at_tehran": "2026-11-24T01:10:32+03:30",
-      "collected_at": "2026-11-23T22:06:38.488933+00:00"
+      "collected_at": "2026-11-23T23:09:03.435329+00:00"
     },
     {
       "publisher": "ISNA",
@@ -188,7 +236,7 @@
       "published_at": "Mon, 23 Nov 2026 21:40:00 GMT",
       "published_at_utc": "2026-11-23T21:40:00+00:00",
       "published_at_tehran": "2026-11-24T01:10:00+03:30",
-      "collected_at": "2026-11-23T22:06:38.488984+00:00"
+      "collected_at": "2026-11-23T23:09:03.435351+00:00"
     },
     {
       "publisher": "ISNA",
@@ -200,7 +248,7 @@
       "published_at": "Mon, 23 Nov 2026 21:23:50 GMT",
       "published_at_utc": "2026-11-23T21:23:50+00:00",
       "published_at_tehran": "2026-11-24T00:53:50+03:30",
-      "collected_at": "2026-11-23T22:06:38.489031+00:00"
+      "collected_at": "2026-11-23T23:09:03.435374+00:00"
     },
     {
       "publisher": "ISNA",
@@ -212,7 +260,7 @@
       "published_at": "Mon, 23 Nov 2026 21:10:36 GMT",
       "published_at_utc": "2026-11-23T21:10:36+00:00",
       "published_at_tehran": "2026-11-24T00:40:36+03:30",
-      "collected_at": "2026-11-23T22:06:38.489075+00:00"
+      "collected_at": "2026-11-23T23:09:03.435395+00:00"
     },
     {
       "publisher": "ISNA",
@@ -224,7 +272,7 @@
       "published_at": "Mon, 23 Nov 2026 21:03:14 GMT",
       "published_at_utc": "2026-11-23T21:03:14+00:00",
       "published_at_tehran": "2026-11-24T00:33:14+03:30",
-      "collected_at": "2026-11-23T22:06:38.489119+00:00"
+      "collected_at": "2026-11-23T23:09:03.435420+00:00"
     },
     {
       "publisher": "ISNA",
@@ -236,7 +284,7 @@
       "published_at": "Mon, 23 Nov 2026 21:00:54 GMT",
       "published_at_utc": "2026-11-23T21:00:54+00:00",
       "published_at_tehran": "2026-11-24T00:30:54+03:30",
-      "collected_at": "2026-11-23T22:06:38.489162+00:00"
+      "collected_at": "2026-11-23T23:09:03.435444+00:00"
     },
     {
       "publisher": "ISNA",
@@ -248,55 +296,79 @@
       "published_at": "Mon, 23 Nov 2026 21:00:00 GMT",
       "published_at_utc": "2026-11-23T21:00:00+00:00",
       "published_at_tehran": "2026-11-24T00:30:00+03:30",
-      "collected_at": "2026-11-23T22:06:38.489204+00:00"
+      "collected_at": "2026-11-23T23:09:03.435467+00:00"
     },
     {
-      "publisher": "ISNA",
+      "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "گواهینامه در بلاتکلیفی؛ آموزش موتورسواری زنان در تخفیفات «بلک فرایدی»",
-      "description": "صدور گواهینامه موتورسیکلت برای بانوان در حالی در پیچ و خم‌های اداری متوقف مانده که بازار تبلیغات آموزش موتورسواری به زنان در فضای مجازی داغ است و برای جذب مشتری، تخفیفات جذاب و «بلک فرایدی» نیز اختصاص داده شده است.",
-      "article_url": "https://www.isna.ir/news/1405090201007/%DA%AF%D9%88%D8%A7%D9%87%DB%8C%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D8%B1-%D8%A8%D9%84%D8%A7%D8%AA%DA%A9%D9%84%DB%8C%D9%81%DB%8C-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%85%D9%88%D8%AA%D9%88%D8%B1%D8%B3%D9%88%D8%A7%D8%B1%DB%8C-%D8%B2%D9%86%D8%A7%D9%86-%D8%AF%D8%B1-%D8%AA%D8%AE%D9%81%DB%8C%D9%81%D8%A7%D8%AA-%D8%A8%D9%84%DA%A9",
-      "media_url": "https://cdn.isna.ir/d/2026/10/28/4/64031317.jpg",
-      "published_at": "Mon, 23 Nov 2026 21:00:00 GMT",
-      "published_at_utc": "2026-11-23T21:00:00+00:00",
-      "published_at_tehran": "2026-11-24T00:30:00+03:30",
-      "collected_at": "2026-11-23T22:06:38.489245+00:00"
+      "title": "پارلمان عربی ابتکاری جهانی برای حمایت از فلسطین راه‌اندازی می‌کند",
+      "description": "تهران- ایرنا- پارلمان عربی اعلام کرد که دهم دسامبر آینده (۱۹ آذر)، ابتکار پارلمانی جهانی برای حمایت از مساله فلسطین را در مقر دبیرخانه اتحادیه عرب در قاهره راه‌اندازی خواهد کرد؛ نشستی که با حضور «محمود عباس» رئیس تشکیلات خودگردان فلسطین و شماری از شخصیت‌های برجسته پارلمانی و سیاسی عربی و بین‌المللی برگزار می‌شود.",
+      "article_url": "https://www.irna.ir/news/86330712/%D9%BE%D8%A7%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%B9%D8%B1%D8%A8%DB%8C-%D8%A7%D8%A8%D8%AA%DA%A9%D8%A7%D8%B1%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AD%D9%85%D8%A7%DB%8C%D8%AA-%D8%A7%D8%B2-%D9%81%D9%84%D8%B3%D8%B7%DB%8C%D9%86-%D8%B1%D8%A7%D9%87-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF",
+      "media_url": "https://img9.irna.ir/d/r2/2026/11/24/4/173261932.jpg",
+      "published_at": "Mon, 23 Nov 2026 23:07:58 GMT",
+      "published_at_utc": "2026-11-23T23:07:58+00:00",
+      "published_at_tehran": "2026-11-24T02:37:58+03:30",
+      "collected_at": "2026-11-23T23:09:04.800993+00:00"
     },
     {
-      "publisher": "ISNA",
+      "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "اعلام جزئیات برگزاری جشنواره موسیقی نواحی ایران در استان کرمان",
-      "description": "مدیرکل فرهنگ و ارشاد اسلامی استان کرمان از برگزاری هجدهمین جشنواره ملی موسیقی نواحی ایران در هفته آینده خبر داد و گفت: این دوره از جشنواره علاوه بر بازگشت به خاستگاه خود، با رویکردی گسترده‌تر در ۱۸ نقطه از استان کرمان و ۱۲ شهرستان برگزار خواهد شد.",
-      "article_url": "https://www.isna.ir/news/1405090301573/%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA-%D8%A8%D8%B1%DA%AF%D8%B2%D8%A7%D8%B1%DB%8C-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C-%D9%86%D9%88%D8%A7%D8%AD%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
-      "media_url": "https://cdn.isna.ir/d/2026/03/30/4/63789179.jpg",
-      "published_at": "Mon, 23 Nov 2026 20:58:09 GMT",
-      "published_at_utc": "2026-11-23T20:58:09+00:00",
-      "published_at_tehran": "2026-11-24T00:28:09+03:30",
-      "collected_at": "2026-11-23T22:06:38.489287+00:00"
+      "title": "انتقاد از رفتارستیزه‌جویانه وزیر جنگ آمریکا؛ رئیس دفتر سابق هگست خواستار استعفای او شد",
+      "description": "نیویورک- ایرنا- رئیس دفتر سابق پیت هگست وزیر جنگ آمریکا با انتقاد از شیوه مدیریت او در پنتاگون و تجاوز علیه ایران، برکناری فرماندهان ارشد نظامی و تضعیف ساختار رهبری ارتش، رفتار او را ستیزه‌جویانه توصیف کرده و خواستار استعفایش شده است.",
+      "article_url": "https://www.irna.ir/news/86330701/%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D8%AF-%D8%A7%D8%B2-%D8%B1%D9%81%D8%AA%D8%A7%D8%B1%D8%B3%D8%AA%DB%8C%D8%B2%D9%87-%D8%AC%D9%88%DB%8C%D8%A7%D9%86%D9%87-%D9%88%D8%B2%DB%8C%D8%B1-%D8%AC%D9%86%DA%AF-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B1%D8%A6%DB%8C%D8%B3-%D8%AF%D9%81%D8%AA%D8%B1-%D8%B3%D8%A7%D8%A8%D9%82-%D9%87%DA%AF%D8%B3%D8%AA",
+      "media_url": "https://img9.irna.ir/d/r2/2026/11/24/4/173261910.jpg",
+      "published_at": "Mon, 23 Nov 2026 22:49:26 GMT",
+      "published_at_utc": "2026-11-23T22:49:26+00:00",
+      "published_at_tehran": "2026-11-24T02:19:26+03:30",
+      "collected_at": "2026-11-23T23:09:04.801037+00:00"
     },
     {
-      "publisher": "ISNA",
+      "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "بیانات آیت‌الله العظمی جوادی آملی در دهمین سالگردارتحال آیت‌الله العظمی موسوی اردبیلی",
-      "description": "آیت‌الله العظمی جوادی آملی به مناسبت دهمین سالگرد ارتحال آیت‌الله العظمی موسوی اردبیلی سخنرانی کردند.",
-      "article_url": "https://www.isna.ir/news/1405090301572/%D8%A8%DB%8C%D8%A7%D9%86%D8%A7%D8%AA-%D8%A2%DB%8C%D8%AA-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%B9%D8%B8%D9%85%DB%8C-%D8%AC%D9%88%D8%A7%D8%AF%DB%8C-%D8%A2%D9%85%D9%84%DB%8C-%D8%AF%D8%B1-%D8%AF%D9%87%D9%85%DB%8C%D9%86-%D8%B3%D8%A7%D9%84%DA%AF%D8%B1%D8%AF%D8%A7%D8%B1%D8%AA%D8%AD%D8%A7%D9%84-%D8%A2%DB%8C%D8%AA-%D8%A7%D9%84%D9%84%D9%87",
-      "media_url": "https://cdn.isna.ir/d/2026/10/21/4/64023654.jpg",
-      "published_at": "Mon, 23 Nov 2026 20:56:17 GMT",
-      "published_at_utc": "2026-11-23T20:56:17+00:00",
-      "published_at_tehran": "2026-11-24T00:26:17+03:30",
-      "collected_at": "2026-11-23T22:06:38.489329+00:00"
+      "title": "سیاستمدار فرانسوی: اظهارات تند درباره پوتین تلاش‌های صلح را تضعیف می‌کند",
+      "description": "تهران- ایرنا- مارین لوپن سیاستمدار و نامزد حزب اجتماع ملی برای انتخابات ریاست‌جمهوری ۲۰۲۷ فرانسه در اظهاراتی با انتقاد از اتهاماتی که برخی از رهبران اتحادیه اروپا علیه رئیس جمهور روسیه مطرح می‌کنند، تاکید کرد که اظهارات تند علیه ولادیمیر پوتین، تلاش‌ها برای برقراری صلح در اوکراین را تضعیف می‌کند.",
+      "article_url": "https://www.irna.ir/news/86330678/%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA%D9%85%D8%AF%D8%A7%D8%B1-%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%88%DB%8C-%D8%A7%D8%B8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D9%86%D8%AF-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%BE%D9%88%D8%AA%DB%8C%D9%86-%D8%AA%D9%84%D8%A7%D8%B4-%D9%87%D8%A7%DB%8C-%D8%B5%D9%84%D8%AD-%D8%B1%D8%A7-%D8%AA%D8%B6%D8%B9%DB%8C%D9%81",
+      "media_url": "https://img9.irna.ir/d/r2/2026/11/24/4/173261914.jpg",
+      "published_at": "Mon, 23 Nov 2026 22:27:30 GMT",
+      "published_at_utc": "2026-11-23T22:27:30+00:00",
+      "published_at_tehran": "2026-11-24T01:57:30+03:30",
+      "collected_at": "2026-11-23T23:09:04.801065+00:00"
     },
     {
-      "publisher": "ISNA",
+      "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "بهشتی‌پور:  ایران به تنفس اقتصادی نیاز دارد/ در تصمیم‌های هسته‌ای باید عاقبت‌اندیش بود",
-      "description": "یک تحلیلگر مسائل بین‌الملل با تأکید بر ضرورت استفاده از توان دفاعی ایران در مذاکرات گفت: دیپلماسی بن‌بست ندارد و باید با تصمیم‌گیری شجاعانه، اصلاحات اقتصادی و تقویت همکاری با همسایگان، برای خروج از شرایط جنگی اقدام کرد.",
-      "article_url": "https://www.isna.ir/news/1405090201266/%D8%A8%D9%87%D8%B4%D8%AA%DB%8C-%D9%BE%D9%88%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D8%AA%D9%86%D9%81%D8%B3-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%D9%86%DB%8C%D8%A7%D8%B2-%D8%AF%D8%A7%D8%B1%D8%AF-%D8%AF%D8%B1-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%D9%87%D8%A7%DB%8C-%D9%87%D8%B3%D8%AA%D9%87-%D8%A7%DB%8C",
-      "media_url": "https://cdn.isna.ir/d/2026/11/23/4/64066045.jpg",
-      "published_at": "Mon, 23 Nov 2026 20:39:00 GMT",
-      "published_at_utc": "2026-11-23T20:39:00+00:00",
-      "published_at_tehran": "2026-11-24T00:09:00+03:30",
-      "collected_at": "2026-11-23T22:06:38.489370+00:00"
+      "title": "دیدار روبیو با نخست‌وزیر قطر درواشنگتن همزمان با میانجی‌گری‌ها برای پایان تجاوز علیه ایران",
+      "description": "نیویورک- ایرنا- مارکو روبیو وزیر خارجه آمریکا روز دوشنبه در واشنگتن با محمد بن عبدالرحمن آل‌ثانی نخست‌وزیر و وزیر خارجه قطر چند روز پس از آن که میانجیگران قطری با مقام‌های ایرانی درباره آخرین تحولات دیپلماتیک و پیشنهادهای پایان دادن به تجاوز آمریکا علیه ایران گفت‌ وگو کردند، دیدار کرد.",
+      "article_url": "https://www.irna.ir/news/86330708/%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%D8%B1%D9%88%D8%A8%DB%8C%D9%88-%D8%A8%D8%A7-%D9%86%D8%AE%D8%B3%D8%AA-%D9%88%D8%B2%DB%8C%D8%B1-%D9%82%D8%B7%D8%B1-%D8%AF%D8%B1%D9%88%D8%A7%D8%B4%D9%86%DA%AF%D8%AA%D9%86-%D9%87%D9%85%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7-%D9%85%DB%8C%D8%A7%D9%86%D8%AC%DB%8C-%DA%AF%D8%B1%DB%8C-%D9%87%D8%A7",
+      "media_url": "https://img9.irna.ir/d/r2/2026/11/24/4/173261916.jpg",
+      "published_at": "Mon, 23 Nov 2026 22:21:22 GMT",
+      "published_at_utc": "2026-11-23T22:21:22+00:00",
+      "published_at_tehran": "2026-11-24T01:51:22+03:30",
+      "collected_at": "2026-11-23T23:09:04.801090+00:00"
+    },
+    {
+      "publisher": "IRNA",
+      "source_mode": "publisher_website_rss",
+      "title": "تداوم بمباران استان ‎های تعز و الحدیده یمن",
+      "description": "تهران- ایرنا- منابع خبری گزارش دادند که جنگنده‌های عربستان در چند نوبت مناطقی از استان‌های تعز و الحدیده یمن را بمباران کرده‌اند.",
+      "article_url": "https://www.irna.ir/news/86330705/%D8%AA%D8%AF%D8%A7%D9%88%D9%85-%D8%A8%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D9%87%D8%A7%DB%8C-%D8%AA%D8%B9%D8%B2-%D9%88-%D8%A7%D9%84%D8%AD%D8%AF%DB%8C%D8%AF%D9%87-%DB%8C%D9%85%D9%86",
+      "media_url": "https://img9.irna.ir/d/r2/2026/07/25/4/172999499.jpg",
+      "published_at": "Mon, 23 Nov 2026 22:14:44 GMT",
+      "published_at_utc": "2026-11-23T22:14:44+00:00",
+      "published_at_tehran": "2026-11-24T01:44:44+03:30",
+      "collected_at": "2026-11-23T23:09:04.801115+00:00"
+    },
+    {
+      "publisher": "IRNA",
+      "source_mode": "publisher_website_rss",
+      "title": "توافق عراق و مصر برای لغو روادید میان دو کشور",
+      "description": "تهران- ایرنا- نخست وزیر عراق از توافق بغداد و قاهره برای لغو روادید میان دو کشور خبر داد.",
+      "article_url": "https://www.irna.ir/news/86330702/%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%B9%D8%B1%D8%A7%D9%82-%D9%88-%D9%85%D8%B5%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%84%D8%BA%D9%88-%D8%B1%D9%88%D8%A7%D8%AF%DB%8C%D8%AF-%D9%85%DB%8C%D8%A7%D9%86-%D8%AF%D9%88-%DA%A9%D8%B4%D9%88%D8%B1",
+      "media_url": "https://img9.irna.ir/d/r2/2026/11/24/4/173261917.jpg",
+      "published_at": "Mon, 23 Nov 2026 22:11:46 GMT",
+      "published_at_utc": "2026-11-23T22:11:46+00:00",
+      "published_at_tehran": "2026-11-24T01:41:46+03:30",
+      "collected_at": "2026-11-23T23:09:04.801139+00:00"
     },
     {
       "publisher": "IRNA",
@@ -308,7 +380,7 @@
       "published_at": "Mon, 23 Nov 2026 22:01:17 GMT",
       "published_at_utc": "2026-11-23T22:01:17+00:00",
       "published_at_tehran": "2026-11-24T01:31:17+03:30",
-      "collected_at": "2026-11-23T22:06:39.633700+00:00"
+      "collected_at": "2026-11-23T23:09:04.801162+00:00"
     },
     {
       "publisher": "IRNA",
@@ -320,7 +392,7 @@
       "published_at": "Mon, 23 Nov 2026 21:44:54 GMT",
       "published_at_utc": "2026-11-23T21:44:54+00:00",
       "published_at_tehran": "2026-11-24T01:14:54+03:30",
-      "collected_at": "2026-11-23T22:06:39.633765+00:00"
+      "collected_at": "2026-11-23T23:09:04.801184+00:00"
     },
     {
       "publisher": "IRNA",
@@ -332,7 +404,7 @@
       "published_at": "Mon, 23 Nov 2026 21:36:22 GMT",
       "published_at_utc": "2026-11-23T21:36:22+00:00",
       "published_at_tehran": "2026-11-24T01:06:22+03:30",
-      "collected_at": "2026-11-23T22:06:39.633816+00:00"
+      "collected_at": "2026-11-23T23:09:04.801206+00:00"
     },
     {
       "publisher": "IRNA",
@@ -344,7 +416,7 @@
       "published_at": "Mon, 23 Nov 2026 21:35:39 GMT",
       "published_at_utc": "2026-11-23T21:35:39+00:00",
       "published_at_tehran": "2026-11-24T01:05:39+03:30",
-      "collected_at": "2026-11-23T22:06:39.633863+00:00"
+      "collected_at": "2026-11-23T23:09:04.801228+00:00"
     },
     {
       "publisher": "IRNA",
@@ -356,7 +428,7 @@
       "published_at": "Mon, 23 Nov 2026 21:19:12 GMT",
       "published_at_utc": "2026-11-23T21:19:12+00:00",
       "published_at_tehran": "2026-11-24T00:49:12+03:30",
-      "collected_at": "2026-11-23T22:06:39.633910+00:00"
+      "collected_at": "2026-11-23T23:09:04.801251+00:00"
     },
     {
       "publisher": "IRNA",
@@ -368,79 +440,7 @@
       "published_at": "Mon, 23 Nov 2026 21:14:31 GMT",
       "published_at_utc": "2026-11-23T21:14:31+00:00",
       "published_at_tehran": "2026-11-24T00:44:31+03:30",
-      "collected_at": "2026-11-23T22:06:39.633956+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "تنش لفظی میان نمایندگان روسیه و اوکراین در شورای امنیت؛ تاکید چین و آمریکا بر دیپلماسی",
-      "description": "نیویورک- ایرنا- نمایندگان روسیه و اوکراین در نشست شورای امنیت سازمان ملل در نیویورک، در جریان بررسی تحولات جنگ و حملات در دریای سیاه، مواضعی تند و متقابل علیه یکدیگر مطرح و نمایندگان چین و آمریکا با اشاره به مذاکرات اخیر مسکو و کی‌یف در ابوظبی، بر ادامه گفت‌ وگوهای دیپلماتیک برای پایان دادن به جنگ تاکید کردند.",
-      "article_url": "https://www.irna.ir/news/86330682/%D8%AA%D9%86%D8%B4-%D9%84%D9%81%D8%B8%DB%8C-%D9%85%DB%8C%D8%A7%D9%86-%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D9%88-%D8%A7%D9%88%DA%A9%D8%B1%D8%A7%DB%8C%D9%86-%D8%AF%D8%B1-%D8%B4%D9%88%D8%B1%D8%A7%DB%8C-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D8%AA%D8%A7%DA%A9%DB%8C%D8%AF",
-      "media_url": "https://img9.irna.ir/d/r2/2025/11/23/4/172272101.jpg",
-      "published_at": "Mon, 23 Nov 2026 21:08:50 GMT",
-      "published_at_utc": "2026-11-23T21:08:50+00:00",
-      "published_at_tehran": "2026-11-24T00:38:50+03:30",
-      "collected_at": "2026-11-23T22:06:39.634000+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "انفجار سه نفتکش متخلف در تنگه هرمز",
-      "description": "تهران- ایرنا- روابط عمومی نیروی دریایی سپاه پاسداران انقلاب اسلامی در اطلاعیه‌ای از انفجار سه نفتکش متخلف در تنگه هرمز خبر داد.",
-      "article_url": "https://www.irna.ir/news/86330694/%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%B3%D9%87-%D9%86%D9%81%D8%AA%DA%A9%D8%B4-%D9%85%D8%AA%D8%AE%D9%84%D9%81-%D8%AF%D8%B1-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2",
-      "media_url": "https://img9.irna.ir/d/r2/2026/11/13/4/173236695.jpg",
-      "published_at": "Mon, 23 Nov 2026 21:02:45 GMT",
-      "published_at_utc": "2026-11-23T21:02:45+00:00",
-      "published_at_tehran": "2026-11-24T00:32:45+03:30",
-      "collected_at": "2026-11-23T22:06:39.634044+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "سی‌وهشتمین جشنواره تئاتر هرمزگان به ایستگاه پایانی رسید",
-      "description": "بندرعباس - ایرنا - آیین اختتامیه سی‌وهشتمین جشنواره تئاتر استان هرمزگان با معرفی برگزیدگان و گروه های نمایشی برتر در هر بخش به کار خود پایان داد.",
-      "article_url": "https://www.irna.ir/news/86330673/%D8%B3%DB%8C-%D9%88%D9%87%D8%B4%D8%AA%D9%85%DB%8C%D9%86-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-%D9%87%D8%B1%D9%85%D8%B2%DA%AF%D8%A7%D9%86-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%DB%8C-%D8%B1%D8%B3%DB%8C%D8%AF",
-      "media_url": "https://img9.irna.ir/d/r1/2026/11/23/4/173261880.jpg",
-      "published_at": "Mon, 23 Nov 2026 20:16:55 GMT",
-      "published_at_utc": "2026-11-23T20:16:55+00:00",
-      "published_at_tehran": "2026-11-23T23:46:55+03:30",
-      "collected_at": "2026-11-23T22:06:39.634086+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "فیلم| پارک ملی گلستان پایلوت هوشمندسازی حفاظت از طبیعت",
-      "description": "گرگان- ایرنا- شینا انصاری، معاون رییس جمهور و رییس سازمان حفاظت محیط زیست با اشاره به اجرای پایش هوشمند در پارک ملی گلستان گفت: این پارک به دلیل اهمیت راهبردی و جایگاه زیست‌محیطی به عنوان پایلوت هوشمندسازی حفاظت از طبیعت انتخاب شده و اجرای این طرح در کنار افزایش شمار محیط‌بانان می‌تواند به کاهش تعارضات و ارتقای کارایی حفاظت منجر شود.",
-      "article_url": "https://www.irna.ir/news/86330642/%D9%81%DB%8C%D9%84%D9%85-%D9%BE%D8%A7%D8%B1%DA%A9-%D9%85%D9%84%DB%8C-%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86-%D9%BE%D8%A7%DB%8C%D9%84%D9%88%D8%AA-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF%D8%B3%D8%A7%D8%B2%DB%8C-%D8%AD%D9%81%D8%A7%D8%B8%D8%AA-%D8%A7%D8%B2-%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA",
-      "media_url": "https://img9.irna.ir/d/r1/2026/08/02/4/173016460.jpg",
-      "published_at": "Mon, 23 Nov 2026 20:14:52 GMT",
-      "published_at_utc": "2026-11-23T20:14:52+00:00",
-      "published_at_tehran": "2026-11-23T23:44:52+03:30",
-      "collected_at": "2026-11-23T22:06:39.634129+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "حردانی در آسیا محروم شد",
-      "description": "تهران- ایرنا- صالح حردانی با دریافت کارت زرد در دیدار مقابل العین امارات، سه اخطاره شد و دیدار هفته ششم استقلال مقابل نفتچی ازبکستان در لیگ نخبگان آسیا را از دست داد.",
-      "article_url": "https://www.irna.ir/news/86330674/%D8%AD%D8%B1%D8%AF%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D8%A2%D8%B3%DB%8C%D8%A7-%D9%85%D8%AD%D8%B1%D9%88%D9%85-%D8%B4%D8%AF",
-      "media_url": "https://img9.irna.ir/d/r2/2026/11/23/4/173261885.jpg",
-      "published_at": "Mon, 23 Nov 2026 20:09:08 GMT",
-      "published_at_utc": "2026-11-23T20:09:08+00:00",
-      "published_at_tehran": "2026-11-23T23:39:08+03:30",
-      "collected_at": "2026-11-23T22:06:39.634171+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "قالیباف: راه عبور از وضعیت نه جنگ و نه صلح رسیدن به بازدارندگی پایدار است",
-      "description": "تهران- ایرنا- محمدباقر قالیباف رئیس مجلس شورای اسلامی راه عبور از وضعیت نه جنگ و نه صلح را در گرو دستیابی به بازدارندگی پایدار دانست و گفت: اگر به بازدارندگی پایدار رسیدیم یعنی اینکه قوی شدیم و باید مولفه‌های آن را در همه عرصه‌ها از جمله اقتصاد، سیاست، نظامی، رسانه و انسجام اجتماعی بشناسیم و آن را کاربردی کنیم.",
-      "article_url": "https://www.irna.ir/news/86330670/%D9%82%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%81-%D8%B1%D8%A7%D9%87-%D8%B9%D8%A8%D9%88%D8%B1-%D8%A7%D8%B2-%D9%88%D8%B6%D8%B9%DB%8C%D8%AA-%D9%86%D9%87-%D8%AC%D9%86%DA%AF-%D9%88-%D9%86%D9%87-%D8%B5%D9%84%D8%AD-%D8%B1%D8%B3%DB%8C%D8%AF%D9%86-%D8%A8%D9%87-%D8%A8%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1%D9%86%D8%AF%DA%AF%DB%8C",
-      "media_url": "https://img9.irna.ir/d/r2/2026/11/12/4/173234926.jpg",
-      "published_at": "Mon, 23 Nov 2026 20:09:00 GMT",
-      "published_at_utc": "2026-11-23T20:09:00+00:00",
-      "published_at_tehran": "2026-11-23T23:39:00+03:30",
-      "collected_at": "2026-11-23T22:06:39.634213+00:00"
+      "collected_at": "2026-11-23T23:09:04.801274+00:00"
     }
   ]
 }\n

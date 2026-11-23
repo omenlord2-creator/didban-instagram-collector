@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-23T22:06:36.108386+00:00",
+  "generated_at": "2026-11-23T23:09:01.419982+00:00",
   "source_mode": "public_feeds_no_login",
   "publishing_enabled": false,
   "summary": {
@@ -27,7 +27,7 @@
       "new": 0,
       "ready": 0,
       "needs_media_url": 0,
-      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: HTTP 500 | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
+      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: ReadTimeout: HTTPSConnectionPool(host='rsshub.cmyr.dev', port=443): Read timed out. (read timeout=10) | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: HTTP 503"
     },
     "iranintltv": {
       "label": "Iran International",
@@ -60,7 +60,7 @@
   "errors": [
     {
       "account": "dw_persian",
-      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: HTTP 500 | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
+      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: ReadTimeout: HTTPSConnectionPool(host='rsshub.cmyr.dev', port=443): Read timed out. (read timeout=10) | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: HTTP 503"
     },
     {
       "account": "isna.news",
@@ -77,7 +77,7 @@
       "published_at": "Sun, 22 Nov 2026 23:56:58 GMT",
       "published_at_utc": "2026-11-22T23:56:58+00:00",
       "published_at_tehran": "2026-11-23T03:26:58+03:30",
-      "collected_at": "2026-11-23T22:06:13.713928+00:00",
+      "collected_at": "2026-11-23T23:08:42.002292+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -91,7 +91,7 @@
       "published_at": "Sun, 22 Nov 2026 22:57:10 GMT",
       "published_at_utc": "2026-11-22T22:57:10+00:00",
       "published_at_tehran": "2026-11-23T02:27:10+03:30",
-      "collected_at": "2026-11-23T22:06:13.714062+00:00",
+      "collected_at": "2026-11-23T23:08:42.002383+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -105,7 +105,7 @@
       "published_at": "Sun, 22 Nov 2026 22:00:15 GMT",
       "published_at_utc": "2026-11-22T22:00:15+00:00",
       "published_at_tehran": "2026-11-23T01:30:15+03:30",
-      "collected_at": "2026-11-23T22:06:13.714213+00:00",
+      "collected_at": "2026-11-23T23:08:42.002474+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -119,7 +119,63 @@
       "published_at": "Sun, 22 Nov 2026 20:41:49 GMT",
       "published_at_utc": "2026-11-22T20:41:49+00:00",
       "published_at_tehran": "2026-11-23T00:11:49+03:30",
-      "collected_at": "2026-11-23T22:06:36.107240+00:00",
+      "collected_at": "2026-11-23T23:09:01.419147+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": false
+    },
+    {
+      "id": "940659bd9c0958151205d101dfd92e8962444a9923c37bd4246ae52d473ac5bf",
+      "source": "bbcpersian",
+      "post_url": "https://www.instagram.com/p/DgDh80pvBG7",
+      "caption": "سرکرده یکی از کارتل‌های مواد مخدر مکزیک که در فهرست ۱۰ فرد تحت تعقیب اف‌بی‌آی بود، در عملیاتی گسترده و در پی درگیری با نیروهای امنیتی مکزیک بازداشت شد. &nbsp; وزارت دفاع مکزیک اعلام کرد فاوستو ایسیدرو مزا فلورس ملقب به «ال چاپو ایسیدرو» به همراه هفت نفر دیگر، روز جمعه ۲۰ نوامبر مطابق با ۲۹ آبان در شهر گواساه در ایالت سینالوآ، به‌دست نیروهای ویژه مکزیک بازداشت شده است. &nbsp; ایسیدرو در مکزیک به اتهام جرایم سازمان‌یافته تحت تعقیب بود. اف‌بی‌آی او را متهم کرده است که با قاچاق فنتانیل، کوکائین، هروئین و دیگر مواد مخدر مرگبار، بازار آمریکا را اشباع کرده است. دولت آمریکا خواهان استرداد او شده است.",
+      "media_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/920793582_18662947138007680_5372275593673872861_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=cSbp1rkYcJMQ7kNvwGt0WBr&amp;_nc_oc=AdpUY-Mme9PA8fcRNXv8V_FllKsmQyzFT7zdjBoJav-sch9GX9wzCbAZWTwsfuoXAGI&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw6-1.cdninstagram.com&amp;_nc_gid=9Ck2in8MsUZn1RZ_llfVtQ&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQRyukOln_OyPj8OyuP9zJh5qVbd7hkkuPzL03-1SUGloQ&amp;oe=6B092B8F",
+      "published_at": "Sun, 22 Nov 2026 19:13:41 GMT",
+      "published_at_utc": "2026-11-22T19:13:41+00:00",
+      "published_at_tehran": "2026-11-22T22:43:41+03:30",
+      "collected_at": "2026-11-23T23:08:42.002540+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": false
+    },
+    {
+      "id": "bedec2ed76b066164ecc9c2dbeaef296ca36ec7d691662c6caa7e1f94fcb99b0",
+      "source": "bbcpersian",
+      "post_url": "https://www.instagram.com/p/DgDgiZlCX9J",
+      "caption": "سازمان عملیات تجارت دریایی بریتانیا اعلام کرد که گزارشی مبنی بر وقوع حادثه‌ای «میان یک نفت‌کش و نیروهای نظامی» در دریای عمان دریافت کرده است، اما تا لحظه انتشار این گزارش مشخص نیست چه نفتکشی هدف قرار گرفته است. در روزهای اخیر گزارش‌های ضد و نقیضی درباره بارگیری شماری از نفتکش‌های ایرانی در جزیره خارک و تلاش برای شکستن محاصره دریایی آمریکا منتشر شده است. شماری از حساب‌ها و کانال‌های نزدیک به سپاه پاسداران در شبکه‌های اجتماعی هم مدعی شده‌اند که یک نفتکش بزرگ ایرانی به نام «خط‌ شکن» در حال عبور از محاصره دریایی آمریکا و حرکت به سمت دریای عمان است. غنچه حبیبی‌آزاد از بخش راستی‌آزمایی بی‌بی‌سی فارسی این ادعاها را بررسی کرده است.",
+      "media_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.71878-15/922517955_1169552748943386_9016111983186066380_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=qic6j0EpRJcQ7kNvwHqwiG7&amp;_nc_oc=AdpeopQM8xCQIto6-fAYC5z2uK6AfcvndwmhZsAGDiogO4bHe1sVOybVlzSXYw3eFoU&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw6-1.cdninstagram.com&amp;_nc_gid=9Ck2in8MsUZn1RZ_llfVtQ&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQT1SPazu4hllfq46QB7WRi7Di8J5PBgR8M1cBOjYn1Gyw&amp;oe=6B0943A7",
+      "published_at": "Sun, 22 Nov 2026 19:01:21 GMT",
+      "published_at_utc": "2026-11-22T19:01:21+00:00",
+      "published_at_tehran": "2026-11-22T22:31:21+03:30",
+      "collected_at": "2026-11-23T23:08:42.002608+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": false
+    },
+    {
+      "id": "50909268b7fa1dae832ed94247b61788bae0545898adb3aae4a29b2c73ef7c16",
+      "source": "bbcpersian",
+      "post_url": "https://www.instagram.com/p/DgDcFm5PWxj",
+      "caption": "لوئیس پیو، شناگر استقامت بریتانیایی، برای نشان دادن پیامدهای زیست‌محیطی ویرانگر جنگ آمریکا با ایران، ۱۵ کیلومتر در آب‌های عمان در تنگه هرمز شنا کرد. او که از شبه‌جزیره مسندم در عمان شنا را آغاز کرده بود، در طول این مسیر شاهد حمله به دو کشتی نفتکش و حمل گاز بود. آقای پیو با هشدار درباره ماندگاری آلودگی‌های ناشی از جنگ، خواستار توقف فوری درگیری‌ها، بازگشایی تنگه هرمز و پاکسازی این منطقه شد.",
+      "media_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/920824334_18662932603007680_155133230218276102_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=GO0miDIxwVkQ7kNvwEM-rhm&amp;_nc_oc=AdpkPtRgPEIgepmhGq2syReituaDFjlCQn0sszQZICmuLd2rocIscB5hzRiA6fis9ns&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw6-1.cdninstagram.com&amp;_nc_gid=9Ck2in8MsUZn1RZ_llfVtQ&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQQVxsMjZOp3yP0dWi8-K801pA8oEsohsu7REInBoio75A&amp;oe=6B0944FE",
+      "published_at": "Sun, 22 Nov 2026 18:22:28 GMT",
+      "published_at_utc": "2026-11-22T18:22:28+00:00",
+      "published_at_tehran": "2026-11-22T21:52:28+03:30",
+      "collected_at": "2026-11-23T23:08:42.002664+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": false
+    },
+    {
+      "id": "70120de5f0797922ade543e712e87846be0d0a7985936823ae93c7aeaa15d6d3",
+      "source": "bbcpersian",
+      "post_url": "https://www.instagram.com/p/DgDS9vthIi8",
+      "caption": "‌ پس از واکنش‌های بسیار به اجرای مرحله دوم طرح موسوم به «هوشمندسازی یارانه آرد و نان» که طی آن خرید نان بعضی از شهروندان «نامتعارف» و «تجاری» تشخیص داده شده است، چند مقام دولت ایران با رد «سهیمه‌بندی» نان درباره وضعیت جدید توضیحاتی ارائه کردند. حسین ظفری، سخنگوی شورای آرد و نان ایران، دیروز ۳۰ آبان در جمع خبرنگاران با ذکر مواردی که از چندین ماه پایش داده‌های کارت بانکی شهروندان برای خرید نان استخراج شده گفت که مصرف حدود ۲۹۰ هزار خریدار نان، «نامتعارف» و خارج از شمول یارانه نان تشخیص داده شده است و یارانه بقیه شهروندان بدون تغییر به قوت خود باقی است. غلامرضا نوری قزلجه، وزیر جهاد سازندگی، هم با حضور در تلویزیون ایران واکنش‌ها را «فضاسازی رسانه‌‌ای» خواند و گفت که هیچ تغییری در قیمت نان و آرد و میزان یارانه آن رخ نداده است. او اما از اجرای «طرح آزمایشی برای اقدامات اصلاحی با هدف جلوگیری از تخلفات مرتبط با آرد» خبر داد. تلویزیون ایران در گزارشی، نگرانی مردم را ناشی از «شایعات و اطلاع‌رسانی ناقص» دانست اما بعضی بر این گمانند که دولت در حال محک‌ زدن واکنش مردم است. لیلی خامنه، روزنامه‌نگار اقتصادی، در گفتگو با بی‌بی‌سی فارسی با اشاره به «کسری بودجه و تحریم شدید» می‌گوید که دولت برای کاهش مصرف نان و سهمیه‌بندی قدم برمی‌دارد. #bbcpersian⁩⁩",
+      "media_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/920665357_18662913580007680_524098408104600782_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=bwBa5-SZmysQ7kNvwFby_kN&amp;_nc_oc=AdqNmBkfvtXBPCGZc6R5kYBi-svZSFuZEsRzys93z3EvrkurXU9L1W_ofGkFWfddGis&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw6-1.cdninstagram.com&amp;_nc_gid=9Ck2in8MsUZn1RZ_llfVtQ&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQwAAAA&amp;oh=00_AQTTkmRK_eDsOa3WYEsj3JdWeE_ZIWAlItmzKDzK6Z2cTQ&amp;oe=6B0928CF",
+      "published_at": "Sun, 22 Nov 2026 17:02:45 GMT",
+      "published_at_utc": "2026-11-22T17:02:45+00:00",
+      "published_at_tehran": "2026-11-22T20:32:45+03:30",
+      "collected_at": "2026-11-23T23:08:42.002747+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -133,7 +189,7 @@
       "published_at": "Sun, 22 Nov 2026 17:00:56 GMT",
       "published_at_utc": "2026-11-22T17:00:56+00:00",
       "published_at_tehran": "2026-11-22T20:30:56+03:30",
-      "collected_at": "2026-11-23T22:06:36.107333+00:00",
+      "collected_at": "2026-11-23T23:09:01.419196+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -147,7 +203,7 @@
       "published_at": "Sun, 22 Nov 2026 15:57:18 GMT",
       "published_at_utc": "2026-11-22T15:57:18+00:00",
       "published_at_tehran": "2026-11-22T19:27:18+03:30",
-      "collected_at": "2026-11-23T22:06:36.107425+00:00",
+      "collected_at": "2026-11-23T23:09:01.419246+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -161,7 +217,7 @@
       "published_at": "Sun, 22 Nov 2026 10:30:46 GMT",
       "published_at_utc": "2026-11-22T10:30:46+00:00",
       "published_at_tehran": "2026-11-22T14:00:46+03:30",
-      "collected_at": "2026-11-23T22:06:36.107521+00:00",
+      "collected_at": "2026-11-23T23:09:01.419285+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -175,7 +231,7 @@
       "published_at": "Sun, 22 Nov 2026 09:30:17 GMT",
       "published_at_utc": "2026-11-22T09:30:17+00:00",
       "published_at_tehran": "2026-11-22T13:00:17+03:30",
-      "collected_at": "2026-11-23T22:06:36.107608+00:00",
+      "collected_at": "2026-11-23T23:09:01.419327+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -189,7 +245,7 @@
       "published_at": "Mon, 23 Nov 2026 12:02:51 GMT",
       "published_at_utc": "2026-11-23T12:02:51+00:00",
       "published_at_tehran": "2026-11-23T15:32:51+03:30",
-      "collected_at": "2026-11-23T22:06:27.293321+00:00",
+      "collected_at": "2026-11-23T23:08:57.378209+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -203,21 +259,7 @@
       "published_at": "Mon, 23 Nov 2026 12:01:02 GMT",
       "published_at_utc": "2026-11-23T12:01:02+00:00",
       "published_at_tehran": "2026-11-23T15:31:02+03:30",
-      "collected_at": "2026-11-23T22:06:27.293426+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": false
-    },
-    {
-      "id": "c70de40a753f507cba9a7d5de25f95ac37baa8eb7dfaf25cb42113a6f269af5c",
-      "source": "bbcpersian",
-      "post_url": "https://www.instagram.com/p/DgFUI4miKSv",
-      "caption": "‌ اداره کل اطلاعات استان آذربایجان غربی می‌گوید که ۲۷ عضو یک گروه مسلح «تجزیه‌طلب» را شناسایی و دستگیر کرده است. به گفته وزارت اطلاعات از این افراد اسلحه و یک دستگاه استارلینک کشف و ضبط شده است. وزارت اطلاعات می‌گوید بازداشت‌‎شدگان برای کمک به آمریکا و اسرائیل «در حال سازماندهی برای اقدامات تروریستی و ناامنی در داخل کشور بودند.» در بیانیه وزارت اطلاعات به بازداشت شش نفر دیگر هم اشاره شده است که متهم هستند برای «عملیات‌های تروریستی و جنگ شهری» از کشورهای همسایه سلاح و مهمات قاچاق می‌کرده‌اند. وزارت اطلاعات می‌گوید که این افراد هنگام ورود به کشور شناسایی و دستگیر شدند. براساس این بیانیه یکی از دستگیر شدگان تبعه کشوری غیر از ایران بوده اما ملیت او اعلام نشده است. 📷Mehr",
-      "media_url": "https://scontent.cdninstagram.com/v/t39.30808-6/920374978_1632485558908867_1867940586188157281_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=110&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=DQp4gPyykHYQ7kNvwG4Zfga&amp;_nc_oc=AdqV_6MOxXLquXb8tv5Sq4qxzBdJ7UkmA3XMkITmq_OLT7sRrwwMkLZ9CCLUn0B-7r8&amp;_nc_zt=23&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_gid=xRBGpMnj5rYyqkzcZqwXwA&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQQ8OpHRZJaN_5VUUYG0dHW5JktNX-ru9tqq0x0PH6PSVg&amp;oe=6B09F822",
-      "published_at": "Mon, 23 Nov 2026 11:51:29 GMT",
-      "published_at_utc": "2026-11-23T11:51:29+00:00",
-      "published_at_tehran": "2026-11-23T15:21:29+03:30",
-      "collected_at": "2026-11-23T22:06:13.712463+00:00",
+      "collected_at": "2026-11-23T23:08:57.378274+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -231,7 +273,7 @@
       "published_at": "Mon, 23 Nov 2026 11:47:24 GMT",
       "published_at_utc": "2026-11-23T11:47:24+00:00",
       "published_at_tehran": "2026-11-23T15:17:24+03:30",
-      "collected_at": "2026-11-23T22:06:27.293549+00:00",
+      "collected_at": "2026-11-23T23:08:57.378334+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -245,7 +287,7 @@
       "published_at": "Mon, 23 Nov 2026 11:45:19 GMT",
       "published_at_utc": "2026-11-23T11:45:19+00:00",
       "published_at_tehran": "2026-11-23T15:15:19+03:30",
-      "collected_at": "2026-11-23T22:06:27.293681+00:00",
+      "collected_at": "2026-11-23T23:08:57.378406+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -259,7 +301,7 @@
       "published_at": "Mon, 23 Nov 2026 11:35:41 GMT",
       "published_at_utc": "2026-11-23T11:35:41+00:00",
       "published_at_tehran": "2026-11-23T15:05:41+03:30",
-      "collected_at": "2026-11-23T22:06:27.293808+00:00",
+      "collected_at": "2026-11-23T23:08:57.378483+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -273,7 +315,7 @@
       "published_at": "Mon, 23 Nov 2026 11:19:10 GMT",
       "published_at_utc": "2026-11-23T11:19:10+00:00",
       "published_at_tehran": "2026-11-23T14:49:10+03:30",
-      "collected_at": "2026-11-23T22:06:27.293926+00:00",
+      "collected_at": "2026-11-23T23:08:57.378545+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -287,7 +329,7 @@
       "published_at": "Mon, 23 Nov 2026 11:05:09 GMT",
       "published_at_utc": "2026-11-23T11:05:09+00:00",
       "published_at_tehran": "2026-11-23T14:35:09+03:30",
-      "collected_at": "2026-11-23T22:06:27.294013+00:00",
+      "collected_at": "2026-11-23T23:08:57.378590+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -301,7 +343,7 @@
       "published_at": "Mon, 23 Nov 2026 11:02:09 GMT",
       "published_at_utc": "2026-11-23T11:02:09+00:00",
       "published_at_tehran": "2026-11-23T14:32:09+03:30",
-      "collected_at": "2026-11-23T22:06:27.294101+00:00",
+      "collected_at": "2026-11-23T23:08:57.378639+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -315,7 +357,7 @@
       "published_at": "Mon, 23 Nov 2026 10:59:55 GMT",
       "published_at_utc": "2026-11-23T10:59:55+00:00",
       "published_at_tehran": "2026-11-23T14:29:55+03:30",
-      "collected_at": "2026-11-23T22:06:27.294195+00:00",
+      "collected_at": "2026-11-23T23:08:57.378689+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -329,7 +371,7 @@
       "published_at": "Mon, 23 Nov 2026 10:42:01 GMT",
       "published_at_utc": "2026-11-23T10:42:01+00:00",
       "published_at_tehran": "2026-11-23T14:12:01+03:30",
-      "collected_at": "2026-11-23T22:06:27.294308+00:00",
+      "collected_at": "2026-11-23T23:08:57.378751+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -343,21 +385,7 @@
       "published_at": "Mon, 23 Nov 2026 10:16:55 GMT",
       "published_at_utc": "2026-11-23T10:16:55+00:00",
       "published_at_tehran": "2026-11-23T13:46:55+03:30",
-      "collected_at": "2026-11-23T22:06:36.106668+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": false
-    },
-    {
-      "id": "ddf56bde21a118b5892ecdcce5d37683a0a7c4d39a296327b97f30e043aed1c8",
-      "source": "bbcpersian",
-      "post_url": "https://www.instagram.com/p/DgFEhS6iKG7",
-      "caption": "‌ ولودیمیر زلنسکی، رئیس جمهور اوکراین، اعلام کرد که کشتی جنگی روسیه که در سواحل لیبی غرق شده، توسط پهپادهای اوکراینی هدف قرار گرفته است. نخست وزیر اوکراین گفت یک کشتی باری دیگر هم که برای حمل سلاح استفاده می‌شد، هدف حمله پهپادی قرار گرفته است. صبح یکشنبه، دولت مستقر در شرق لیبی، اعلام کرد که در یک کشتی جنگی در بندر بنغازی، در حالی که برای سوخت‌گیری و تدارکات پیش از بازگشت به روسیه پهلو گرفته بود، انفجاری رخ داده است. در همین حال، وزارت بهداشت این منطقه هم اعلام کرده که افراد زخمی از یک کشتی تجاری دیگر که در سواحل این بندر هدف قرار گرفته بود، برای مداوا به مراکز درمانی مراجعه کرده‌اند. البته هنوز مشخص نیست که آیا این همان کشتی‌ دومی است که اوکراین مسئولیت حمله به آن را بر عهده گرفته یا خیر. مسکو هنوز در مورد این حمله اظهار نظری نکرده است. آقای زلنسکی روز دوشنبه در بیانیه‌ای از این عملیات نظامی تقدیر و تمجید کرد. او نوشت که هفت پهپاد دریایی برای هدف قرار دادن و غرق کردن ناوچه مرکوری، یکی از جدیدترین کشتی‌های روسیه، عملیات انجام دادند و یک هلیکوپتر جنگی کا-۲۷ نیز منهدم شده است. رئیس جمهور اوکراین گفت که کشتی دوم، کشتی کانتینربر روسی \"ام‌وی انگارا\" بوده است. هیئت نمایندگی سازمان ملل در لیبی هم ضمن ابراز «نگرانی عمیق» نسبت به این حملات، خواستار انجام «تحقیقاتی فوری، مستقل و شفاف» در این خصوص شد. این هیئت در پستی در شبکه اجتماعی ایکس نوشت: «لیبی توان و تحمل این مسئله را ندارد و نباید این کشور به میدان نبردی برای مناقشات خارجی تبدیل شود.» 📷VANTOR / Reuters",
-      "media_url": "https://scontent.cdninstagram.com/v/t39.30808-6/917240676_1632374745586615_8025194066993485138_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=FACHnlHaUrQQ7kNvwH6c91x&amp;_nc_oc=AdpzIEl_WJ6wSO5-dgYCoGfi3GC62BCALVbM7aCnQez-7YQXt7ggdjQm9pENcHAlLLA&amp;_nc_zt=23&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_gid=xRBGpMnj5rYyqkzcZqwXwA&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQR5w2iH5eveWM5OATsSIyv990C-0dZBOJj8x-57xz3vuA&amp;oe=6B0A188E",
-      "published_at": "Mon, 23 Nov 2026 09:35:00 GMT",
-      "published_at_utc": "2026-11-23T09:35:00+00:00",
-      "published_at_tehran": "2026-11-23T13:05:00+03:30",
-      "collected_at": "2026-11-23T22:06:13.712758+00:00",
+      "collected_at": "2026-11-23T23:09:01.418814+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -371,7 +399,7 @@
       "published_at": "Mon, 23 Nov 2026 09:00:19 GMT",
       "published_at_utc": "2026-11-23T09:00:19+00:00",
       "published_at_tehran": "2026-11-23T12:30:19+03:30",
-      "collected_at": "2026-11-23T22:06:36.106768+00:00",
+      "collected_at": "2026-11-23T23:09:01.418877+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -385,21 +413,7 @@
       "published_at": "Mon, 23 Nov 2026 07:52:06 GMT",
       "published_at_utc": "2026-11-23T07:52:06+00:00",
       "published_at_tehran": "2026-11-23T11:22:06+03:30",
-      "collected_at": "2026-11-23T22:06:36.106931+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": false
-    },
-    {
-      "id": "fc6e8666054769514c91fc277af35ead281c759d87628880f08dddbd7e768e0a",
-      "source": "bbcpersian",
-      "post_url": "https://www.instagram.com/p/DgE2WHuIvrR",
-      "caption": "دولت مستقر در شرق لیبی اعلام کرده که انفجار در یک کشتی روسی، که در پایگاه دریایی بنغازی پهلو گرفته بود، احتمالا ناشی از حمله پهپادی بوده است. رسانه‌های دولتی لیبی به نقل از دولت مستقر در شرق این کشور گزارش کرده‌اند که این انفجار بامداد یکشنبه و زمانی رخ داد که کشتی در مسیر بازگشت به روسیه، برای دریافت سوخت و تدارکات توقف کرده بود. در این بیانیه آمده است که این حادثه تلفات جانی نداشته است. مسکو هنوز در خصوص این حادثه اظهارنظری نکرده است. وزارت بهداشت لیبی اعلام کرده مجروحان یک کشتی دیگر که یک شناور تجاری بوده، در مراکز درمانی تحت مداوا قرار گرفته‌اند. این کشتی تجاری هم در سواحل بنغازی هدف حمله قرار گرفته بود. به گفته این وزارتخانه، جراحات این افراد سطحی بوده و وضعیت آن‌ها پایدار است. هیئت نمایندگی سازمان ملل در لیبی هم ضمن ابراز «نگرانی عمیق» نسبت به این حملات، خواستار انجام «تحقیقاتی فوری، مستقل و شفاف» در این خصوص شد. این هیئت در پستی در شبکه اجتماعی ایکس نوشت: «لیبی توان و تحمل این مسئله را ندارد و نباید این کشور به میدان نبردی برای مناقشات خارجی تبدیل شود.» ویدیوهایی که در شبکه‌های اجتماعی منتشر شده و توسط بخش راستی‌آزمایی بی‌بی‌سی مکان‌یابی شده‌اند، یک کشتی را نشان می‌دهند که در بامداد هدف قرار گرفته و در میان شعله‌های آتش و دود است.",
-      "media_url": "https://scontent.cdninstagram.com/v/t51.82787-15/921990905_18663131890007680_4860914507805698318_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=o5B5fS8KeiIQ7kNvwEX6lCc&amp;_nc_oc=AdpEkal5fHfyH3kFpYACJXAfpVIXME1yASsZadBtkyAaWGkT8XgTtsCVM_gWkmBXqpo&amp;_nc_zt=23&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_gid=xRBGpMnj5rYyqkzcZqwXwA&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQR_WjpI93nbfGhzm-HvGirje5BUIPxwSYIhzYYaFoI-UQ&amp;oe=6B09F366",
-      "published_at": "Mon, 23 Nov 2026 07:31:09 GMT",
-      "published_at_utc": "2026-11-23T07:31:09+00:00",
-      "published_at_tehran": "2026-11-23T11:01:09+03:30",
-      "collected_at": "2026-11-23T22:06:13.712943+00:00",
+      "collected_at": "2026-11-23T23:09:01.418989+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -413,7 +427,7 @@
       "published_at": "Mon, 23 Nov 2026 07:12:15 GMT",
       "published_at_utc": "2026-11-23T07:12:15+00:00",
       "published_at_tehran": "2026-11-23T10:42:15+03:30",
-      "collected_at": "2026-11-23T22:06:36.107058+00:00",
+      "collected_at": "2026-11-23T23:09:01.419050+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -427,21 +441,7 @@
       "published_at": "Mon, 23 Nov 2026 06:30:12 GMT",
       "published_at_utc": "2026-11-23T06:30:12+00:00",
       "published_at_tehran": "2026-11-23T10:00:12+03:30",
-      "collected_at": "2026-11-23T22:06:36.107163+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": false
-    },
-    {
-      "id": "791eb1cdd9f081d724213bd4a7773d72983f6530c7ea4ad497772fde603c92b5",
-      "source": "bbcpersian",
-      "post_url": "https://www.instagram.com/p/DgEuptPCAJ8",
-      "caption": "‌ بنابر گزارش رسانه‌ها در ایران، رضا امیرخانی، نویسنده و منتقد ادبی که حدود یک سال پیش در پی سانحه ناشی از پرواز با پاراگلایدر به شدت مصدوم شده بود، روز یکشنبه اول آذر، در گذشت. خبرگزاری مهر بامداد دوشنبه دوم آذر، نوشت آقای امیرخانی «نهم آذرماه سال گذشته در منطقه مشاء دماوند بر اثر سقوط پاراگلایدر دچار سانحه شد. او پس از این حادثه به بیمارستانی در دماوند منتقل شد و سپس برای ادامه روند درمان به بیمارستان کسری انتقال یافت. این نویسنده چندین نوبت تحت عمل جراحی قرار گرفت و پس از مدتی از بیمارستان به منزل منتقل شد، اما وضعیت جسمانی او در ماه‌های پس از حادثه همچنان نامساعد بود.» آقای امیرخانی که مدتی رئیس هیئت مدیره انجمن قلم ایران بود آثار گوناگون داستانی، سفرنامه و مقالات تحلیلی و اجتماعی در کارنامه خود داشت. رضا امیرخانی خود را از نویسندگان متعهد به انقلاب و هواخواه جمهوری اسلامی می‌دانست و در سفر علی خامنه‌ای،‌ رهبر پیشین جمهوری اسلامی به سیستان بلوچستان همراه او رفت و کتابی بعدا به نام داستان سیستان از این سفر نوشت. 📷ایرنا/ دنیای اقتصاد",
-      "media_url": "https://scontent.cdninstagram.com/v/t39.30808-6/920522846_1632232208934202_5092206784591665577_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=f4tD9UJKW4sQ7kNvwH_6vD6&amp;_nc_oc=Adoq-4RPO_PLQyANhWROq5adCcH9JdCuwwUN_XU0_9JVKGpIfSobLRfh5pB9UeQ3C8g&amp;_nc_zt=23&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_gid=xRBGpMnj5rYyqkzcZqwXwA&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQT_UEb3m--n0IQQAVpZFc6KZ725dlIjOcYbtrdcf5bs1w&amp;oe=6B0A0D1D",
-      "published_at": "Mon, 23 Nov 2026 06:23:55 GMT",
-      "published_at_utc": "2026-11-23T06:23:55+00:00",
-      "published_at_tehran": "2026-11-23T09:53:55+03:30",
-      "collected_at": "2026-11-23T22:06:13.713255+00:00",
+      "collected_at": "2026-11-23T23:09:01.419104+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -455,7 +455,7 @@
       "published_at": "Mon, 23 Nov 2026 04:12:39 GMT",
       "published_at_utc": "2026-11-23T04:12:39+00:00",
       "published_at_tehran": "2026-11-23T07:42:39+03:30",
-      "collected_at": "2026-11-23T22:06:13.713433+00:00",
+      "collected_at": "2026-11-23T23:08:42.001756+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -469,7 +469,7 @@
       "published_at": "Mon, 23 Nov 2026 02:11:15 GMT",
       "published_at_utc": "2026-11-23T02:11:15+00:00",
       "published_at_tehran": "2026-11-23T05:41:15+03:30",
-      "collected_at": "2026-11-23T22:06:13.713620+00:00",
+      "collected_at": "2026-11-23T23:08:42.001927+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -483,7 +483,7 @@
       "published_at": "Mon, 23 Nov 2026 00:56:39 GMT",
       "published_at_utc": "2026-11-23T00:56:39+00:00",
       "published_at_tehran": "2026-11-23T04:26:39+03:30",
-      "collected_at": "2026-11-23T22:06:13.713819+00:00",
+      "collected_at": "2026-11-23T23:08:42.002086+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
