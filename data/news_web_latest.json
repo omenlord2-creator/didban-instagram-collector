@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T00:29:08.616874+00:00",
+  "generated_at": "2026-11-23T02:01:13.800373+00:00",
   "source_mode": "publisher_website_rss_separate_from_instagram",
   "publishing_enabled": false,
   "count": 36,
@@ -20,7 +20,19 @@
       "published_at": "",
       "published_at_utc": null,
       "published_at_tehran": null,
-      "collected_at": "2026-11-23T00:29:05.412434+00:00"
+      "collected_at": "2026-11-23T02:01:10.930089+00:00"
+    },
+    {
+      "publisher": "BBC Persian",
+      "source_mode": "publisher_website_rss",
+      "title": "پایان محدودیت‌های تاریخی؛ جاسوسان آلمانی وارد عصر عملیات مخفی می‌شوند",
+      "description": "آلمان در چارچوب بزرگ‌ترین بازنگری امنیتی خود در دهه‌های اخیر، قصد دارد نقش سرویس‌های اطلاعاتی را از نهادهای صرفا جمع‌آوری‌کننده اطلاعات به بازیگرانی فعال در عملیات مخفی و جنگ سایبری تغییر دهد. اصلاحاتی که دولت آن را پاسخی ضروری به تهدیدهای جدید می‌داند، در عین حال نگرانی‌هایی را درباره گسترش نظارت دولتی و احیای سایه گذشته امنیتی این کشور برانگیخته است.",
+      "article_url": "https://www.bbc.com/persian/articles/cvze71njjzyzo?at_medium=RSS&at_campaign=rss",
+      "media_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7751/live/4e1cd600-e590-11f1-9ccc-ff5a88abcfc6.png",
+      "published_at": "Mon, 23 Nov 2026 01:24:11 GMT",
+      "published_at_utc": "2026-11-23T01:24:11+00:00",
+      "published_at_tehran": "2026-11-23T04:54:11+03:30",
+      "collected_at": "2026-11-23T02:01:10.930209+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -32,7 +44,7 @@
       "published_at": "Sun, 22 Nov 2026 22:29:19 GMT",
       "published_at_utc": "2026-11-22T22:29:19+00:00",
       "published_at_tehran": "2026-11-23T01:59:19+03:30",
-      "collected_at": "2026-11-23T00:29:05.412509+00:00"
+      "collected_at": "2026-11-23T02:01:10.930287+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -44,7 +56,7 @@
       "published_at": "Sun, 22 Nov 2026 21:33:00 GMT",
       "published_at_utc": "2026-11-22T21:33:00+00:00",
       "published_at_tehran": "2026-11-23T01:03:00+03:30",
-      "collected_at": "2026-11-23T00:29:05.412546+00:00"
+      "collected_at": "2026-11-23T02:01:10.930340+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -56,7 +68,7 @@
       "published_at": "Sun, 22 Nov 2026 19:29:09 GMT",
       "published_at_utc": "2026-11-22T19:29:09+00:00",
       "published_at_tehran": "2026-11-22T22:59:09+03:30",
-      "collected_at": "2026-11-23T00:29:05.412579+00:00"
+      "collected_at": "2026-11-23T02:01:10.930388+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -68,7 +80,7 @@
       "published_at": "Sun, 22 Nov 2026 13:32:29 GMT",
       "published_at_utc": "2026-11-22T13:32:29+00:00",
       "published_at_tehran": "2026-11-22T17:02:29+03:30",
-      "collected_at": "2026-11-23T00:29:05.412608+00:00"
+      "collected_at": "2026-11-23T02:01:10.930435+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -80,7 +92,7 @@
       "published_at": "Sun, 22 Nov 2026 11:58:22 GMT",
       "published_at_utc": "2026-11-22T11:58:22+00:00",
       "published_at_tehran": "2026-11-22T15:28:22+03:30",
-      "collected_at": "2026-11-23T00:29:05.412635+00:00"
+      "collected_at": "2026-11-23T02:01:10.930481+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -92,7 +104,7 @@
       "published_at": "Sun, 22 Nov 2026 15:43:55 GMT",
       "published_at_utc": "2026-11-22T15:43:55+00:00",
       "published_at_tehran": "2026-11-22T19:13:55+03:30",
-      "collected_at": "2026-11-23T00:29:05.412662+00:00"
+      "collected_at": "2026-11-23T02:01:10.930526+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -104,19 +116,7 @@
       "published_at": "Sun, 22 Nov 2026 16:53:02 GMT",
       "published_at_utc": "2026-11-22T16:53:02+00:00",
       "published_at_tehran": "2026-11-22T20:23:02+03:30",
-      "collected_at": "2026-11-23T00:29:05.412687+00:00"
-    },
-    {
-      "publisher": "BBC Persian",
-      "source_mode": "publisher_website_rss",
-      "title": "ایجاد «سازمان حفاظت»؛ طرح بزرگترین تغییرات در وزارت اطلاعات ایران",
-      "description": "برای اولین بار از زمان تاسیس وزارت اطلاعات،‌ مجلس ایران طرحی برای اصلاح و تغییر ساختار این وزارتخانه تدوین کرده است.",
-      "article_url": "https://www.bbc.com/persian/articles/c94gnx7zj0n7o?at_medium=RSS&at_campaign=rss",
-      "media_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4842/live/3083ffb0-e289-11f1-a094-5fdc692f3e33.jpg",
-      "published_at": "Sun, 22 Nov 2026 03:38:27 GMT",
-      "published_at_utc": "2026-11-22T03:38:27+00:00",
-      "published_at_tehran": "2026-11-22T07:08:27+03:30",
-      "collected_at": "2026-11-23T00:29:05.412713+00:00"
+      "collected_at": "2026-11-23T02:01:10.930571+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -128,7 +128,7 @@
       "published_at": "",
       "published_at_utc": null,
       "published_at_tehran": null,
-      "collected_at": "2026-11-23T00:29:05.412732+00:00"
+      "collected_at": "2026-11-23T02:01:10.930601+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -140,7 +140,7 @@
       "published_at": "Sun, 22 Nov 2026 08:14:12 GMT",
       "published_at_utc": "2026-11-22T08:14:12+00:00",
       "published_at_tehran": "2026-11-22T11:44:12+03:30",
-      "collected_at": "2026-11-23T00:29:05.412758+00:00"
+      "collected_at": "2026-11-23T02:01:10.930668+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -152,7 +152,91 @@
       "published_at": "Sat, 21 Nov 2026 06:09:26 GMT",
       "published_at_utc": "2026-11-21T06:09:26+00:00",
       "published_at_tehran": "2026-11-21T09:39:26+03:30",
-      "collected_at": "2026-11-23T00:29:05.412784+00:00"
+      "collected_at": "2026-11-23T02:01:10.930714+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "سناتور دموکرات خواستار توقف تامین بودجه جنگ علیه ایران شد",
+      "description": "سناتور دموکرات آمریکایی، خواستار توقف بودجه تجاوز نظامی آمریکا علیه ایران و خواستار رأی‌گیری در سنا برای محدود کردن استفاده از بودجه فدرال برای جنگ، با توجه به پیامدهای اقتصادی آن و افزایش قیمت انرژی و سوخت در ایالات متحده شد.",
+      "article_url": "https://www.isna.ir/news/1405090200795/%D8%B3%D9%86%D8%A7%D8%AA%D9%88%D8%B1-%D8%AF%D9%85%D9%88%DA%A9%D8%B1%D8%A7%D8%AA-%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1-%D8%AA%D9%88%D9%82%D9%81-%D8%AA%D8%A7%D9%85%DB%8C%D9%86-%D8%A8%D9%88%D8%AF%D8%AC%D9%87-%D8%AC%D9%86%DA%AF-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B4%D8%AF",
+      "media_url": "https://cdn.isna.ir/d/2026/03/03/4/63765738.jpg",
+      "published_at": "Mon, 23 Nov 2026 01:55:02 GMT",
+      "published_at_utc": "2026-11-23T01:55:02+00:00",
+      "published_at_tehran": "2026-11-23T05:25:02+03:30",
+      "collected_at": "2026-11-23T02:01:12.622403+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "تولید محتوا با هوش مصنوعی در دوره‌های زمستان جهاد دانشگاهی آموزش داده می‌شود",
+      "description": "سرپرست معاونت آموزش جهاد دانشگاهی واحد الزهرا (س)، از ارائه دوره‌های متنوع فناوری اطلاعات در ترم زمستان خبر داد و گفت: برنامه‌نویسی پایتون، C++، طراحی وب، تولید محتوا با هوش مصنوعی و ICDL از جمله دوره‌های پیش‌بینی‌شده در دپارتمان کامپیوتر و فناوری اطلاعات است.",
+      "article_url": "https://www.isna.ir/news/1405090100543/%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D9%85%D8%AD%D8%AA%D9%88%D8%A7-%D8%A8%D8%A7-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%AF%D8%B1-%D8%AF%D9%88%D8%B1%D9%87-%D9%87%D8%A7%DB%8C-%D8%B2%D9%85%D8%B3%D8%AA%D8%A7%D9%86-%D8%AC%D9%87%D8%A7%D8%AF-%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87%DB%8C-%D8%A2%D9%85%D9%88%D8%B2%D8%B4",
+      "media_url": "https://cdn.isna.ir/d/2026/11/22/4/64064827.jpg",
+      "published_at": "Mon, 23 Nov 2026 01:52:00 GMT",
+      "published_at_utc": "2026-11-23T01:52:00+00:00",
+      "published_at_tehran": "2026-11-23T05:22:00+03:30",
+      "collected_at": "2026-11-23T02:01:12.622466+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "کره شمالی آماده است روابط خود را با همه کسانی که به حاکمیت آن احترام می‌گذارند، تقویت کند",
+      "description": "رهبر کره شمالی گفت که پیونگ یانگ آماده است تا دوستی و همکاری خود را با همه کشورهایی که به حاکمیت آن احترام می‌گذارند، تقویت کند.",
+      "article_url": "https://www.isna.ir/news/1405090200794/%DA%A9%D8%B1%D9%87-%D8%B4%D9%85%D8%A7%D9%84%DB%8C-%D8%A2%D9%85%D8%A7%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA-%D8%B1%D9%88%D8%A7%D8%A8%D8%B7-%D8%AE%D9%88%D8%AF-%D8%B1%D8%A7-%D8%A8%D8%A7-%D9%87%D9%85%D9%87-%DA%A9%D8%B3%D8%A7%D9%86%DB%8C-%DA%A9%D9%87-%D8%A8%D9%87-%D8%AD%D8%A7%DA%A9%D9%85%DB%8C%D8%AA-%D8%A2%D9%86",
+      "media_url": "https://cdn.isna.ir/d/2026/11/23/4/64065668.jpg",
+      "published_at": "Mon, 23 Nov 2026 01:51:46 GMT",
+      "published_at_utc": "2026-11-23T01:51:46+00:00",
+      "published_at_tehran": "2026-11-23T05:21:46+03:30",
+      "collected_at": "2026-11-23T02:01:12.622517+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "درخواست تخصیص کالابرگ به موادغذایی سالم‌تر/ توجه به «چاقی» در سند ملی بیماری‌های غیرواگیر",
+      "description": "رئیس دبیرخانه شورای عالی سلامت و امنیت غذایی با بیان اینکه سند ملی کنترل بیماری‌های غیرواگیر به امضای رئیس‌جمهور رسیده، اظهار کرد: اهداف، راهبردها و برنامه‌های اقدام در ارتباط با تمام عوامل خطر بیماری‌های غیرواگیر برای تمام دستگاه‌ها درنظر گرفته شده تا بتوان شاخص‌های عوامل خطر بیماری‌های غیرواگیر را طی بازه زمانی 10 ساله کنترل کرد.",
+      "article_url": "https://www.isna.ir/news/1405090100581/%D8%AF%D8%B1%D8%AE%D9%88%D8%A7%D8%B3%D8%AA-%D8%AA%D8%AE%D8%B5%DB%8C%D8%B5-%DA%A9%D8%A7%D9%84%D8%A7%D8%A8%D8%B1%DA%AF-%D8%A8%D9%87-%D9%85%D9%88%D8%A7%D8%AF%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D8%B3%D8%A7%D9%84%D9%85-%D8%AA%D8%B1-%D8%AA%D9%88%D8%AC%D9%87-%D8%A8%D9%87-%DA%86%D8%A7%D9%82%DB%8C-%D8%AF%D8%B1",
+      "media_url": "https://cdn.isna.ir/d/2026/08/11/4/63931815.jpg",
+      "published_at": "Mon, 23 Nov 2026 01:44:00 GMT",
+      "published_at_utc": "2026-11-23T01:44:00+00:00",
+      "published_at_tehran": "2026-11-23T05:14:00+03:30",
+      "collected_at": "2026-11-23T02:01:12.622563+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "هوش مصنوعی قبض برق خانوارها را سنگین‌تر می‌کند",
+      "description": "رونق هوش مصنوعی، هزینه توسعه شبکه‌های برق را افزایش داده و بخشی از این هزینه‌ها را به خانوارها تحمیل کرده است.",
+      "article_url": "https://www.isna.ir/news/1405090100563/%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D9%82%D8%A8%D8%B6-%D8%A8%D8%B1%D9%82-%D8%AE%D8%A7%D9%86%D9%88%D8%A7%D8%B1%D9%87%D8%A7-%D8%B1%D8%A7-%D8%B3%D9%86%DA%AF%DB%8C%D9%86-%D8%AA%D8%B1-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF",
+      "media_url": "https://cdn.isna.ir/d/off/khorasan/2026/11/22/4/64065155.jpg",
+      "published_at": "Mon, 23 Nov 2026 01:30:00 GMT",
+      "published_at_utc": "2026-11-23T01:30:00+00:00",
+      "published_at_tehran": "2026-11-23T05:00:00+03:30",
+      "collected_at": "2026-11-23T02:01:12.622608+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "کیفیت متغیر هوای تهران طی آبان؛ تنفس هوای پاک تا ناسالم",
+      "description": "بر اساس اطلاعات شرکت کنترل کیفیت هوای تهران، در حالی تهرانی‌ها طی آبان‌ماه یک روز هوای پاک تنفس کردند که هشت روز کیفیت هوای پایتخت نامطلوب بود.",
+      "article_url": "https://www.isna.ir/news/1405090100582/%DA%A9%DB%8C%D9%81%DB%8C%D8%AA-%D9%85%D8%AA%D8%BA%DB%8C%D8%B1-%D9%87%D9%88%D8%A7%DB%8C-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B7%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%D8%AA%D9%86%D9%81%D8%B3-%D9%87%D9%88%D8%A7%DB%8C-%D9%BE%D8%A7%DA%A9-%D8%AA%D8%A7-%D9%86%D8%A7%D8%B3%D8%A7%D9%84%D9%85",
+      "media_url": "https://cdn.isna.ir/d/2022/04/08/4/62227987.jpg",
+      "published_at": "Mon, 23 Nov 2026 00:47:00 GMT",
+      "published_at_utc": "2026-11-23T00:47:00+00:00",
+      "published_at_tehran": "2026-11-23T04:17:00+03:30",
+      "collected_at": "2026-11-23T02:01:12.622677+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "تجاوز سعودی به الحدیده یمن شهید و زخمی برجای گذاشت",
+      "description": "در سلسله تجاوزات به یمن، بمباران سعودی علیه ساختمان مخابرات در الحدیده تعدادی شهید و زخمی برجای گذاشت.",
+      "article_url": "https://www.isna.ir/news/1405090200793/%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D8%B3%D8%B9%D9%88%D8%AF%DB%8C-%D8%A8%D9%87-%D8%A7%D9%84%D8%AD%D8%AF%DB%8C%D8%AF%D9%87-%DB%8C%D9%85%D9%86-%D8%B4%D9%87%DB%8C%D8%AF-%D9%88-%D8%B2%D8%AE%D9%85%DB%8C-%D8%A8%D8%B1%D8%AC%D8%A7%DB%8C-%DA%AF%D8%B0%D8%A7%D8%B4%D8%AA",
+      "media_url": "https://cdn.isna.ir/d/2026/11/23/4/64065666.jpg",
+      "published_at": "Mon, 23 Nov 2026 00:39:00 GMT",
+      "published_at_utc": "2026-11-23T00:39:00+00:00",
+      "published_at_tehran": "2026-11-23T04:09:00+03:30",
+      "collected_at": "2026-11-23T02:01:12.622724+00:00"
     },
     {
       "publisher": "ISNA",
@@ -164,7 +248,7 @@
       "published_at": "Mon, 23 Nov 2026 00:10:24 GMT",
       "published_at_utc": "2026-11-23T00:10:24+00:00",
       "published_at_tehran": "2026-11-23T03:40:24+03:30",
-      "collected_at": "2026-11-23T00:29:07.375037+00:00"
+      "collected_at": "2026-11-23T02:01:12.622769+00:00"
     },
     {
       "publisher": "ISNA",
@@ -176,7 +260,7 @@
       "published_at": "Mon, 23 Nov 2026 00:07:24 GMT",
       "published_at_utc": "2026-11-23T00:07:24+00:00",
       "published_at_tehran": "2026-11-23T03:37:24+03:30",
-      "collected_at": "2026-11-23T00:29:07.375106+00:00"
+      "collected_at": "2026-11-23T02:01:12.622814+00:00"
     },
     {
       "publisher": "ISNA",
@@ -188,7 +272,7 @@
       "published_at": "Mon, 23 Nov 2026 00:00:00 GMT",
       "published_at_utc": "2026-11-23T00:00:00+00:00",
       "published_at_tehran": "2026-11-23T03:30:00+03:30",
-      "collected_at": "2026-11-23T00:29:07.375142+00:00"
+      "collected_at": "2026-11-23T02:01:12.622858+00:00"
     },
     {
       "publisher": "ISNA",
@@ -200,7 +284,7 @@
       "published_at": "Sun, 22 Nov 2026 23:53:00 GMT",
       "published_at_utc": "2026-11-22T23:53:00+00:00",
       "published_at_tehran": "2026-11-23T03:23:00+03:30",
-      "collected_at": "2026-11-23T00:29:07.375172+00:00"
+      "collected_at": "2026-11-23T02:01:12.622906+00:00"
     },
     {
       "publisher": "ISNA",
@@ -212,91 +296,55 @@
       "published_at": "Sun, 22 Nov 2026 23:50:00 GMT",
       "published_at_utc": "2026-11-22T23:50:00+00:00",
       "published_at_tehran": "2026-11-23T03:20:00+03:30",
-      "collected_at": "2026-11-23T00:29:07.375200+00:00"
+      "collected_at": "2026-11-23T02:01:12.622953+00:00"
     },
     {
-      "publisher": "ISNA",
+      "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "ترامپ: سقوط بازار و تشدید حملات ایران را پیش‌بینی کرده بودم!",
-      "description": "دونالد ترامپ در جدیدترین لفاظی خود ادعا کرد که دو چیز را درباره انتخابات میان‌دوره‌ای سوم نوامبر پیش‌بینی کرده بود؛ اول اینکه اگر دموکرات‌ها پیروز شوند، بازار سهام با افت شدیدی مواجه خواهد شد، که در واقع همین اتفاق هم افتاد و دوم اینکه ایران حملات خود را تشدید خواهد کرد، که این اتفاق هم افتاد.",
-      "article_url": "https://www.isna.ir/news/1405090200790/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%B3%D9%82%D9%88%D8%B7-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%88-%D8%AA%D8%B4%D8%AF%DB%8C%D8%AF-%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%DA%A9%D8%B1%D8%AF%D9%87-%D8%A8%D9%88%D8%AF%D9%85",
-      "media_url": "https://cdn.isna.ir/d/2026/11/20/4/64062377.jpg",
-      "published_at": "Sun, 22 Nov 2026 23:31:13 GMT",
-      "published_at_utc": "2026-11-22T23:31:13+00:00",
-      "published_at_tehran": "2026-11-23T03:01:13+03:30",
-      "collected_at": "2026-11-23T00:29:07.375228+00:00"
+      "title": "لیبی هرگونه دخالت در مناقشه روسیه و اوکراین را رد کرد",
+      "description": "تهران-ایرنا- پارلمان لیبی مستقر در شرق این کشور با رد هرگونه دخالت  در مناقشه روسیه و اوکراین، از طرف‌های منطقه‌ای و بین‌المللی خواست به حاکمیت و استقلال تصمیم‌گیری ملی لیبی احترام بگذارند.",
+      "article_url": "https://www.irna.ir/news/86329705/%D9%BE%D8%A7%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D9%84%DB%8C%D8%A8%DB%8C-%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1-%D8%B9%D8%AF%D9%85-%D8%AF%D8%AE%D8%A7%D9%84%D8%AA-%DA%A9%D8%B4%D9%88%D8%B1%D9%87%D8%A7%DB%8C-%D8%AF%DB%8C%DA%AF%D8%B1-%D8%AF%D8%B1-%D8%A7%D9%85%D9%88%D8%B1-%D8%AE%D9%88%D8%AF-%D8%B4%D8%AF",
+      "media_url": "https://img9.irna.ir/d/r2/2023/09/05/4/170592393.jpg",
+      "published_at": "Mon, 23 Nov 2026 01:48:14 GMT",
+      "published_at_utc": "2026-11-23T01:48:14+00:00",
+      "published_at_tehran": "2026-11-23T05:18:14+03:30",
+      "collected_at": "2026-11-23T02:01:13.799858+00:00"
     },
     {
-      "publisher": "ISNA",
+      "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "سرمربی ابومسلم ثامن: هدف ما قهرمانی و صعود به لیگ دسته دوم فوتبال است",
-      "description": "سرمربی تیم فوتبال ابومسلم ثامن با اشاره به آغاز قابل قبول این تیم در رقابت‌های لیگ دسته سوم، گفت: هدف اصلی تیم ابومسلم ثامن قهرمانی و صعود به لیگ دسته دوم است و این مسیر به زمان و تلاش مستمر نیاز دارد.",
-      "article_url": "https://www.isna.ir/news/1405090100751/%D8%B3%D8%B1%D9%85%D8%B1%D8%A8%DB%8C-%D8%A7%D8%A8%D9%88%D9%85%D8%B3%D9%84%D9%85-%D8%AB%D8%A7%D9%85%D9%86-%D9%87%D8%AF%D9%81-%D9%85%D8%A7-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D9%88-%D8%B5%D8%B9%D9%88%D8%AF-%D8%A8%D9%87-%D9%84%DB%8C%DA%AF-%D8%AF%D8%B3%D8%AA%D9%87-%D8%AF%D9%88%D9%85-%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84",
-      "media_url": "https://cdn.isna.ir/d/off/khorasan/2026/11/22/4/64065544.jpg",
-      "published_at": "Sun, 22 Nov 2026 23:15:00 GMT",
-      "published_at_utc": "2026-11-22T23:15:00+00:00",
-      "published_at_tehran": "2026-11-23T02:45:00+03:30",
-      "collected_at": "2026-11-23T00:29:07.375255+00:00"
+      "title": "حمله عربستان به غرب یمن ۴ کشته و ۱۸ زخمی برجای گذاشت",
+      "description": "تهران-ایرنا- حمله هوایی عربستان به ساختمان تأسیسات وابسته به شرکت مخابرات یمن در شهر الحدیده تاکنون چهار کشته و ۱۸ زخمی بر جای گذاشته است.",
+      "article_url": "https://www.irna.ir/news/86329704/%D8%AD%D9%85%D9%84%D9%87-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%87-%D8%BA%D8%B1%D8%A8-%DB%8C%D9%85%D9%86-%DB%B4-%DA%A9%D8%B4%D8%AA%D9%87-%D9%88-%DB%B1%DB%B8-%D8%B2%D8%AE%D9%85%DB%8C-%D8%A8%D8%B1%D8%AC%D8%A7%DB%8C-%DA%AF%D8%B0%D8%A7%D8%B4%D8%AA",
+      "media_url": "https://img9.irna.ir/d/r2/2026/07/25/4/172999499.jpg",
+      "published_at": "Mon, 23 Nov 2026 01:43:50 GMT",
+      "published_at_utc": "2026-11-23T01:43:50+00:00",
+      "published_at_tehran": "2026-11-23T05:13:50+03:30",
+      "collected_at": "2026-11-23T02:01:13.799922+00:00"
     },
     {
-      "publisher": "ISNA",
+      "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "۹ تن در تیراندازی در کنسرتی در مرکز کالیفرنیا زخمی شدند",
-      "description": "کلانتر محلی کالیفرنیا اعلام کرد که ۹ نفر در رویداد موسیقی کنسرتی در مرکز کالیفرنیا مورد اصابت گلوله قرار گرفتند که یکی از آنها از ناحیه سینه به شدت زخمی شده است.",
-      "article_url": "https://www.isna.ir/news/1405090200789/%DB%B9-%D8%AA%D9%86-%D8%AF%D8%B1-%D8%AA%DB%8C%D8%B1%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C-%D8%AF%D8%B1-%DA%A9%D9%86%D8%B3%D8%B1%D8%AA%DB%8C-%D8%AF%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2-%DA%A9%D8%A7%D9%84%DB%8C%D9%81%D8%B1%D9%86%DB%8C%D8%A7-%D8%B2%D8%AE%D9%85%DB%8C-%D8%B4%D8%AF%D9%86%D8%AF",
-      "media_url": "https://cdn.isna.ir/d/2026/11/23/4/64065663.jpg",
-      "published_at": "Sun, 22 Nov 2026 22:58:44 GMT",
-      "published_at_utc": "2026-11-22T22:58:44+00:00",
-      "published_at_tehran": "2026-11-23T02:28:44+03:30",
-      "collected_at": "2026-11-23T00:29:07.375281+00:00"
+      "title": "کوشنر نقشه راه صلح میان روسیه با اوکراین و ناتو را تشریح کرد",
+      "description": "تهران- ایرنا- جرد کوشنر داماد و فرستاده ویژه دونالد ترامپ رئیس جمهور آمریکا گفت که واشنگتن در حال بررسی تضمین‌های امنیتی مشابه «ماده ۵» سازمان پیمان آتلانتیک شمالی (ناتو) به اوکراین و ایجاد اطمینان و اعتماد متقابل میان روسیه و ناتو است.",
+      "article_url": "https://www.irna.ir/news/86329703/%DA%A9%D9%88%D8%B4%D9%86%D8%B1-%D9%86%D9%82%D8%B4%D9%87-%D8%B1%D8%A7%D9%87-%D8%B5%D9%84%D8%AD-%D9%85%DB%8C%D8%A7%D9%86-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D8%A8%D8%A7-%D8%A7%D9%88%DA%A9%D8%B1%D8%A7%DB%8C%D9%86-%D9%88-%D9%86%D8%A7%D8%AA%D9%88-%D8%B1%D8%A7-%D8%AA%D8%B4%D8%B1%DB%8C%D8%AD-%DA%A9%D8%B1%D8%AF",
+      "media_url": "https://img9.irna.ir/d/r2/2026/02/21/4/172734659.jpg",
+      "published_at": "Mon, 23 Nov 2026 01:06:03 GMT",
+      "published_at_utc": "2026-11-23T01:06:03+00:00",
+      "published_at_tehran": "2026-11-23T04:36:03+03:30",
+      "collected_at": "2026-11-23T02:01:13.799975+00:00"
     },
     {
-      "publisher": "ISNA",
+      "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "صدها مرگ زودرس با گسترش هوش مصنوعی",
-      "description": "پژوهشگران گفتند: افزایش تقاضا برای هوش مصنوعی ممکن است سلامت افرادی را که صدها مایل دورتر از مراکز داده قرار دارند نیز به خطر بیندازد.",
-      "article_url": "https://www.isna.ir/news/1405090100750/%D8%B5%D8%AF%D9%87%D8%A7-%D9%85%D8%B1%DA%AF-%D8%B2%D9%88%D8%AF%D8%B1%D8%B3-%D8%A8%D8%A7-%DA%AF%D8%B3%D8%AA%D8%B1%D8%B4-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C",
-      "media_url": "https://cdn.isna.ir/d/off/khorasan/2026/11/22/4/64065499.jpg",
-      "published_at": "Sun, 22 Nov 2026 22:50:00 GMT",
-      "published_at_utc": "2026-11-22T22:50:00+00:00",
-      "published_at_tehran": "2026-11-23T02:20:00+03:30",
-      "collected_at": "2026-11-23T00:29:07.375307+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "هشدار قرقاش درباره رقابت ژئوپلیتیکی موازی با جنگ در منطقه",
-      "description": "مشاور دیپلماتیک رئیس امارات متحده عربی اظهار کرد که «طرح کلی رقابت ژئوپلیتیکی موازی با جنگ با ایران در حال شکل‌گیری است».",
-      "article_url": "https://www.isna.ir/news/1405090200788/%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D9%82%D8%B1%D9%82%D8%A7%D8%B4-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%B1%D9%82%D8%A7%D8%A8%D8%AA-%DA%98%D8%A6%D9%88%D9%BE%D9%84%DB%8C%D8%AA%DB%8C%DA%A9%DB%8C-%D9%85%D9%88%D8%A7%D8%B2%DB%8C-%D8%A8%D8%A7-%D8%AC%D9%86%DA%AF-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
-      "media_url": "https://cdn.isna.ir/d/2026/05/22/4/63840426.jpg",
-      "published_at": "Sun, 22 Nov 2026 22:49:13 GMT",
-      "published_at_utc": "2026-11-22T22:49:13+00:00",
-      "published_at_tehran": "2026-11-23T02:19:13+03:30",
-      "collected_at": "2026-11-23T00:29:07.375333+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "برتری پرگل اتلتیکومادرید/ اینتر برد را از دست داد",
-      "description": "اتلتیکومادرید با سه گل ختافه را شکست داد و به تعقیب صدرنشینان لالیگا ادامه داد، اما برتری چهار بر دو اینتر مقابل آتالانتا از دست رفت و به تساوی پرگل چهار بر چهار رسید.",
-      "article_url": "https://www.isna.ir/news/1405090200787/%D8%A8%D8%B1%D8%AA%D8%B1%DB%8C-%D9%BE%D8%B1%DA%AF%D9%84-%D8%A7%D8%AA%D9%84%D8%AA%DB%8C%DA%A9%D9%88%D9%85%D8%A7%D8%AF%D8%B1%DB%8C%D8%AF-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1-%D8%A8%D8%B1%D8%AF-%D8%B1%D8%A7-%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA-%D8%AF%D8%A7%D8%AF",
-      "media_url": "https://cdn.isna.ir/d/2026/11/23/4/64065661.jpg",
-      "published_at": "Sun, 22 Nov 2026 22:44:35 GMT",
-      "published_at_utc": "2026-11-22T22:44:35+00:00",
-      "published_at_tehran": "2026-11-23T02:14:35+03:30",
-      "collected_at": "2026-11-23T00:29:07.375360+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "فاصله تورم نقطه به نقطه خراسان رضوی با کشور کاهش یافت",
-      "description": "مدیر مرکز مطالعات و بررسی‌های اقتصادی اتاق بازرگانی، صنایع، معادن و کشاورزی خراسان رضوی، با اشاره به بررسی شاخص‌های تورمی مهرماه، گفت: اگرچه فاصله تورم نقطه‌به‌نقطه استان با میانگین کشور کاهش یافته، اما تورم ماهانه خراسان رضوی با رسیدن به ۴.۹ درصد، ۰.۵ واحد درصد بالاتر از نرخ کشور قرار گرفته است، که نشان می‌دهد کاهش تورم نقطه‌به‌نقطه را نباید به معنای فروکش کردن رشد قیمت‌ها در ماه جاری تلقی کرد.",
-      "article_url": "https://www.isna.ir/news/1405090100748/%D9%81%D8%A7%D8%B5%D9%84%D9%87-%D8%AA%D9%88%D8%B1%D9%85-%D9%86%D9%82%D8%B7%D9%87-%D8%A8%D9%87-%D9%86%D9%82%D8%B7%D9%87-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%B1%D8%B6%D9%88%DB%8C-%D8%A8%D8%A7-%DA%A9%D8%B4%D9%88%D8%B1-%DA%A9%D8%A7%D9%87%D8%B4-%DB%8C%D8%A7%D9%81%D8%AA",
-      "media_url": "https://cdn.isna.ir/d/2026/07/29/4/63918232.jpg",
-      "published_at": "Sun, 22 Nov 2026 22:30:00 GMT",
-      "published_at_utc": "2026-11-22T22:30:00+00:00",
-      "published_at_tehran": "2026-11-23T02:00:00+03:30",
-      "collected_at": "2026-11-23T00:29:07.375389+00:00"
+      "title": "اختلال در بیش از ۱۶۰۰ پرواز هواپیما در آمریکا",
+      "description": "تهران- ایرنا- شرکت هواپیمایی «دلتا» اعلام کرد که نقص فنی و اختلال در یکی از سامانه‌های این شرکت باعث تاخیر در بیش از ۱۶۰۰ پرواز هواپیما شد.",
+      "article_url": "https://www.irna.ir/news/86329701/%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%84-%D8%AF%D8%B1-%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87-%D8%B4%D8%B1%DA%A9%D8%AA-%D9%87%D9%88%D8%A7%D9%BE%DB%8C%D9%85%D8%A7%DB%8C%DB%8C-%D8%AF%D9%84%D8%AA%D8%A7-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B1%DB%B6%DB%B0%DB%B0-%D9%BE%D8%B1%D9%88%D8%A7%D8%B2-%D8%B1%D8%A7-%D8%AF%D8%B1",
+      "media_url": "https://img9.irna.ir/d/r2/2025/04/21/4/171812731.jpg",
+      "published_at": "Mon, 23 Nov 2026 00:13:18 GMT",
+      "published_at_utc": "2026-11-23T00:13:18+00:00",
+      "published_at_tehran": "2026-11-23T03:43:18+03:30",
+      "collected_at": "2026-11-23T02:01:13.800024+00:00"
     },
     {
       "publisher": "IRNA",
@@ -308,19 +356,19 @@
       "published_at": "Sun, 22 Nov 2026 22:35:48 GMT",
       "published_at_utc": "2026-11-22T22:35:48+00:00",
       "published_at_tehran": "2026-11-23T02:05:48+03:30",
-      "collected_at": "2026-11-23T00:29:08.616543+00:00"
+      "collected_at": "2026-11-23T02:01:13.800069+00:00"
     },
     {
       "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
       "title": "نماینده ارشد دموکرات‌ها: پایان دادن به جنگ ایران باید در دستور کار کنگره جدید آمریکا باشد",
-      "description": "تهران- ایرنا- رو خانا از اعضای ارشد مجلس نمایندگان آمریکا گفت که دموکرات باید از روز اول آغاز به کار کنگره جدید این کشور پایان دادن به جنگ علیه ایران و افزایش دستمزدها را در دستور کار قرار دهند.",
+      "description": "تهران- ایرنا- رو خانا از اعضای ارشد مجلس نمایندگان آمریکا گفت که دموکرات ها باید از روز اول آغاز به کار کنگره جدید این کشور پایان دادن به جنگ علیه ایران و افزایش دستمزدها را در دستور کار قرار دهند.",
       "article_url": "https://www.irna.ir/news/86329697/%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%D9%87-%D8%A7%D8%B1%D8%B4%D8%AF-%D8%AF%D9%85%D9%88%DA%A9%D8%B1%D8%A7%D8%AA-%D9%87%D8%A7-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%AF%D8%A7%D8%AF%D9%86-%D8%A8%D9%87-%D8%AC%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%AF%D8%B1-%D8%AF%D8%B3%D8%AA%D9%88%D8%B1",
       "media_url": "https://img9.irna.ir/d/r2/2026/06/06/4/172908320.jpg",
       "published_at": "Sun, 22 Nov 2026 22:30:00 GMT",
       "published_at_utc": "2026-11-22T22:30:00+00:00",
       "published_at_tehran": "2026-11-23T02:00:00+03:30",
-      "collected_at": "2026-11-23T00:29:08.616593+00:00"
+      "collected_at": "2026-11-23T02:01:13.800113+00:00"
     },
     {
       "publisher": "IRNA",
@@ -332,7 +380,7 @@
       "published_at": "Sun, 22 Nov 2026 22:11:32 GMT",
       "published_at_utc": "2026-11-22T22:11:32+00:00",
       "published_at_tehran": "2026-11-23T01:41:32+03:30",
-      "collected_at": "2026-11-23T00:29:08.616628+00:00"
+      "collected_at": "2026-11-23T02:01:13.800158+00:00"
     },
     {
       "publisher": "IRNA",
@@ -344,7 +392,7 @@
       "published_at": "Sun, 22 Nov 2026 21:58:13 GMT",
       "published_at_utc": "2026-11-22T21:58:13+00:00",
       "published_at_tehran": "2026-11-23T01:28:13+03:30",
-      "collected_at": "2026-11-23T00:29:08.616659+00:00"
+      "collected_at": "2026-11-23T02:01:13.800202+00:00"
     },
     {
       "publisher": "IRNA",
@@ -356,7 +404,7 @@
       "published_at": "Sun, 22 Nov 2026 21:32:49 GMT",
       "published_at_utc": "2026-11-22T21:32:49+00:00",
       "published_at_tehran": "2026-11-23T01:02:49+03:30",
-      "collected_at": "2026-11-23T00:29:08.616688+00:00"
+      "collected_at": "2026-11-23T02:01:13.800244+00:00"
     },
     {
       "publisher": "IRNA",
@@ -368,7 +416,7 @@
       "published_at": "Sun, 22 Nov 2026 21:30:11 GMT",
       "published_at_utc": "2026-11-22T21:30:11+00:00",
       "published_at_tehran": "2026-11-23T01:00:11+03:30",
-      "collected_at": "2026-11-23T00:29:08.616717+00:00"
+      "collected_at": "2026-11-23T02:01:13.800287+00:00"
     },
     {
       "publisher": "IRNA",
@@ -380,7 +428,7 @@
       "published_at": "Sun, 22 Nov 2026 21:22:25 GMT",
       "published_at_utc": "2026-11-22T21:22:25+00:00",
       "published_at_tehran": "2026-11-23T00:52:25+03:30",
-      "collected_at": "2026-11-23T00:29:08.616743+00:00"
+      "collected_at": "2026-11-23T02:01:13.800328+00:00"
     },
     {
       "publisher": "IRNA",
@@ -392,55 +440,7 @@
       "published_at": "Sun, 22 Nov 2026 21:21:50 GMT",
       "published_at_utc": "2026-11-22T21:21:50+00:00",
       "published_at_tehran": "2026-11-23T00:51:50+03:30",
-      "collected_at": "2026-11-23T00:29:08.616769+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "تصمیم مشکوک کاپیتان یونایتد؛ فرناندز مذاکره تمدید با منچستر را به تعویق انداخت",
-      "description": "تهران- ایرنا- ستاره پرتغالی و کاپیتان باشگاه انگلیسی منچستریونایتد، اعلام کرد که در حال حاضر «زمان مناسبی» برای گفتگو درباره تمدید قرارداد با این باشگاه که در فصل جاری دوران دشواری را سپری می‌کند نیست.",
-      "article_url": "https://www.irna.ir/news/86329629/%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%D9%85%D8%B4%DA%A9%D9%88%DA%A9-%DA%A9%D8%A7%D9%BE%DB%8C%D8%AA%D8%A7%D9%86-%DB%8C%D9%88%D9%86%D8%A7%DB%8C%D8%AA%D8%AF-%D9%81%D8%B1%D9%86%D8%A7%D9%86%D8%AF%D8%B2-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D9%87-%D8%AA%D9%85%D8%AF%DB%8C%D8%AF-%D8%A8%D8%A7-%D9%85%D9%86%DA%86%D8%B3%D8%AA%D8%B1-%D8%B1%D8%A7",
-      "media_url": "https://img9.irna.ir/d/r2/2026/11/22/4/173259817.jpg",
-      "published_at": "Sun, 22 Nov 2026 21:19:56 GMT",
-      "published_at_utc": "2026-11-22T21:19:56+00:00",
-      "published_at_tehran": "2026-11-23T00:49:56+03:30",
-      "collected_at": "2026-11-23T00:29:08.616795+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "آخرین تمرین استقلال پیش از بازی با العین برگزار شد",
-      "description": "تهران- ایرنا- آخرین جلسه تمرین تیم فوتبال استقلال پیش از بازی مقابل العین امارات در هفته پنجم لیگ نخبگان آسیا یکشنبه‌شب در استادیوم هزاع‌ بن زاید برگزار شد.",
-      "article_url": "https://www.irna.ir/news/86329605/%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%D8%AA%D9%85%D8%B1%DB%8C%D9%86-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D9%BE%DB%8C%D8%B4-%D8%A7%D8%B2-%D8%A8%D8%A7%D8%B2%DB%8C-%D8%A8%D8%A7-%D8%A7%D9%84%D8%B9%DB%8C%D9%86-%D8%A8%D8%B1%DA%AF%D8%B2%D8%A7%D8%B1-%D8%B4%D8%AF",
-      "media_url": "https://img9.irna.ir/d/r2/2026/11/22/4/173259828.jpg",
-      "published_at": "Sun, 22 Nov 2026 21:19:25 GMT",
-      "published_at_utc": "2026-11-22T21:19:25+00:00",
-      "published_at_tehran": "2026-11-23T00:49:25+03:30",
-      "collected_at": "2026-11-23T00:29:08.616821+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "فرمانده کل ارتش: بسیج در هر سه جنگ تحمیلی سدی محکم دربرابر دشمنان بود",
-      "description": "تهران-ایرنا- سرلشکر حاتمی فرمانده کل ارتش در پیامی به مناسبت هفته بسیج تاکید کرد: بسیج در هر سه جنگ تحمیلی سدی محکم دربرابر دشمنان بود.",
-      "article_url": "https://www.irna.ir/news/86329687/%D9%81%D8%B1%D9%85%D8%A7%D9%86%D8%AF%D9%87-%DA%A9%D9%84-%D8%A7%D8%B1%D8%AA%D8%B4-%D8%A8%D8%B3%DB%8C%D8%AC-%D8%AF%D8%B1-%D9%87%D8%B1-%D8%B3%D9%87-%D8%AC%D9%86%DA%AF-%D8%AA%D8%AD%D9%85%DB%8C%D9%84%DB%8C-%D8%B3%D8%AF%DB%8C-%D9%85%D8%AD%DA%A9%D9%85-%D8%AF%D8%B1%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%AF%D8%B4%D9%85%D9%86%D8%A7%D9%86",
-      "media_url": "https://img9.irna.ir/d/r2/2026/10/05/4/173151419.jpg",
-      "published_at": "Sun, 22 Nov 2026 21:11:30 GMT",
-      "published_at_utc": "2026-11-22T21:11:30+00:00",
-      "published_at_tehran": "2026-11-23T00:41:30+03:30",
-      "collected_at": "2026-11-23T00:29:08.616846+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "گفت‌وگوی تلفنی وزیران امور خارجه عربستان و پاکستان درباره تحولات منطقه",
-      "description": "تهران-ایرنا-فیصل بن فرحان وزیر امور خارجه عربستان سعودی در تماس تلفنی با محمد اسحاق دار معاون نخست‌وزیر و وزیر امور خارجه پاکستان، آخرین تحولات منطقه‌ای و تلاش‌های دیپلماتیک درباره مسائل مورد اهتمام مشترک را بررسی کرد.",
-      "article_url": "https://www.irna.ir/news/86329684/%DA%AF%D9%81%D8%AA-%D9%88%DA%AF%D9%88%DB%8C-%D8%AA%D9%84%D9%81%D9%86%DB%8C-%D9%88%D8%B2%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D9%85%D9%88%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%87-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D9%88-%D9%BE%D8%A7%DA%A9%D8%B3%D8%AA%D8%A7%D9%86-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AA%D8%AD%D9%88%D9%84%D8%A7%D8%AA",
-      "media_url": "https://img9.irna.ir/d/r2/2026/11/23/4/173259883.jpg",
-      "published_at": "Sun, 22 Nov 2026 21:10:36 GMT",
-      "published_at_utc": "2026-11-22T21:10:36+00:00",
-      "published_at_tehran": "2026-11-23T00:40:36+03:30",
-      "collected_at": "2026-11-23T00:29:08.616871+00:00"
+      "collected_at": "2026-11-23T02:01:13.800370+00:00"
     }
   ]
 }\n
