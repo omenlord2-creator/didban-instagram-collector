@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-23T15:49:21.720625+00:00",
+  "generated_at": "2026-11-23T17:18:16.027804+00:00",
   "source_mode": "public_feeds_no_login",
   "publishing_enabled": false,
   "summary": {
     "accounts": 5,
     "fetched_posts": 30,
-    "new_posts": 16,
+    "new_posts": 0,
     "publish_ready": 30,
     "blocked_or_incomplete": 2
   },
@@ -15,7 +15,7 @@
       "label": "BBC Persian",
       "provider": "https://openrss.org/feed/www.instagram.com/bbcpersian",
       "fetched": 10,
-      "new": 5,
+      "new": 0,
       "ready": 10,
       "needs_media_url": 0,
       "error": null
@@ -27,13 +27,13 @@
       "new": 0,
       "ready": 0,
       "needs_media_url": 0,
-      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: ReadTimeout: HTTPSConnectionPool(host='rsshub.cmyr.dev', port=443): Read timed out. (read timeout=10) | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
+      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: ReadTimeout: HTTPSConnectionPool(host='rsshub.cmyr.dev', port=443): Read timed out. (read timeout=10) | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: HTTP 503"
     },
     "iranintltv": {
       "label": "Iran International",
       "provider": "https://openrss.org/feed/www.instagram.com/iranintltv",
       "fetched": 10,
-      "new": 10,
+      "new": 0,
       "ready": 10,
       "needs_media_url": 0,
       "error": null
@@ -45,13 +45,13 @@
       "new": 0,
       "ready": 0,
       "needs_media_url": 0,
-      "error": "https://openrss.org/feed/www.instagram.com/isna.news: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/isna.news: HTTP 500 | https://rsshub.app/instagram/2/user/isna.news: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/isna.news: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
+      "error": "https://openrss.org/feed/www.instagram.com/isna.news: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/isna.news: ReadTimeout: HTTPSConnectionPool(host='rsshub.cmyr.dev', port=443): Read timed out. (read timeout=10) | https://rsshub.app/instagram/2/user/isna.news: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/isna.news: HTTP 503"
     },
     "irnanews1313": {
       "label": "IRNA",
       "provider": "https://openrss.org/feed/www.instagram.com/irnanews1313",
       "fetched": 10,
-      "new": 1,
+      "new": 0,
       "ready": 10,
       "needs_media_url": 0,
       "error": null
@@ -60,11 +60,11 @@
   "errors": [
     {
       "account": "dw_persian",
-      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: ReadTimeout: HTTPSConnectionPool(host='rsshub.cmyr.dev', port=443): Read timed out. (read timeout=10) | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
+      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: ReadTimeout: HTTPSConnectionPool(host='rsshub.cmyr.dev', port=443): Read timed out. (read timeout=10) | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: HTTP 503"
     },
     {
       "account": "isna.news",
-      "error": "https://openrss.org/feed/www.instagram.com/isna.news: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/isna.news: HTTP 500 | https://rsshub.app/instagram/2/user/isna.news: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/isna.news: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
+      "error": "https://openrss.org/feed/www.instagram.com/isna.news: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/isna.news: ReadTimeout: HTTPSConnectionPool(host='rsshub.cmyr.dev', port=443): Read timed out. (read timeout=10) | https://rsshub.app/instagram/2/user/isna.news: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/isna.news: HTTP 503"
     }
   ],
   "items": [
@@ -77,10 +77,10 @@
       "published_at": "Sun, 22 Nov 2026 23:59:43 GMT",
       "published_at_utc": "2026-11-22T23:59:43+00:00",
       "published_at_tehran": "2026-11-23T03:29:43+03:30",
-      "collected_at": "2026-11-23T15:49:00.460973+00:00",
+      "collected_at": "2026-11-23T17:18:02.121473+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "5aee19402e135373d593a57299639b6b40fd82a7227f1248d6847f7bfcedf2e0",
@@ -91,10 +91,10 @@
       "published_at": "Sun, 22 Nov 2026 23:59:16 GMT",
       "published_at_utc": "2026-11-22T23:59:16+00:00",
       "published_at_tehran": "2026-11-23T03:29:16+03:30",
-      "collected_at": "2026-11-23T15:49:00.461062+00:00",
+      "collected_at": "2026-11-23T17:18:02.121535+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "e5d87beb562b8716b8c43a8e027135bd6bb6e5e6b2f567f913e90c9bcc301a49",
@@ -105,10 +105,10 @@
       "published_at": "Sun, 22 Nov 2026 23:56:58 GMT",
       "published_at_utc": "2026-11-22T23:56:58+00:00",
       "published_at_tehran": "2026-11-23T03:26:58+03:30",
-      "collected_at": "2026-11-23T15:48:37.940730+00:00",
+      "collected_at": "2026-11-23T17:17:46.735373+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ba98aab4ae2d3bbda2dd26a1285a88ff0f9560fb4ce050d8a64a4d58f854222c",
@@ -119,10 +119,10 @@
       "published_at": "Sun, 22 Nov 2026 23:28:23 GMT",
       "published_at_utc": "2026-11-22T23:28:23+00:00",
       "published_at_tehran": "2026-11-23T02:58:23+03:30",
-      "collected_at": "2026-11-23T15:49:00.461188+00:00",
+      "collected_at": "2026-11-23T17:18:02.121631+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a2d93d92e637cb67c92ea7e1fe898e100c17edbd8d4f661360240afb960ded87",
@@ -133,10 +133,10 @@
       "published_at": "Sun, 22 Nov 2026 22:57:10 GMT",
       "published_at_utc": "2026-11-22T22:57:10+00:00",
       "published_at_tehran": "2026-11-23T02:27:10+03:30",
-      "collected_at": "2026-11-23T15:48:37.940893+00:00",
+      "collected_at": "2026-11-23T17:17:46.735499+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "f9ad21f54c76ddd50ee0e58d01d0d1945d24a82b17494e7fdd1a6d6d1d872efe",
@@ -147,10 +147,10 @@
       "published_at": "Sun, 22 Nov 2026 22:43:52 GMT",
       "published_at_utc": "2026-11-22T22:43:52+00:00",
       "published_at_tehran": "2026-11-23T02:13:52+03:30",
-      "collected_at": "2026-11-23T15:49:00.461280+00:00",
+      "collected_at": "2026-11-23T17:18:02.121696+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "da75614aac778bf303e05976b38731b3bd508024325311783e3452ac80fe8b68",
@@ -161,10 +161,10 @@
       "published_at": "Sun, 22 Nov 2026 22:37:48 GMT",
       "published_at_utc": "2026-11-22T22:37:48+00:00",
       "published_at_tehran": "2026-11-23T02:07:48+03:30",
-      "collected_at": "2026-11-23T15:49:00.461373+00:00",
+      "collected_at": "2026-11-23T17:18:02.121759+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "46a37b5c3518d3d4bb767432888b81bfd55aba4211989ea8c5454555143bfc00",
@@ -175,7 +175,7 @@
       "published_at": "Sun, 22 Nov 2026 22:00:15 GMT",
       "published_at_utc": "2026-11-22T22:00:15+00:00",
       "published_at_tehran": "2026-11-23T01:30:15+03:30",
-      "collected_at": "2026-11-23T15:48:37.941070+00:00",
+      "collected_at": "2026-11-23T17:17:46.735612+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -189,10 +189,10 @@
       "published_at": "Sun, 22 Nov 2026 20:41:49 GMT",
       "published_at_utc": "2026-11-22T20:41:49+00:00",
       "published_at_tehran": "2026-11-23T00:11:49+03:30",
-      "collected_at": "2026-11-23T15:49:21.718979+00:00",
+      "collected_at": "2026-11-23T17:18:16.023715+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "940659bd9c0958151205d101dfd92e8962444a9923c37bd4246ae52d473ac5bf",
@@ -203,7 +203,7 @@
       "published_at": "Sun, 22 Nov 2026 19:13:41 GMT",
       "published_at_utc": "2026-11-22T19:13:41+00:00",
       "published_at_tehran": "2026-11-22T22:43:41+03:30",
-      "collected_at": "2026-11-23T15:48:37.941191+00:00",
+      "collected_at": "2026-11-23T17:17:46.735696+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -217,7 +217,7 @@
       "published_at": "Sun, 22 Nov 2026 19:01:21 GMT",
       "published_at_utc": "2026-11-22T19:01:21+00:00",
       "published_at_tehran": "2026-11-22T22:31:21+03:30",
-      "collected_at": "2026-11-23T15:48:37.941313+00:00",
+      "collected_at": "2026-11-23T17:17:46.735774+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -231,7 +231,7 @@
       "published_at": "Sun, 22 Nov 2026 18:22:28 GMT",
       "published_at_utc": "2026-11-22T18:22:28+00:00",
       "published_at_tehran": "2026-11-22T21:52:28+03:30",
-      "collected_at": "2026-11-23T15:48:37.941413+00:00",
+      "collected_at": "2026-11-23T17:17:46.735845+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -245,7 +245,7 @@
       "published_at": "Sun, 22 Nov 2026 17:02:45 GMT",
       "published_at_utc": "2026-11-22T17:02:45+00:00",
       "published_at_tehran": "2026-11-22T20:32:45+03:30",
-      "collected_at": "2026-11-23T15:48:37.941549+00:00",
+      "collected_at": "2026-11-23T17:17:46.735948+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -259,7 +259,7 @@
       "published_at": "Sun, 22 Nov 2026 17:00:56 GMT",
       "published_at_utc": "2026-11-22T17:00:56+00:00",
       "published_at_tehran": "2026-11-22T20:30:56+03:30",
-      "collected_at": "2026-11-23T15:49:21.719085+00:00",
+      "collected_at": "2026-11-23T17:18:16.023801+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -273,7 +273,7 @@
       "published_at": "Sun, 22 Nov 2026 15:57:18 GMT",
       "published_at_utc": "2026-11-22T15:57:18+00:00",
       "published_at_tehran": "2026-11-22T19:27:18+03:30",
-      "collected_at": "2026-11-23T15:49:21.719187+00:00",
+      "collected_at": "2026-11-23T17:18:16.023878+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -287,7 +287,7 @@
       "published_at": "Sun, 22 Nov 2026 10:30:46 GMT",
       "published_at_utc": "2026-11-22T10:30:46+00:00",
       "published_at_tehran": "2026-11-22T14:00:46+03:30",
-      "collected_at": "2026-11-23T15:49:21.719267+00:00",
+      "collected_at": "2026-11-23T17:18:16.023942+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -301,7 +301,7 @@
       "published_at": "Sun, 22 Nov 2026 09:30:17 GMT",
       "published_at_utc": "2026-11-22T09:30:17+00:00",
       "published_at_tehran": "2026-11-22T13:00:17+03:30",
-      "collected_at": "2026-11-23T15:49:21.719344+00:00",
+      "collected_at": "2026-11-23T17:18:16.026692+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -315,7 +315,7 @@
       "published_at": "Sun, 22 Nov 2026 08:30:28 GMT",
       "published_at_utc": "2026-11-22T08:30:28+00:00",
       "published_at_tehran": "2026-11-22T12:00:28+03:30",
-      "collected_at": "2026-11-23T15:49:21.719419+00:00",
+      "collected_at": "2026-11-23T17:18:16.026781+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -329,7 +329,7 @@
       "published_at": "Sun, 22 Nov 2026 07:30:51 GMT",
       "published_at_utc": "2026-11-22T07:30:51+00:00",
       "published_at_tehran": "2026-11-22T11:00:51+03:30",
-      "collected_at": "2026-11-23T15:49:21.719523+00:00",
+      "collected_at": "2026-11-23T17:18:16.026877+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -343,7 +343,7 @@
       "published_at": "Sun, 22 Nov 2026 06:30:05 GMT",
       "published_at_utc": "2026-11-22T06:30:05+00:00",
       "published_at_tehran": "2026-11-22T10:00:05+03:30",
-      "collected_at": "2026-11-23T15:49:21.719605+00:00",
+      "collected_at": "2026-11-23T17:18:16.026947+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -357,7 +357,7 @@
       "published_at": "Sun, 22 Nov 2026 05:33:49 GMT",
       "published_at_utc": "2026-11-22T05:33:49+00:00",
       "published_at_tehran": "2026-11-22T09:03:49+03:30",
-      "collected_at": "2026-11-23T15:49:21.719679+00:00",
+      "collected_at": "2026-11-23T17:18:16.027023+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -371,7 +371,7 @@
       "published_at": "Sat, 21 Nov 2026 18:30:08 GMT",
       "published_at_utc": "2026-11-21T18:30:08+00:00",
       "published_at_tehran": "2026-11-21T22:00:08+03:30",
-      "collected_at": "2026-11-23T15:49:21.719777+00:00",
+      "collected_at": "2026-11-23T17:18:16.027111+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -385,10 +385,10 @@
       "published_at": "Mon, 23 Nov 2026 05:39:30 GMT",
       "published_at_utc": "2026-11-23T05:39:30+00:00",
       "published_at_tehran": "2026-11-23T09:09:30+03:30",
-      "collected_at": "2026-11-23T15:49:00.460396+00:00",
+      "collected_at": "2026-11-23T17:18:02.121049+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8d81497e4dbcb3cd8952e78d78fc2a67387b2a8c023c8fcbf9787de95eb91781",
@@ -399,10 +399,10 @@
       "published_at": "Mon, 23 Nov 2026 05:21:27 GMT",
       "published_at_utc": "2026-11-23T05:21:27+00:00",
       "published_at_tehran": "2026-11-23T08:51:27+03:30",
-      "collected_at": "2026-11-23T15:49:00.460522+00:00",
+      "collected_at": "2026-11-23T17:18:02.121155+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "6cdd1346ce5434499e4df1972e024317c07e5b4cb0c35668a140f6fbe9cd399a",
@@ -413,10 +413,10 @@
       "published_at": "Mon, 23 Nov 2026 04:12:39 GMT",
       "published_at_utc": "2026-11-23T04:12:39+00:00",
       "published_at_tehran": "2026-11-23T07:42:39+03:30",
-      "collected_at": "2026-11-23T15:48:37.939895+00:00",
+      "collected_at": "2026-11-23T17:17:46.734724+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "7d9d91c2f0cbe7a35f4c21343871dbb7491b8eda46cd32f5c81fc9bfad5cdca8",
@@ -427,10 +427,10 @@
       "published_at": "Mon, 23 Nov 2026 03:55:30 GMT",
       "published_at_utc": "2026-11-23T03:55:30+00:00",
       "published_at_tehran": "2026-11-23T07:25:30+03:30",
-      "collected_at": "2026-11-23T15:49:00.460607+00:00",
+      "collected_at": "2026-11-23T17:18:02.121217+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ca580cb1f6e6e5178fa21924f67837646f4b12334450d7f8119eb07d49650733",
@@ -441,10 +441,10 @@
       "published_at": "Mon, 23 Nov 2026 03:04:22 GMT",
       "published_at_utc": "2026-11-23T03:04:22+00:00",
       "published_at_tehran": "2026-11-23T06:34:22+03:30",
-      "collected_at": "2026-11-23T15:49:00.460725+00:00",
+      "collected_at": "2026-11-23T17:18:02.121308+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "540762ce8bc3d0416a885edbc03ea93f95e5bb9831b7f7c5719593e2c1e5ac98",
@@ -455,10 +455,10 @@
       "published_at": "Mon, 23 Nov 2026 02:43:43 GMT",
       "published_at_utc": "2026-11-23T02:43:43+00:00",
       "published_at_tehran": "2026-11-23T06:13:43+03:30",
-      "collected_at": "2026-11-23T15:49:00.460858+00:00",
+      "collected_at": "2026-11-23T17:18:02.121406+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a37954bd3a23c690a577a21285f864247024e0842ebfab4c49ba2fb285f980e1",
@@ -469,10 +469,10 @@
       "published_at": "Mon, 23 Nov 2026 02:11:15 GMT",
       "published_at_utc": "2026-11-23T02:11:15+00:00",
       "published_at_tehran": "2026-11-23T05:41:15+03:30",
-      "collected_at": "2026-11-23T15:48:37.940226+00:00",
+      "collected_at": "2026-11-23T17:17:46.734920+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "c595611b9aee7a15d5bdb10a406a371491b3bb1ab1a6e336bfb1693816e26467",
@@ -483,237 +483,12 @@
       "published_at": "Mon, 23 Nov 2026 00:56:39 GMT",
       "published_at_utc": "2026-11-23T00:56:39+00:00",
       "published_at_tehran": "2026-11-23T04:26:39+03:30",
-      "collected_at": "2026-11-23T15:48:37.940451+00:00",
+      "collected_at": "2026-11-23T17:17:46.735125+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     }
   ],
-  "new_items": [
-    {
-      "id": "1ea794fed0b05b89f794180014453bc4a427528640a5e90dbe00ac4a098dd6d0",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/DgECrsyDuaa",
-      "caption": "گروهی از ایرانیان در لس‌آنجلس با برپایی تجمعی اعتراضی اعلام کردند، در حمایت از اعتراضات ضدحکومتی مردم آبدانان به خیابان آمده‌اند. تجمع‌کنندگان در مقابل ساختمان فدرال این شهر دست به تجمع زدند. معترضان در این گردهمایی ادامه سرکوب شهروندان را محکوم کردند. گزارش نیلوفر منصوری، خبرنگار ایران‌اینترنشنال، و گفت‌وگوی او با شرکت‌کنندگان در این تجمع⁩",
-      "media_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/924675169_18454782931176167_3217601762267316172_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=YbFqxutEsDYQ7kNvwGegXVf&amp;_nc_oc=AdqYKVx_9vN3FHvgSCC2bQwSTW1DVlayijN6W3uvp313YoQMg-JyhqgrGzA9FkoSnsU&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw6-1.cdninstagram.com&amp;_nc_gid=7J1C62ydMdS87Y55mHKu0Q&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQQFnmOs8BoS5NBu7BFBXiQUEsuB51DDS8Q-FRF41APD2A&amp;oe=6B099284",
-      "published_at": "Sun, 22 Nov 2026 23:59:43 GMT",
-      "published_at_utc": "2026-11-22T23:59:43+00:00",
-      "published_at_tehran": "2026-11-23T03:29:43+03:30",
-      "collected_at": "2026-11-23T15:49:00.460973+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "5aee19402e135373d593a57299639b6b40fd82a7227f1248d6847f7bfcedf2e0",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/DgECodtjw3b",
-      "caption": ". فرزاد طلاکش، دبیرکل فدراسیون طیور ایران، قیمت منطقی یک شانه تخم‌مرغ برای مصرف‌کننده را بین ۷۰۰ تا ۷۵۰ هزار تومان و قیمت گوشت مرغ را حدود ۴۰۰ تا ۴۳۰ هزار تومان در هر کیلوگرم عنوان کرد. او همچنین گفت مصرف گوشت مرغ نسبت به مدت مشابه بیش از ۲۵ درصد کاهش یافته است.",
-      "media_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/924675165_18454782601176167_6210798641232630086_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=K6QVCizbHogQ7kNvwFkZmaT&amp;_nc_oc=AdpN2dyykDKFeW2o6uDeZUIZzpzrWsc9Sx_I1ygHSR0mhX_0WlYBW0pGdxpQ1LL-5Ag&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw6-1.cdninstagram.com&amp;_nc_gid=7J1C62ydMdS87Y55mHKu0Q&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQSxMajaNY978akESZ2u9iFKg6zqqAaAgyJDEgrio2A4HA&amp;oe=6B09C072",
-      "published_at": "Sun, 22 Nov 2026 23:59:16 GMT",
-      "published_at_utc": "2026-11-22T23:59:16+00:00",
-      "published_at_tehran": "2026-11-23T03:29:16+03:30",
-      "collected_at": "2026-11-23T15:49:00.461062+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "e5d87beb562b8716b8c43a8e027135bd6bb6e5e6b2f567f913e90c9bcc301a49",
-      "source": "bbcpersian",
-      "post_url": "https://www.instagram.com/p/DgECXk0jEVL",
-      "caption": "‌ مقام‌های درمانی در نیشابور ایران می‌گویند طی دو روز گذشته مسمومیت با الکل متانول در این شهر شرقی ایران جان ۴ نفر را گرفته و دست کم ۱۲۰ نفر را با مسمومیت حاد روبرو کرده است. خبرگزاری ایرنا به نقل از دکتر میلاد تقدیسی حیدریان، سرپرست معاونت درمان دانشگاه علوم پزشکی نیشابور، نوشته است تا ساعت ۱۰ شب روز یکشنبه - اول آذر - شمار جان باختگان به ۴ نفر به همراه یک مورد مرگ مغزی رسیده است. همه قربانیان این مسمومیت‌ها مرد بوده‌اند. دادستان عمومی نیشابور هم گفته است: «تاکنون سه نفر در ارتباط با پرونده مسمومیت تعدادی از مردم با الکل در این شهر دستگیر شدند.» 📸 عکس آرشیوی از گتی",
-      "media_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/920911698_18663020890007680_2160027916046042505_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=tMyvxO8HPc4Q7kNvwFwOEoE&amp;_nc_oc=Adp4BhRpJtV247NtKIqJO0uDfJ2sUagd5JpYbmLJGZWDPO30j-lDzw4rFZu94YnVQVE&amp;_nc_zt=23&amp;_nc_ht=scontent-lga3-1.cdninstagram.com&amp;_nc_gid=f2rZYTMNMxumdWYbPajDug&amp;_nc_ss=7aa8c&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQSPNZDHYz-pwdvLa6mxDNzGqRSnZ5JYwTZ32yPG2EUHXg&amp;oe=6B09A69A",
-      "published_at": "Sun, 22 Nov 2026 23:56:58 GMT",
-      "published_at_utc": "2026-11-22T23:56:58+00:00",
-      "published_at_tehran": "2026-11-23T03:26:58+03:30",
-      "collected_at": "2026-11-23T15:48:37.940730+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "ba98aab4ae2d3bbda2dd26a1285a88ff0f9560fb4ce050d8a64a4d58f854222c",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/DgD_GM4joD4",
-      "caption": "‌ دونالد ترامپ، رییس‌جمهوری آمریکا، شامگاه یکشنبه اول آذر - به وقت محلی- در پیامی در حساب کاربری خود در شبکه اجتماعی تروث سوشال اعلام کرد که جمهوری اسلامی تا این تاریخ ۸۱ هزار معترض را کشته است. ترامپ در این پیام نوشت که پیش از انتخابات میان‌دوره‌ای سوم نوامبر دو موضوع را پیش‌بینی کرده بود: کاهش شدید ارزش سهام در صورت پیروزی دموکرات‌ها و افزایش حملات جمهوری اسلامی. او گفت که هر دو پیش‌بینی محقق شده‌اند. ترامپ افزود که ایران در هفته گذشته بیش از هر زمان دیگری طی بیش از یک سال گذشته پهپاد و موشک شلیک کرده است. او نوشت: «نگران نباشید، همه آن‌ها رهگیری و سرنگون شده‌اند و هیچ خسارتی وارد نکرده‌اند.» رییس‌جمهوری آمریکا همچنین گفت که رهبران جمهوری اسلامی، دموکرات‌ها را ضعیف، ناکارآمد و ویرانگر کشور می‌دانند، اما او اجازه نخواهد داد چنین وضعیتی پیش بیاید. ترامپ در ادامه دموکرات‌ها و جمهوری اسلامی را متهم کرد که برای بالا نگه داشتن قیمت نفت تلاش کرده‌اند. او گفت که از زمان انتخابات، قیمت نفت کاهشی بی‌سابقه داشته است. او همچنین انتخابات اخیر را «بسیار عجیب» توصیف کرد و نوشت: «در نهایت، آمریکا پیروز خواهد شد.»",
-      "media_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/918164235_18454774258176167_7290416273542345546_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=6ey4Mn_4ifIQ7kNvwFMCHId&amp;_nc_oc=AdrfBsAawPnT8VosI9Xs5dDRIxAHz8JCapmMd6LylesNaqEC2XWazqtZXUp3wgw-nDY&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw6-1.cdninstagram.com&amp;_nc_gid=7J1C62ydMdS87Y55mHKu0Q&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQSmL6zTq2UCjkogC8kmZFyarEn5a2v9gjLGhF8jDULINA&amp;oe=6B09A0A7",
-      "published_at": "Sun, 22 Nov 2026 23:28:23 GMT",
-      "published_at_utc": "2026-11-22T23:28:23+00:00",
-      "published_at_tehran": "2026-11-23T02:58:23+03:30",
-      "collected_at": "2026-11-23T15:49:00.461188+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "a2d93d92e637cb67c92ea7e1fe898e100c17edbd8d4f661360240afb960ded87",
-      "source": "bbcpersian",
-      "post_url": "https://www.instagram.com/p/DgD7hokDIUO",
-      "caption": "دموکرات‌ها با پیروزی در یک کرسی دیگر در ایالت کارولینای شمالی، بزرگ‌ترین اکثریت مجلس نمایندگان آمریکا از سال ۱۹۹۲ را به دست آوردند. دموکرات‌ها با مشخص شدن آرای نهایی و پیروزی چاک هابارد بر ویرجینیا فاکس، نماینده جمهوری‌خواه کارولینای شمالی، شمار کرسی‌های خود در مجلس نمایندگان را به دست‌کم ۲۵۸ کرسی رساندند؛ رقمی که بزرگ‌ترین اکثریت این حزب در مجلس طی بیش از سه دهه محسوب می‌شود. چهار رقابت انتخاباتی مجلس نمایندگان هنوز تعیین تکلیف نشده است. دموکرات‌ها تاکنون ۴۴ کرسی که جمهوری‌خواهان تا پیش از این در دست داشتند را به اردوی خود برده‌اند. جمهوری‌خواهان هم تاکنون دست‌کم ۱۷۳ کرسی در مجلس به دست آورده‌اند. با وجود این، برخی از کرسی‌هایی که دموکرات‌ها به دست آورده‌اند در حوزه‌های انتخاباتی به دست آمده که خوشبین‌ترین مفسران هم چرخش آنها به سوی دموکرات‌ها را پیش‌بینی نکرده بودند. این نتیجه، قدرت دموکرات‌ها را در کنگره افزایش می‌دهد و زمینه را برای تقابل بیشتر با دونالد ترامپ، رئیس‌جمهور آمریکا، در دو سال پایانی دوره ریاست‌جمهوری او فراهم می‌کند. دموکرات‌ها علاوه بر کنترل مجلس نمایندگان، اکثریت سنا را نیز در اختیار خواهند داشت. 📸 Reuters",
-      "media_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/926628807_18662995603007680_3533813227082742096_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=gCsuTG1Q0YUQ7kNvwETjhIz&amp;_nc_oc=Adr70MlYSVQ6l53cfjNMmsdNChne00yjp_FPw-RFZ3Nev8q7x72z3tjDAtfXgKJnSRc&amp;_nc_zt=23&amp;_nc_ht=scontent-lga3-1.cdninstagram.com&amp;_nc_gid=f2rZYTMNMxumdWYbPajDug&amp;_nc_ss=7aa8c&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQQB4XbM0fX7nkKjBExPci1Igy7E8W3UAsc7mtrhpptakQ&amp;oe=6B09B405",
-      "published_at": "Sun, 22 Nov 2026 22:57:10 GMT",
-      "published_at_utc": "2026-11-22T22:57:10+00:00",
-      "published_at_tehran": "2026-11-23T02:27:10+03:30",
-      "collected_at": "2026-11-23T15:48:37.940893+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "f9ad21f54c76ddd50ee0e58d01d0d1945d24a82b17494e7fdd1a6d6d1d872efe",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/DgD6AMvgZQI",
-      "caption": "مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال گفت: «جامعه ایران، به جامعه ای با خاصیت اشتعال بسیار بالا تبدیل شده. جامعه ایران به مرحله‌ای بحرانی از انباشت نارضایتی‌های سیاسی، اقتصادی و اجتماعی رسیده وهر لحظه امکان اشتعال آن وجود دارد. وضعیتی که در آن، جرقه یک اعتراض یا اعتصاب می‌تواند به‌سرعت به بخش‌های دیگر سرایت کند و به خیزشی گسترده تبدیل شود؛ سناریویی که جمهوری اسلامی از آن نگران است.»",
-      "media_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/928601288_18454764670176167_6446660612477313648_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=mst23FJkyXUQ7kNvwGuNgQQ&amp;_nc_oc=AdrXxob_WbeNu1mlmWcQeqeuLaykl6-utfPpcP8bNWkN2YTVbT-sEmu0D7wKGIjpX4I&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw6-1.cdninstagram.com&amp;_nc_gid=7J1C62ydMdS87Y55mHKu0Q&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQS4Uq0Mvj4dAD2oVNedPgIEQhqbJIlZkto4jif-R5flsg&amp;oe=6B099580",
-      "published_at": "Sun, 22 Nov 2026 22:43:52 GMT",
-      "published_at_utc": "2026-11-22T22:43:52+00:00",
-      "published_at_tehran": "2026-11-23T02:13:52+03:30",
-      "collected_at": "2026-11-23T15:49:00.461280+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "da75614aac778bf303e05976b38731b3bd508024325311783e3452ac80fe8b68",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/DgD5TvDFsUK",
-      "caption": "مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال گفت: «جمهوری اسلامی همزمان با دست‌کم شش بحران روبه‌روست؛ کمبود گاز، بنزین و برق، آلودگی هوا، گرانی و تورم و خطر جنگ؛ در کنار نگرانی از خیزش دوباره مردم. حالا اعتصاب رانندگان و کامیون‌داران از روز یکشنبه هم به این بحران‌ها اضافه شده؛ اعتصابی که می‌تواند فشار بر جمهوری اسلامی را بیش از پیش افزایش دهد.»",
-      "media_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/920085677_18454763992176167_4840335138543963780_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=zrx2ZmednJMQ7kNvwEfY89g&amp;_nc_oc=AdpjWcVxWHOGoXFpXuE70FrQxXgvMrLFai86YAJT7ASan8DI81ZE0c5MO7P1MYyaBiw&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw6-1.cdninstagram.com&amp;_nc_gid=7J1C62ydMdS87Y55mHKu0Q&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQQnOomGTZPKn4Z187lxzRTnvUvwyRxxWkdtOO2Ywvl6Ww&amp;oe=6B09AE36",
-      "published_at": "Sun, 22 Nov 2026 22:37:48 GMT",
-      "published_at_utc": "2026-11-22T22:37:48+00:00",
-      "published_at_tehran": "2026-11-23T02:07:48+03:30",
-      "collected_at": "2026-11-23T15:49:00.461373+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "fa91195bca870b4ff3e070d569954a2989909798154d1c0479c0bce09a246561",
-      "source": "irnanews1313",
-      "post_url": "https://www.instagram.com/p/DgDsCRdMiLJ",
-      "caption": ". 🔹روزنامه ایران | دوم آذر ۱۴۰۵ #ایرنا",
-      "media_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/922094580_18661442248040439_1737363716469307839_n.heic?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=109&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=hHigBDp3S2IQ7kNvwHJomTg&amp;_nc_oc=AdpXorgEPxZymCLtH_e1Y4lFIY64r-TWXts6VpB2R9dbZesKa_vxR-rR_6l2pspGOfM&amp;_nc_zt=23&amp;_nc_ht=scontent-sea5-1.cdninstagram.com&amp;_nc_gid=6UsniWLiD2xjbD0CIPdCMg&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQRzl2ujVHo_3JzabH198BOOClt87qibUo3itRb74z7TEg&amp;oe=6B09AB48",
-      "published_at": "Sun, 22 Nov 2026 20:41:49 GMT",
-      "published_at_utc": "2026-11-22T20:41:49+00:00",
-      "published_at_tehran": "2026-11-23T00:11:49+03:30",
-      "collected_at": "2026-11-23T15:49:21.718979+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "5c74d316e6f1ac2c561d58cde4171a8fa8a2ab7495863abd1cd564835435bfa6",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/DgEpkbOFiZP",
-      "caption": "‌ وزارت خارجه آمریکا اعلام کرد مارکو روبیو، وزیر خارجه این کشور، دوشنبه دوم آذر در ساختمان وزارت خارجه با محمد بن عبدالرحمن آل ثانی، نخست‌وزیر و وزیر خارجه قطر، دیدار می‌کند. وزارت خارجه آمریکا جزییات بیشتری درباره دستور کار این نشست منتشر نکرده، اما حضور محدود خبرنگاران و تصویربرداران در آغاز دیدار را پیش‌بینی کرده است. باراک راوید، خبرنگار اکسیوس، نیز در شبکه اجتماعی ایکس نوشت نخست‌وزیر قطر که میانجی اصلی میان جمهوری اسلامی و آمریکاست، برای دیدار با روبیو و دیگر مقام‌های ارشد دولت آمریکا به واشینگتن سفر می‌کند. به گفته او، دلیل رسمی این سفر گفت‌وگوی راهبردی میان آمریکا و قطر است.",
-      "media_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/914567572_18454816741176167_4745564959358410796_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=100&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=nNc3oqexIbsQ7kNvwEiQfa9&amp;_nc_oc=AdqXXlcdFr-JPmf-aY45w9-nV2zFiStF_LDPsS9P-5OJhf8Ih5X3Dji0Ij1GaBTHico&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw5-2.cdninstagram.com&amp;_nc_gid=7J1C62ydMdS87Y55mHKu0Q&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQS98148tNtMvXipcioaIS2I_RQiScw9_pgyEeCy3gHmDA&amp;oe=6B09A870",
-      "published_at": "Mon, 23 Nov 2026 05:39:30 GMT",
-      "published_at_utc": "2026-11-23T05:39:30+00:00",
-      "published_at_tehran": "2026-11-23T09:09:30+03:30",
-      "collected_at": "2026-11-23T15:49:00.460396+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "8d81497e4dbcb3cd8952e78d78fc2a67387b2a8c023c8fcbf9787de95eb91781",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/DgEngNVkQoc",
-      "caption": "‌ عباس گودرزی، سخنگوی هیات‌رییسه مجلس، به خبرگزاری میزان گفت: «مذاکره با آمریکا مبنایی ندارد وقتی در میانه مذاکره به ما حمله می‌کند، این آمریکا فقط زبان زور می‌فهمد.» این نماینده مجلس، دوشنبه دوم آذر گفت: «امروز آنچه بین ما و آمریکا است، تحقق شروط هفت‌گانه است ولاغیر و اینکه می‌گویم ولاغیر، به معنای حقیقی کلمه است.» گودرزی اضافه کرد: «ما با توکل به خدا، با استقامت و فداکاری، پیروز نهایی این مصاف خواهیم بود و اگر کسی به خاطر اعتماد به دشمن ذره‌ای بر ایستادگی و مقاومت ملت خدشه وارد کند، حتما در دنیا و آخرت خداوند او را نخواهد بخشید.»",
-      "media_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/918998143_18454815166176167_1233724580518356493_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=6jqkS1pOqN0Q7kNvwHdKKMP&amp;_nc_oc=Ado2S6WUJBwPIgtTcqj14dITDH3glR3dQrwuBxpBIPII7bN6SjEyLR4f4N2KrFNU3rI&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw6-1.cdninstagram.com&amp;_nc_gid=7J1C62ydMdS87Y55mHKu0Q&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQSx0MbwkDMqFL99MH1kyBqYuJYlLvfENC8InscreZEsHw&amp;oe=6B09B232",
-      "published_at": "Mon, 23 Nov 2026 05:21:27 GMT",
-      "published_at_utc": "2026-11-23T05:21:27+00:00",
-      "published_at_tehran": "2026-11-23T08:51:27+03:30",
-      "collected_at": "2026-11-23T15:49:00.460522+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "6cdd1346ce5434499e4df1972e024317c07e5b4cb0c35668a140f6fbe9cd399a",
-      "source": "bbcpersian",
-      "post_url": "https://www.instagram.com/p/DgEfoO8l9L8",
-      "caption": "‌ فرمانده نیروی هوایی سلطنتی بریتانیا می‌گوید جنگنده نسل آینده این کشور ممکن است آخرین هواپیمای جنگی سرنشین‌داری باشد که بریتانیا می‌سازد. مارشال هوایی هاروی اسمیت گفته است هواپیماهای بدون سرنشین مجهز به هوش مصنوعی، صنعت هوانوردی نظامی را «دگرگون خواهند کرد». اظهارات او به برنامه «گلوبال کامبت ایر» مربوط می‌شود که طرح مشترک بریتانیا، ایتالیا و ژاپن برای ساخت یک جنگنده نسل ششم است که انتظار می‌رود تا سال ۲۰۳۵ وارد خدمت شود. این جنگنده که عموماً با نام «تمپست» شناخته می‌شود، قرار است از سرعت بالا، فناوری پنهان‌کاری و حسگرهای پیشرفته برخوردار باشد. همچنین هوش مصنوعی به خلبان در شرایطی که با حجم بالای اطلاعات یا فشار و استرس شدید مواجه است، کمک خواهد کرد. هاروی اسمیت در مقاله‌ای در روزنامه تلگراف نوشت که این جنگنده «شاید آخرین جنگنده سرنشین‌داری باشد که تاکنون خواهیم ساخت». به گفته او، این تحول به معنای کاهش اهمیت نقش انسان نیست، بلکه پیشرفت فناوری در حال تغییر ماهیت نبردهای هوایی است. او گفت هوش مصنوعی و ماشین‌ها در آینده مسئولیت انجام «خطرناک‌ترین ماموریت‌ها به جای انسان‌ها» را بر عهده خواهند گرفت؛ با این حال، تاکید کرد که فناوری باید توانایی قضاوت و تصمیم‌گیری انسان را تقویت کند، نه این که جایگزین مسئولیت‌پذیری او شود. رئیس نیروی هوایی سلطنتی بریتانیا همچنین گفت: «جنگنده‌های بدون سرنشین از سال آینده پرواز در حریم هوایی بریتانیا را آغاز خواهند کرد. این اتفاق به یک اندازه هیجان‌انگیز و ضروری است.» 📸 BAE Systems/PA Wire",
-      "media_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/921709982_18663094855007680_9026365064785792437_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=yfoMJ6apXtkQ7kNvwH4aO9d&amp;_nc_oc=Ado8dOllC_PsHQu7l0XpYnYuzUBShQR5ePjRN_Bxtt6N7eSOwSyTtAcsxXPZzBTGKEA&amp;_nc_zt=23&amp;_nc_ht=scontent-lga3-1.cdninstagram.com&amp;_nc_gid=f2rZYTMNMxumdWYbPajDug&amp;_nc_ss=7aa8c&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQSB0ZLsHxIQ2QLJ1DcYluaYDeRpPdCPW_9vt6ff7v1B8Q&amp;oe=6B09AD97",
-      "published_at": "Mon, 23 Nov 2026 04:12:39 GMT",
-      "published_at_utc": "2026-11-23T04:12:39+00:00",
-      "published_at_tehran": "2026-11-23T07:42:39+03:30",
-      "collected_at": "2026-11-23T15:48:37.939895+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "7d9d91c2f0cbe7a35f4c21343871dbb7491b8eda46cd32f5c81fc9bfad5cdca8",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/DgEdqoJj72f",
-      "caption": "سرخط خبرهای دوشنبه ۲ آذر",
-      "media_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/928648246_18454807165176167_7132387888323419605_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=FhA9kK321PgQ7kNvwHFXH1x&amp;_nc_oc=AdopeKQyNNVYD3EOzeu9b0j_mJ5pTyZBrUpaHnwQ7ftXsJjzhAJ5XJQPNX7FW17q1Cc&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw6-1.cdninstagram.com&amp;_nc_gid=7J1C62ydMdS87Y55mHKu0Q&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQSAwHyVObmaEk_61pBkBffcspo-NkNcVVTxNb7Qwoy1ew&amp;oe=6B099596",
-      "published_at": "Mon, 23 Nov 2026 03:55:30 GMT",
-      "published_at_utc": "2026-11-23T03:55:30+00:00",
-      "published_at_tehran": "2026-11-23T07:25:30+03:30",
-      "collected_at": "2026-11-23T15:49:00.460607+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "ca580cb1f6e6e5178fa21924f67837646f4b12334450d7f8119eb07d49650733",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/DgEX0KsFKNP",
-      "caption": "‌ خبرگزاری فرانسه گزارش داد که وزارت کشور بحرین روز یکشنبه اول آذر اعلام کرد در حمله روز شنبه ایران به یک تاسیسات صنعتی غیرنظامی در این کشور، دو نفر زخمی شدند که وضعیت یکی از آن‌ها وخیم است. به گفته وزارت کشور بحرین، یکی از زخمی‌ها شهروند بحرینی دارای معلولیت است که وضعیت پایداری دارد و دیگری تبعه پاکستان است که در وضعیت وخیمی قرار دارد. دو شاهد عینی به خبرگزاری فرانسه گفتند که دود برخاسته از جزیره ستره، در شرق منامه، را مشاهده کرده‌اند؛ منطقه‌ای که چندین تاسیسات صنعتی، از جمله پالایشگاه شرکت نفت باپکو، در آن قرار دارد. سپاه پاسداران شامگاه شنبه اعلام کرد که سامانه‌های پدافند هوایی پاتریوت آمریکا در پایگاه‌های الرفاع و عوالی بحرین را با موشک و پهپاد هدف قرار داده است. عربستان سعودی روز یکشنبه حمله به تاسیسات صنعتی بحرین را محکوم کرد و آن را «مجرمانه» خواند.",
-      "media_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/926126295_18454800607176167_8176710204432962322_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=4GpJ6YoUcJIQ7kNvwETW_yG&amp;_nc_oc=Ado96LtC_kI_UE3yZQyVJ42AEeOkZGITAsw7zwRYYeco2Jb0pIIsuAdvX4kH0hxeR6k&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw6-1.cdninstagram.com&amp;_nc_gid=7J1C62ydMdS87Y55mHKu0Q&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQSc6SUJilLxTpimMCYY7TNSW3Q1SMLSIDVnY5vxvIazvQ&amp;oe=6B09AAFB",
-      "published_at": "Mon, 23 Nov 2026 03:04:22 GMT",
-      "published_at_utc": "2026-11-23T03:04:22+00:00",
-      "published_at_tehran": "2026-11-23T06:34:22+03:30",
-      "collected_at": "2026-11-23T15:49:00.460725+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "540762ce8bc3d0416a885edbc03ea93f95e5bb9831b7f7c5719593e2c1e5ac98",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/DgEVc6qlNyh",
-      "caption": "‌ شبکه چینی سی‌جی‌تی‌ان در گزارشی از تهران، هم‌زمان با تشدید فشارهای آمریکا بر جمهوری اسلامی، از کاهش قدرت خرید مردم و محدود شدن خرید خانوارها به نیازهای اولیه خبر داد. اگرچه این گزارش در پایان تاکید می‌کند که زنجیره تامین کالا، کمابیش فعال است و مقام‌های جمهوری اسلامی نیز سعی در حفظ این باریکه دارند. این شبکه چینی، یکشنبه اول آذر گزارش داد که آمریکا پس از محاصره دریایی بنادر ایران، با اجرای طرح موسوم به «دروازه آهنین»، فشار بر مسیرهای زمینی و تجارت از طریق دریای خزر را نیز گسترش داده است. در این گزارش، یک شهروند تهرانی می‌گوید: «کار به جایی رسیده که فقط می‌توانیم برای تامین نیازهای روزمره کار کنیم. دیگر نمی‌توانیم برای خرید چیز دیگری برنامه‌ریزی کنیم.» شهروند دیگری نیز گفته: «چیزهایی را که قبلا می‌خریدیم، دیگر نمی‌خریم. سعی می‌کنیم فقط اقلام ضروری مثل سیب‌زمینی، پیاز و تخم‌مرغ بخریم.» در مقابل، محمدعلی کارگشا، عضو هیات‌مدیره انجمن شرکت‌های حمل‌ونقل بین‌المللی ایران، به سی‌جی‌تی‌ان گفت که با وجود مشکلات جابه‌جایی ناوگان، هیچ‌یک از گذرگاه‌های زمینی بسته نشده‌اند و تردد کالا از مرزهای غربی ادامه دارد.",
-      "media_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/927284532_18454797805176167_3299050272950026449_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=jsvmdyGE34QQ7kNvwGBfUrd&amp;_nc_oc=AdowvGteGuBN_cqhkXD-T-lCTNCGwoTri0I71HzQe9QY0R-UkCL8ljPSnh1OeEBJMMU&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw6-1.cdninstagram.com&amp;_nc_gid=7J1C62ydMdS87Y55mHKu0Q&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQRUgxu1VZ26Zm2o-S8GAki9aYW7MIJOtSvTQHM30c_mEA&amp;oe=6B0999EB",
-      "published_at": "Mon, 23 Nov 2026 02:43:43 GMT",
-      "published_at_utc": "2026-11-23T02:43:43+00:00",
-      "published_at_tehran": "2026-11-23T06:13:43+03:30",
-      "collected_at": "2026-11-23T15:49:00.460858+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "a37954bd3a23c690a577a21285f864247024e0842ebfab4c49ba2fb285f980e1",
-      "source": "bbcpersian",
-      "post_url": "https://www.instagram.com/p/DgERvLcjOF9",
-      "caption": "‌ احزاب بنیامین نتانیاهو، نخست‌وزیر اسرائیل و رقیب او گادی آیزنکوت، روز یکشنبه دور تازه مذاکرات خود را بدون دستیابی به توافقی درباره تشکیل دولت ائتلافی به پایان رساندند. هیئت‌های نمایندگی حزب «یاشار» به رهبری آقای آیزنکوت و حزب «لیکود» به رهبری آقای نتانیاهو، پس از نخستین دور مذاکرات در یکشنبه گذشته، امروز بار دیگر به مدت چهار ساعت با یکدیگر دیدار و گفت‌و‌گو کردند. دو حزب در بیانیه‌ای مشترک اعلام کردند: «آخرین دور مذاکرات ائتلافی به پایان رسید. دو طرف مواضع خود را درباره طیفی از مسائل اساسی تشریح کرده و درباره آنها گفت‌وگو کردند.» در این بیانیه آمده است که نشست دیگری برگزار خواهد شد، اما زمان آن مشخص نشده و جزئیات بیشتری نیز درباره مذاکرات ارائه نشده است. گادی آیزنکوت، رئیس پیشین ستاد کل ارتش اسرائیل، تا ششم دسامبر(۱۵ آذر) فرصت دارد دولت تشکیل دهد. این مهلت ممکن است ۱۴ روز دیگر تمدید شود. هیچ‌یک از دو جریان سیاسی نتوانستند در انتخابات ماه اکتبر اکثریت مطلق پارلمان را بدست آورند. ائتلاف ۴۸ نفره گادی آیزنکوت برای دستیابی به اکثریت پارلمانی به ۶۱ کرسی نیاز دارد و همچنان بر سر چگونگی تشکیل دولت اختلاف‌نظر دارد. گزینه‌های پیش روی این ائتلاف شامل همکاری با احزاب یهودی فوق‌ارتدوکس، نزدیک شدن به احزاب عرب یا تشکیل دولت وحدت ملی با حزب «لیکود» است. بنیامین نتانیاهو برای تشکیل دولت وحدت ملی تلاش می‌کند؛ دولتی که ممکن است در آن مقام نخست‌وزیری به‌صورت دوره‌ای میان او و آقای آیزنکوت تقسیم شود. چنین سازوکاری پیش‌تر نیز در اسرائیل تجربه شده است. 📸 Getty/ Reuetrs",
-      "media_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/926365826_18663058213007680_7568917419043955424_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=FFTm6ER8kJsQ7kNvwE2z4De&amp;_nc_oc=Adq-wQldWTd4epCMAEyS8VZT6D0w6eFyZ-QE8bOfoCBCwiat6dsWJ8j8DKtBulm99jA&amp;_nc_zt=23&amp;_nc_ht=scontent-lga3-1.cdninstagram.com&amp;_nc_gid=f2rZYTMNMxumdWYbPajDug&amp;_nc_ss=7aa8c&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQSS5CRlJFRV5L3BqABnmwhVJ1xrQp5sUZAaszO9h4S-mg&amp;oe=6B099B29",
-      "published_at": "Mon, 23 Nov 2026 02:11:15 GMT",
-      "published_at_utc": "2026-11-23T02:11:15+00:00",
-      "published_at_tehran": "2026-11-23T05:41:15+03:30",
-      "collected_at": "2026-11-23T15:48:37.940226+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "c595611b9aee7a15d5bdb10a406a371491b3bb1ab1a6e336bfb1693816e26467",
-      "source": "bbcpersian",
-      "post_url": "https://www.instagram.com/p/DgEJMyGDNw0",
-      "caption": "دونالد ترامپ مدعی شد ایران تنها ظرف یک هفته گذشته بیشترین تعداد پهپاد تهاجمی و موشک را طی یک سال گذشته شلیک کرده است. رئیس جمهور آمریکا به گزارش یا منبع آماری این ادعا اشاره نکرد اما آن را همچون افت رونق در بازارهای سهام آمریکا، نتیجه «پیروزی دموکرات‌ها» در انتخابات کنگره دانست. او عصر یکشنبه در شبکه اجتماعی خود - تروث سوشال نوشت:‌ «همه به یاد دارند که من درباره انتخابات میان‌دوره‌ای سوم نوامبر دو پیش‌بینی کرده بودم. اول، اینکه اگر دموکرات‌ها پیروز شوند، بازارهای سهام به‌شدت سقوط خواهند کرد که همین اتفاق افتاد؛ و دوم، اینکه جمهوری اسلامی ایران، که تا امروز ۸۱ هزار معترض را کشته است، حملات خود را تهاجمی‌تر خواهد کرد که این هم اتفاق افتاده است.» رئیس جمهور آمریکا که در پست عصر یکشنبه - ۲۲ نوامبر/اول آذر - خود اشاره‌ای به گزارشی جدید یا منبع آماری برای ادعاهای خود ذکر نکرده، در ادامه گفته است: «ایران طی هفته گذشته بیش از هر زمان دیگری در بیش از یک سال گذشته پهپاد و موشک شلیک کرده است. نگران نباشید، همه آن‌ها رهگیری و سرنگون شده‌اند و هیچ خسارتی وارد نکرده‌اند.» آقای ترامپ گفته از نظر او علت این دو رویداد از نظر او آنست که: «رهبران ایران دموکرات‌ها را ضعیف، ناکارآمد و نابودکننده کشور می‌دانند، اما من اجازه نخواهم داد چنین اتفاقی بیفتد! دموکرات‌ها و ایران هر دو به‌شدت تلاش کردند قیمت نفت تا حد ممکن بالا بماند و از زمان انتخابات، قیمت نفت با رکوردی بی‌سابقه کاهش یافته است.حیف که رأی‌دهندگان پیش از آنکه ماشه را بکشند، متوجه این موضوع نشدند، اما کل انتخابات بسیار «عجیب» بود. در نهایت، آمریکا پیروز خواهد شد!» این اظهارات را رئیس جمهور آمریکا تنها دقایقی پس از آن منتشر کرد که با پیروزی یک دموکرات دیگر در انتخابات کنگره در کارولینای شمالی، شمار کرسی‌های این حزب در کنگره به ۲۵۸ رسید که بالاترین اکثریت در مجلس نمایندگان از سال ۱۹۹۲ تاکنون است و به دموکرات‌ها اجازه خواهد داد در دو سال باقی مانده از دوره دوم ریاست جمهوری آقای ترامپ، از اهرم‌های قانونی کنگره برابر کاخ‌سفید استفاده کنند. 📸 Getty",
-      "media_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/925847665_18663036244007680_1283457577625946472_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=mBKHLG6nx0UQ7kNvwEg8gGC&amp;_nc_oc=Adr0ExKFMgWpzl_btmBfpvZ5DV55CChaRDZssCZ4vBR32x3cxBKYnwyOEHN8IjEBZnE&amp;_nc_zt=23&amp;_nc_ht=scontent-lga3-1.cdninstagram.com&amp;_nc_gid=f2rZYTMNMxumdWYbPajDug&amp;_nc_ss=7aa8c&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQTgwmPngqzOAMmOChtyZCokpfyFctqQnvsY1nz8kbxjjQ&amp;oe=6B09AA17",
-      "published_at": "Mon, 23 Nov 2026 00:56:39 GMT",
-      "published_at_utc": "2026-11-23T00:56:39+00:00",
-      "published_at_tehran": "2026-11-23T04:26:39+03:30",
-      "collected_at": "2026-11-23T15:48:37.940451+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    }
-  ],
+  "new_items": [],
   "note": "Items contains the current feed snapshot for downstream news-list ingestion. Only media-complete new posts are marked seen. Publishing remains disabled pending verification and explicit approval."
 }
