@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T19:17:45.853104+00:00",
+  "generated_at": "2026-11-24T20:34:44.274917+00:00",
   "source_mode": "public_feeds_no_login",
   "publishing_enabled": false,
   "summary": {
     "accounts": 5,
     "fetched_posts": 30,
-    "new_posts": 7,
+    "new_posts": 0,
     "publish_ready": 30,
     "blocked_or_incomplete": 2
   },
@@ -15,7 +15,7 @@
       "label": "BBC Persian",
       "provider": "https://openrss.org/feed/www.instagram.com/bbcpersian",
       "fetched": 10,
-      "new": 2,
+      "new": 0,
       "ready": 10,
       "needs_media_url": 0,
       "error": null
@@ -27,7 +27,7 @@
       "new": 0,
       "ready": 0,
       "needs_media_url": 0,
-      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: HTTP 500 | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: HTTP 503"
+      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: ReadTimeout: HTTPSConnectionPool(host='rsshub.cmyr.dev', port=443): Read timed out. (read timeout=10) | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
     },
     "iranintltv": {
       "label": "Iran International",
@@ -51,7 +51,7 @@
       "label": "IRNA",
       "provider": "https://openrss.org/feed/www.instagram.com/irnanews1313",
       "fetched": 10,
-      "new": 5,
+      "new": 0,
       "ready": 10,
       "needs_media_url": 0,
       "error": null
@@ -60,7 +60,7 @@
   "errors": [
     {
       "account": "dw_persian",
-      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: HTTP 500 | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: HTTP 503"
+      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: ReadTimeout: HTTPSConnectionPool(host='rsshub.cmyr.dev', port=443): Read timed out. (read timeout=10) | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
     },
     {
       "account": "isna.news",
@@ -77,10 +77,10 @@
       "published_at": "Tue, 24 Nov 2026 11:06:05 GMT",
       "published_at_utc": "2026-11-24T11:06:05+00:00",
       "published_at_tehran": "2026-11-24T14:36:05+03:30",
-      "collected_at": "2026-11-24T19:17:28.952861+00:00",
+      "collected_at": "2026-11-24T20:34:02.134752+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "1e01a5b473277169122fa6c342beb0dd460bc33d785dbaa3dcccd85eadfd7894",
@@ -91,7 +91,7 @@
       "published_at": "Tue, 24 Nov 2026 08:39:10 GMT",
       "published_at_utc": "2026-11-24T08:39:10+00:00",
       "published_at_tehran": "2026-11-24T12:09:10+03:30",
-      "collected_at": "2026-11-24T19:17:33.592968+00:00",
+      "collected_at": "2026-11-24T20:34:24.366641+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -105,7 +105,7 @@
       "published_at": "Tue, 24 Nov 2026 08:31:03 GMT",
       "published_at_utc": "2026-11-24T08:31:03+00:00",
       "published_at_tehran": "2026-11-24T12:01:03+03:30",
-      "collected_at": "2026-11-24T19:17:33.593095+00:00",
+      "collected_at": "2026-11-24T20:34:24.366726+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -119,7 +119,7 @@
       "published_at": "Tue, 24 Nov 2026 08:30:58 GMT",
       "published_at_utc": "2026-11-24T08:30:58+00:00",
       "published_at_tehran": "2026-11-24T12:00:58+03:30",
-      "collected_at": "2026-11-24T19:17:33.593226+00:00",
+      "collected_at": "2026-11-24T20:34:24.366809+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -133,7 +133,7 @@
       "published_at": "Tue, 24 Nov 2026 08:11:11 GMT",
       "published_at_utc": "2026-11-24T08:11:11+00:00",
       "published_at_tehran": "2026-11-24T11:41:11+03:30",
-      "collected_at": "2026-11-24T19:17:33.593373+00:00",
+      "collected_at": "2026-11-24T20:34:24.366895+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -147,10 +147,10 @@
       "published_at": "Tue, 24 Nov 2026 07:55:11 GMT",
       "published_at_utc": "2026-11-24T07:55:11+00:00",
       "published_at_tehran": "2026-11-24T11:25:11+03:30",
-      "collected_at": "2026-11-24T19:17:45.851214+00:00",
+      "collected_at": "2026-11-24T20:34:44.273235+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "6f1dccb6adf5bd8b5e23b9cfbe00f8ff5d1055f482f4e573af94f3790ceed375",
@@ -161,7 +161,7 @@
       "published_at": "Tue, 24 Nov 2026 07:49:50 GMT",
       "published_at_utc": "2026-11-24T07:49:50+00:00",
       "published_at_tehran": "2026-11-24T11:19:50+03:30",
-      "collected_at": "2026-11-24T19:17:33.593494+00:00",
+      "collected_at": "2026-11-24T20:34:24.366967+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -175,7 +175,7 @@
       "published_at": "Tue, 24 Nov 2026 07:37:33 GMT",
       "published_at_utc": "2026-11-24T07:37:33+00:00",
       "published_at_tehran": "2026-11-24T11:07:33+03:30",
-      "collected_at": "2026-11-24T19:17:33.593589+00:00",
+      "collected_at": "2026-11-24T20:34:24.367023+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -189,7 +189,7 @@
       "published_at": "Tue, 24 Nov 2026 07:34:52 GMT",
       "published_at_utc": "2026-11-24T07:34:52+00:00",
       "published_at_tehran": "2026-11-24T11:04:52+03:30",
-      "collected_at": "2026-11-24T19:17:33.593716+00:00",
+      "collected_at": "2026-11-24T20:34:24.367117+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -203,10 +203,10 @@
       "published_at": "Tue, 24 Nov 2026 07:22:34 GMT",
       "published_at_utc": "2026-11-24T07:22:34+00:00",
       "published_at_tehran": "2026-11-24T10:52:34+03:30",
-      "collected_at": "2026-11-24T19:17:45.851517+00:00",
+      "collected_at": "2026-11-24T20:34:44.273441+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "1ae93e13ee13c538a7dbc74776f7cb47ec6b7a8941e4da6b4599e2febcaa57a5",
@@ -217,10 +217,10 @@
       "published_at": "Tue, 24 Nov 2026 06:58:39 GMT",
       "published_at_utc": "2026-11-24T06:58:39+00:00",
       "published_at_tehran": "2026-11-24T10:28:39+03:30",
-      "collected_at": "2026-11-24T19:17:45.851669+00:00",
+      "collected_at": "2026-11-24T20:34:44.273535+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "a93aeaf513975d09250b77751f9f5bf676d683d3283d38e9e4b87d4d5761095d",
@@ -231,10 +231,10 @@
       "published_at": "Tue, 24 Nov 2026 06:57:20 GMT",
       "published_at_utc": "2026-11-24T06:57:20+00:00",
       "published_at_tehran": "2026-11-24T10:27:20+03:30",
-      "collected_at": "2026-11-24T19:17:28.953126+00:00",
+      "collected_at": "2026-11-24T20:34:02.134921+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "b15073052ec3d3d3eefc839352d1cb551c37920afe954d146610d6d7529f66e0",
@@ -245,7 +245,7 @@
       "published_at": "Tue, 24 Nov 2026 06:24:22 GMT",
       "published_at_utc": "2026-11-24T06:24:22+00:00",
       "published_at_tehran": "2026-11-24T09:54:22+03:30",
-      "collected_at": "2026-11-24T19:17:33.593844+00:00",
+      "collected_at": "2026-11-24T20:34:24.367199+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -259,7 +259,7 @@
       "published_at": "Tue, 24 Nov 2026 06:17:12 GMT",
       "published_at_utc": "2026-11-24T06:17:12+00:00",
       "published_at_tehran": "2026-11-24T09:47:12+03:30",
-      "collected_at": "2026-11-24T19:17:33.594009+00:00",
+      "collected_at": "2026-11-24T20:34:24.367286+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -273,10 +273,10 @@
       "published_at": "Tue, 24 Nov 2026 05:46:06 GMT",
       "published_at_utc": "2026-11-24T05:46:06+00:00",
       "published_at_tehran": "2026-11-24T09:16:06+03:30",
-      "collected_at": "2026-11-24T19:17:45.851768+00:00",
+      "collected_at": "2026-11-24T20:34:44.273598+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "7c84ae32d55b26ec8febeb059c7bd6f1ba0edf1ab7f16cdb7f92ba3708622b3a",
@@ -287,7 +287,7 @@
       "published_at": "Tue, 24 Nov 2026 05:32:49 GMT",
       "published_at_utc": "2026-11-24T05:32:49+00:00",
       "published_at_tehran": "2026-11-24T09:02:49+03:30",
-      "collected_at": "2026-11-24T19:17:33.594144+00:00",
+      "collected_at": "2026-11-24T20:34:24.367363+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -301,10 +301,10 @@
       "published_at": "Tue, 24 Nov 2026 05:15:40 GMT",
       "published_at_utc": "2026-11-24T05:15:40+00:00",
       "published_at_tehran": "2026-11-24T08:45:40+03:30",
-      "collected_at": "2026-11-24T19:17:45.851864+00:00",
+      "collected_at": "2026-11-24T20:34:44.273658+00:00",
       "publish_ready": true,
       "status": "ready",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "717430846cc68231dc5738fc4652c3bfa689228463eb7e156f76a10d8722d5d9",
@@ -315,7 +315,7 @@
       "published_at": "Tue, 24 Nov 2026 00:55:15 GMT",
       "published_at_utc": "2026-11-24T00:55:15+00:00",
       "published_at_tehran": "2026-11-24T04:25:15+03:30",
-      "collected_at": "2026-11-24T19:17:28.953313+00:00",
+      "collected_at": "2026-11-24T20:34:02.135038+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -329,7 +329,7 @@
       "published_at": "Mon, 23 Nov 2026 21:35:20 GMT",
       "published_at_utc": "2026-11-23T21:35:20+00:00",
       "published_at_tehran": "2026-11-24T01:05:20+03:30",
-      "collected_at": "2026-11-24T19:17:28.953620+00:00",
+      "collected_at": "2026-11-24T20:34:02.135346+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -343,7 +343,7 @@
       "published_at": "Mon, 23 Nov 2026 20:54:35 GMT",
       "published_at_utc": "2026-11-23T20:54:35+00:00",
       "published_at_tehran": "2026-11-24T00:24:35+03:30",
-      "collected_at": "2026-11-24T19:17:28.953763+00:00",
+      "collected_at": "2026-11-24T20:34:02.135448+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -357,7 +357,7 @@
       "published_at": "Mon, 23 Nov 2026 20:30:31 GMT",
       "published_at_utc": "2026-11-23T20:30:31+00:00",
       "published_at_tehran": "2026-11-24T00:00:31+03:30",
-      "collected_at": "2026-11-24T19:17:28.953848+00:00",
+      "collected_at": "2026-11-24T20:34:02.135508+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -371,7 +371,7 @@
       "published_at": "Mon, 23 Nov 2026 20:22:57 GMT",
       "published_at_utc": "2026-11-23T20:22:57+00:00",
       "published_at_tehran": "2026-11-23T23:52:57+03:30",
-      "collected_at": "2026-11-24T19:17:28.953987+00:00",
+      "collected_at": "2026-11-24T20:34:02.135584+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -385,7 +385,7 @@
       "published_at": "Mon, 23 Nov 2026 19:30:52 GMT",
       "published_at_utc": "2026-11-23T19:30:52+00:00",
       "published_at_tehran": "2026-11-23T23:00:52+03:30",
-      "collected_at": "2026-11-24T19:17:45.852016+00:00",
+      "collected_at": "2026-11-24T20:34:44.273739+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -399,7 +399,7 @@
       "published_at": "Mon, 23 Nov 2026 18:53:09 GMT",
       "published_at_utc": "2026-11-23T18:53:09+00:00",
       "published_at_tehran": "2026-11-23T22:23:09+03:30",
-      "collected_at": "2026-11-24T19:17:28.954205+00:00",
+      "collected_at": "2026-11-24T20:34:02.135752+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -413,7 +413,7 @@
       "published_at": "Mon, 23 Nov 2026 17:54:13 GMT",
       "published_at_utc": "2026-11-23T17:54:13+00:00",
       "published_at_tehran": "2026-11-23T21:24:13+03:30",
-      "collected_at": "2026-11-24T19:17:28.954331+00:00",
+      "collected_at": "2026-11-24T20:34:02.135838+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -427,7 +427,7 @@
       "published_at": "Mon, 23 Nov 2026 17:34:39 GMT",
       "published_at_utc": "2026-11-23T17:34:39+00:00",
       "published_at_tehran": "2026-11-23T21:04:39+03:30",
-      "collected_at": "2026-11-24T19:17:28.954469+00:00",
+      "collected_at": "2026-11-24T20:34:02.135966+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -441,7 +441,7 @@
       "published_at": "Mon, 23 Nov 2026 17:30:34 GMT",
       "published_at_utc": "2026-11-23T17:30:34+00:00",
       "published_at_tehran": "2026-11-23T21:00:34+03:30",
-      "collected_at": "2026-11-24T19:17:45.852153+00:00",
+      "collected_at": "2026-11-24T20:34:44.273822+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -455,7 +455,7 @@
       "published_at": "Mon, 23 Nov 2026 16:14:31 GMT",
       "published_at_utc": "2026-11-23T16:14:31+00:00",
       "published_at_tehran": "2026-11-23T19:44:31+03:30",
-      "collected_at": "2026-11-24T19:17:45.852311+00:00",
+      "collected_at": "2026-11-24T20:34:44.273928+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -469,7 +469,7 @@
       "published_at": "Mon, 23 Nov 2026 13:30:40 GMT",
       "published_at_utc": "2026-11-23T13:30:40+00:00",
       "published_at_tehran": "2026-11-23T17:00:40+03:30",
-      "collected_at": "2026-11-24T19:17:45.852413+00:00",
+      "collected_at": "2026-11-24T20:34:44.274004+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -483,111 +483,12 @@
       "published_at": "Mon, 23 Nov 2026 13:05:44 GMT",
       "published_at_utc": "2026-11-23T13:05:44+00:00",
       "published_at_tehran": "2026-11-23T16:35:44+03:30",
-      "collected_at": "2026-11-24T19:17:45.852494+00:00",
+      "collected_at": "2026-11-24T20:34:44.274076+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
     }
   ],
-  "new_items": [
-    {
-      "id": "4fd6231e4faa66cd4c4278beb9f5f2b79a9535d911f969c8b04c88addbfabac5",
-      "source": "bbcpersian",
-      "post_url": "https://www.instagram.com/p/DgHzvPTFen1",
-      "caption": "قیمت دلار در بازار آزاد ایران امروز رکورد دیگری شکست و برای نخستین بار از مرز ۲۸۰ هزار تومان گذشت. ارزش ریال ایران در سه ماه گذشته همزمان با تشدید تنش بین تهران و واشنگتن و ادامه فشارهای اقتصادی آمریکا، سیری نزولی داشته است. قیمت دلار در شهریور ماه برای نخستین بار به بالای ۲۰۰ هزار تومان رسید و در ادامه سیر صعودی خود در همان ماه به قله‌ ۲۳۷ هزار تومان جهش کرد و در مهرماه هم به قله جدید ۲۷۲ هزار تومان رسید. امروز برای نخستین بار قیمت دلار وارد کانال ۲۸۰ هزار تومان شد. وزیر دارایی آمریکا که برنامه «طرد اقتصادی» را دنبال می‌کند اقتصاد ایران را «در حال غرق شدن» توصیف کرده است. @bbcpersian",
-      "media_url": "https://scontent-dfw5-3.cdninstagram.com/v/t39.30808-6/925173360_1633547035469386_1341610533469433694_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=NQ7Py2TSrdkQ7kNvwHtcxxt&amp;_nc_oc=AdpJ300HF4zT2lr50TXLWkIIxxwoERBuQ_30Cu5wpoqJdjZMEPm_japF3vBqXXT5pCg&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw5-3.cdninstagram.com&amp;_nc_gid=TTlvhr4-s6_LPTIWKZhx0Q&amp;_nc_ss=7a789&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQSOYkeGmxHfy2IgJE4qJV9p9-_iB_z1H8Ga7T4MsW4ZdA&amp;oe=6B0B64F2",
-      "published_at": "Tue, 24 Nov 2026 11:06:05 GMT",
-      "published_at_utc": "2026-11-24T11:06:05+00:00",
-      "published_at_tehran": "2026-11-24T14:36:05+03:30",
-      "collected_at": "2026-11-24T19:17:28.952861+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "2247fc9f5f0c8859dfa20864468c4320f392da15079be8889b4fd5ed2ed2cd71",
-      "source": "irnanews1313",
-      "post_url": "https://www.instagram.com/p/DgHd5CkNYkD",
-      "caption": ". 🔹حضور رئیس جمهور در رواق دارالذکر حرم مطهر رضوی و ادای احترام به مقام امام مجاهد شهــی..ــد #ایرنا",
-      "media_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/919345704_18661892902040439_8974029467225210488_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=111&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=-Ot65e2H4JIQ7kNvwFA61Zq&amp;_nc_oc=AdrCbEb9zGAeijghzuKJX0Pu8v3CrGVXojw26CVZByitXFqIqFu6ogoqqQTlmIIKofM&amp;_nc_zt=23&amp;_nc_ht=scontent-sea5-1.cdninstagram.com&amp;_nc_gid=x-D3rUyzR4eteL-xiRGelA&amp;_nc_ss=7a789&amp;_nc_ct=RQosPBUKFQwAAAA&amp;oh=00_AQQ2fioAoP8pi6CZFShncr4Cefe_DxI7afSv1EnxlRVy2Q&amp;oe=6B0B24CA",
-      "published_at": "Tue, 24 Nov 2026 07:55:11 GMT",
-      "published_at_utc": "2026-11-24T07:55:11+00:00",
-      "published_at_tehran": "2026-11-24T11:25:11+03:30",
-      "collected_at": "2026-11-24T19:17:45.851214+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "125d43c5718ad06532221507bd80ba595cce5c2bba992bed1741a9cbd0195c33",
-      "source": "irnanews1313",
-      "post_url": "https://www.instagram.com/p/DgHaKKtDbr6",
-      "caption": ". 🔹رهبر معظّم انقلاب در پیامی به چهارمین رویداد جایزه ملّی جوانی جمعیّت، با اشاره به نقش کلیدی افزایش جمعیّت در تحقق ایران هرچه قوی‌تر، تأکید کردند: 📩کاستی‌های ناشی از بعضی سیاست‌های گذشته جمعیّتی باید جبران شود &nbsp; ▪️حضرت آیت‌الله سیّدمجتبی حسینی خامنه‌ای رهبر معظّم انقلاب اسلامی در پیامی به چهارمین رویداد جایزه ملی جوانی جمعیّت، سیاست «افزایش جمعیّت با محوریّت خانواده» را یک سیاست راهبردی و از مهمترین مؤلفه‌های اقتدار و پیشرفت ایران برشمردند و تأکید کردند: بی‌شک هر ایرانی غیور که خواهان آینده‌ای روشن و با شکوه برای این آب و خاک و مردمان آن باشد، انگیزه و اراده‌ای قوی برای امتداد نسلیِ ایرانیان در تراز تمدّن نوین اسلامی خواهد داشت. ▪️بخشی از متن پیام رهبر انقلاب اسلامی که توسط سرکار خانم دکتر مرضیه وحید دستجردی صبح امروز در این رویداد قرائت شد، به این شرح است: &nbsp; 📝 بسم‌الله الرّحمن الرّحیم ▪️برگزاری چهارمین رویداد ملّی جوانی جمعیّت، مناسبت خوبی برای صحبت در مورد مسئله خطیر جمعیّت است. در میان مؤلّفه‌های اقتدار و پیشرفت و دستیابی به ایران هرچه قوی‌تر، مسئلۀ افزایش جمعیّت آیندۀ ایران عزیز با حفظ همۀ جهات مطلوبۀ کمّی و کیفی، از اهمّ آن بشمار می‌آید. این مسئلۀ راهبردی و سرنوشت‌ساز که در دهه‌های اخیر بارها مورد تأکید رهبر عظیم‌الشّأن شهید اعلی‌الله مقامه‌الشّریف قرار گرفته بود،‌ هم در به فعلیّت رساندن قوّت‌ها و در خَلق و ارتقاء فرصت‌های متعدّد علمی، فرهنگی، اقتصادی و اجتماعی، و هم در دفع و رفع تهدیدات و بدخواهی‌های دشمنان، مؤثّر است. ▪️ بنظر می‌رسد که بعد از غفلتی ممتد و خسارت‌بار که بر صحنۀ برنامه‌ریزی و مدیریت امور کشور حاکم شده بود، اینک در اثر بعضی اقدامات، مجالی فراهم شده تا مردم و مسئولان با نگرشی عمیق‌تر به این مسئله بپردازند. ▪️در توجّه به شئون مختلف جمعیّت و ملزومات و مایحتاج آن در انواع عرصه‌ها، گاه خانواده و گاه فرد، معیار سنجش امور می‌باشد. در بعضی از امور از قبیل مسکن و بسیاری از کالاها و خدمات، مصرف‌کننده و کاربر آن، خانواده و در بعضی دیگر از قبیل خوراک، پوشاک، و اموری مرتبط با سلامت، فرد به‌عنوان واحد معیار در نظر گرفته می‌شود. مسئلۀ دستیابی به جمعیّت مطلوب از اموری است که هر دو جهت در آن دخالت دارد. از این‌رو پرداختن به انواع زیرساخت‌ها و جهات مرتبط با تحکیم بنیان خانواده، یک عنصر دائمی در مسیر تلاش برای اصلاح منحنی جمعیّت کشور خواهد بود؛ همچنان‌که رسیدگی به شئون فردی مرتبط نیز لازم است. #ایرنا",
-      "media_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/916197833_18661887865040439_4119585706709197382_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=105&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=x_lky4V37QIQ7kNvwGj0_Sq&amp;_nc_oc=Adp1M-a5ZYAYdiR7EM107_vJmgTaKD1JarVr78hXTT5aQhOJYG9O75nSktP6izMfrTs&amp;_nc_zt=23&amp;_nc_ht=scontent-sea5-1.cdninstagram.com&amp;_nc_gid=x-D3rUyzR4eteL-xiRGelA&amp;_nc_ss=7a789&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQStBokVb-6uNJFwnrKfMjXbUuNguIG2-IzzBqp9pn37ug&amp;oe=6B0B2B56",
-      "published_at": "Tue, 24 Nov 2026 07:22:34 GMT",
-      "published_at_utc": "2026-11-24T07:22:34+00:00",
-      "published_at_tehran": "2026-11-24T10:52:34+03:30",
-      "collected_at": "2026-11-24T19:17:45.851517+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "1ae93e13ee13c538a7dbc74776f7cb47ec6b7a8941e4da6b4599e2febcaa57a5",
-      "source": "irnanews1313",
-      "post_url": "https://www.instagram.com/p/DgHXa_otkJX",
-      "caption": ". 🔹صفایی: برای حضور در جام‌جهانی باید نیمکتی هم تراز اسپانیا داشته باشیم ▪️کریم صفایی جامعه شناس و مشاور وزیر ورزش و جوانان در گفت‌وگو با ایرنا در واکنش به ادبیات امیر قلعه‌نویی، سرمربی تیم ملی فوتبال ایران اظهار داشت: باید ببینیم امیر قلعه‌نویی در کدام دوره مدیریت به عنوان سرمربی تیم ملی در فدراسیون فوتبال منصوب شده است. وی ادامه داد: وقتی می‌گویم ببینید روی نیمکت اسپانیا، ایتالیا یا آلمان چه کسانی نشسته‌اند، ما هم اگر می‌خواهیم در جام‌جهانی حاضر باشیم باید نیمکتی هم تراز آنها داشته باشیم. مربیگری کلاس دیپلماسی خاص خودش را دارد. متاسفانه ما در مربیان فوتبال کسی را نداریم. #ایرنا",
-      "media_url": "https://scontent-sea5-2.cdninstagram.com/v/t51.82787-15/926649941_18661886491040439_2355091577655150573_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=100&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=543Aid2RSJUQ7kNvwESfTW2&amp;_nc_oc=Adpdrluc6UgZHgK0NfrWrvAnOkNWDbPMPacNfeNrH3evET3l-bcdw7rWL6uw4Dblb2Y&amp;_nc_zt=23&amp;_nc_ht=scontent-sea5-2.cdninstagram.com&amp;_nc_gid=x-D3rUyzR4eteL-xiRGelA&amp;_nc_ss=7a789&amp;_nc_ct=RQosPBUKFQwAAAA&amp;oh=00_AQQLfFdPgQCIJgrtREA9RRshpP6R73y9RblDZ_kqXNHrrQ&amp;oe=6B0B09C6",
-      "published_at": "Tue, 24 Nov 2026 06:58:39 GMT",
-      "published_at_utc": "2026-11-24T06:58:39+00:00",
-      "published_at_tehran": "2026-11-24T10:28:39+03:30",
-      "collected_at": "2026-11-24T19:17:45.851669+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "a93aeaf513975d09250b77751f9f5bf676d683d3283d38e9e4b87d4d5761095d",
-      "source": "bbcpersian",
-      "post_url": "https://www.instagram.com/p/DgHXRVGlf3j",
-      "caption": "قطر می‌گوید که به تلاش‌های خود را برای کاهش تنش‌ها میان ایران و آمریکا ادامه می‌دهد. این موضوع را شیخ محمد بن عبدالرحمن بن جاسم آل ثانی، نخست‌وزیر و وزیر امور خارجه قطر، پس از دیدار با مارکو روبیو، وزیر امور خارجه آمریکا، بیان کرد. دو مقام ارشد قطر و آمریکا در در واشنگتن با هم دیدار کردند. این دیداردر قالب گفت‌وگوی راهبردی قطر و آمریکا برگزار شده و بر اساس گزارش‌های رسمی دو طرف درباره «راه‌های تقویت همکاری و مشارکت راهبردی میان دو کشور در حوزه‌های سیاسی، اقتصادی، تجاری، سرمایه‌گذاری و فرهنگی» گفت‌وگو کردند. حساب وزارت خارجه قطر در ایکس گفته است که دو کشور بر «اهمیت آزادی کشتیرانی در آب‌های بین‌المللی» تأکید کردند. قطر میانجی ایران و آمریکاست و تاکنون طرح‌های مختلفی را برای پایان دادن به جنگ، به دو طرف ارائه کرده است. این کشور می‌گوید در مذاکرات اخیر میان دو مقام ارشد قطری و آمریکایی، دو طرف بر «تلاش‌های دیپلماتیک جاری و هماهنگی مشترک برای کاهش تنش‌ها و تقویت امنیت و ثبات در منطقه» تأکید کردند. 📷 Getty",
-      "media_url": "https://scontent-dfw5-3.cdninstagram.com/v/t39.30808-6/924141947_1633362648821158_2495290712399766491_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=0NTTYbOUcFoQ7kNvwHOHxax&amp;_nc_oc=Adq_5wQ_jV22tBdamM1YKxatyOkwAukehB8ULV3W_mLQM05bnfpc4WxzOxvkgm3VIv8&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw5-3.cdninstagram.com&amp;_nc_gid=TTlvhr4-s6_LPTIWKZhx0Q&amp;_nc_ss=7a789&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQQJTE9msYyXY-Ame2G9aI5BeruGqzZfwBOTNrLUWICoeg&amp;oe=6B0B579D",
-      "published_at": "Tue, 24 Nov 2026 06:57:20 GMT",
-      "published_at_utc": "2026-11-24T06:57:20+00:00",
-      "published_at_tehran": "2026-11-24T10:27:20+03:30",
-      "collected_at": "2026-11-24T19:17:28.953126+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "96032e7626277e716c7e3901517e5524fa4cee54aa19144b3b605b1a847fa6ad",
-      "source": "irnanews1313",
-      "post_url": "https://www.instagram.com/p/DgHPHpPNv-7",
-      "caption": ". 🔹مرحوم رضا امیرخانی: تجربه‌هایی که دارید را جدی بگیرید.",
-      "media_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/921770825_18661886410040439_8721885654035633335_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=100&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=OHLNe86nN90Q7kNvwESz-Re&amp;_nc_oc=AdofnT2NR71SY3bLEYr6xGHA1pdGMqL-wf1QsFnFCjmOfjiI0ZrTb6ktUIih8qwM81A&amp;_nc_zt=23&amp;_nc_ht=scontent-sea5-1.cdninstagram.com&amp;_nc_gid=x-D3rUyzR4eteL-xiRGelA&amp;_nc_ss=7a789&amp;_nc_ct=RQosPBUKFQwAAAA&amp;oh=00_AQSt1qMHerRuAleO58d4Pqgge8uCSSw8ZWh3c0HaCmcEJg&amp;oe=6B0B0BE8",
-      "published_at": "Tue, 24 Nov 2026 05:46:06 GMT",
-      "published_at_utc": "2026-11-24T05:46:06+00:00",
-      "published_at_tehran": "2026-11-24T09:16:06+03:30",
-      "collected_at": "2026-11-24T19:17:45.851768+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    },
-    {
-      "id": "f171c1559d02dc3b666cf0ef1d7b4d5150c0f61871568e54e2dc15975d3601ad",
-      "source": "irnanews1313",
-      "post_url": "https://www.instagram.com/p/DgHLorLITES",
-      "caption": ". 🔹روزنامه ایران | سوم آذر ۱۴۰۵ #ایرنا",
-      "media_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/923586602_18661868458040439_5816548218330665730_n.heic?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=109&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=HSoWpQeVQiEQ7kNvwERNjjL&amp;_nc_oc=AdrgAH9dV8m7dX-65EyU2PhVi3Z-Ybc88aNxPMVOvravAO3ikCzywgmR1lN2Xtq6HUY&amp;_nc_zt=23&amp;_nc_ht=scontent-sea5-1.cdninstagram.com&amp;_nc_gid=x-D3rUyzR4eteL-xiRGelA&amp;_nc_ss=7a789&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQQ-KjWYr4pY-slqKXFKLxEoTb5GyK0PSfrTL7jHB5zmsg&amp;oe=6B0B112F",
-      "published_at": "Tue, 24 Nov 2026 05:15:40 GMT",
-      "published_at_utc": "2026-11-24T05:15:40+00:00",
-      "published_at_tehran": "2026-11-24T08:45:40+03:30",
-      "collected_at": "2026-11-24T19:17:45.851864+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": true
-    }
-  ],
+  "new_items": [],
   "note": "Items contains the current feed snapshot for downstream news-list ingestion. Only media-complete new posts are marked seen. Publishing remains disabled pending verification and explicit approval."
 }
