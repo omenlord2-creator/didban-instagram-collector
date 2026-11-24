@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T00:02:56.704072+00:00",
+  "generated_at": "2026-11-24T01:30:31.171319+00:00",
   "source_mode": "publisher_website_rss_separate_from_instagram",
   "publishing_enabled": false,
   "count": 36,
@@ -20,7 +20,19 @@
       "published_at": "",
       "published_at_utc": null,
       "published_at_tehran": null,
-      "collected_at": "2026-11-24T00:02:52.894026+00:00"
+      "collected_at": "2026-11-24T01:30:28.613249+00:00"
+    },
+    {
+      "publisher": "BBC Persian",
+      "source_mode": "publisher_website_rss",
+      "title": "پشت پرده جنگ غزه در مستند «نازا»؛ فیلمسازان اسرائیلی چگونه سربازان را  به افشاگری واداشتند؟",
+      "description": "یووال آبراهام و ریچل سور، فیلم‌سازان اسرائیلی برنده جایزه اسکار، در گفت‌وگو با بی‌بی‌سی از مستند تحسین‌شده‌شان «نازا» می‌گویند. این مستند با گفت‌وگو با ۲۴ افسر نظامی و اطلاعاتی اسرائیلی که هویتشان فاش نشده، تلفات غیرنظامیان در غزه را بررسی می‌کند. این افسران توضیح می‌دهند که چطور از سامانه‌های مبتنی بر هوش مصنوعی برای شناسایی اهداف احتمالی و برآورد تعداد کشته‌ها استفاده می‌شد.",
+      "article_url": "https://www.bbc.com/persian/articles/ck987y6076y5o?at_medium=RSS&at_campaign=rss",
+      "media_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2a68/live/dd3aeed0-d7b7-11f1-8a3d-5320e3fab176.jpg",
+      "published_at": "Tue, 24 Nov 2026 01:28:12 GMT",
+      "published_at_utc": "2026-11-24T01:28:12+00:00",
+      "published_at_tehran": "2026-11-24T04:58:12+03:30",
+      "collected_at": "2026-11-24T01:30:28.613332+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -32,7 +44,7 @@
       "published_at": "Mon, 23 Nov 2026 22:09:12 GMT",
       "published_at_utc": "2026-11-23T22:09:12+00:00",
       "published_at_tehran": "2026-11-24T01:39:12+03:30",
-      "collected_at": "2026-11-24T00:02:52.894101+00:00"
+      "collected_at": "2026-11-24T01:30:28.613386+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -44,7 +56,7 @@
       "published_at": "Mon, 23 Nov 2026 17:21:35 GMT",
       "published_at_utc": "2026-11-23T17:21:35+00:00",
       "published_at_tehran": "2026-11-23T20:51:35+03:30",
-      "collected_at": "2026-11-24T00:02:52.894131+00:00"
+      "collected_at": "2026-11-24T01:30:28.613434+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -56,7 +68,7 @@
       "published_at": "Mon, 23 Nov 2026 15:13:36 GMT",
       "published_at_utc": "2026-11-23T15:13:36+00:00",
       "published_at_tehran": "2026-11-23T18:43:36+03:30",
-      "collected_at": "2026-11-24T00:02:52.894157+00:00"
+      "collected_at": "2026-11-24T01:30:28.613483+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -68,7 +80,7 @@
       "published_at": "Mon, 23 Nov 2026 16:10:23 GMT",
       "published_at_utc": "2026-11-23T16:10:23+00:00",
       "published_at_tehran": "2026-11-23T19:40:23+03:30",
-      "collected_at": "2026-11-24T00:02:52.894181+00:00"
+      "collected_at": "2026-11-24T01:30:28.613528+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -80,7 +92,7 @@
       "published_at": "Mon, 23 Nov 2026 12:31:09 GMT",
       "published_at_utc": "2026-11-23T12:31:09+00:00",
       "published_at_tehran": "2026-11-23T16:01:09+03:30",
-      "collected_at": "2026-11-24T00:02:52.894204+00:00"
+      "collected_at": "2026-11-24T01:30:28.613572+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -92,19 +104,7 @@
       "published_at": "Mon, 23 Nov 2026 16:24:48 GMT",
       "published_at_utc": "2026-11-23T16:24:48+00:00",
       "published_at_tehran": "2026-11-23T19:54:48+03:30",
-      "collected_at": "2026-11-24T00:02:52.894229+00:00"
-    },
-    {
-      "publisher": "BBC Persian",
-      "source_mode": "publisher_website_rss",
-      "title": "تهدید ترامپ به جنگ دوباره و «بلندپروازی‌های هسته‌ای» ایران",
-      "description": "۹ ماه پس از آغاز جنگ آمریکا و ایران، رسانه‌های آمریکایی در حالی که عملکرد گذشته دولت را زیر سوال می‌برند، با نگرانی به آینده این درگیری نیز می‌نگرند. نشریه آتلانتیک می‌نویسد دولت ترامپ هنوز تصویر روشنی از هزینه‌های مرحله پیشین جنگ به کنگره و افکار عمومی ارائه نکرده و دسترسی به این اطلاعات را محدود کرده است.",
-      "article_url": "https://www.bbc.com/persian/articles/cqlykz23yjy3o?at_medium=RSS&at_campaign=rss",
-      "media_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8108/live/15d1a180-e717-11f1-9c93-b5d142ad154c.jpg",
-      "published_at": "Mon, 23 Nov 2026 08:33:36 GMT",
-      "published_at_utc": "2026-11-23T08:33:36+00:00",
-      "published_at_tehran": "2026-11-23T12:03:36+03:30",
-      "collected_at": "2026-11-24T00:02:52.894251+00:00"
+      "collected_at": "2026-11-24T01:30:28.613616+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -116,7 +116,19 @@
       "published_at": "Mon, 23 Nov 2026 09:27:22 GMT",
       "published_at_utc": "2026-11-23T09:27:22+00:00",
       "published_at_tehran": "2026-11-23T12:57:22+03:30",
-      "collected_at": "2026-11-24T00:02:52.894271+00:00"
+      "collected_at": "2026-11-24T01:30:28.613659+00:00"
+    },
+    {
+      "publisher": "BBC Persian",
+      "source_mode": "publisher_website_rss",
+      "title": "تهدید ترامپ به جنگ دوباره و «بلندپروازی‌های هسته‌ای» ایران",
+      "description": "۹ ماه پس از آغاز جنگ آمریکا و ایران، رسانه‌های آمریکایی در حالی که عملکرد گذشته دولت را زیر سوال می‌برند، با نگرانی به آینده این درگیری نیز می‌نگرند. نشریه آتلانتیک می‌نویسد دولت ترامپ هنوز تصویر روشنی از هزینه‌های مرحله پیشین جنگ به کنگره و افکار عمومی ارائه نکرده و دسترسی به این اطلاعات را محدود کرده است.",
+      "article_url": "https://www.bbc.com/persian/articles/cqlykz23yjy3o?at_medium=RSS&at_campaign=rss",
+      "media_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8108/live/15d1a180-e717-11f1-9c93-b5d142ad154c.jpg",
+      "published_at": "Mon, 23 Nov 2026 08:33:36 GMT",
+      "published_at_utc": "2026-11-23T08:33:36+00:00",
+      "published_at_tehran": "2026-11-23T12:03:36+03:30",
+      "collected_at": "2026-11-24T01:30:28.613702+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -128,7 +140,7 @@
       "published_at": "",
       "published_at_utc": null,
       "published_at_tehran": null,
-      "collected_at": "2026-11-24T00:02:52.894287+00:00"
+      "collected_at": "2026-11-24T01:30:28.613732+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -140,19 +152,67 @@
       "published_at": "Sun, 22 Nov 2026 08:14:12 GMT",
       "published_at_utc": "2026-11-22T08:14:12+00:00",
       "published_at_tehran": "2026-11-22T11:44:12+03:30",
-      "collected_at": "2026-11-24T00:02:52.894308+00:00"
+      "collected_at": "2026-11-24T01:30:28.613775+00:00"
     },
     {
-      "publisher": "BBC Persian",
+      "publisher": "ISNA",
       "source_mode": "publisher_website_rss",
-      "title": "از مجتبی خامنه‌ای تا مستر اکسپلوسیو؛ فهرست «۵۰۰ مسلمان» با چه معیاری تهیه شده است؟",
-      "description": "فهرستی که هر سال با عنوان «۵۰۰ مسلمان تاثیرگذار» منتشر می‌شود، امسال از جنگ ایران و تحولات منطقه تاثیر گرفته است؛ از صعود رهبران پاکستان تا حضور چهره‌های متفاوت ایرانی.",
-      "article_url": "https://www.bbc.com/persian/articles/c6pw4x0lp4deo?at_medium=RSS&at_campaign=rss",
-      "media_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0748/live/ba0f1710-e50e-11f1-b40b-5f46e8cf687c.png",
-      "published_at": "Sat, 21 Nov 2026 06:09:26 GMT",
-      "published_at_utc": "2026-11-21T06:09:26+00:00",
-      "published_at_tehran": "2026-11-21T09:39:26+03:30",
-      "collected_at": "2026-11-24T00:02:52.894329+00:00"
+      "title": "شهر در انتظار «فیبرنوری» اما قربانی بازی‌های اداری",
+      "description": "پروژه فیبرنوری که نقش بسزایی در راه‌اندازی ۵G و افزایش سرعت اینترنت در ایران دارد، به محل اختلاف میان مخابرات و شهرداری بر سر تعرفه حفاری تبدیل شده است. این پروژه در شرایطی با فراز و نشیب‌هایی در حال اجراست که برگزاری نشست‌های دوجانبه میان مسئولان وزارت ارتباطات و مجموعه مدیریت شهری فعلا توافقی به دنبال نداشته و رفع موانع موجود در حد ابراز امیدواری باقی مانده است.",
+      "article_url": "https://www.isna.ir/news/1405090201091/%D9%81%DB%8C%D8%A8%D8%B1%D9%86%D9%88%D8%B1%DB%8C-%D8%AF%D8%B1-%D9%BE%DB%8C%DA%86-%D9%88%D8%AE%D9%85-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%B4%D9%87%D8%B1%DB%8C-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA-%D9%BE%D8%B4%D8%AA-%D8%B3%D8%AF-%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%81%D8%A7%D8%AA",
+      "media_url": "https://cdn.isna.ir/d/2026/11/22/4/64065506.jpg",
+      "published_at": "Tue, 24 Nov 2026 01:30:00 GMT",
+      "published_at_utc": "2026-11-24T01:30:00+00:00",
+      "published_at_tehran": "2026-11-24T05:00:00+03:30",
+      "collected_at": "2026-11-24T01:30:30.010577+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "رینگ بوکس خراسان رضوی زیر سایه کمبودهای مالی و زیرساختی",
+      "description": "بوکس، رشته‌ای که شاید همانند کشتی و فوتبال مورد توجه مردم و مسئولین نباشد، اما از گزینه‌های مدال‌آوری در عرصه‌های بین‌المللی است؛ به طوری که یک بوکسور مشهدی پس از ۲۹ سال توانست مدال برنز جهانی را کسب کند. بی‌تردید کمبودها و چالش‌های متعددی به‌ویژه در خراسان رضوی بر رینگ بوکس سایه افکندند که نیازمند توجه بیشتر مسئولان است.",
+      "article_url": "https://www.isna.ir/news/1405090301571/%D8%B1%DB%8C%D9%86%DA%AF-%D8%A8%D9%88%DA%A9%D8%B3-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%B1%D8%B6%D9%88%DB%8C-%D8%B2%DB%8C%D8%B1-%D8%B3%D8%A7%DB%8C%D9%87-%DA%A9%D9%85%D8%A8%D9%88%D8%AF%D9%87%D8%A7%DB%8C-%D9%85%D8%A7%D9%84%DB%8C-%D9%88-%D8%B2%DB%8C%D8%B1%D8%B3%D8%A7%D8%AE%D8%AA%DB%8C",
+      "media_url": "https://cdn.isna.ir/d/2025/03/11/4/63387405.jpg",
+      "published_at": "Tue, 24 Nov 2026 01:10:00 GMT",
+      "published_at_utc": "2026-11-24T01:10:00+00:00",
+      "published_at_tehran": "2026-11-24T04:40:00+03:30",
+      "collected_at": "2026-11-24T01:30:30.010641+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "بیش از ۳۵۰۰ پرواز در آمریکا با تاخیر مواجه یا لغو شده‌اند",
+      "description": "بر اساس داده‌های وب‌سایت ردیابی پرواز «فلایت‌اِویر» که خبرگزاری ریانووستی بررسی کرده است، تنها در روز دوشنبه بیش از ۳۵۰۰ پرواز در آمریکا با تاخیر مواجه یا لغو شده‌اند.",
+      "article_url": "https://www.isna.ir/news/1405090301583/%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B3%DB%B5%DB%B0%DB%B0-%D9%BE%D8%B1%D9%88%D8%A7%D8%B2-%D8%AF%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D8%A7-%D8%AA%D8%A7%D8%AE%DB%8C%D8%B1-%D9%85%D9%88%D8%A7%D8%AC%D9%87-%DB%8C%D8%A7-%D9%84%D8%BA%D9%88-%D8%B4%D8%AF%D9%87-%D8%A7%D9%86%D8%AF",
+      "media_url": "https://cdn.isna.ir/d/2019/05/16/4/57878203.jpg",
+      "published_at": "Tue, 24 Nov 2026 00:39:43 GMT",
+      "published_at_utc": "2026-11-24T00:39:43+00:00",
+      "published_at_tehran": "2026-11-24T04:09:43+03:30",
+      "collected_at": "2026-11-24T01:30:30.010693+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "یک خوشنویس: هنر خوشنویسی نباید در برابر تحولات فناوری منفعل بماند",
+      "description": "یک هنرمند خوشنویس با تأکید بر ضرورت مواجهه فعالانه با تحولات فناوری، گفت: فضای مجازی و هوش مصنوعی در کنار تهدیدهایی که برای هنر خوشنویسی ایجاد می‌کنند، ظرفیت‌هایی برای آموزش، معرفی و ترویج این هنر دارند که بهره‌گیری از آن‌ها به برنامه‌ریزی و حمایت نهادهای فرهنگی نیازمند است.",
+      "article_url": "https://www.isna.ir/news/1405090301570/%DB%8C%DA%A9-%D8%AE%D9%88%D8%B4%D9%86%D9%88%DB%8C%D8%B3-%D9%87%D9%86%D8%B1-%D8%AE%D9%88%D8%B4%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%86%D8%A8%D8%A7%DB%8C%D8%AF-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%AA%D8%AD%D9%88%D9%84%D8%A7%D8%AA-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D9%85%D9%86%D9%81%D8%B9%D9%84-%D8%A8%D9%85%D8%A7%D9%86%D8%AF",
+      "media_url": "https://cdn.isna.ir/d/off/khorasan/2026/11/23/4/64066181.jpg",
+      "published_at": "Tue, 24 Nov 2026 00:37:00 GMT",
+      "published_at_utc": "2026-11-24T00:37:00+00:00",
+      "published_at_tehran": "2026-11-24T04:07:00+03:30",
+      "collected_at": "2026-11-24T01:30:30.010742+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "قطره‌های چشمی به کبد آسیب می‌رسانند؟",
+      "description": "نتایج پژوهش آزمایشگاهی نشان می‌دهد ماده شیمیایی مورد استفاده در برخی از قطره‌های چشمی مخصوص خشکی چشم ممکن است به شیوه‌ای غیرمنتظره بر سلول‌های کبدی تاثیر بگذارد.",
+      "article_url": "https://www.isna.ir/news/1405090201564/%D9%82%D8%B7%D8%B1%D9%87-%D9%87%D8%A7%DB%8C-%DA%86%D8%B4%D9%85%DB%8C-%D8%A8%D9%87-%DA%A9%D8%A8%D8%AF-%D8%A2%D8%B3%DB%8C%D8%A8-%D9%85%DB%8C-%D8%B1%D8%B3%D8%A7%D9%86%D9%86%D8%AF",
+      "media_url": "https://cdn.isna.ir/d/off/khorasan/2026/11/23/4/64066820.jpg",
+      "published_at": "Tue, 24 Nov 2026 00:15:00 GMT",
+      "published_at_utc": "2026-11-24T00:15:00+00:00",
+      "published_at_tehran": "2026-11-24T03:45:00+03:30",
+      "collected_at": "2026-11-24T01:30:30.010798+00:00"
     },
     {
       "publisher": "ISNA",
@@ -164,7 +224,7 @@
       "published_at": "Mon, 23 Nov 2026 23:47:00 GMT",
       "published_at_utc": "2026-11-23T23:47:00+00:00",
       "published_at_tehran": "2026-11-24T03:17:00+03:30",
-      "collected_at": "2026-11-24T00:02:55.326123+00:00"
+      "collected_at": "2026-11-24T01:30:30.010843+00:00"
     },
     {
       "publisher": "ISNA",
@@ -176,7 +236,7 @@
       "published_at": "Mon, 23 Nov 2026 23:31:00 GMT",
       "published_at_utc": "2026-11-23T23:31:00+00:00",
       "published_at_tehran": "2026-11-24T03:01:00+03:30",
-      "collected_at": "2026-11-24T00:02:55.326163+00:00"
+      "collected_at": "2026-11-24T01:30:30.010888+00:00"
     },
     {
       "publisher": "ISNA",
@@ -188,7 +248,7 @@
       "published_at": "Mon, 23 Nov 2026 23:00:00 GMT",
       "published_at_utc": "2026-11-23T23:00:00+00:00",
       "published_at_tehran": "2026-11-24T02:30:00+03:30",
-      "collected_at": "2026-11-24T00:02:55.326189+00:00"
+      "collected_at": "2026-11-24T01:30:30.010939+00:00"
     },
     {
       "publisher": "ISNA",
@@ -200,7 +260,7 @@
       "published_at": "Mon, 23 Nov 2026 22:45:00 GMT",
       "published_at_utc": "2026-11-23T22:45:00+00:00",
       "published_at_tehran": "2026-11-24T02:15:00+03:30",
-      "collected_at": "2026-11-24T00:02:55.326213+00:00"
+      "collected_at": "2026-11-24T01:30:30.010982+00:00"
     },
     {
       "publisher": "ISNA",
@@ -212,7 +272,7 @@
       "published_at": "Mon, 23 Nov 2026 22:30:00 GMT",
       "published_at_utc": "2026-11-23T22:30:00+00:00",
       "published_at_tehran": "2026-11-24T02:00:00+03:30",
-      "collected_at": "2026-11-24T00:02:55.326236+00:00"
+      "collected_at": "2026-11-24T01:30:30.011024+00:00"
     },
     {
       "publisher": "ISNA",
@@ -224,7 +284,7 @@
       "published_at": "Mon, 23 Nov 2026 22:15:00 GMT",
       "published_at_utc": "2026-11-23T22:15:00+00:00",
       "published_at_tehran": "2026-11-24T01:45:00+03:30",
-      "collected_at": "2026-11-24T00:02:55.326260+00:00"
+      "collected_at": "2026-11-24T01:30:30.011082+00:00"
     },
     {
       "publisher": "ISNA",
@@ -236,67 +296,43 @@
       "published_at": "Mon, 23 Nov 2026 22:00:00 GMT",
       "published_at_utc": "2026-11-23T22:00:00+00:00",
       "published_at_tehran": "2026-11-24T01:30:00+03:30",
-      "collected_at": "2026-11-24T00:02:55.326282+00:00"
+      "collected_at": "2026-11-24T01:30:30.011134+00:00"
     },
     {
-      "publisher": "ISNA",
+      "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "کشته شدن کارمند سازمان ملل در حمله اسرائیل به نوار غزه",
-      "description": "آژانس امدادرسانی و کاریابی سازمان ملل برای آوارگان فلسطینی (آنروا) روز دوشنبه اعلام کرد یک کارمند این سازمان در حمله اسرائیل به نوار غزه کشته و سه نفر دیگر زخمی شدند.",
-      "article_url": "https://www.isna.ir/news/1405090301579/%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%DA%A9%D8%A7%D8%B1%D9%85%D9%86%D8%AF-%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86-%D9%85%D9%84%D9%84-%D8%AF%D8%B1-%D8%AD%D9%85%D9%84%D9%87-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D8%A8%D9%87-%D9%86%D9%88%D8%A7%D8%B1-%D8%BA%D8%B2%D9%87",
-      "media_url": "https://cdn.isna.ir/d/2025/12/11/4/63688229.jpg",
-      "published_at": "Mon, 23 Nov 2026 21:40:32 GMT",
-      "published_at_utc": "2026-11-23T21:40:32+00:00",
-      "published_at_tehran": "2026-11-24T01:10:32+03:30",
-      "collected_at": "2026-11-24T00:02:55.326303+00:00"
+      "title": "بلومبرگ: پارلمان فنلاند خواستار ساخت موانع ضدتانک در مرز با روسیه است",
+      "description": "تهران- ایرنا- خبرگزاری بلومبرگ در گزارشی با اشاره به افزایش تنش میان روسیه و اعضای سازمان پیمان آتلانتیک شمالی (ناتو) نوشت: اعضای کمیته امور دفاعی پارلمان فنلاند از طرح و ایده بررسی امکان ساخت موانع ضدتانک و سایر استحکامات و سازه های دفاعی در مرز با روسیه در زمان صلح حمایت می‌کنند.",
+      "article_url": "https://www.irna.ir/news/86330719/%D8%A8%D9%84%D9%88%D9%85%D8%A8%D8%B1%DA%AF-%D9%BE%D8%A7%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D9%81%D9%86%D9%84%D8%A7%D9%86%D8%AF-%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1-%D8%B3%D8%A7%D8%AE%D8%AA-%D9%85%D9%88%D8%A7%D9%86%D8%B9-%D8%B6%D8%AF%D8%AA%D8%A7%D9%86%DA%A9-%D8%AF%D8%B1-%D9%85%D8%B1%D8%B2-%D8%A8%D8%A7-%D8%B1%D9%88%D8%B3%DB%8C%D9%87",
+      "media_url": "https://img9.irna.ir/d/r2/2026/11/24/4/173261949.jpg",
+      "published_at": "Tue, 24 Nov 2026 01:16:30 GMT",
+      "published_at_utc": "2026-11-24T01:16:30+00:00",
+      "published_at_tehran": "2026-11-24T04:46:30+03:30",
+      "collected_at": "2026-11-24T01:30:31.170763+00:00"
     },
     {
-      "publisher": "ISNA",
+      "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "تراشه مغزی آمریکایی چگونه فکر را به عمل تبدیل می‌کند؟",
-      "description": "در این گزارش توضیح می‌دهیم که تراشه‌های مغزی نظیر «نورالینک N1» چگونه قصد و فکر و نیت را به عمل تبدیل می‌کنند.",
-      "article_url": "https://www.isna.ir/news/1405090201334/%D8%AA%D8%B1%D8%A7%D8%B4%D9%87-%D9%85%D8%BA%D8%B2%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%DA%86%DA%AF%D9%88%D9%86%D9%87-%D9%81%DA%A9%D8%B1-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%B9%D9%85%D9%84-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF",
-      "media_url": "https://cdn.isna.ir/d/2026/11/23/4/64066415.jpg",
-      "published_at": "Mon, 23 Nov 2026 21:40:00 GMT",
-      "published_at_utc": "2026-11-23T21:40:00+00:00",
-      "published_at_tehran": "2026-11-24T01:10:00+03:30",
-      "collected_at": "2026-11-24T00:02:55.326323+00:00"
+      "title": "تاکر کارلسون: دولت ترامپ فاسد است",
+      "description": "تهران- ایرنا- تاکر کارلسون چهره سرشناس رسانه‌ای محافظه‌کار آمریکا در اظهاراتی با بیان اینکه قرار است دو سال باقی مانده از دوران ریاست جمهوری دونالد ترامپ را صرف صحبت درباره دولت او کنیم، تاکید کرد که دولت ترامپ یک دولت فاسد و تهوع‌آور است.",
+      "article_url": "https://www.irna.ir/news/86330709/%D8%AA%D8%A7%DA%A9%D8%B1-%DA%A9%D8%A7%D8%B1%D9%84%D8%B3%D9%88%D9%86-%D8%AF%D9%88%D9%84%D8%AA-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D9%81%D8%A7%D8%B3%D8%AF-%D8%A7%D8%B3%D8%AA",
+      "media_url": "https://img9.irna.ir/d/r2/2026/11/24/4/173261948.jpg",
+      "published_at": "Tue, 24 Nov 2026 00:24:52 GMT",
+      "published_at_utc": "2026-11-24T00:24:52+00:00",
+      "published_at_tehran": "2026-11-24T03:54:52+03:30",
+      "collected_at": "2026-11-24T01:30:31.170825+00:00"
     },
     {
-      "publisher": "ISNA",
+      "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "نیروی دریایی سپاه: سه نفتکش متخلف در تنگه هرمز منفجر شدند",
-      "description": "روابط‌عمومی نیروی دریایی سپاه پاسداران انقلاب اسلامی اعلام کرد: طی ساعات گذشته، سه فروند نفتکش متخلف در آب‌های تنگه هرمز بر اثر برخورد با مین‌های دریایی، دچار انفجار و آتش‌سوزی بسیار شدید شدند.",
-      "article_url": "https://www.isna.ir/news/1405090301578/%D9%86%DB%8C%D8%B1%D9%88%DB%8C-%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C%DB%8C-%D8%B3%D9%BE%D8%A7%D9%87-%D8%B3%D9%87-%D9%86%D9%81%D8%AA%DA%A9%D8%B4-%D9%85%D8%AA%D8%AE%D9%84%D9%81-%D8%AF%D8%B1-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D9%85%D9%86%D9%81%D8%AC%D8%B1-%D8%B4%D8%AF%D9%86%D8%AF",
-      "media_url": "https://cdn.isna.ir/d/2026/11/24/4/64066963.jpg",
-      "published_at": "Mon, 23 Nov 2026 21:23:50 GMT",
-      "published_at_utc": "2026-11-23T21:23:50+00:00",
-      "published_at_tehran": "2026-11-24T00:53:50+03:30",
-      "collected_at": "2026-11-24T00:02:55.326342+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "حضور بیش از ۳۰۰ شرکت و هسته فناور و ۳۰ شرکت دانش بنیان در کهگیلویه و بویراحمد",
-      "description": "رئیس پارک علم و فناوری استان کهگیلویه و بویراحمد از حضور بیش از ۳۰۰ شرکت و هسته فناور و بیش از ۳۰ شرکت دانش بنیان در این استان خبر داد.",
-      "article_url": "https://www.isna.ir/news/1405090301577/%D8%AD%D8%B6%D9%88%D8%B1-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B3%DB%B0%DB%B0-%D8%B4%D8%B1%DA%A9%D8%AA-%D9%88-%D9%87%D8%B3%D8%AA%D9%87-%D9%81%D9%86%D8%A7%D9%88%D8%B1-%D9%88-%DB%B3%DB%B0-%D8%B4%D8%B1%DA%A9%D8%AA-%D8%AF%D8%A7%D9%86%D8%B4-%D8%A8%D9%86%DB%8C%D8%A7%D9%86-%D8%AF%D8%B1-%DA%A9%D9%87%DA%AF%DB%8C%D9%84%D9%88%DB%8C%D9%87",
-      "media_url": "https://cdn.isna.ir/d/2026/11/23/4/64066956.jpg",
-      "published_at": "Mon, 23 Nov 2026 21:10:36 GMT",
-      "published_at_utc": "2026-11-23T21:10:36+00:00",
-      "published_at_tehran": "2026-11-24T00:40:36+03:30",
-      "collected_at": "2026-11-24T00:02:55.326362+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "بهره‌برداری بیش از ۹۲ میلیارد تومان طرح عمرانی و محرومیت‌زدایی در شهرستان نرماشیر",
-      "description": "همزمان با هفته بسیج و با حضور فرمانده سپاه ثارالله استان کرمان، فرمانده سپاه نرماشیر، امام جمعه، فرماندار، جمعی از خیران و رؤسای ادارات شهرستان چندین طرح عمرانی و محرومیت‌زدایی با اعتبار ۹۲ میلیارد تومان افتتاح شد.",
-      "article_url": "https://www.isna.ir/news/1405090301576/%D8%A8%D9%87%D8%B1%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B9%DB%B2-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%B7%D8%B1%D8%AD-%D8%B9%D9%85%D8%B1%D8%A7%D9%86%DB%8C-%D9%88-%D9%85%D8%AD%D8%B1%D9%88%D9%85%DB%8C%D8%AA-%D8%B2%D8%AF%D8%A7%DB%8C%DB%8C",
-      "media_url": "https://cdn.isna.ir/d/2026/11/24/4/64066961.jpg",
-      "published_at": "Mon, 23 Nov 2026 21:03:14 GMT",
-      "published_at_utc": "2026-11-23T21:03:14+00:00",
-      "published_at_tehran": "2026-11-24T00:33:14+03:30",
-      "collected_at": "2026-11-24T00:02:55.326383+00:00"
+      "title": "حمله عربستان به پایتخت یمن",
+      "description": "تهران- ایرنا- منابع خبری گزارش دادند که جنگنده‌های عربستان مناطقی از پایتخت یمن را بمباران کرده‌اند.",
+      "article_url": "https://www.irna.ir/news/86330718/%D8%AD%D9%85%D9%84%D9%87-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%87-%D9%BE%D8%A7%DB%8C%D8%AA%D8%AE%D8%AA-%DB%8C%D9%85%D9%86",
+      "media_url": "https://img9.irna.ir/d/r2/2026/11/24/4/173261947.jpg",
+      "published_at": "Tue, 24 Nov 2026 00:05:26 GMT",
+      "published_at_utc": "2026-11-24T00:05:26+00:00",
+      "published_at_tehran": "2026-11-24T03:35:26+03:30",
+      "collected_at": "2026-11-24T01:30:31.170875+00:00"
     },
     {
       "publisher": "IRNA",
@@ -308,7 +344,7 @@
       "published_at": "Mon, 23 Nov 2026 23:53:59 GMT",
       "published_at_utc": "2026-11-23T23:53:59+00:00",
       "published_at_tehran": "2026-11-24T03:23:59+03:30",
-      "collected_at": "2026-11-24T00:02:56.703790+00:00"
+      "collected_at": "2026-11-24T01:30:31.170922+00:00"
     },
     {
       "publisher": "IRNA",
@@ -320,7 +356,7 @@
       "published_at": "Mon, 23 Nov 2026 23:42:13 GMT",
       "published_at_utc": "2026-11-23T23:42:13+00:00",
       "published_at_tehran": "2026-11-24T03:12:13+03:30",
-      "collected_at": "2026-11-24T00:02:56.703830+00:00"
+      "collected_at": "2026-11-24T01:30:31.170965+00:00"
     },
     {
       "publisher": "IRNA",
@@ -332,7 +368,7 @@
       "published_at": "Mon, 23 Nov 2026 23:39:31 GMT",
       "published_at_utc": "2026-11-23T23:39:31+00:00",
       "published_at_tehran": "2026-11-24T03:09:31+03:30",
-      "collected_at": "2026-11-24T00:02:56.703857+00:00"
+      "collected_at": "2026-11-24T01:30:31.171009+00:00"
     },
     {
       "publisher": "IRNA",
@@ -344,7 +380,7 @@
       "published_at": "Mon, 23 Nov 2026 23:28:19 GMT",
       "published_at_utc": "2026-11-23T23:28:19+00:00",
       "published_at_tehran": "2026-11-24T02:58:19+03:30",
-      "collected_at": "2026-11-24T00:02:56.703881+00:00"
+      "collected_at": "2026-11-24T01:30:31.171052+00:00"
     },
     {
       "publisher": "IRNA",
@@ -356,7 +392,7 @@
       "published_at": "Mon, 23 Nov 2026 23:07:58 GMT",
       "published_at_utc": "2026-11-23T23:07:58+00:00",
       "published_at_tehran": "2026-11-24T02:37:58+03:30",
-      "collected_at": "2026-11-24T00:02:56.703904+00:00"
+      "collected_at": "2026-11-24T01:30:31.171141+00:00"
     },
     {
       "publisher": "IRNA",
@@ -368,7 +404,7 @@
       "published_at": "Mon, 23 Nov 2026 22:49:26 GMT",
       "published_at_utc": "2026-11-23T22:49:26+00:00",
       "published_at_tehran": "2026-11-24T02:19:26+03:30",
-      "collected_at": "2026-11-24T00:02:56.703942+00:00"
+      "collected_at": "2026-11-24T01:30:31.171190+00:00"
     },
     {
       "publisher": "IRNA",
@@ -380,7 +416,7 @@
       "published_at": "Mon, 23 Nov 2026 22:27:30 GMT",
       "published_at_utc": "2026-11-23T22:27:30+00:00",
       "published_at_tehran": "2026-11-24T01:57:30+03:30",
-      "collected_at": "2026-11-24T00:02:56.703965+00:00"
+      "collected_at": "2026-11-24T01:30:31.171233+00:00"
     },
     {
       "publisher": "IRNA",
@@ -392,7 +428,7 @@
       "published_at": "Mon, 23 Nov 2026 22:21:22 GMT",
       "published_at_utc": "2026-11-23T22:21:22+00:00",
       "published_at_tehran": "2026-11-24T01:51:22+03:30",
-      "collected_at": "2026-11-24T00:02:56.703989+00:00"
+      "collected_at": "2026-11-24T01:30:31.171275+00:00"
     },
     {
       "publisher": "IRNA",
@@ -404,43 +440,7 @@
       "published_at": "Mon, 23 Nov 2026 22:14:44 GMT",
       "published_at_utc": "2026-11-23T22:14:44+00:00",
       "published_at_tehran": "2026-11-24T01:44:44+03:30",
-      "collected_at": "2026-11-24T00:02:56.704009+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "توافق عراق و مصر برای لغو روادید میان دو کشور",
-      "description": "تهران- ایرنا- نخست وزیر عراق از توافق بغداد و قاهره برای لغو روادید میان دو کشور خبر داد.",
-      "article_url": "https://www.irna.ir/news/86330702/%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%B9%D8%B1%D8%A7%D9%82-%D9%88-%D9%85%D8%B5%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%84%D8%BA%D9%88-%D8%B1%D9%88%D8%A7%D8%AF%DB%8C%D8%AF-%D9%85%DB%8C%D8%A7%D9%86-%D8%AF%D9%88-%DA%A9%D8%B4%D9%88%D8%B1",
-      "media_url": "https://img9.irna.ir/d/r2/2026/11/24/4/173261917.jpg",
-      "published_at": "Mon, 23 Nov 2026 22:11:46 GMT",
-      "published_at_utc": "2026-11-23T22:11:46+00:00",
-      "published_at_tehran": "2026-11-24T01:41:46+03:30",
-      "collected_at": "2026-11-24T00:02:56.704030+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "فعال شدن آژیرهای خطر در ابها و جازان عربستان",
-      "description": "تهران- ایرنا- منابع خبری گزارش دادند که آژیرهای خطر در شهر ابها و منطقه جازان عربستان به صدا در آمده‌اند.",
-      "article_url": "https://www.irna.ir/news/86330703/%D9%81%D8%B9%D8%A7%D9%84-%D8%B4%D8%AF%D9%86-%D8%A2%DA%98%DB%8C%D8%B1%D9%87%D8%A7%DB%8C-%D8%AE%D8%B7%D8%B1-%D8%AF%D8%B1-%D8%A7%D8%A8%D9%87%D8%A7-%D9%88-%D8%AC%D8%A7%D8%B2%D8%A7%D9%86-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86",
-      "media_url": "https://img9.irna.ir/d/r2/2026/06/27/4/172950048.jpg",
-      "published_at": "Mon, 23 Nov 2026 22:01:17 GMT",
-      "published_at_utc": "2026-11-23T22:01:17+00:00",
-      "published_at_tehran": "2026-11-24T01:31:17+03:30",
-      "collected_at": "2026-11-24T00:02:56.704049+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "شمار مسمومان الکلی در نیشابور به ۱۹۱ نفر رسید/ ۴ فوتی و ۴ مورد مرگ مغزی تاکنون + فیلم",
-      "description": "مشهد- ایرنا- سرپرست معاونت درمان دانشگاه علوم پزشکی نیشابور گفت: شمار پذیرش مسمومان ناشی از مصرف مشروبات الکلی در بیمارستان های زیر پوشش این دانشگاه به ۱۹۱ نفر افزایش یافت.",
-      "article_url": "https://www.irna.ir/news/86330598/%D8%B4%D9%85%D8%A7%D8%B1-%D9%85%D8%B3%D9%85%D9%88%D9%85%D8%A7%D9%86-%D8%A7%D9%84%DA%A9%D9%84%DB%8C-%D8%AF%D8%B1-%D9%86%DB%8C%D8%B4%D8%A7%D8%A8%D9%88%D8%B1-%D8%A8%D9%87-%DB%B1%DB%B9%DB%B1-%D9%86%D9%81%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF-%DB%B4-%D9%81%D9%88%D8%AA%DB%8C-%D9%88-%DB%B4-%D9%85%D9%88%D8%B1%D8%AF",
-      "media_url": "https://img9.irna.ir/d/r2/2022/06/17/4/169752803.jpg",
-      "published_at": "Mon, 23 Nov 2026 21:44:54 GMT",
-      "published_at_utc": "2026-11-23T21:44:54+00:00",
-      "published_at_tehran": "2026-11-24T01:14:54+03:30",
-      "collected_at": "2026-11-24T00:02:56.704069+00:00"
+      "collected_at": "2026-11-24T01:30:31.171315+00:00"
     }
   ]
 }\n
