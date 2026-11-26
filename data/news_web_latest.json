@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T21:36:49.804209+00:00",
+  "generated_at": "2026-11-26T22:39:47.839222+00:00",
   "source_mode": "publisher_website_rss_separate_from_instagram",
   "publishing_enabled": false,
   "count": 36,
@@ -20,7 +20,19 @@
       "published_at": "",
       "published_at_utc": null,
       "published_at_tehran": null,
-      "collected_at": "2026-11-26T21:36:47.200914+00:00"
+      "collected_at": "2026-11-26T22:39:44.325602+00:00"
+    },
+    {
+      "publisher": "BBC Persian",
+      "source_mode": "publisher_website_rss",
+      "title": "زنی که همسرش با دادن دارو به او تجاوز می‌کرد، از پلیس پرسید: «آیا تقصیر من است؟»",
+      "description": "در دادگاهی در بریتانیا گفته شد زنی که همسرش به مدت ۲۰ سال او را بی‌هوش می‌کرد و مورد تجاوز قرار می‌داد، هنگام مراجعه به پلیس از ماموران پرسیده بود: «آیا تقصیر من است که او چنین کاری کرده است؟»",
+      "article_url": "https://www.bbc.com/persian/articles/cmlywr4v7zwlo?at_medium=RSS&at_campaign=rss",
+      "media_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0785/live/ea2f7af0-e9a2-11f1-b880-15b494ba858d.png",
+      "published_at": "Thu, 26 Nov 2026 21:42:06 GMT",
+      "published_at_utc": "2026-11-26T21:42:06+00:00",
+      "published_at_tehran": "2026-11-27T01:12:06+03:30",
+      "collected_at": "2026-11-26T22:39:44.325687+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -32,7 +44,7 @@
       "published_at": "Thu, 26 Nov 2026 19:58:59 GMT",
       "published_at_utc": "2026-11-26T19:58:59+00:00",
       "published_at_tehran": "2026-11-26T23:28:59+03:30",
-      "collected_at": "2026-11-26T21:36:47.201003+00:00"
+      "collected_at": "2026-11-26T22:39:44.325741+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -44,7 +56,7 @@
       "published_at": "Thu, 26 Nov 2026 13:55:37 GMT",
       "published_at_utc": "2026-11-26T13:55:37+00:00",
       "published_at_tehran": "2026-11-26T17:25:37+03:30",
-      "collected_at": "2026-11-26T21:36:47.201041+00:00"
+      "collected_at": "2026-11-26T22:39:44.325789+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -56,7 +68,7 @@
       "published_at": "Thu, 26 Nov 2026 13:47:16 GMT",
       "published_at_utc": "2026-11-26T13:47:16+00:00",
       "published_at_tehran": "2026-11-26T17:17:16+03:30",
-      "collected_at": "2026-11-26T21:36:47.201153+00:00"
+      "collected_at": "2026-11-26T22:39:44.325833+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -68,7 +80,7 @@
       "published_at": "Thu, 26 Nov 2026 14:25:59 GMT",
       "published_at_utc": "2026-11-26T14:25:59+00:00",
       "published_at_tehran": "2026-11-26T17:55:59+03:30",
-      "collected_at": "2026-11-26T21:36:47.201189+00:00"
+      "collected_at": "2026-11-26T22:39:44.325876+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -80,7 +92,7 @@
       "published_at": "Thu, 26 Nov 2026 13:54:43 GMT",
       "published_at_utc": "2026-11-26T13:54:43+00:00",
       "published_at_tehran": "2026-11-26T17:24:43+03:30",
-      "collected_at": "2026-11-26T21:36:47.201221+00:00"
+      "collected_at": "2026-11-26T22:39:44.325917+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -92,7 +104,7 @@
       "published_at": "Thu, 26 Nov 2026 07:18:29 GMT",
       "published_at_utc": "2026-11-26T07:18:29+00:00",
       "published_at_tehran": "2026-11-26T10:48:29+03:30",
-      "collected_at": "2026-11-26T21:36:47.201251+00:00"
+      "collected_at": "2026-11-26T22:39:44.325958+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -104,19 +116,7 @@
       "published_at": "Thu, 26 Nov 2026 05:43:33 GMT",
       "published_at_utc": "2026-11-26T05:43:33+00:00",
       "published_at_tehran": "2026-11-26T09:13:33+03:30",
-      "collected_at": "2026-11-26T21:36:47.201282+00:00"
-    },
-    {
-      "publisher": "BBC Persian",
-      "source_mode": "publisher_website_rss",
-      "title": "آمریکا با طرح اسپیس‌ایکس برای استقرار یک میلیون ماهواره در فضا موافقت کرد",
-      "description": "نهادهای نظارتی آمریکا به شرکت اسپیس‌ایکس مجوز داده‌اند تا یک میلیون ماهواره را در مدار زمین مستقر کند؛ اقدامی که با هدف ساخت مراکز داده در فضا انجام می‌شود و نخستین تاییدیه از این نوع به شمار می‌رود.",
-      "article_url": "https://www.bbc.com/persian/articles/cx7v2rvrlv2jo?at_medium=RSS&at_campaign=rss",
-      "media_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fd24/live/6ad00730-e95b-11f1-a094-5fdc692f3e33.jpg",
-      "published_at": "Thu, 26 Nov 2026 05:49:44 GMT",
-      "published_at_utc": "2026-11-26T05:49:44+00:00",
-      "published_at_tehran": "2026-11-26T09:19:44+03:30",
-      "collected_at": "2026-11-26T21:36:47.201309+00:00"
+      "collected_at": "2026-11-26T22:39:44.326001+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -128,7 +128,7 @@
       "published_at": "",
       "published_at_utc": null,
       "published_at_tehran": null,
-      "collected_at": "2026-11-26T21:36:47.201329+00:00"
+      "collected_at": "2026-11-26T22:39:44.326031+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -140,7 +140,7 @@
       "published_at": "Tue, 24 Nov 2026 08:19:37 GMT",
       "published_at_utc": "2026-11-24T08:19:37+00:00",
       "published_at_tehran": "2026-11-24T11:49:37+03:30",
-      "collected_at": "2026-11-26T21:36:47.201356+00:00"
+      "collected_at": "2026-11-26T22:39:44.326075+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -152,7 +152,91 @@
       "published_at": "Mon, 23 Nov 2026 08:33:36 GMT",
       "published_at_utc": "2026-11-23T08:33:36+00:00",
       "published_at_tehran": "2026-11-23T12:03:36+03:30",
-      "collected_at": "2026-11-26T21:36:47.201387+00:00"
+      "collected_at": "2026-11-26T22:39:44.326122+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "حمله پهپادی به جنوب عربستان",
+      "description": "منابع رسانه‌ای  از هدف قرار گرفتن شهرهای ابها و خمیس مشیط در جنوب عربستان خبر داد.",
+      "article_url": "https://www.isna.ir/news/1405090603700/%D8%AD%D9%85%D9%84%D9%87-%D9%BE%D9%87%D9%BE%D8%A7%D8%AF%DB%8C-%D8%A8%D9%87-%D8%AC%D9%86%D9%88%D8%A8-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86",
+      "media_url": "https://cdn.isna.ir/d/2026/11/27/4/64070782.jpg",
+      "published_at": "Thu, 26 Nov 2026 22:36:15 GMT",
+      "published_at_utc": "2026-11-26T22:36:15+00:00",
+      "published_at_tehran": "2026-11-27T02:06:15+03:30",
+      "collected_at": "2026-11-26T22:39:46.491026+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "مشارکت اساتید جوان در فعالیت‌های علمی؛ با انتقال تجربه اساتید باسابقه",
+      "description": "رئیس پژوهشگاه مطالعات اسلامی در علوم انسانی گفت: اساتید باسابقه باید به‌عنوان پدر، نه رقیب اساتید جوان، تجارب سازمانی خود را به اساتید جوان و حق التدریس منتقل کنند و مشارکت آنان را در فعالیت‌های علمی خود جاری و ساری سازند.",
+      "article_url": "https://www.isna.ir/news/1405090503657/%D9%85%D8%B4%D8%A7%D8%B1%DA%A9%D8%AA-%D8%A7%D8%B3%D8%A7%D8%AA%DB%8C%D8%AF-%D8%AC%D9%88%D8%A7%D9%86-%D8%AF%D8%B1-%D9%81%D8%B9%D8%A7%D9%84%DB%8C%D8%AA-%D9%87%D8%A7%DB%8C-%D8%B9%D9%84%D9%85%DB%8C-%D8%A8%D8%A7-%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84-%D8%AA%D8%AC%D8%B1%D8%A8%D9%87-%D8%A7%D8%B3%D8%A7%D8%AA%DB%8C%D8%AF",
+      "media_url": "https://cdn.isna.ir/d/2025/12/17/4/63696266.jpg",
+      "published_at": "Thu, 26 Nov 2026 22:30:00 GMT",
+      "published_at_utc": "2026-11-26T22:30:00+00:00",
+      "published_at_tehran": "2026-11-27T02:00:00+03:30",
+      "collected_at": "2026-11-26T22:39:46.491089+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "پیروزی میلان و یوونتوس در لیگ اروپا",
+      "description": "در جریان هفته پنجم لیگ اروپا، میلان و یوونتوس برابر رقبای خود به برتری رسیدند.",
+      "article_url": "https://www.isna.ir/news/1405090603699/%D9%BE%DB%8C%D8%B1%D9%88%D8%B2%DB%8C-%D9%85%DB%8C%D9%84%D8%A7%D9%86-%D9%88-%DB%8C%D9%88%D9%88%D9%86%D8%AA%D9%88%D8%B3-%D8%AF%D8%B1-%D9%84%DB%8C%DA%AF-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7",
+      "media_url": "https://cdn.isna.ir/d/2026/11/27/4/64070781.jpg",
+      "published_at": "Thu, 26 Nov 2026 22:10:01 GMT",
+      "published_at_utc": "2026-11-26T22:10:01+00:00",
+      "published_at_tehran": "2026-11-27T01:40:01+03:30",
+      "collected_at": "2026-11-26T22:39:46.491139+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "این قاتل باستانی به‌سرعت در برابر آنتی‌بیوتیک‌ها مقاوم می‌شود",
+      "description": "یک مطالعه جدید هشدار می‌دهد که یک قاتل باستانی که هزاران سال است گریبان‌گیر بشر شده است، به‌سرعت در حال مقاوم شدن در برابر آنتی‌بیوتیک‌ها است.",
+      "article_url": "https://www.isna.ir/news/1405090503520/%D8%A7%DB%8C%D9%86-%D9%82%D8%A7%D8%AA%D9%84-%D8%A8%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D8%A8%D9%87-%D8%B3%D8%B1%D8%B9%D8%AA-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%A2%D9%86%D8%AA%DB%8C-%D8%A8%DB%8C%D9%88%D8%AA%DB%8C%DA%A9-%D9%87%D8%A7-%D9%85%D9%82%D8%A7%D9%88%D9%85-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+      "media_url": "https://cdn.isna.ir/d/2026/11/26/4/64069999.jpg",
+      "published_at": "Thu, 26 Nov 2026 22:00:00 GMT",
+      "published_at_utc": "2026-11-26T22:00:00+00:00",
+      "published_at_tehran": "2026-11-27T01:30:00+03:30",
+      "collected_at": "2026-11-26T22:39:46.491187+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "مسئول ستاد اعتکاف کشور: از قطار انقلاب پیاده نشوید",
+      "description": "مسئول ستاد اعتکاف مرکزی کشور گفت: انقلاب اسلامی پیوسته به انقلاب صاحب‌الزمان(عج) است و نباید در فراز و نشیب‌های جنگی، اقتصادی، اجتماعی و سیاسی از قطار انقلاب پیاده شد.",
+      "article_url": "https://www.isna.ir/news/1405090603698/%D9%85%D8%B3%D8%A6%D9%88%D9%84-%D8%B3%D8%AA%D8%A7%D8%AF-%D8%A7%D8%B9%D8%AA%DA%A9%D8%A7%D9%81-%DA%A9%D8%B4%D9%88%D8%B1-%D8%A7%D8%B2-%D9%82%D8%B7%D8%A7%D8%B1-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8-%D9%BE%DB%8C%D8%A7%D8%AF%D9%87-%D9%86%D8%B4%D9%88%DB%8C%D8%AF",
+      "media_url": "https://cdn.isna.ir/d/2026/11/27/4/64070780.jpg",
+      "published_at": "Thu, 26 Nov 2026 21:47:09 GMT",
+      "published_at_utc": "2026-11-26T21:47:09+00:00",
+      "published_at_tehran": "2026-11-27T01:17:09+03:30",
+      "collected_at": "2026-11-26T22:39:46.491232+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "آنکتاد: رشد تجارت دریایی جهانی در ۲۰۲۶ صفر می‌شود",
+      "description": "آنکتاد روز پنج‌شنبه ۲۶ نوامبر اعلام کرد تجارت دریایی جهانی – که بیش از ۸۰ درصد کالاهای جهان از طریق آن جابه‌جا می‌شود – در سال ۲۰۲۶ به دلیل اختلالات در کشتیرانی و عدم قطعیت‌های تجاری ناشی از جنگ در خاورمیانه، دچار رکود خواهد شد.",
+      "article_url": "https://www.isna.ir/news/1405090503601/%D8%A2%D9%86%DA%A9%D8%AA%D8%A7%D8%AF-%D8%B1%D8%B4%D8%AF-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%DB%B2%DB%B0%DB%B2%DB%B6-%D8%B5%D9%81%D8%B1-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+      "media_url": "https://cdn.isna.ir/d/2026/06/02/4/63851880.jpg",
+      "published_at": "Thu, 26 Nov 2026 21:45:00 GMT",
+      "published_at_utc": "2026-11-26T21:45:00+00:00",
+      "published_at_tehran": "2026-11-27T01:15:00+03:30",
+      "collected_at": "2026-11-26T22:39:46.491275+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "افزایش بهره‌وری، راهبرد اصلی حفظ تولید در شرایط کاهش منابع آب",
+      "description": "معاون بهبود تولیدات گیاهی سازمان جهاد کشاورزی خراسان رضوی، با اشاره به کاهش یک میلیارد مترمکعبی منابع آب در دسترس بخش کشاورزی استان در سال زراعی جدید، گفت: با وجود محدودیت منابع آبی، تولید محصولات زراعی و باغی استان با اتکا به افزایش بهره‌وری، اصلاح الگوی کشت و توسعه روش‌های نوین آبیاری کاهش نیافته و تولید گندم در سال زراعی گذشته بیش از ۵۰ درصد افزایش داشته است.",
+      "article_url": "https://www.isna.ir/news/1405090503656/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%A8%D9%87%D8%B1%D9%87-%D9%88%D8%B1%DB%8C-%D8%B1%D8%A7%D9%87%D8%A8%D8%B1%D8%AF-%D8%A7%D8%B5%D9%84%DB%8C-%D8%AD%D9%81%D8%B8-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%AF%D8%B1-%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7-%DA%A9%D8%A7%D9%87%D8%B4-%D9%85%D9%86%D8%A7%D8%A8%D8%B9-%D8%A2%D8%A8",
+      "media_url": "https://cdn.isna.ir/d/2026/04/11/4/63801460.jpg",
+      "published_at": "Thu, 26 Nov 2026 21:45:00 GMT",
+      "published_at_utc": "2026-11-26T21:45:00+00:00",
+      "published_at_tehran": "2026-11-27T01:15:00+03:30",
+      "collected_at": "2026-11-26T22:39:46.491318+00:00"
     },
     {
       "publisher": "ISNA",
@@ -164,7 +248,7 @@
       "published_at": "Thu, 26 Nov 2026 21:32:22 GMT",
       "published_at_utc": "2026-11-26T21:32:22+00:00",
       "published_at_tehran": "2026-11-27T01:02:22+03:30",
-      "collected_at": "2026-11-26T21:36:48.765754+00:00"
+      "collected_at": "2026-11-26T22:39:46.491361+00:00"
     },
     {
       "publisher": "ISNA",
@@ -176,7 +260,7 @@
       "published_at": "Thu, 26 Nov 2026 21:27:00 GMT",
       "published_at_utc": "2026-11-26T21:27:00+00:00",
       "published_at_tehran": "2026-11-27T00:57:00+03:30",
-      "collected_at": "2026-11-26T21:36:48.765801+00:00"
+      "collected_at": "2026-11-26T22:39:46.491402+00:00"
     },
     {
       "publisher": "ISNA",
@@ -188,7 +272,7 @@
       "published_at": "Thu, 26 Nov 2026 21:09:56 GMT",
       "published_at_utc": "2026-11-26T21:09:56+00:00",
       "published_at_tehran": "2026-11-27T00:39:56+03:30",
-      "collected_at": "2026-11-26T21:36:48.765837+00:00"
+      "collected_at": "2026-11-26T22:39:46.491444+00:00"
     },
     {
       "publisher": "ISNA",
@@ -200,7 +284,7 @@
       "published_at": "Thu, 26 Nov 2026 21:00:53 GMT",
       "published_at_utc": "2026-11-26T21:00:53+00:00",
       "published_at_tehran": "2026-11-27T00:30:53+03:30",
-      "collected_at": "2026-11-26T21:36:48.765868+00:00"
+      "collected_at": "2026-11-26T22:39:46.491509+00:00"
     },
     {
       "publisher": "ISNA",
@@ -212,91 +296,91 @@
       "published_at": "Thu, 26 Nov 2026 20:49:00 GMT",
       "published_at_utc": "2026-11-26T20:49:00+00:00",
       "published_at_tehran": "2026-11-27T00:19:00+03:30",
-      "collected_at": "2026-11-26T21:36:48.765896+00:00"
+      "collected_at": "2026-11-26T22:39:46.491553+00:00"
     },
     {
-      "publisher": "ISNA",
+      "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "چرا برخی مدام نگران از دست دادن شریک زندگی خود هستند؟",
-      "description": "ترس از دست‌دادن عشق و نگرانی مداوم از طردشدن توسط شریک زندگی، یکی از مهم‌ترین دغدغه‌های روابط عاطفی است که در روان‌شناسی با مفاهیمی مانند دلبستگی اضطرابی، حساسیت به طردشدن و اضطراب رابطه‌ای بررسی می‌شود.این رفتارها لزوما نشانه ضعف شخصیت یا اختلال روانی نیستند؛ بلکه می‌توانند ریشه در تجربه‌های عاطفی گذشته، باور فرد درباره ارزشمندی خود و الگوهای دلبستگی شکل‌گرفته در طول زندگی او داشته باشند.",
-      "article_url": "https://www.isna.ir/news/1405090402747/%DA%86%D8%B1%D8%A7-%D8%A8%D8%B1%D8%AE%DB%8C-%D9%85%D8%AF%D8%A7%D9%85-%D9%86%DA%AF%D8%B1%D8%A7%D9%86-%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA-%D8%AF%D8%A7%D8%AF%D9%86-%D8%B4%D8%B1%DB%8C%DA%A9-%D8%B2%D9%86%D8%AF%DA%AF%DB%8C-%D8%AE%D9%88%D8%AF-%D9%87%D8%B3%D8%AA%D9%86%D8%AF",
-      "media_url": "https://cdn.isna.ir/d/2026/11/23/4/64066312.jpg",
-      "published_at": "Thu, 26 Nov 2026 20:48:00 GMT",
-      "published_at_utc": "2026-11-26T20:48:00+00:00",
-      "published_at_tehran": "2026-11-27T00:18:00+03:30",
-      "collected_at": "2026-11-26T21:36:48.765924+00:00"
+      "title": "حماس: ارتش اسرائیل همچنان به محاصره و سیاست گرسنگی دادن هدفمند ساکنان غزه ادامه می‌دهد",
+      "description": "تهران- ایرنا- جنبش مقاومت اسلامی فلسطین (حماس) در بیانیه‌ای با محکوم کردن تداوم حملات و نقض آتش‌بس از سوی کابینه بنیامین نتانیاهو، اعلام کرد که ارتش رژیم اسرائیل در چارچوب جنگ نسل‌کشی علیه نوار غزه، با وجود گذشت بیش از یک سال از امضای توافق آتش‌بس، نزدیک به یک هزار و ۷۰۰ فلسطینی را به شهادت رسانده است و همچنان به محاصره و سیاست گرسنگی دادن هدفمند به ساکنان این منطقه ادامه می‌دهد.",
+      "article_url": "https://www.irna.ir/news/86333630/%D8%AD%D9%85%D8%A7%D8%B3-%D8%A7%D8%B1%D8%AA%D8%B4-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D9%87%D9%85%DA%86%D9%86%D8%A7%D9%86-%D8%A8%D9%87-%D9%85%D8%AD%D8%A7%D8%B5%D8%B1%D9%87-%D9%88-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%DA%AF%D8%B1%D8%B3%D9%86%DA%AF%DB%8C-%D8%AF%D8%A7%D8%AF%D9%86-%D9%87%D8%AF%D9%81%D9%85%D9%86%D8%AF",
+      "media_url": "https://img9.irna.ir/d/r2/2026/10/06/4/173153197.jpg",
+      "published_at": "Thu, 26 Nov 2026 22:36:40 GMT",
+      "published_at_utc": "2026-11-26T22:36:40+00:00",
+      "published_at_tehran": "2026-11-27T02:06:40+03:30",
+      "collected_at": "2026-11-26T22:39:47.838703+00:00"
     },
     {
-      "publisher": "ISNA",
+      "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "جنگ تحمیلی علیه ایران بر تصمیم اوپک‌پلاس سایه انداخت",
-      "description": "دو نماینده اوپک‌پلاس گفتند که این گروه در نظر دارد سهمیه‌های تولید فعلی نفت خود را تا ژانویه تمدید کند، زیرا با ابهاماتی مانند تاثیر جنگ تحمیلی علیه ایران مواجه است.",
-      "article_url": "https://www.isna.ir/news/1405090503602/%D8%AC%D9%86%DA%AF-%D8%AA%D8%AD%D9%85%DB%8C%D9%84%DB%8C-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%B1-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%D8%A7%D9%88%D9%BE%DA%A9-%D9%BE%D9%84%D8%A7%D8%B3-%D8%B3%D8%A7%DB%8C%D9%87-%D8%A7%D9%86%D8%AF%D8%A7%D8%AE%D8%AA",
-      "media_url": "https://cdn.isna.ir/d/2026/11/01/4/64036219.jpg",
-      "published_at": "Thu, 26 Nov 2026 20:45:00 GMT",
-      "published_at_utc": "2026-11-26T20:45:00+00:00",
-      "published_at_tehran": "2026-11-27T00:15:00+03:30",
-      "collected_at": "2026-11-26T21:36:48.765950+00:00"
+      "title": "عواید وجوه متقاضیان باقی مانده از حج ۱۴۰۵ به حساب آنان واریز می‌شود",
+      "description": "تهران- ایرنا- معاون توسعه مدیریت و منابع سازمان حج و زیارت از محاسبه عواید حاصل از ماندگاری وجوه متقاضیان باقی مانده حج تمتع ۱۴۰۵ خبرداد و گفت: با پیگیری و هماهنگی سازمان با بانک ملی، عواید مالی وجوه این افراد که به حج مشرف نشدند ، متناسب با مدت زمان ماندگاری آن برآورد شده و به حساب مشمولان واریز می شود.",
+      "article_url": "https://www.irna.ir/news/86333629/%D8%B9%D9%88%D8%A7%DB%8C%D8%AF-%D9%88%D8%AC%D9%88%D9%87-%D9%85%D8%AA%D9%82%D8%A7%D8%B6%DB%8C%D8%A7%D9%86-%D8%A8%D8%A7%D9%82%DB%8C-%D9%85%D8%A7%D9%86%D8%AF%D9%87-%D8%A7%D8%B2-%D8%AD%D8%AC-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%A8%D9%87-%D8%AD%D8%B3%D8%A7%D8%A8-%D8%A2%D9%86%D8%A7%D9%86-%D9%88%D8%A7%D8%B1%DB%8C%D8%B2",
+      "media_url": "https://img9.irna.ir/d/r2/2026/11/27/4/173269537.jpg",
+      "published_at": "Thu, 26 Nov 2026 22:24:09 GMT",
+      "published_at_utc": "2026-11-26T22:24:09+00:00",
+      "published_at_tehran": "2026-11-27T01:54:09+03:30",
+      "collected_at": "2026-11-26T22:39:47.838767+00:00"
     },
     {
-      "publisher": "ISNA",
+      "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "وقوع زلزله با بزرگای ۴.۱ در کلاته خیج سمنان",
-      "description": "زلزله‌ای با بزرگای ۴.۱ پنجشنبه شب حوالی «کلاته خیج» استان سمنان را لرزاند.",
-      "article_url": "https://www.isna.ir/news/1405090603694/%D9%88%D9%82%D9%88%D8%B9-%D8%B2%D9%84%D8%B2%D9%84%D9%87-%D8%A8%D8%A7-%D8%A8%D8%B2%D8%B1%DA%AF%D8%A7%DB%8C-%DB%B4-%DB%B1-%D8%AF%D8%B1-%DA%A9%D9%84%D8%A7%D8%AA%D9%87-%D8%AE%DB%8C%D8%AC-%D8%B3%D9%85%D9%86%D8%A7%D9%86",
-      "media_url": "https://cdn.isna.ir/d/2026/10/20/4/64021859.jpg",
-      "published_at": "Thu, 26 Nov 2026 20:37:55 GMT",
-      "published_at_utc": "2026-11-26T20:37:55+00:00",
-      "published_at_tehran": "2026-11-27T00:07:55+03:30",
-      "collected_at": "2026-11-26T21:36:48.765990+00:00"
+      "title": "حسین‌زاده: زنجیره فروش محصولات روستایی ایلام به بازار ملی متصل می‌شود",
+      "description": "ایلام- ایرنا- معاون رئیس‌جمهور در امور توسعه روستایی و مناطق محروم از اجرای آزمایشی طرح اتصال بازارهای محلی به شبکه فروش ملی در استان ایلام خبر داد و گفت‌ که با ایجاد این زنجیره محصولات روستایی با قیمت واقعی به دست مصرف‌کنندگان می‌رسد و سهم واسطه‌ها از ارزش افزوده تولید کاهش می‌یابد.",
+      "article_url": "https://www.irna.ir/news/86333617/%D8%AD%D8%B3%DB%8C%D9%86-%D8%B2%D8%A7%D8%AF%D9%87-%D8%B2%D9%86%D8%AC%DB%8C%D8%B1%D9%87-%D9%81%D8%B1%D9%88%D8%B4-%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA-%D8%B1%D9%88%D8%B3%D8%AA%D8%A7%DB%8C%DB%8C-%D8%A7%DB%8C%D9%84%D8%A7%D9%85-%D8%A8%D9%87-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%85%D9%84%DB%8C-%D9%85%D8%AA%D8%B5%D9%84",
+      "media_url": "https://img9.irna.ir/d/r2/2026/11/27/4/173269502.jpg",
+      "published_at": "Thu, 26 Nov 2026 22:02:17 GMT",
+      "published_at_utc": "2026-11-26T22:02:17+00:00",
+      "published_at_tehran": "2026-11-27T01:32:17+03:30",
+      "collected_at": "2026-11-26T22:39:47.838817+00:00"
     },
     {
-      "publisher": "ISNA",
+      "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "اظهارات سرمربی پرسپولیس درباره استقلال/ کار سخت وریا غفوری؟",
-      "description": "ورزش ایران و جهان، روز پنجشنبه (پنجم آذر ماه) با اتفاقات مختلفی از جمله تعریف سرمربی پرسپولیس از عملکرد استقلال در آسیا، پایان نیم فصل لیگ برتر فوتسال ایران، کسب مدال تاریخی پینگ‌پنگ ایران توسط بنیامین فرجی و پایان هفته پنجم لیگ قهرمانان اروپا، همراه بود.",
-      "article_url": "https://www.isna.ir/news/1405090503693/%D8%A7%D8%B8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B3%D8%B1%D9%85%D8%B1%D8%A8%DB%8C-%D9%BE%D8%B1%D8%B3%D9%BE%D9%88%D9%84%DB%8C%D8%B3-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%DA%A9%D8%A7%D8%B1-%D8%B3%D8%AE%D8%AA-%D9%88%D8%B1%DB%8C%D8%A7-%D8%BA%D9%81%D9%88%D8%B1%DB%8C",
-      "media_url": "https://cdn.isna.ir/d/2026/10/28/4/64032379.jpg",
-      "published_at": "Thu, 26 Nov 2026 20:22:39 GMT",
-      "published_at_utc": "2026-11-26T20:22:39+00:00",
-      "published_at_tehran": "2026-11-26T23:52:39+03:30",
-      "collected_at": "2026-11-26T21:36:48.766019+00:00"
+      "title": "اقتصاددان اسپانیایی به ریاست بانک مرکزی اروپا منصوب می‌شود",
+      "description": "تهران- ایرنا- منابع خبری گزارش دادند که رهبران اتحادیه اروپا بر سر انتخاب «پابلو هرناندز د کاس» اقتصاددان و رئیس سابق بانک مرکزی اسپانیا به عنوان رئیس جدید بانک مرکزی اروپا به توافق رسیده‌اند.",
+      "article_url": "https://www.irna.ir/news/86333621/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D8%AF%D8%A7%D9%86-%D8%A7%D8%B3%D9%BE%D8%A7%D9%86%DB%8C%D8%A7%DB%8C%DB%8C-%D8%A8%D9%87-%D8%B1%DB%8C%D8%A7%D8%B3%D8%AA-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D9%85%D9%86%D8%B5%D9%88%D8%A8-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+      "media_url": "https://img9.irna.ir/d/r2/2026/11/27/4/173269524.jpg",
+      "published_at": "Thu, 26 Nov 2026 21:54:58 GMT",
+      "published_at_utc": "2026-11-26T21:54:58+00:00",
+      "published_at_tehran": "2026-11-27T01:24:58+03:30",
+      "collected_at": "2026-11-26T22:39:47.838864+00:00"
     },
     {
-      "publisher": "ISNA",
+      "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "سردار طلایی‌نیک: بسیج با اتکا به مردم، قدرت ملی خلق می‌کند",
-      "description": "معاون توسعه و برنامه ریزی راهبردی وزارت دفاع و پشتیبانی نیروهای مسلح با اشاره به حضور گسترده مردم شهرستان بهار در تجمعات شبانه، این حضور را نشانه‌ پایداری فرهنگ بسیجی و روحیه  ولایی مردم این شهرستان دانست.",
-      "article_url": "https://www.isna.ir/news/1405090503692/%D8%B3%D8%B1%D8%AF%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D9%86%DB%8C%DA%A9-%D8%A8%D8%B3%DB%8C%D8%AC-%D8%A8%D8%A7-%D8%A7%D8%AA%DA%A9%D8%A7-%D8%A8%D9%87-%D9%85%D8%B1%D8%AF%D9%85-%D9%82%D8%AF%D8%B1%D8%AA-%D9%85%D9%84%DB%8C-%D8%AE%D9%84%D9%82-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF",
-      "media_url": "https://cdn.isna.ir/d/2026/09/17/4/63977003.jpg",
-      "published_at": "Thu, 26 Nov 2026 20:22:28 GMT",
-      "published_at_utc": "2026-11-26T20:22:28+00:00",
-      "published_at_tehran": "2026-11-26T23:52:28+03:30",
-      "collected_at": "2026-11-26T21:36:48.766047+00:00"
+      "title": "توفان و سیل شدید در آمریکا؛ قطع برق بیش از ۸۱۰ هزار مشترک + فیلم",
+      "description": "نیویورک- ایرنا- همزمان با تعطیلات روز شکرگزاری در آمریکا، وقوع دو سامانه توفانی در مناطق مختلف این کشور، با وزش بادهای شدید، بارندگی‌های سیل‌آسا و بارش برف، موجب قطع برق بیش از ۸۱۰ هزار مشترک در ایالت‌های مختلف و اختلال در رفت‌وآمد شده است.",
+      "article_url": "https://www.irna.ir/news/86333620/%D8%AA%D9%88%D9%81%D8%A7%D9%86-%D9%88-%D8%B3%DB%8C%D9%84-%D8%B4%D8%AF%DB%8C%D8%AF-%D8%AF%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%82%D8%B7%D8%B9-%D8%A8%D8%B1%D9%82-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B8%DB%B1%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D9%85%D8%B4%D8%AA%D8%B1%DA%A9-%D9%81%DB%8C%D9%84%D9%85",
+      "media_url": "https://img9.irna.ir/d/r2/2026/11/27/4/173269509.jpg",
+      "published_at": "Thu, 26 Nov 2026 21:46:13 GMT",
+      "published_at_utc": "2026-11-26T21:46:13+00:00",
+      "published_at_tehran": "2026-11-27T01:16:13+03:30",
+      "collected_at": "2026-11-26T22:39:47.838909+00:00"
     },
     {
-      "publisher": "ISNA",
+      "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "فیض‌الله عرب‌سرخی دبیرکل حزب توسعه ملی ایران اسلامی شد",
-      "description": "شورای مرکزی حزب توسعه ملی ایران اسلامی فیض‌الله عرب‌سرخی را به دبیرکلی انتخاب کرد.",
-      "article_url": "https://www.isna.ir/news/1405090503691/%D9%81%DB%8C%D8%B6-%D8%A7%D9%84%D9%84%D9%87-%D8%B9%D8%B1%D8%A8-%D8%B3%D8%B1%D8%AE%DB%8C-%D8%AF%D8%A8%DB%8C%D8%B1%DA%A9%D9%84-%D8%AD%D8%B2%D8%A8-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D9%85%D9%84%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C-%D8%B4%D8%AF",
-      "media_url": "https://cdn.isna.ir/d/2026/11/26/4/64070777.jpg",
-      "published_at": "Thu, 26 Nov 2026 20:21:48 GMT",
-      "published_at_utc": "2026-11-26T20:21:48+00:00",
-      "published_at_tehran": "2026-11-26T23:51:48+03:30",
-      "collected_at": "2026-11-26T21:36:48.766073+00:00"
+      "title": "حادثه تیراندازی در آمریکا یک کشته بر جای گذاشت",
+      "description": "تهران- ایرنا- منابع خبری گزارش دادند که در جریان تیراندازی در یک مهمانی به مناسبت عید شکرگزاری در شهرستان پولک در ایالات فلوریدا در آمریکا یک نفر جان خود را از دست داده و ۶ نفر دیگر زخمی شده‌اند.",
+      "article_url": "https://www.irna.ir/news/86333606/%D8%AD%D8%A7%D8%AF%D8%AB%D9%87-%D8%AA%DB%8C%D8%B1%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C-%D8%AF%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%DB%8C%DA%A9-%DA%A9%D8%B4%D8%AA%D9%87-%D8%A8%D8%B1-%D8%AC%D8%A7%DB%8C-%DA%AF%D8%B0%D8%A7%D8%B4%D8%AA",
+      "media_url": "https://img9.irna.ir/d/r2/2026/11/27/4/173269516.jpg",
+      "published_at": "Thu, 26 Nov 2026 21:40:23 GMT",
+      "published_at_utc": "2026-11-26T21:40:23+00:00",
+      "published_at_tehran": "2026-11-27T01:10:23+03:30",
+      "collected_at": "2026-11-26T22:39:47.838953+00:00"
     },
     {
-      "publisher": "ISNA",
+      "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "سرانه فضای آموزشی در کهگیلویه و بویراحمد به ازای هر دانش‌آموز ۸.۷ متر مربع است",
-      "description": "استاندار کهگیلویه و بویراحمد گفت: سرانه فضای آموزشی به ازای هر دانش‌آموز در استان ۸.۷ مترمربع است، درحالی‌که میانگین کشوری ۵.۵ مترمربع گزارش شده است؛ البته این آمار به‌تنهایی بیانگر وضعیت واقعی همه مناطق نیست و توزیع نامتوازن فضاهای آموزشی در شهرستان‌ها و مناطق مختلف، ضرورت توجه به عدالت آموزشی را دوچندان می‌کند.",
-      "article_url": "https://www.isna.ir/news/1405090503690/%D8%B3%D8%B1%D8%A7%D9%86%D9%87-%D9%81%D8%B6%D8%A7%DB%8C-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-%D8%AF%D8%B1-%DA%A9%D9%87%DA%AF%DB%8C%D9%84%D9%88%DB%8C%D9%87-%D9%88-%D8%A8%D9%88%DB%8C%D8%B1%D8%A7%D8%AD%D9%85%D8%AF-%D8%A8%D9%87-%D8%A7%D8%B2%D8%A7%DB%8C-%D9%87%D8%B1-%D8%AF%D8%A7%D9%86%D8%B4-%D8%A2%D9%85%D9%88%D8%B2",
-      "media_url": "https://cdn.isna.ir/d/2026/11/26/4/64070518.jpg",
-      "published_at": "Thu, 26 Nov 2026 20:18:47 GMT",
-      "published_at_utc": "2026-11-26T20:18:47+00:00",
-      "published_at_tehran": "2026-11-26T23:48:47+03:30",
-      "collected_at": "2026-11-26T21:36:48.766100+00:00"
+      "title": "حمایت طرفداران تیم فوتبال بشیکتاش ترکیه از فلسطین؛ پلیس گرجستان به هواداران حمله کرد",
+      "description": "تهران- ایرنا- هواداران تیم فوتبال بشیکتاش ترکیه پیش از آغاز دیدار مقابل تیم اسرائیلی هاپوئل بئرالسبع در چارچوب رقابت‌های لیگ اروپا در شهر باتومی گرجستان، با برافراشتن بنری با شعار «آزادی برای فلسطین» حمایت خود را از مردم فلسطین اعلام کردند که با حمله پلیس گرجستان به هواداران تیم بشیکتاش همراه شد.",
+      "article_url": "https://www.irna.ir/news/86333619/%D8%AD%D9%85%D8%A7%DB%8C%D8%AA-%D8%B7%D8%B1%D9%81%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%AA%DB%8C%D9%85-%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A8%D8%B4%DB%8C%DA%A9%D8%AA%D8%A7%D8%B4-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87-%D8%A7%D8%B2-%D9%81%D9%84%D8%B3%D8%B7%DB%8C%D9%86-%D9%BE%D9%84%DB%8C%D8%B3-%DA%AF%D8%B1%D8%AC%D8%B3%D8%AA%D8%A7%D9%86",
+      "media_url": "https://img9.irna.ir/d/r2/2026/11/27/4/173269521.jpg",
+      "published_at": "Thu, 26 Nov 2026 21:38:15 GMT",
+      "published_at_utc": "2026-11-26T21:38:15+00:00",
+      "published_at_tehran": "2026-11-27T01:08:15+03:30",
+      "collected_at": "2026-11-26T22:39:47.838995+00:00"
     },
     {
       "publisher": "IRNA",
@@ -308,7 +392,7 @@
       "published_at": "Thu, 26 Nov 2026 21:35:16 GMT",
       "published_at_utc": "2026-11-26T21:35:16+00:00",
       "published_at_tehran": "2026-11-27T01:05:16+03:30",
-      "collected_at": "2026-11-26T21:36:49.803867+00:00"
+      "collected_at": "2026-11-26T22:39:47.839039+00:00"
     },
     {
       "publisher": "IRNA",
@@ -320,7 +404,7 @@
       "published_at": "Thu, 26 Nov 2026 21:20:45 GMT",
       "published_at_utc": "2026-11-26T21:20:45+00:00",
       "published_at_tehran": "2026-11-27T00:50:45+03:30",
-      "collected_at": "2026-11-26T21:36:49.803914+00:00"
+      "collected_at": "2026-11-26T22:39:47.839084+00:00"
     },
     {
       "publisher": "IRNA",
@@ -332,7 +416,7 @@
       "published_at": "Thu, 26 Nov 2026 21:05:18 GMT",
       "published_at_utc": "2026-11-26T21:05:18+00:00",
       "published_at_tehran": "2026-11-27T00:35:18+03:30",
-      "collected_at": "2026-11-26T21:36:49.803948+00:00"
+      "collected_at": "2026-11-26T22:39:47.839130+00:00"
     },
     {
       "publisher": "IRNA",
@@ -344,7 +428,7 @@
       "published_at": "Thu, 26 Nov 2026 21:01:32 GMT",
       "published_at_utc": "2026-11-26T21:01:32+00:00",
       "published_at_tehran": "2026-11-27T00:31:32+03:30",
-      "collected_at": "2026-11-26T21:36:49.803992+00:00"
+      "collected_at": "2026-11-26T22:39:47.839176+00:00"
     },
     {
       "publisher": "IRNA",
@@ -356,91 +440,7 @@
       "published_at": "Thu, 26 Nov 2026 20:58:25 GMT",
       "published_at_utc": "2026-11-26T20:58:25+00:00",
       "published_at_tehran": "2026-11-27T00:28:25+03:30",
-      "collected_at": "2026-11-26T21:36:49.804020+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "عراقچی: با تثبیت پیروزی‌های ملت ایران دیپلماسی صلح افق‌های تازه پیش روی اصفهان خواهد گشود",
-      "description": "تهر ان- ایرنا- سید عباس عراقچی وزیر امور خارجه جمهوری اسلامی ایران در پیامی به شانزدهمین همایش نکوداشت روز اصفهان تاکید کرد که بی شک، با تثبیت پیروزی‌های ملت ایران در برابر دشمنان این سرزمین و پایان جنگ تحمیلی اخیر، دیپلماسی صلح می‌تواند افق‌های تازه و فرصت‌های ارزشمندی پیش روی اصفهان بگشاید.",
-      "article_url": "https://www.irna.ir/news/86333608/%D8%B9%D8%B1%D8%A7%D9%82%DA%86%DB%8C-%D8%A8%D8%A7-%D8%AA%D8%AB%D8%A8%DB%8C%D8%AA-%D9%BE%DB%8C%D8%B1%D9%88%D8%B2%DB%8C-%D9%87%D8%A7%DB%8C-%D9%85%D9%84%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%DB%8C%D9%BE%D9%84%D9%85%D8%A7%D8%B3%DB%8C-%D8%B5%D9%84%D8%AD-%D8%A7%D9%81%D9%82-%D9%87%D8%A7%DB%8C-%D8%AA%D8%A7%D8%B2%D9%87",
-      "media_url": "https://img9.irna.ir/d/r2/2026/11/26/4/173269166.jpg",
-      "published_at": "Thu, 26 Nov 2026 20:49:50 GMT",
-      "published_at_utc": "2026-11-26T20:49:50+00:00",
-      "published_at_tehran": "2026-11-27T00:19:50+03:30",
-      "collected_at": "2026-11-26T21:36:49.804048+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "مرز گلستان و سمنان با زلزله ۴.۱ ریشتری لرزید",
-      "description": "گرگان- ایرنا- زمین‌لرزه‌ای به بزرگی ۴.۱ ریشتر ساعت ۲۳ و ۳۹ دقیقه پنجشنبه ۵ آذر، مرز استان‌های گلستان و سمنان را لرزاند.",
-      "article_url": "https://www.irna.ir/news/86333610/%D9%85%D8%B1%D8%B2-%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86-%D9%88-%D8%B3%D9%85%D9%86%D8%A7%D9%86-%D8%A8%D8%A7-%D8%B2%D9%84%D8%B2%D9%84%D9%87-%DB%B4-%DB%B1-%D8%B1%DB%8C%D8%B4%D8%AA%D8%B1%DB%8C-%D9%84%D8%B1%D8%B2%DB%8C%D8%AF",
-      "media_url": "https://img9.irna.ir/d/r2/2026/08/31/4/173075591.jpg",
-      "published_at": "Thu, 26 Nov 2026 20:48:08 GMT",
-      "published_at_utc": "2026-11-26T20:48:08+00:00",
-      "published_at_tehran": "2026-11-27T00:18:08+03:30",
-      "collected_at": "2026-11-26T21:36:49.804077+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "یادواره شهدای ورزشکار قشم برگزار شد",
-      "description": "قشم- ایرنا- یادواره شهدای ورزشکار قشم همزمان با پنجم آذر، سالروز صدور فرمان تشکیل بسیج مستضعفان از سوی امام خمینی(ره)، شامگاه پنجشنبه با حضور جمعی از مسئولان، خانواده‌های شهدا، ایثارگران و جامعه ورزش در باشگاه ورزشی شاهین این جزیره برگزار شد.",
-      "article_url": "https://www.irna.ir/news/86333594/%DB%8C%D8%A7%D8%AF%D9%88%D8%A7%D8%B1%D9%87-%D8%B4%D9%87%D8%AF%D8%A7%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DA%A9%D8%A7%D8%B1-%D9%82%D8%B4%D9%85-%D8%A8%D8%B1%DA%AF%D8%B2%D8%A7%D8%B1-%D8%B4%D8%AF",
-      "media_url": "https://img9.irna.ir/d/r2/2026/11/26/4/173269424.jpg",
-      "published_at": "Thu, 26 Nov 2026 20:31:00 GMT",
-      "published_at_utc": "2026-11-26T20:31:00+00:00",
-      "published_at_tehran": "2026-11-27T00:01:00+03:30",
-      "collected_at": "2026-11-26T21:36:49.804103+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "فیلم/ وزیر جهاد کشاورزی: شهرداری تهران مجوز واردات گوشت داشت، اما وارداتی انجام نداد",
-      "description": "تبریز-ایرنا- وزیر جهاد کشاورزی درباره اظهارات اخیر سخنگوی شهرداری تهران مبنی بر لغو مجوز واردات گوشت قرمز از زمان آغاز به کار دولت چهاردهم و تاثیر آن بر افزایش قیمت گوشت در بازار، گفت: من دقیق نمی‌دانم مصاحبه ایشان چه بوده است، اما بر اساس توضیحی که شما ارائه کردید، باید بگویم این موضوع مربوط به بعد از آغاز به کار دولت چهاردهم نبوده و این‌ گونه نیست که وزارت جهاد کشاورزی واردات را متوقف کرده باشد.",
-      "article_url": "https://www.irna.ir/news/86333600/%D9%81%DB%8C%D9%84%D9%85-%D9%88%D8%B2%DB%8C%D8%B1-%D8%AC%D9%87%D8%A7%D8%AF-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C-%D8%B4%D9%87%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%85%D8%AC%D9%88%D8%B2-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%DA%AF%D9%88%D8%B4%D8%AA-%D8%AF%D8%A7%D8%B4%D8%AA",
-      "media_url": "https://img9.irna.ir/d/r2/2026/11/26/4/173269430.jpg",
-      "published_at": "Thu, 26 Nov 2026 20:30:09 GMT",
-      "published_at_utc": "2026-11-26T20:30:09+00:00",
-      "published_at_tehran": "2026-11-27T00:00:09+03:30",
-      "collected_at": "2026-11-26T21:36:49.804129+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "بمباران یک منزل مسکونی در غرب پایتخت یمن",
-      "description": "تهران- ایرنا- منابع خبری گزارش دادند که جنگنده‌های عربستان یک منزل مسکونی را در استان صنعا بمباران کرده‌اند.",
-      "article_url": "https://www.irna.ir/news/86333597/%D8%A8%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D9%86-%DB%8C%DA%A9-%D9%85%D9%86%D8%B2%D9%84-%D9%85%D8%B3%DA%A9%D9%88%D9%86%DB%8C-%D8%AF%D8%B1-%D8%BA%D8%B1%D8%A8-%D9%BE%D8%A7%DB%8C%D8%AA%D8%AE%D8%AA-%DB%8C%D9%85%D9%86",
-      "media_url": "https://img9.irna.ir/d/r2/2026/11/26/4/173269427.jpg",
-      "published_at": "Thu, 26 Nov 2026 20:23:42 GMT",
-      "published_at_utc": "2026-11-26T20:23:42+00:00",
-      "published_at_tehran": "2026-11-26T23:53:42+03:30",
-      "collected_at": "2026-11-26T21:36:49.804155+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "سازماندهی هزاران بسیجی اندیمشک برای دفاع از کشور",
-      "description": "اندیمشک- ایرنا- فرمانده ناحیه مقاومت بسیج اندیمشک گفت: هزاران بسیجی این شهرستان در قالب ده‌ها گردان برای دفاع از ایران اسلامی و جنگ سرنوشت‌ساز با آمریکا سازمان‌دهی شده‌اند.",
-      "article_url": "https://www.irna.ir/news/86333583/%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86%D8%AF%D9%87%DB%8C-%D9%87%D8%B2%D8%A7%D8%B1%D8%A7%D9%86-%D8%A8%D8%B3%DB%8C%D8%AC%DB%8C-%D8%A7%D9%86%D8%AF%DB%8C%D9%85%D8%B4%DA%A9-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D8%B2-%DA%A9%D8%B4%D9%88%D8%B1",
-      "media_url": "https://img9.irna.ir/d/r2/2026/11/26/4/173269413.jpg",
-      "published_at": "Thu, 26 Nov 2026 20:20:32 GMT",
-      "published_at_utc": "2026-11-26T20:20:32+00:00",
-      "published_at_tehran": "2026-11-26T23:50:32+03:30",
-      "collected_at": "2026-11-26T21:36:49.804181+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "مقام روس: مسکو پاسخ سختی به حمایت ناتو و اتحادیه اروپا از حملات کی‌یف خواهد داد",
-      "description": "تهران- ایرنا- دیمیتری پولیانسکی معاون سفیر روسیه در سازمان ملل و نماینده دائم این کشور در سازمان امنیت و همکاری اروپا (OSCE) در اظهاراتی با بیان اینکه کی‌یف بدون دریافت پشتیبانی فنی از سوی کشورهای عضو سازمان پیمان آتلانتیک شمالی، قادر به انجام حملات علیه کشتی‌های روسیه نیست، تاکید کرد که مسکو پاسخ سختی به حمایت ناتو و اتحادیه اروپا از این حملات خواهد داد.",
-      "article_url": "https://www.irna.ir/news/86333566/%D9%85%D9%82%D8%A7%D9%85-%D8%B1%D9%88%D8%B3-%D9%85%D8%B3%DA%A9%D9%88-%D9%BE%D8%A7%D8%B3%D8%AE-%D8%B3%D8%AE%D8%AA%DB%8C-%D8%A8%D9%87-%D8%AD%D9%85%D8%A7%DB%8C%D8%AA-%D9%86%D8%A7%D8%AA%D9%88-%D9%88-%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%DB%8C%D9%87-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%A7%D8%B2-%D8%AD%D9%85%D9%84%D8%A7%D8%AA",
-      "media_url": "https://img9.irna.ir/d/r2/2026/11/26/4/173269410.jpg",
-      "published_at": "Thu, 26 Nov 2026 20:18:18 GMT",
-      "published_at_utc": "2026-11-26T20:18:18+00:00",
-      "published_at_tehran": "2026-11-26T23:48:18+03:30",
-      "collected_at": "2026-11-26T21:36:49.804206+00:00"
+      "collected_at": "2026-11-26T22:39:47.839218+00:00"
     }
   ]
 }\n
