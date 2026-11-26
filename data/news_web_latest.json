@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T01:36:44.674597+00:00",
+  "generated_at": "2026-11-26T02:42:21.748828+00:00",
   "source_mode": "publisher_website_rss_separate_from_instagram",
   "publishing_enabled": false,
   "count": 36,
@@ -20,7 +20,19 @@
       "published_at": "",
       "published_at_utc": null,
       "published_at_tehran": null,
-      "collected_at": "2026-11-26T01:36:41.365808+00:00"
+      "collected_at": "2026-11-26T02:42:18.195987+00:00"
+    },
+    {
+      "publisher": "BBC Persian",
+      "source_mode": "publisher_website_rss",
+      "title": "کارزار مبارزه با فساد شی جین‌پینگ چهره نوظهور حزب کمونیست چین را هدف قرار داد",
+      "description": "مقام‌های چینی در چارچوب کارزار گسترده مبارزه با فساد شی جین‌پینگ، در حال تحقیق درباره چن جینینگ، دبیر حزب کمونیست در شانگهای و یکی از چهره‌های نوظهور این حزب هستند.",
+      "article_url": "https://www.bbc.com/persian/articles/ck9q8xe277v9o?at_medium=RSS&at_campaign=rss",
+      "media_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b050/live/cbd85490-e886-11f1-8394-1391ad77445f.jpg",
+      "published_at": "Thu, 26 Nov 2026 01:54:30 GMT",
+      "published_at_utc": "2026-11-26T01:54:30+00:00",
+      "published_at_tehran": "2026-11-26T05:24:30+03:30",
+      "collected_at": "2026-11-26T02:42:18.196059+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -32,7 +44,7 @@
       "published_at": "Wed, 25 Nov 2026 22:38:18 GMT",
       "published_at_utc": "2026-11-25T22:38:18+00:00",
       "published_at_tehran": "2026-11-26T02:08:18+03:30",
-      "collected_at": "2026-11-26T01:36:41.365877+00:00"
+      "collected_at": "2026-11-26T02:42:18.196094+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -44,7 +56,7 @@
       "published_at": "Wed, 25 Nov 2026 22:12:55 GMT",
       "published_at_utc": "2026-11-25T22:12:55+00:00",
       "published_at_tehran": "2026-11-26T01:42:55+03:30",
-      "collected_at": "2026-11-26T01:36:41.365913+00:00"
+      "collected_at": "2026-11-26T02:42:18.196125+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -56,7 +68,7 @@
       "published_at": "Wed, 25 Nov 2026 18:07:15 GMT",
       "published_at_utc": "2026-11-25T18:07:15+00:00",
       "published_at_tehran": "2026-11-25T21:37:15+03:30",
-      "collected_at": "2026-11-26T01:36:41.365945+00:00"
+      "collected_at": "2026-11-26T02:42:18.196155+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -68,7 +80,7 @@
       "published_at": "Wed, 25 Nov 2026 18:43:46 GMT",
       "published_at_utc": "2026-11-25T18:43:46+00:00",
       "published_at_tehran": "2026-11-25T22:13:46+03:30",
-      "collected_at": "2026-11-26T01:36:41.365980+00:00"
+      "collected_at": "2026-11-26T02:42:18.196183+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -80,7 +92,7 @@
       "published_at": "Wed, 25 Nov 2026 14:16:07 GMT",
       "published_at_utc": "2026-11-25T14:16:07+00:00",
       "published_at_tehran": "2026-11-25T17:46:07+03:30",
-      "collected_at": "2026-11-26T01:36:41.366008+00:00"
+      "collected_at": "2026-11-26T02:42:18.196286+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -92,7 +104,7 @@
       "published_at": "Wed, 25 Nov 2026 16:23:45 GMT",
       "published_at_utc": "2026-11-25T16:23:45+00:00",
       "published_at_tehran": "2026-11-25T19:53:45+03:30",
-      "collected_at": "2026-11-26T01:36:41.366034+00:00"
+      "collected_at": "2026-11-26T02:42:18.196320+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -104,19 +116,7 @@
       "published_at": "Wed, 25 Nov 2026 11:36:41 GMT",
       "published_at_utc": "2026-11-25T11:36:41+00:00",
       "published_at_tehran": "2026-11-25T15:06:41+03:30",
-      "collected_at": "2026-11-26T01:36:41.366059+00:00"
-    },
-    {
-      "publisher": "BBC Persian",
-      "source_mode": "publisher_website_rss",
-      "title": "«بله‌ای روشن، صریح و مشتاقانه»: مرز میان معاشقه و آزار جنسی کجاست؟",
-      "description": "مرز میان معاشقه و آزار جنسی دقیقا کجاست؟ این پرسشی است که سال‌هاست در جوامع مختلف درباره آن بحث می‌شود. کارشناسان می‌گویند پاسخ در مفهوم «رضایت» نهفته است؛ اصلی که بر اساس آن هرگونه رفتار یا اقدام جنسی بدون رضایت آزادانه، آگاهانه و صریح طرف مقابل می‌تواند مصداق آزار یا تعرض جنسی باشد.",
-      "article_url": "https://www.bbc.com/persian/articles/c7v16n9v387o?at_medium=RSS&at_campaign=rss",
-      "media_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c9ae/live/4a529cf0-9bb5-11f1-ae8a-8d57110c5ba6.jpg",
-      "published_at": "Wed, 25 Nov 2026 05:27:01 GMT",
-      "published_at_utc": "2026-11-25T05:27:01+00:00",
-      "published_at_tehran": "2026-11-25T08:57:01+03:30",
-      "collected_at": "2026-11-26T01:36:41.366083+00:00"
+      "collected_at": "2026-11-26T02:42:18.196349+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -128,7 +128,7 @@
       "published_at": "",
       "published_at_utc": null,
       "published_at_tehran": null,
-      "collected_at": "2026-11-26T01:36:41.366104+00:00"
+      "collected_at": "2026-11-26T02:42:18.196373+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -140,7 +140,7 @@
       "published_at": "Tue, 24 Nov 2026 08:19:37 GMT",
       "published_at_utc": "2026-11-24T08:19:37+00:00",
       "published_at_tehran": "2026-11-24T11:49:37+03:30",
-      "collected_at": "2026-11-26T01:36:41.366130+00:00"
+      "collected_at": "2026-11-26T02:42:18.196401+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -152,7 +152,79 @@
       "published_at": "Mon, 23 Nov 2026 08:33:36 GMT",
       "published_at_utc": "2026-11-23T08:33:36+00:00",
       "published_at_tehran": "2026-11-23T12:03:36+03:30",
-      "collected_at": "2026-11-26T01:36:41.366157+00:00"
+      "collected_at": "2026-11-26T02:42:18.196428+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "کشته شدن دو نیروی الجولانی در حمله داعش در سوریه",
+      "description": "در حمله عناصر تروریستی داعش به یکی از مقرهای نیروهای وابسته به نظام ابو محمد الجولانی در شهر حسکه سوریه، دو تن کشته و پنج تن دیگر زخمی شدند.",
+      "article_url": "https://www.isna.ir/news/1405090503219/%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%AF%D9%88-%D9%86%DB%8C%D8%B1%D9%88%DB%8C-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D8%AD%D9%85%D9%84%D9%87-%D8%AF%D8%A7%D8%B9%D8%B4-%D8%AF%D8%B1-%D8%B3%D9%88%D8%B1%DB%8C%D9%87",
+      "media_url": "https://cdn.isna.ir/d/2026/11/26/4/64069788.jpg",
+      "published_at": "Thu, 26 Nov 2026 02:36:10 GMT",
+      "published_at_utc": "2026-11-26T02:36:10+00:00",
+      "published_at_tehran": "2026-11-26T06:06:10+03:30",
+      "collected_at": "2026-11-26T02:42:20.293556+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "رایانش کوانتومی در آستانه تحول‌آفرینی در صنعت انرژی",
+      "description": "رایانش کوانتومی با فراهم کردن امکان کشف مواد پیشرفته، مهندسی صنعتی و بهینه‌سازی شبکه‌های بزرگ انرژی، نویدبخش تحول در صنایع مختلف است.",
+      "article_url": "https://www.isna.ir/news/1405090402769/%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D8%B4-%DA%A9%D9%88%D8%A7%D9%86%D8%AA%D9%88%D9%85%DB%8C-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%D8%AA%D8%AD%D9%88%D9%84-%D8%A2%D9%81%D8%B1%DB%8C%D9%86%DB%8C-%D8%AF%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA-%D8%A7%D9%86%D8%B1%DA%98%DB%8C",
+      "media_url": "https://cdn.isna.ir/d/off/khorasan/2026/11/24/4/64068321.jpg",
+      "published_at": "Thu, 26 Nov 2026 02:35:00 GMT",
+      "published_at_utc": "2026-11-26T02:35:00+00:00",
+      "published_at_tehran": "2026-11-26T06:05:00+03:30",
+      "collected_at": "2026-11-26T02:42:20.293603+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "با «تنبیه بدنی» کودک «تربیت» می‌شود؟",
+      "description": "شیوه برخورد والدین با رفتارهای نادرست کودک، نقش مهمی در شکل‌گیری احساس امنیت، اعتماد و مهارت‌های اجتماعی او دارد. تفاوت میان آموزش مسئولیت‌پذیری و متوقف‌کردن رفتار از طریق ترس، از موضوعات مهم در تربیت کودک است.",
+      "article_url": "https://www.isna.ir/news/1405090402776/%D8%A8%D8%A7-%D8%AA%D9%86%D8%A8%DB%8C%D9%87-%D8%A8%D8%AF%D9%86%DB%8C-%DA%A9%D9%88%D8%AF%DA%A9-%D8%AA%D8%B1%D8%A8%DB%8C%D8%AA-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+      "media_url": "https://cdn.isna.ir/d/2026/11/23/4/64066043.jpg",
+      "published_at": "Thu, 26 Nov 2026 02:30:00 GMT",
+      "published_at_utc": "2026-11-26T02:30:00+00:00",
+      "published_at_tehran": "2026-11-26T06:00:00+03:30",
+      "collected_at": "2026-11-26T02:42:20.293659+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "ثبت و نگهداری ۱۵۰۰ پرونده گروه خونی نادر در کشور",
+      "description": "رئیس بخش انجماد خون و گروه‌های خونی نادر سازمان انتقال خون با بیان اینکه ۱۵۰۰ پرونده در ارتباط با افراد دارای گروه خونی نادر در سارمان داریم، گفت: شناسایی افراد دارای گروه خونی نادر با روش‌های مختلف انجام می‌شود.",
+      "article_url": "https://www.isna.ir/news/1405090402659/%D8%AB%D8%A8%D8%AA-%D9%88-%D9%86%DA%AF%D9%87%D8%AF%D8%A7%D8%B1%DB%8C-%DB%B1%DB%B5%DB%B0%DB%B0-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%DA%AF%D8%B1%D9%88%D9%87-%D8%AE%D9%88%D9%86%DB%8C-%D9%86%D8%A7%D8%AF%D8%B1-%D8%AF%D8%B1-%DA%A9%D8%B4%D9%88%D8%B1",
+      "media_url": "https://cdn.isna.ir/d/2026/07/30/4/63919655.jpg",
+      "published_at": "Thu, 26 Nov 2026 01:56:00 GMT",
+      "published_at_utc": "2026-11-26T01:56:00+00:00",
+      "published_at_tehran": "2026-11-26T05:26:00+03:30",
+      "collected_at": "2026-11-26T02:42:20.293692+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "مسیر ارتقای اعضای هیئت علمی از مقاله‌محوری فاصله می‌گیرد",
+      "description": "رئیس مرکز هیئت‌های امنا و ممیزه وزارت علوم با اشاره به بازنگری آیین‌نامه ارتقای اعضای هیئت علمی گفت: در آیین‌نامه جدید تلاش شده است ضمن کاهش مقاله‌محوری، مسیرهای متنوعی از جمله آموزش و فناوری برای ارتقای استادان تعریف شود.",
+      "article_url": "https://www.isna.ir/news/1405090402980/%D9%85%D8%B3%DB%8C%D8%B1-%D8%A7%D8%B1%D8%AA%D9%82%D8%A7%DB%8C-%D8%A7%D8%B9%D8%B6%D8%A7%DB%8C-%D9%87%DB%8C%D8%A6%D8%AA-%D8%B9%D9%84%D9%85%DB%8C-%D8%A7%D8%B2-%D9%85%D9%82%D8%A7%D9%84%D9%87-%D9%85%D8%AD%D9%88%D8%B1%DB%8C-%D9%81%D8%A7%D8%B5%D9%84%D9%87-%D9%85%DB%8C-%DA%AF%DB%8C%D8%B1%D8%AF",
+      "media_url": "https://cdn.isna.ir/d/2026/06/15/4/63864941.jpg",
+      "published_at": "Thu, 26 Nov 2026 01:45:00 GMT",
+      "published_at_utc": "2026-11-26T01:45:00+00:00",
+      "published_at_tehran": "2026-11-26T05:15:00+03:30",
+      "collected_at": "2026-11-26T02:42:20.293721+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "کوشنر: نتانیاهو کار را دشوار می‌کند",
+      "description": "جرد کوشنر با اشاره به موانع اجرای توافق غزه گفت که بنیامین نتانیاهو این توافق را امضا کرده، اما همچنان دستیابی به تفاهم‌ها را دشوار می‌کند.",
+      "article_url": "https://www.isna.ir/news/1405090503218/%DA%A9%D9%88%D8%B4%D9%86%D8%B1-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%DA%A9%D8%A7%D8%B1-%D8%B1%D8%A7-%D8%AF%D8%B4%D9%88%D8%A7%D8%B1-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF",
+      "media_url": "https://cdn.isna.ir/d/2026/11/26/4/64069787.jpg",
+      "published_at": "Thu, 26 Nov 2026 01:40:42 GMT",
+      "published_at_utc": "2026-11-26T01:40:42+00:00",
+      "published_at_tehran": "2026-11-26T05:10:42+03:30",
+      "collected_at": "2026-11-26T02:42:20.293747+00:00"
     },
     {
       "publisher": "ISNA",
@@ -164,7 +236,7 @@
       "published_at": "Thu, 26 Nov 2026 01:31:00 GMT",
       "published_at_utc": "2026-11-26T01:31:00+00:00",
       "published_at_tehran": "2026-11-26T05:01:00+03:30",
-      "collected_at": "2026-11-26T01:36:43.150486+00:00"
+      "collected_at": "2026-11-26T02:42:20.293774+00:00"
     },
     {
       "publisher": "ISNA",
@@ -176,7 +248,7 @@
       "published_at": "Thu, 26 Nov 2026 01:30:00 GMT",
       "published_at_utc": "2026-11-26T01:30:00+00:00",
       "published_at_tehran": "2026-11-26T05:00:00+03:30",
-      "collected_at": "2026-11-26T01:36:43.150532+00:00"
+      "collected_at": "2026-11-26T02:42:20.293801+00:00"
     },
     {
       "publisher": "ISNA",
@@ -188,7 +260,7 @@
       "published_at": "Thu, 26 Nov 2026 00:36:12 GMT",
       "published_at_utc": "2026-11-26T00:36:12+00:00",
       "published_at_tehran": "2026-11-26T04:06:12+03:30",
-      "collected_at": "2026-11-26T01:36:43.150567+00:00"
+      "collected_at": "2026-11-26T02:42:20.293828+00:00"
     },
     {
       "publisher": "ISNA",
@@ -200,7 +272,7 @@
       "published_at": "Thu, 26 Nov 2026 00:30:00 GMT",
       "published_at_utc": "2026-11-26T00:30:00+00:00",
       "published_at_tehran": "2026-11-26T04:00:00+03:30",
-      "collected_at": "2026-11-26T01:36:43.150597+00:00"
+      "collected_at": "2026-11-26T02:42:20.293854+00:00"
     },
     {
       "publisher": "ISNA",
@@ -212,7 +284,7 @@
       "published_at": "Thu, 26 Nov 2026 00:15:00 GMT",
       "published_at_utc": "2026-11-26T00:15:00+00:00",
       "published_at_tehran": "2026-11-26T03:45:00+03:30",
-      "collected_at": "2026-11-26T01:36:43.150624+00:00"
+      "collected_at": "2026-11-26T02:42:20.293880+00:00"
     },
     {
       "publisher": "ISNA",
@@ -224,79 +296,19 @@
       "published_at": "Wed, 25 Nov 2026 23:54:00 GMT",
       "published_at_utc": "2026-11-25T23:54:00+00:00",
       "published_at_tehran": "2026-11-26T03:24:00+03:30",
-      "collected_at": "2026-11-26T01:36:43.150650+00:00"
+      "collected_at": "2026-11-26T02:42:20.293908+00:00"
     },
     {
-      "publisher": "ISNA",
+      "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "انفجار در نزدیکی یک نفتکش در غرب دبی",
-      "description": "سازمان عملیات تجارت دریایی انگلیس از دریافت گزارشی درباره وقوع انفجاری ناشی از اصابت یک پرتابه ناشناس در نزدیکی یک نفتکش، در فاصله ۵۰ مایل دریایی غرب دبی در امارات خبر داد.",
-      "article_url": "https://www.isna.ir/news/1405090503216/%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%AF%D8%B1-%D9%86%D8%B2%D8%AF%DB%8C%DA%A9%DB%8C-%DB%8C%DA%A9-%D9%86%D9%81%D8%AA%DA%A9%D8%B4-%D8%AF%D8%B1-%D8%BA%D8%B1%D8%A8-%D8%AF%D8%A8%DB%8C",
-      "media_url": "https://cdn.isna.ir/d/2026/11/26/4/64069785.jpg",
-      "published_at": "Wed, 25 Nov 2026 23:46:58 GMT",
-      "published_at_utc": "2026-11-25T23:46:58+00:00",
-      "published_at_tehran": "2026-11-26T03:16:58+03:30",
-      "collected_at": "2026-11-26T01:36:43.150676+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "موافقت آمریکا با فروش ۶۲۲ میلیون دلار تجهیزات اف-۱۶ به اوکراین",
-      "description": "وزارت خارجه آمریکا از موافقت واشنگتن با فروش تجهیزات و ارائه خدمات تعمیر و نگهداری و پشتیبانی جنگنده‌های اف-۱۶ به اوکراین به ارزش ۶۲۲ میلیون دلار خبر داد؛ هزینه این قرارداد را چهار کشور اروپایی تأمین خواهند کرد و هیچ بودجه‌ای از منابع مالی آمریکا برای آن اختصاص نخواهد یافت.",
-      "article_url": "https://www.isna.ir/news/1405090503215/%D9%85%D9%88%D8%A7%D9%81%D9%82%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D8%A7-%D9%81%D8%B1%D9%88%D8%B4-%DB%B6%DB%B2%DB%B2-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AA%D8%AC%D9%87%DB%8C%D8%B2%D8%A7%D8%AA-%D8%A7%D9%81-%DB%B1%DB%B6-%D8%A8%D9%87-%D8%A7%D9%88%DA%A9%D8%B1%D8%A7%DB%8C%D9%86",
-      "media_url": "https://cdn.isna.ir/d/2026/11/26/4/64069784.jpg",
-      "published_at": "Wed, 25 Nov 2026 22:37:28 GMT",
-      "published_at_utc": "2026-11-25T22:37:28+00:00",
-      "published_at_tehran": "2026-11-26T02:07:28+03:30",
-      "collected_at": "2026-11-26T01:36:43.150717+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "بارسلونا و لیورپول بردند/ بایرن باخت، یونایتد مساوی کرد",
-      "description": "بارسلونا و لیورپول حریفانشان را در لیگ قهرمانان اروپا از پیش روی برداشتند.",
-      "article_url": "https://www.isna.ir/news/1405090503214/%D8%A8%D8%A7%D8%B1%D8%B3%D9%84%D9%88%D9%86%D8%A7-%D9%88-%D9%84%DB%8C%D9%88%D8%B1%D9%BE%D9%88%D9%84-%D8%A8%D8%B1%D8%AF%D9%86%D8%AF-%D8%A8%D8%A7%DB%8C%D8%B1%D9%86-%D8%A8%D8%A7%D8%AE%D8%AA-%DB%8C%D9%88%D9%86%D8%A7%DB%8C%D8%AA%D8%AF-%D9%85%D8%B3%D8%A7%D9%88%DB%8C-%DA%A9%D8%B1%D8%AF",
-      "media_url": "https://cdn.isna.ir/d/2026/11/26/4/64069783.jpg",
-      "published_at": "Wed, 25 Nov 2026 22:14:15 GMT",
-      "published_at_utc": "2026-11-25T22:14:15+00:00",
-      "published_at_tehran": "2026-11-26T01:44:15+03:30",
-      "collected_at": "2026-11-26T01:36:43.150743+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "افزایش شمار قربانیان آتش‌سوزی تانکر سوخت در مصر به ۳۰ نفر",
-      "description": "وزارت بهداشت مصر از افزایش شمار جان‌باختگان آتش‌سوزی یک تانکر حامل مواد نفتی در استان جیزه به ۳۰ نفر خبر داد و اعلام کرد که شمار مجروحان این حادثه همچنان ۱۵ نفر است.",
-      "article_url": "https://www.isna.ir/news/1405090503213/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%B4%D9%85%D8%A7%D8%B1-%D9%82%D8%B1%D8%A8%D8%A7%D9%86%DB%8C%D8%A7%D9%86-%D8%A2%D8%AA%D8%B4-%D8%B3%D9%88%D8%B2%DB%8C-%D8%AA%D8%A7%D9%86%DA%A9%D8%B1-%D8%B3%D9%88%D8%AE%D8%AA-%D8%AF%D8%B1-%D9%85%D8%B5%D8%B1-%D8%A8%D9%87-%DB%B3%DB%B0-%D9%86%D9%81%D8%B1",
-      "media_url": "https://cdn.isna.ir/d/2026/11/26/4/64069782.jpg",
-      "published_at": "Wed, 25 Nov 2026 21:57:21 GMT",
-      "published_at_utc": "2026-11-25T21:57:21+00:00",
-      "published_at_tehran": "2026-11-26T01:27:21+03:30",
-      "collected_at": "2026-11-26T01:36:43.150768+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "قزاقستان هم مانند عراق معترض شد",
-      "description": "به گفته افراد مطلع، قزاقستان و عراق از «اوپک‌پلاس» درخواست کرده‌اند که برآورد خود را از ظرفیت تولید نفت خام آن‌ها افزایش دهد و این موضوع موجب تشدید تنش‌ها پیرامون ارزیابی شده است که به تعیین سقف تولید مجاز برای اعضای این گروه در سال آینده کمک خواهد کرد.",
-      "article_url": "https://www.isna.ir/news/1405090403169/%D9%82%D8%B2%D8%A7%D9%82%D8%B3%D8%AA%D8%A7%D9%86-%D9%87%D9%85-%D9%85%D8%A7%D9%86%D9%86%D8%AF-%D8%B9%D8%B1%D8%A7%D9%82-%D9%85%D8%B9%D8%AA%D8%B1%D8%B6-%D8%B4%D8%AF",
-      "media_url": "https://cdn.isna.ir/d/2026/04/01/4/63791460.jpg",
-      "published_at": "Wed, 25 Nov 2026 21:55:00 GMT",
-      "published_at_utc": "2026-11-25T21:55:00+00:00",
-      "published_at_tehran": "2026-11-26T01:25:00+03:30",
-      "collected_at": "2026-11-26T01:36:43.150794+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "پرداخت ۴۰ درصدی به دختران پرسپولیسی",
-      "description": "بازیکنان و اعضای کادر فنی تیم فوتبال بانوان پرسپولیس تاکنون ۴۰ درصد از مبلغ قرارداد خود را در فصل جاری دریافت کرده‌اند.",
-      "article_url": "https://www.isna.ir/news/1405090503212/%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA-%DB%B4%DB%B0-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%D8%A8%D9%87-%D8%AF%D8%AE%D8%AA%D8%B1%D8%A7%D9%86-%D9%BE%D8%B1%D8%B3%D9%BE%D9%88%D9%84%DB%8C%D8%B3%DB%8C",
-      "media_url": "https://cdn.isna.ir/d/2026/10/02/4/63998855.jpg",
-      "published_at": "Wed, 25 Nov 2026 21:48:31 GMT",
-      "published_at_utc": "2026-11-25T21:48:31+00:00",
-      "published_at_tehran": "2026-11-26T01:18:31+03:30",
-      "collected_at": "2026-11-26T01:36:43.150821+00:00"
+      "title": "فرماندار ویرجینیا: کنگره باید دولت ترامپ را درباره جنگ ایران پاسخگو کند",
+      "description": "تهران- ایرنا- «ابیگیل اسپنبرگر» فرماندار ایالت ویرجینیا گفت که کنگره آمریکا باید دولت دونالد ترامپ رئیس جمهور این کشور را در جنگ تجاوزکارانه علیه ایران و تعرفه علیه کشورهای دیگر پاسخگو کند.",
+      "article_url": "https://www.irna.ir/news/86332914/%D9%81%D8%B1%D9%85%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%D9%88%DB%8C%D8%B1%D8%AC%DB%8C%D9%86%DB%8C%D8%A7-%DA%A9%D9%86%DA%AF%D8%B1%D9%87-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%AF%D9%88%D9%84%D8%AA-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%B1%D8%A7-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+      "media_url": "https://img9.irna.ir/d/r2/2026/11/26/4/173267465.jpg",
+      "published_at": "Thu, 26 Nov 2026 02:30:00 GMT",
+      "published_at_utc": "2026-11-26T02:30:00+00:00",
+      "published_at_tehran": "2026-11-26T06:00:00+03:30",
+      "collected_at": "2026-11-26T02:42:21.748464+00:00"
     },
     {
       "publisher": "IRNA",
@@ -308,7 +320,7 @@
       "published_at": "Thu, 26 Nov 2026 01:30:00 GMT",
       "published_at_utc": "2026-11-26T01:30:00+00:00",
       "published_at_tehran": "2026-11-26T05:00:00+03:30",
-      "collected_at": "2026-11-26T01:36:44.674264+00:00"
+      "collected_at": "2026-11-26T02:42:21.748510+00:00"
     },
     {
       "publisher": "IRNA",
@@ -320,7 +332,7 @@
       "published_at": "Thu, 26 Nov 2026 01:29:47 GMT",
       "published_at_utc": "2026-11-26T01:29:47+00:00",
       "published_at_tehran": "2026-11-26T04:59:47+03:30",
-      "collected_at": "2026-11-26T01:36:44.674312+00:00"
+      "collected_at": "2026-11-26T02:42:21.748545+00:00"
     },
     {
       "publisher": "IRNA",
@@ -332,7 +344,7 @@
       "published_at": "Thu, 26 Nov 2026 00:49:43 GMT",
       "published_at_utc": "2026-11-26T00:49:43+00:00",
       "published_at_tehran": "2026-11-26T04:19:43+03:30",
-      "collected_at": "2026-11-26T01:36:44.674347+00:00"
+      "collected_at": "2026-11-26T02:42:21.748575+00:00"
     },
     {
       "publisher": "IRNA",
@@ -344,7 +356,7 @@
       "published_at": "Thu, 26 Nov 2026 00:47:21 GMT",
       "published_at_utc": "2026-11-26T00:47:21+00:00",
       "published_at_tehran": "2026-11-26T04:17:21+03:30",
-      "collected_at": "2026-11-26T01:36:44.674377+00:00"
+      "collected_at": "2026-11-26T02:42:21.748605+00:00"
     },
     {
       "publisher": "IRNA",
@@ -356,7 +368,7 @@
       "published_at": "Thu, 26 Nov 2026 00:46:09 GMT",
       "published_at_utc": "2026-11-26T00:46:09+00:00",
       "published_at_tehran": "2026-11-26T04:16:09+03:30",
-      "collected_at": "2026-11-26T01:36:44.674407+00:00"
+      "collected_at": "2026-11-26T02:42:21.748660+00:00"
     },
     {
       "publisher": "IRNA",
@@ -368,7 +380,7 @@
       "published_at": "Thu, 26 Nov 2026 00:30:00 GMT",
       "published_at_utc": "2026-11-26T00:30:00+00:00",
       "published_at_tehran": "2026-11-26T04:00:00+03:30",
-      "collected_at": "2026-11-26T01:36:44.674437+00:00"
+      "collected_at": "2026-11-26T02:42:21.748691+00:00"
     },
     {
       "publisher": "IRNA",
@@ -380,7 +392,7 @@
       "published_at": "Wed, 25 Nov 2026 23:35:02 GMT",
       "published_at_utc": "2026-11-25T23:35:02+00:00",
       "published_at_tehran": "2026-11-26T03:05:02+03:30",
-      "collected_at": "2026-11-26T01:36:44.674464+00:00"
+      "collected_at": "2026-11-26T02:42:21.748718+00:00"
     },
     {
       "publisher": "IRNA",
@@ -392,7 +404,7 @@
       "published_at": "Wed, 25 Nov 2026 23:30:00 GMT",
       "published_at_utc": "2026-11-25T23:30:00+00:00",
       "published_at_tehran": "2026-11-26T03:00:00+03:30",
-      "collected_at": "2026-11-26T01:36:44.674490+00:00"
+      "collected_at": "2026-11-26T02:42:21.748743+00:00"
     },
     {
       "publisher": "IRNA",
@@ -404,7 +416,7 @@
       "published_at": "Wed, 25 Nov 2026 23:10:32 GMT",
       "published_at_utc": "2026-11-25T23:10:32+00:00",
       "published_at_tehran": "2026-11-26T02:40:32+03:30",
-      "collected_at": "2026-11-26T01:36:44.674517+00:00"
+      "collected_at": "2026-11-26T02:42:21.748769+00:00"
     },
     {
       "publisher": "IRNA",
@@ -416,7 +428,7 @@
       "published_at": "Wed, 25 Nov 2026 22:30:00 GMT",
       "published_at_utc": "2026-11-25T22:30:00+00:00",
       "published_at_tehran": "2026-11-26T02:00:00+03:30",
-      "collected_at": "2026-11-26T01:36:44.674543+00:00"
+      "collected_at": "2026-11-26T02:42:21.748800+00:00"
     },
     {
       "publisher": "IRNA",
@@ -428,19 +440,7 @@
       "published_at": "Wed, 25 Nov 2026 22:20:14 GMT",
       "published_at_utc": "2026-11-25T22:20:14+00:00",
       "published_at_tehran": "2026-11-26T01:50:14+03:30",
-      "collected_at": "2026-11-26T01:36:44.674568+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "صدای انفجار مهیب در ریاض / پروازهای فرودگاه دمام متوقف شد",
-      "description": "تهران- ایرنا- منابع خبری از شنیده شدن صدای انفجاری مهیب در شهر ریاض، پایتخت عربستان سعودی، به صدا درآمدن آژیر خطر در این شهر و توقف ترافیک هوایی در فرودگاه بین‌المللی «ملک فهد» در دمام خبر دادند.",
-      "article_url": "https://www.irna.ir/news/86332886/%D8%B5%D8%AF%D8%A7%DB%8C-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%85%D9%87%DB%8C%D8%A8-%D8%AF%D8%B1-%D8%B1%DB%8C%D8%A7%D8%B6-%D9%BE%DB%8C%DA%86%DB%8C%D8%AF-%D8%AA%D9%88%D9%82%D9%81-%D9%BE%D8%B1%D9%88%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87-%D8%AF%D9%85%D8%A7%D9%85-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86",
-      "media_url": "https://img9.irna.ir/d/r2/2026/09/19/4/173114737.jpg",
-      "published_at": "Wed, 25 Nov 2026 21:32:14 GMT",
-      "published_at_utc": "2026-11-25T21:32:14+00:00",
-      "published_at_tehran": "2026-11-26T01:02:14+03:30",
-      "collected_at": "2026-11-26T01:36:44.674594+00:00"
+      "collected_at": "2026-11-26T02:42:21.748826+00:00"
     }
   ]
 }\n
