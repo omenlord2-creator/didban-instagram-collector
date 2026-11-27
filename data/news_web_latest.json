@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T22:18:40.624927+00:00",
+  "generated_at": "2026-11-27T23:37:14.089592+00:00",
   "source_mode": "publisher_website_rss_separate_from_instagram",
   "publishing_enabled": false,
   "count": 36,
@@ -20,7 +20,19 @@
       "published_at": "",
       "published_at_utc": null,
       "published_at_tehran": null,
-      "collected_at": "2026-11-27T22:18:37.345009+00:00"
+      "collected_at": "2026-11-27T23:37:11.908499+00:00"
+    },
+    {
+      "publisher": "BBC Persian",
+      "source_mode": "publisher_website_rss",
+      "title": "چرا سفر خلیفه حفتر، فرمانده ارتش ملی لیبی، به ترکیه اهمیت دارد؟",
+      "description": "سفر خلیفه حفتر، فرمانده کل ارتش ملی لیبی، و سه پسرش به آنکارا در روزهای ۲۴ و ۲۵ نوامبر از این جهت اهمیت داشت که نشان می‌داد ترکیه پس از تقویت روابط خود با دولت طرابلس، اکنون در حال تحکیم روابط با رهبران بنغازی نیز هست.",
+      "article_url": "https://www.bbc.com/persian/articles/c64gnl590ldgo?at_medium=RSS&at_campaign=rss",
+      "media_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/21ac/live/76a51bd0-e97a-11f1-acd8-af22a7ebb474.png",
+      "published_at": "Fri, 27 Nov 2026 23:11:18 GMT",
+      "published_at_utc": "2026-11-27T23:11:18+00:00",
+      "published_at_tehran": "2026-11-28T02:41:18+03:30",
+      "collected_at": "2026-11-27T23:37:11.908592+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -32,7 +44,7 @@
       "published_at": "Fri, 27 Nov 2026 15:08:30 GMT",
       "published_at_utc": "2026-11-27T15:08:30+00:00",
       "published_at_tehran": "2026-11-27T18:38:30+03:30",
-      "collected_at": "2026-11-27T22:18:37.345081+00:00"
+      "collected_at": "2026-11-27T23:37:11.908668+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -44,7 +56,7 @@
       "published_at": "Fri, 27 Nov 2026 12:29:39 GMT",
       "published_at_utc": "2026-11-27T12:29:39+00:00",
       "published_at_tehran": "2026-11-27T15:59:39+03:30",
-      "collected_at": "2026-11-27T22:18:37.345118+00:00"
+      "collected_at": "2026-11-27T23:37:11.908805+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -56,7 +68,7 @@
       "published_at": "Fri, 27 Nov 2026 06:00:07 GMT",
       "published_at_utc": "2026-11-27T06:00:07+00:00",
       "published_at_tehran": "2026-11-27T09:30:07+03:30",
-      "collected_at": "2026-11-27T22:18:37.345149+00:00"
+      "collected_at": "2026-11-27T23:37:11.908864+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -68,7 +80,7 @@
       "published_at": "Fri, 27 Nov 2026 08:50:20 GMT",
       "published_at_utc": "2026-11-27T08:50:20+00:00",
       "published_at_tehran": "2026-11-27T12:20:20+03:30",
-      "collected_at": "2026-11-27T22:18:37.345176+00:00"
+      "collected_at": "2026-11-27T23:37:11.908919+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -80,7 +92,7 @@
       "published_at": "Fri, 27 Nov 2026 11:58:56 GMT",
       "published_at_utc": "2026-11-27T11:58:56+00:00",
       "published_at_tehran": "2026-11-27T15:28:56+03:30",
-      "collected_at": "2026-11-27T22:18:37.345203+00:00"
+      "collected_at": "2026-11-27T23:37:11.908969+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -92,7 +104,7 @@
       "published_at": "Fri, 27 Nov 2026 13:38:39 GMT",
       "published_at_utc": "2026-11-27T13:38:39+00:00",
       "published_at_tehran": "2026-11-27T17:08:39+03:30",
-      "collected_at": "2026-11-27T22:18:37.345244+00:00"
+      "collected_at": "2026-11-27T23:37:11.909017+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -104,19 +116,7 @@
       "published_at": "Fri, 27 Nov 2026 08:34:37 GMT",
       "published_at_utc": "2026-11-27T08:34:37+00:00",
       "published_at_tehran": "2026-11-27T12:04:37+03:30",
-      "collected_at": "2026-11-27T22:18:37.345271+00:00"
-    },
-    {
-      "publisher": "BBC Persian",
-      "source_mode": "publisher_website_rss",
-      "title": "کشیش آمریکایی که از حکومت دینی و لغو حق رای زنان دفاع می‌کند",
-      "description": "جنبش لغو حق رأی زنان در میان برخی از مسیحیان بسیار محافظه‌کار، قوت گرفته است.",
-      "article_url": "https://www.bbc.com/persian/articles/c893rdyn92l9o?at_medium=RSS&at_campaign=rss",
-      "media_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ffed/live/a3b96770-e948-11f1-99b6-a35a62fa4264.jpg",
-      "published_at": "Fri, 27 Nov 2026 06:48:18 GMT",
-      "published_at_utc": "2026-11-27T06:48:18+00:00",
-      "published_at_tehran": "2026-11-27T10:18:18+03:30",
-      "collected_at": "2026-11-27T22:18:37.345297+00:00"
+      "collected_at": "2026-11-27T23:37:11.909064+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -128,7 +128,7 @@
       "published_at": "Thu, 26 Nov 2026 13:55:37 GMT",
       "published_at_utc": "2026-11-26T13:55:37+00:00",
       "published_at_tehran": "2026-11-26T17:25:37+03:30",
-      "collected_at": "2026-11-27T22:18:37.345322+00:00"
+      "collected_at": "2026-11-27T23:37:11.909110+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -140,7 +140,7 @@
       "published_at": "Thu, 26 Nov 2026 14:25:59 GMT",
       "published_at_utc": "2026-11-26T14:25:59+00:00",
       "published_at_tehran": "2026-11-26T17:55:59+03:30",
-      "collected_at": "2026-11-27T22:18:37.345348+00:00"
+      "collected_at": "2026-11-27T23:37:11.909159+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -152,7 +152,67 @@
       "published_at": "",
       "published_at_utc": null,
       "published_at_tehran": null,
-      "collected_at": "2026-11-27T22:18:37.345368+00:00"
+      "collected_at": "2026-11-27T23:37:11.909196+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "فشار مالی بر شرکت‌های هواپیمایی تشدید شد",
+      "description": "افزایش شدید قیمت سوخت جت پس از تجاوز آمریکا و رژیم صهیونیستی به ایران، فشار مالی بر شرکت‌های هواپیمایی را که پیش از این نیز با حاشیه سود پایین و در برخی موارد مشکلات مالی مواجه بودند، تشدید کرده است.",
+      "article_url": "https://www.isna.ir/news/1405090603935/%D9%81%D8%B4%D8%A7%D8%B1-%D9%85%D8%A7%D9%84%DB%8C-%D8%A8%D8%B1-%D8%B4%D8%B1%DA%A9%D8%AA-%D9%87%D8%A7%DB%8C-%D9%87%D9%88%D8%A7%D9%BE%DB%8C%D9%85%D8%A7%DB%8C%DB%8C-%D8%AA%D8%B4%D8%AF%DB%8C%D8%AF-%D8%B4%D8%AF",
+      "media_url": "https://cdn.isna.ir/d/2025/11/10/4/63648653.jpg",
+      "published_at": "Fri, 27 Nov 2026 23:35:00 GMT",
+      "published_at_utc": "2026-11-27T23:35:00+00:00",
+      "published_at_tehran": "2026-11-28T03:05:00+03:30",
+      "collected_at": "2026-11-27T23:37:13.160864+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "هشدار صلیب سرخ و دفاع مدنی غزه درباره فاجعه هوای زمستانی برای فلسطینی‌ها",
+      "description": "کمیته بین‌المللی صلیب سرخ و دفاع مدنی غزه هم‌زمان با ورود نوار غزه به چهارمین زمستان از آغاز جنگ، نسبت به وضعیت اسکان آوارگان و خطر وقوع یک فاجعه انسانی برای بیش از یک میلیون و ۳۰۰ هزار فلسطینی در پی ورود سامانه هوایی شدید هشدار دادند.",
+      "article_url": "https://www.isna.ir/news/1405090704078/%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%B5%D9%84%DB%8C%D8%A8-%D8%B3%D8%B1%D8%AE-%D9%88-%D8%AF%D9%81%D8%A7%D8%B9-%D9%85%D8%AF%D9%86%DB%8C-%D8%BA%D8%B2%D9%87-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%81%D8%A7%D8%AC%D8%B9%D9%87-%D9%87%D9%88%D8%A7%DB%8C-%D8%B2%D9%85%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C",
+      "media_url": "https://cdn.isna.ir/d/2026/11/28/4/64071793.jpg",
+      "published_at": "Fri, 27 Nov 2026 23:30:53 GMT",
+      "published_at_utc": "2026-11-27T23:30:53+00:00",
+      "published_at_tehran": "2026-11-28T03:00:53+03:30",
+      "collected_at": "2026-11-27T23:37:13.160926+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "بهبود عملکرد کولرهای آبی با «سرمایش دینامیکی هوا»",
+      "description": "محققان در پژوهشی تازه به سراغ یکی از چالش‌های کولرهای آبی رفته‌اند: چگونگی کاهش مصرف آب، بدون کنارگذاشتن وسیله‌ای که سال‌ها در خانه‌های ایرانی برای خنک‌کردن هوا به کار رفته است.",
+      "article_url": "https://www.isna.ir/news/1405090603989/%D8%A8%D9%87%D8%A8%D9%88%D8%AF-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%DA%A9%D9%88%D9%84%D8%B1%D9%87%D8%A7%DB%8C-%D8%A2%D8%A8%DB%8C-%D8%A8%D8%A7-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D8%B4-%D8%AF%DB%8C%D9%86%D8%A7%D9%85%DB%8C%DA%A9%DB%8C-%D9%87%D9%88%D8%A7",
+      "media_url": "https://cdn.isna.ir/d/2026/11/27/4/64071481.jpg",
+      "published_at": "Fri, 27 Nov 2026 23:30:00 GMT",
+      "published_at_utc": "2026-11-27T23:30:00+00:00",
+      "published_at_tehran": "2026-11-28T03:00:00+03:30",
+      "collected_at": "2026-11-27T23:37:13.160978+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "سرنوشت اختراعات دانشگاهی؛ چرا همه دستاوردهای ثبت‌شده به محصول تبدیل نمی‌شوند؟",
+      "description": "رئیس بنیاد نخبگان خراسان رضوی با تأکید بر اینکه ثبت اختراع به‌تنهایی شاخص موفقیت نوآوری در دانشگاه‌ها نیست، گفت: فاصله میان امکان‌پذیری علمی و توجیه‌پذیری اقتصادی، نبود تقاضای مؤثر در بازار، دشواری تأمین مالی توسعه فناوری و ضعف ارتباط دانشگاه و صنعت از مهم‌ترین موانع تبدیل اختراعات دانشگاهی به محصولات قابل استفاده هستند.",
+      "article_url": "https://www.isna.ir/news/1405090604013/%D8%B3%D8%B1%D9%86%D9%88%D8%B4%D8%AA-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D8%B9%D8%A7%D8%AA-%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87%DB%8C-%DA%86%D8%B1%D8%A7-%D9%87%D9%85%D9%87-%D8%AF%D8%B3%D8%AA%D8%A7%D9%88%D8%B1%D8%AF%D9%87%D8%A7%DB%8C-%D8%AB%D8%A8%D8%AA-%D8%B4%D8%AF%D9%87-%D8%A8%D9%87-%D9%85%D8%AD%D8%B5%D9%88%D9%84",
+      "media_url": "https://cdn.isna.ir/d/2026/06/02/4/63851745.jpg",
+      "published_at": "Fri, 27 Nov 2026 23:20:00 GMT",
+      "published_at_utc": "2026-11-27T23:20:00+00:00",
+      "published_at_tehran": "2026-11-28T02:50:00+03:30",
+      "collected_at": "2026-11-27T23:37:13.161026+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "ایتالیا ادعای زلنسکی درباره هماهنگی با متحدان در حمله به شناورهای روسی را رد کرد",
+      "description": "وزیر امور خارجه ایتالیا ادعای ولودیمیر زلنسکی درباره هماهنگی حملات علیه شناورهای روسی در لیبی با متحدان غربی را نادرست خواند و تأکید کرد که هیچ‌یک از کشورهای متحد پیش از این عملیات مطلع نشده بودند.",
+      "article_url": "https://www.isna.ir/news/1405090704077/%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7-%D8%A7%D8%AF%D8%B9%D8%A7%DB%8C-%D8%B2%D9%84%D9%86%D8%B3%DA%A9%DB%8C-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%87%D9%85%D8%A7%D9%87%D9%86%DA%AF%DB%8C-%D8%A8%D8%A7-%D9%85%D8%AA%D8%AD%D8%AF%D8%A7%D9%86-%D8%AF%D8%B1-%D8%AD%D9%85%D9%84%D9%87-%D8%A8%D9%87-%D8%B4%D9%86%D8%A7%D9%88%D8%B1%D9%87%D8%A7%DB%8C",
+      "media_url": "https://cdn.isna.ir/d/2026/11/28/4/64071792.jpg",
+      "published_at": "Fri, 27 Nov 2026 22:55:31 GMT",
+      "published_at_utc": "2026-11-27T22:55:31+00:00",
+      "published_at_tehran": "2026-11-28T02:25:31+03:30",
+      "collected_at": "2026-11-27T23:37:13.161072+00:00"
     },
     {
       "publisher": "ISNA",
@@ -160,11 +220,11 @@
       "title": "انفجار دو نفتکش متخلف در دهانه بندر خصب و شرق تنگه هرمز",
       "description": "روابط عمومی نیروی دریایی سپاه پاسداران انقلاب اسلامی از انفجار دو نفتکش متخلف در مسیر غیر مجاز تنگه هرمز خبر داد.",
       "article_url": "https://www.isna.ir/news/1405090704076/%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%AF%D9%88-%D9%86%D9%81%D8%AA%DA%A9%D8%B4-%D9%85%D8%AA%D8%AE%D9%84%D9%81-%D8%AF%D8%B1-%D8%AF%D9%87%D8%A7%D9%86%D9%87-%D8%A8%D9%86%D8%AF%D8%B1-%D8%AE%D8%B5%D8%A8-%D9%88-%D8%B4%D8%B1%D9%82-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2",
-      "media_url": "https://cdn.isna.ir/d/2026/11/28/4/64071790.jpg",
+      "media_url": "https://cdn.isna.ir/d/2026/11/28/4/64071791.jpg",
       "published_at": "Fri, 27 Nov 2026 21:57:09 GMT",
       "published_at_utc": "2026-11-27T21:57:09+00:00",
       "published_at_tehran": "2026-11-28T01:27:09+03:30",
-      "collected_at": "2026-11-27T22:18:39.579008+00:00"
+      "collected_at": "2026-11-27T23:37:13.161117+00:00"
     },
     {
       "publisher": "ISNA",
@@ -176,7 +236,7 @@
       "published_at": "Fri, 27 Nov 2026 21:55:00 GMT",
       "published_at_utc": "2026-11-27T21:55:00+00:00",
       "published_at_tehran": "2026-11-28T01:25:00+03:30",
-      "collected_at": "2026-11-27T22:18:39.579054+00:00"
+      "collected_at": "2026-11-27T23:37:13.161160+00:00"
     },
     {
       "publisher": "ISNA",
@@ -188,7 +248,7 @@
       "published_at": "Fri, 27 Nov 2026 21:49:22 GMT",
       "published_at_utc": "2026-11-27T21:49:22+00:00",
       "published_at_tehran": "2026-11-28T01:19:22+03:30",
-      "collected_at": "2026-11-27T22:18:39.579087+00:00"
+      "collected_at": "2026-11-27T23:37:13.161205+00:00"
     },
     {
       "publisher": "ISNA",
@@ -200,7 +260,7 @@
       "published_at": "Fri, 27 Nov 2026 21:40:00 GMT",
       "published_at_utc": "2026-11-27T21:40:00+00:00",
       "published_at_tehran": "2026-11-28T01:10:00+03:30",
-      "collected_at": "2026-11-27T22:18:39.579118+00:00"
+      "collected_at": "2026-11-27T23:37:13.161249+00:00"
     },
     {
       "publisher": "ISNA",
@@ -212,7 +272,7 @@
       "published_at": "Fri, 27 Nov 2026 21:31:00 GMT",
       "published_at_utc": "2026-11-27T21:31:00+00:00",
       "published_at_tehran": "2026-11-28T01:01:00+03:30",
-      "collected_at": "2026-11-27T22:18:39.579146+00:00"
+      "collected_at": "2026-11-27T23:37:13.161295+00:00"
     },
     {
       "publisher": "ISNA",
@@ -224,7 +284,7 @@
       "published_at": "Fri, 27 Nov 2026 21:20:56 GMT",
       "published_at_utc": "2026-11-27T21:20:56+00:00",
       "published_at_tehran": "2026-11-28T00:50:56+03:30",
-      "collected_at": "2026-11-27T22:18:39.579174+00:00"
+      "collected_at": "2026-11-27T23:37:13.161340+00:00"
     },
     {
       "publisher": "ISNA",
@@ -236,79 +296,43 @@
       "published_at": "Fri, 27 Nov 2026 21:13:35 GMT",
       "published_at_utc": "2026-11-27T21:13:35+00:00",
       "published_at_tehran": "2026-11-28T00:43:35+03:30",
-      "collected_at": "2026-11-27T22:18:39.579202+00:00"
+      "collected_at": "2026-11-27T23:37:13.161384+00:00"
     },
     {
-      "publisher": "ISNA",
+      "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "سخنگوی ارتش: نیروی دریایی ارتش شرق تنگه هرمز تا شمال اقیانوس هند را کنترل می‌کند",
-      "description": "سخنگوی ارتش تأکید کرد: نیروی دریایی ارتش با اقتدار، شرق تنگه هرمز تا شمال اقیانوس هند را کنترل و مراقبت می‌کند.",
-      "article_url": "https://www.isna.ir/news/1405090704072/%D8%B3%D8%AE%D9%86%DA%AF%D9%88%DB%8C-%D8%A7%D8%B1%D8%AA%D8%B4-%D9%86%DB%8C%D8%B1%D9%88%DB%8C-%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B1%D8%AA%D8%B4-%D8%B4%D8%B1%D9%82-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D8%AA%D8%A7-%D8%B4%D9%85%D8%A7%D9%84-%D8%A7%D9%82%DB%8C%D8%A7%D9%86%D9%88%D8%B3",
-      "media_url": "https://cdn.isna.ir/d/2026/11/28/4/64071783.jpg",
-      "published_at": "Fri, 27 Nov 2026 21:10:03 GMT",
-      "published_at_utc": "2026-11-27T21:10:03+00:00",
-      "published_at_tehran": "2026-11-28T00:40:03+03:30",
-      "collected_at": "2026-11-27T22:18:39.579243+00:00"
+      "title": "کابینه امنیتی رژیم اسرائیل یکشنبه درباره اجرای طرح ترامپ در غزه تصمیم‌گیری می‌کند",
+      "description": "تهران - ایرنا - شبکه ۱۲ تلویزیون رژیم صهیونیستی گزارش داد که کابینه امنیتی این رژیم روز یکشنبه برای تصویب اقدامات اجرایی طرح «دونالد ترامپ» درباره نوار غزه تشکیل جلسه می‌دهد.",
+      "article_url": "https://www.irna.ir/news/86334203/%DA%A9%D8%A7%D8%A8%DB%8C%D9%86%D9%87-%D8%A7%D9%85%D9%86%DB%8C%D8%AA%DB%8C-%D8%B1%DA%98%DB%8C%D9%85-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%B7%D8%B1%D8%AD-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%AF%D8%B1-%D8%BA%D8%B2%D9%87",
+      "media_url": "https://img9.irna.ir/d/r2/2026/06/09/4/172917614.jpg",
+      "published_at": "Fri, 27 Nov 2026 23:19:52 GMT",
+      "published_at_utc": "2026-11-27T23:19:52+00:00",
+      "published_at_tehran": "2026-11-28T02:49:52+03:30",
+      "collected_at": "2026-11-27T23:37:14.089047+00:00"
     },
     {
-      "publisher": "ISNA",
+      "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "چطور از شر پیامک‌های تبلیغاتی  خلاص شویم؟",
-      "description": "با داغ‌شدن بازار تخفیف ها، سیل پیامک‌های تخفیف و تبلیغات هم به گوشی مشترکان سرازیر شده است. اما چطور می‌توان جلوی این پیامک‌های مزاحم را گرفت؟",
-      "article_url": "https://www.isna.ir/news/1405090704071/%DA%86%D8%B7%D9%88%D8%B1-%D8%A7%D8%B2-%D8%B4%D8%B1-%D9%BE%DB%8C%D8%A7%D9%85%DA%A9-%D9%87%D8%A7%DB%8C-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA%DB%8C-%D8%AE%D9%84%D8%A7%D8%B5-%D8%B4%D9%88%DB%8C%D9%85",
-      "media_url": "https://cdn.isna.ir/d/2026/11/28/4/64071782.jpg",
-      "published_at": "Fri, 27 Nov 2026 21:07:56 GMT",
-      "published_at_utc": "2026-11-27T21:07:56+00:00",
-      "published_at_tehran": "2026-11-28T00:37:56+03:30",
-      "collected_at": "2026-11-27T22:18:39.579270+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "دریادار ایرانی: عملیات‌های متعددی برای مقابله با دشمن در پیش است",
-      "description": "فرمانده نیروی دریایی ارتش با تاکید بر اینکه دشمن باید بداند محدودیت جغرافیایی برای نیروهای مسلح برداشته شده است، گفت: عملیات‌های متعددی در پیش است که انجام خواهد شد و نیروهای دریایی پاسخ نهایی را خواهند داد.",
-      "article_url": "https://www.isna.ir/news/1405090704070/%D8%AF%D8%B1%DB%8C%D8%A7%D8%AF%D8%A7%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA-%D9%87%D8%A7%DB%8C-%D9%85%D8%AA%D8%B9%D8%AF%D8%AF%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D9%82%D8%A7%D8%A8%D9%84%D9%87-%D8%A8%D8%A7-%D8%AF%D8%B4%D9%85%D9%86-%D8%AF%D8%B1-%D9%BE%DB%8C%D8%B4",
-      "media_url": "https://cdn.isna.ir/d/2026/11/28/4/64071781.jpg",
-      "published_at": "Fri, 27 Nov 2026 21:03:50 GMT",
-      "published_at_utc": "2026-11-27T21:03:50+00:00",
-      "published_at_tehran": "2026-11-28T00:33:50+03:30",
-      "collected_at": "2026-11-27T22:18:39.579295+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "برای سهمیه نفت خود مشغول مذاکره با اوپک هستیم",
-      "description": "وزیر نفت عراق - دومین تولیدکننده بزرگ اوپک - پیش از نشست روز یکشنبه گروه گسترده‌تر اوپک‌پلاس که قرار است در آن درباره سیاست‌های تولید تصمیم‌گیری شود، اعلام کرد عراق برای افزایش سقف تولید نفت خود با اوپک در حال مذاکره است.",
-      "article_url": "https://www.isna.ir/news/1405090604054/%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D9%87%D9%85%DB%8C%D9%87-%D9%86%D9%81%D8%AA-%D8%AE%D9%88%D8%AF-%D9%85%D8%B4%D8%BA%D9%88%D9%84-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D9%87-%D8%A8%D8%A7-%D8%A7%D9%88%D9%BE%DA%A9-%D9%87%D8%B3%D8%AA%DB%8C%D9%85",
-      "media_url": "https://cdn.isna.ir/d/2022/12/03/4/62446449.jpg",
-      "published_at": "Fri, 27 Nov 2026 20:45:00 GMT",
-      "published_at_utc": "2026-11-27T20:45:00+00:00",
-      "published_at_tehran": "2026-11-28T00:15:00+03:30",
-      "collected_at": "2026-11-27T22:18:39.579322+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "ضرب و شتم محیطبان و همیار طبیعت در پارک ملی دنا",
-      "description": "دونفراز حافظان و پاسداران پارک ملی دنا شامل یک محیطبان و یک همیار طبیعت دوست در محدوده منطقه حفاظت‌شده و پارک ملی دنا هنگام گشت و پایش منطقه میمند با دو شکارچی مسلح به یک قبضه سلاح مواجه شده و هنگام اعمال قانون مورد ضرب و شتم قرار گرفتند.",
-      "article_url": "https://www.isna.ir/news/1405090604069/%D8%B6%D8%B1%D8%A8-%D9%88-%D8%B4%D8%AA%D9%85-%D9%85%D8%AD%DB%8C%D8%B7%D8%A8%D8%A7%D9%86-%D9%88-%D9%87%D9%85%DB%8C%D8%A7%D8%B1-%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA-%D8%AF%D8%B1-%D9%BE%D8%A7%D8%B1%DA%A9-%D9%85%D9%84%DB%8C-%D8%AF%D9%86%D8%A7",
-      "media_url": "https://cdn.isna.ir/d/2026/11/27/4/64071777.jpg",
-      "published_at": "Fri, 27 Nov 2026 20:24:19 GMT",
-      "published_at_utc": "2026-11-27T20:24:19+00:00",
-      "published_at_tehran": "2026-11-27T23:54:19+03:30",
-      "collected_at": "2026-11-27T22:18:39.579347+00:00"
+      "title": "استاندار: ۳۰ طرح تازه سرمایه‌گذاری در ایلام شناسایی شد",
+      "description": "ایلام- ایرنا - استاندار ایلام از بررسی ۲۴ طرح راکد در استان برای بازگشت به چرخه تولید و شناسایی ۳۰ طرح جدید سرمایه‌گذاری خبر داد و گفت که فعال‌سازی ظرفیت‌های تولیدی، تکمیل زیرساخت‌های روستایی و توسعه اشتغال پایدار از اولویت‌های مدیریت استان و دولت است.",
+      "article_url": "https://www.irna.ir/news/86334198/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%DB%B3%DB%B0-%D8%B7%D8%B1%D8%AD-%D8%AA%D8%A7%D8%B2%D9%87-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%A7%DB%8C%D9%84%D8%A7%D9%85-%D8%B4%D9%86%D8%A7%D8%B3%D8%A7%DB%8C%DB%8C-%D8%B4%D8%AF",
+      "media_url": "https://img9.irna.ir/d/r2/2026/10/02/4/173144122.jpg",
+      "published_at": "Fri, 27 Nov 2026 22:30:20 GMT",
+      "published_at_utc": "2026-11-27T22:30:20+00:00",
+      "published_at_tehran": "2026-11-28T02:00:20+03:30",
+      "collected_at": "2026-11-27T23:37:14.089113+00:00"
     },
     {
       "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
       "title": "تاکید مقام لبنانی بر همبستگی با ایران",
-      "description": "تهران - ایرنا - نایب‌رئیس مجلس اعلای شیعیان عالی لبنان با تاکید بر همبستگی میان ۲ ملت ایران و لبنان، از حمایت‌های جمهوری اسلامی ایران قدردانی کرد و گفت: در حالیکه برخی مدعی دخالت ایران در امور لبنان هستند، این آمریکا است که در امور این کشور دخالت و خواسته‌ها و شروط خود را بر لبنانی‌ها تحمیل می‌کند.",
+      "description": "تهران - ایرنا - نایب‌رئیس مجلس اعلای شیعیان لبنان با تاکید بر همبستگی میان ۲ ملت ایران و لبنان، از حمایت‌های جمهوری اسلامی ایران قدردانی کرد و گفت: در حالیکه برخی مدعی دخالت ایران در امور لبنان هستند، این آمریکا است که در امور این کشور دخالت و خواسته‌ها و شروط خود را بر لبنانی‌ها تحمیل می‌کند.",
       "article_url": "https://www.irna.ir/news/86334191/%D8%AA%D8%A7%DA%A9%DB%8C%D8%AF-%D9%85%D9%82%D8%A7%D9%85-%D9%84%D8%A8%D9%86%D8%A7%D9%86%DB%8C-%D8%A8%D8%B1-%D9%87%D9%85%D8%A8%D8%B3%D8%AA%DA%AF%DB%8C-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
       "media_url": "https://img9.irna.ir/d/r2/2026/11/28/4/173270636.jpg",
       "published_at": "Fri, 27 Nov 2026 22:02:26 GMT",
       "published_at_utc": "2026-11-27T22:02:26+00:00",
       "published_at_tehran": "2026-11-28T01:32:26+03:30",
-      "collected_at": "2026-11-27T22:18:40.624598+00:00"
+      "collected_at": "2026-11-27T23:37:14.089169+00:00"
     },
     {
       "publisher": "IRNA",
@@ -320,7 +344,7 @@
       "published_at": "Fri, 27 Nov 2026 21:58:44 GMT",
       "published_at_utc": "2026-11-27T21:58:44+00:00",
       "published_at_tehran": "2026-11-28T01:28:44+03:30",
-      "collected_at": "2026-11-27T22:18:40.624641+00:00"
+      "collected_at": "2026-11-27T23:37:14.089220+00:00"
     },
     {
       "publisher": "IRNA",
@@ -332,7 +356,7 @@
       "published_at": "Fri, 27 Nov 2026 21:22:44 GMT",
       "published_at_utc": "2026-11-27T21:22:44+00:00",
       "published_at_tehran": "2026-11-28T00:52:44+03:30",
-      "collected_at": "2026-11-27T22:18:40.624674+00:00"
+      "collected_at": "2026-11-27T23:37:14.089270+00:00"
     },
     {
       "publisher": "IRNA",
@@ -344,7 +368,7 @@
       "published_at": "Fri, 27 Nov 2026 21:18:26 GMT",
       "published_at_utc": "2026-11-27T21:18:26+00:00",
       "published_at_tehran": "2026-11-28T00:48:26+03:30",
-      "collected_at": "2026-11-27T22:18:40.624703+00:00"
+      "collected_at": "2026-11-27T23:37:14.089315+00:00"
     },
     {
       "publisher": "IRNA",
@@ -356,7 +380,7 @@
       "published_at": "Fri, 27 Nov 2026 21:14:45 GMT",
       "published_at_utc": "2026-11-27T21:14:45+00:00",
       "published_at_tehran": "2026-11-28T00:44:45+03:30",
-      "collected_at": "2026-11-27T22:18:40.624732+00:00"
+      "collected_at": "2026-11-27T23:37:14.089359+00:00"
     },
     {
       "publisher": "IRNA",
@@ -368,7 +392,7 @@
       "published_at": "Fri, 27 Nov 2026 21:13:51 GMT",
       "published_at_utc": "2026-11-27T21:13:51+00:00",
       "published_at_tehran": "2026-11-28T00:43:51+03:30",
-      "collected_at": "2026-11-27T22:18:40.624758+00:00"
+      "collected_at": "2026-11-27T23:37:14.089406+00:00"
     },
     {
       "publisher": "IRNA",
@@ -380,7 +404,7 @@
       "published_at": "Fri, 27 Nov 2026 21:10:48 GMT",
       "published_at_utc": "2026-11-27T21:10:48+00:00",
       "published_at_tehran": "2026-11-28T00:40:48+03:30",
-      "collected_at": "2026-11-27T22:18:40.624785+00:00"
+      "collected_at": "2026-11-27T23:37:14.089451+00:00"
     },
     {
       "publisher": "IRNA",
@@ -392,7 +416,7 @@
       "published_at": "Fri, 27 Nov 2026 21:07:40 GMT",
       "published_at_utc": "2026-11-27T21:07:40+00:00",
       "published_at_tehran": "2026-11-28T00:37:40+03:30",
-      "collected_at": "2026-11-27T22:18:40.624812+00:00"
+      "collected_at": "2026-11-27T23:37:14.089502+00:00"
     },
     {
       "publisher": "IRNA",
@@ -404,7 +428,7 @@
       "published_at": "Fri, 27 Nov 2026 21:00:00 GMT",
       "published_at_utc": "2026-11-27T21:00:00+00:00",
       "published_at_tehran": "2026-11-28T00:30:00+03:30",
-      "collected_at": "2026-11-27T22:18:40.624843+00:00"
+      "collected_at": "2026-11-27T23:37:14.089544+00:00"
     },
     {
       "publisher": "IRNA",
@@ -416,31 +440,7 @@
       "published_at": "Fri, 27 Nov 2026 20:53:48 GMT",
       "published_at_utc": "2026-11-27T20:53:48+00:00",
       "published_at_tehran": "2026-11-28T00:23:48+03:30",
-      "collected_at": "2026-11-27T22:18:40.624871+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "نهاد دریایی انگلیس از وقوع حادثه امنیتی برای یک کشتی باری در دریای عمان خبر داد",
-      "description": "لندن - ایرنا - مرکز عملیات تجارت دریایی انگلیس (UKMTO) با صدور اطلاعیه‌ای از وقوع یک حادثه امنیتی مرتبط با یک کشتی باری در دریای عمان خبر داد.",
-      "article_url": "https://www.irna.ir/news/86334184/%D9%86%D9%87%D8%A7%D8%AF-%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C%DB%8C-%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3-%D8%A7%D8%B2-%D9%88%D9%82%D9%88%D8%B9-%D8%AD%D8%A7%D8%AF%D8%AB%D9%87-%D8%A7%D9%85%D9%86%DB%8C%D8%AA%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%DB%8C%DA%A9-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%A8%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1",
-      "media_url": "https://img9.irna.ir/d/r2/2026/11/28/4/173270621.jpg",
-      "published_at": "Fri, 27 Nov 2026 20:41:44 GMT",
-      "published_at_utc": "2026-11-27T20:41:44+00:00",
-      "published_at_tehran": "2026-11-28T00:11:44+03:30",
-      "collected_at": "2026-11-27T22:18:40.624898+00:00"
-    },
-    {
-      "publisher": "IRNA",
-      "source_mode": "publisher_website_rss",
-      "title": "رقابت بیش از ۱۳۰ کشتی‌گیر خردسال استان مرکزی در طرح ملی \"نبض محله\"",
-      "description": "اراک - ایرنا -  نخستین دوره مسابقات کشتی آزاد خردسالان طرح ملی «نبض محله» در مرحله استانی، روز جمعه با حضور بیش از ۱۳۰ ورزشکار از شهرستان‌ها و محلات مختلف استان مرکزی، در سالن کشتی مجموعه ورزشی شهدای پنجم مرداد اراک برگزار شد.",
-      "article_url": "https://www.irna.ir/news/86334181/%D8%B1%D9%82%D8%A7%D8%A8%D8%AA-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B1%DB%B3%DB%B0-%DA%A9%D8%B4%D8%AA%DB%8C-%DA%AF%DB%8C%D8%B1-%D8%AE%D8%B1%D8%AF%D8%B3%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%AF%D8%B1-%D8%B7%D8%B1%D8%AD-%D9%85%D9%84%DB%8C-%D9%86%D8%A8%D8%B6",
-      "media_url": "https://img9.irna.ir/d/r2/2026/11/28/4/173270615.jpg",
-      "published_at": "Fri, 27 Nov 2026 20:36:25 GMT",
-      "published_at_utc": "2026-11-27T20:36:25+00:00",
-      "published_at_tehran": "2026-11-28T00:06:25+03:30",
-      "collected_at": "2026-11-27T22:18:40.624924+00:00"
+      "collected_at": "2026-11-27T23:37:14.089587+00:00"
     }
   ]
 }\n
