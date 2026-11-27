@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T18:05:13.397883+00:00",
+  "generated_at": "2026-11-27T19:15:50.750776+00:00",
   "source_mode": "publisher_website_rss_separate_from_instagram",
   "publishing_enabled": false,
   "count": 36,
@@ -20,7 +20,7 @@
       "published_at": "",
       "published_at_utc": null,
       "published_at_tehran": null,
-      "collected_at": "2026-11-27T18:05:10.198105+00:00"
+      "collected_at": "2026-11-27T19:15:47.622912+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -32,7 +32,7 @@
       "published_at": "Fri, 27 Nov 2026 15:08:30 GMT",
       "published_at_utc": "2026-11-27T15:08:30+00:00",
       "published_at_tehran": "2026-11-27T18:38:30+03:30",
-      "collected_at": "2026-11-27T18:05:10.198176+00:00"
+      "collected_at": "2026-11-27T19:15:47.633428+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -44,7 +44,7 @@
       "published_at": "Fri, 27 Nov 2026 12:29:39 GMT",
       "published_at_utc": "2026-11-27T12:29:39+00:00",
       "published_at_tehran": "2026-11-27T15:59:39+03:30",
-      "collected_at": "2026-11-27T18:05:10.198204+00:00"
+      "collected_at": "2026-11-27T19:15:47.633522+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -56,19 +56,7 @@
       "published_at": "Fri, 27 Nov 2026 06:00:07 GMT",
       "published_at_utc": "2026-11-27T06:00:07+00:00",
       "published_at_tehran": "2026-11-27T09:30:07+03:30",
-      "collected_at": "2026-11-27T18:05:10.198242+00:00"
-    },
-    {
-      "publisher": "BBC Persian",
-      "source_mode": "publisher_website_rss",
-      "title": "رئیس سازمان امور مالیاتی ایران: مالیات عملکرد سال گذشته حدود ۱۰ میلیون نفر را صفر کردیم",
-      "description": "محمدهادی سبحانیان،  رئیس سازمان امور مالیاتی ایران اعلام کرده است امسال مالیات حدود ۱۰ میلیون نفر از اصناف و بازاریان «صفر» تعیین شده است.",
-      "article_url": "https://www.bbc.com/persian/articles/c68j4pvx414go?at_medium=RSS&at_campaign=rss",
-      "media_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3878/live/3d0127a0-ea5d-11f1-89b9-f318b11567ea.jpg",
-      "published_at": "Fri, 27 Nov 2026 13:38:39 GMT",
-      "published_at_utc": "2026-11-27T13:38:39+00:00",
-      "published_at_tehran": "2026-11-27T17:08:39+03:30",
-      "collected_at": "2026-11-27T18:05:10.198266+00:00"
+      "collected_at": "2026-11-27T19:15:47.633590+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -80,7 +68,7 @@
       "published_at": "Fri, 27 Nov 2026 08:50:20 GMT",
       "published_at_utc": "2026-11-27T08:50:20+00:00",
       "published_at_tehran": "2026-11-27T12:20:20+03:30",
-      "collected_at": "2026-11-27T18:05:10.198288+00:00"
+      "collected_at": "2026-11-27T19:15:47.633650+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -92,7 +80,19 @@
       "published_at": "Fri, 27 Nov 2026 11:58:56 GMT",
       "published_at_utc": "2026-11-27T11:58:56+00:00",
       "published_at_tehran": "2026-11-27T15:28:56+03:30",
-      "collected_at": "2026-11-27T18:05:10.198309+00:00"
+      "collected_at": "2026-11-27T19:15:47.633714+00:00"
+    },
+    {
+      "publisher": "BBC Persian",
+      "source_mode": "publisher_website_rss",
+      "title": "رئیس سازمان امور مالیاتی ایران: مالیات عملکرد سال گذشته حدود ۱۰ میلیون نفر را صفر کردیم",
+      "description": "محمدهادی سبحانیان،  رئیس سازمان امور مالیاتی ایران اعلام کرده است امسال مالیات حدود ۱۰ میلیون نفر از اصناف و بازاریان «صفر» تعیین شده است.",
+      "article_url": "https://www.bbc.com/persian/articles/c68j4pvx414go?at_medium=RSS&at_campaign=rss",
+      "media_url": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3878/live/3d0127a0-ea5d-11f1-89b9-f318b11567ea.jpg",
+      "published_at": "Fri, 27 Nov 2026 13:38:39 GMT",
+      "published_at_utc": "2026-11-27T13:38:39+00:00",
+      "published_at_tehran": "2026-11-27T17:08:39+03:30",
+      "collected_at": "2026-11-27T19:15:47.633772+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -104,7 +104,7 @@
       "published_at": "Fri, 27 Nov 2026 08:34:37 GMT",
       "published_at_utc": "2026-11-27T08:34:37+00:00",
       "published_at_tehran": "2026-11-27T12:04:37+03:30",
-      "collected_at": "2026-11-27T18:05:10.198328+00:00"
+      "collected_at": "2026-11-27T19:15:47.633825+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -116,7 +116,7 @@
       "published_at": "Fri, 27 Nov 2026 06:48:18 GMT",
       "published_at_utc": "2026-11-27T06:48:18+00:00",
       "published_at_tehran": "2026-11-27T10:18:18+03:30",
-      "collected_at": "2026-11-27T18:05:10.198352+00:00"
+      "collected_at": "2026-11-27T19:15:47.633876+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -128,7 +128,7 @@
       "published_at": "Thu, 26 Nov 2026 13:55:37 GMT",
       "published_at_utc": "2026-11-26T13:55:37+00:00",
       "published_at_tehran": "2026-11-26T17:25:37+03:30",
-      "collected_at": "2026-11-27T18:05:10.198374+00:00"
+      "collected_at": "2026-11-27T19:15:47.633933+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -140,7 +140,7 @@
       "published_at": "Thu, 26 Nov 2026 14:25:59 GMT",
       "published_at_utc": "2026-11-26T14:25:59+00:00",
       "published_at_tehran": "2026-11-26T17:55:59+03:30",
-      "collected_at": "2026-11-27T18:05:10.198395+00:00"
+      "collected_at": "2026-11-27T19:15:47.633986+00:00"
     },
     {
       "publisher": "BBC Persian",
@@ -152,7 +152,103 @@
       "published_at": "",
       "published_at_utc": null,
       "published_at_tehran": null,
-      "collected_at": "2026-11-27T18:05:10.198412+00:00"
+      "collected_at": "2026-11-27T19:15:47.634023+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "پوتین: روسیه به تقویت جایگاه خود در اقیانوس‌های جهان ادامه خواهد داد",
+      "description": "«ولادیمیر پوتین» رئیس‌جمهور روسیه روز جمعه گفت که این کشور به تقویت جایگاه خود در اقیانوس‌های جهان ادامه خواهد داد.",
+      "article_url": "https://www.isna.ir/news/1405090604050/%D9%BE%D9%88%D8%AA%DB%8C%D9%86-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D8%A8%D9%87-%D8%AA%D9%82%D9%88%DB%8C%D8%AA-%D8%AC%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%AE%D9%88%D8%AF-%D8%AF%D8%B1-%D8%A7%D9%82%DB%8C%D8%A7%D9%86%D9%88%D8%B3-%D9%87%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%AE%D9%88%D8%A7%D9%87%D8%AF",
+      "media_url": "https://cdn.isna.ir/d/2025/02/12/4/63356631.jpg",
+      "published_at": "Fri, 27 Nov 2026 18:30:31 GMT",
+      "published_at_utc": "2026-11-27T18:30:31+00:00",
+      "published_at_tehran": "2026-11-27T22:00:31+03:30",
+      "collected_at": "2026-11-27T19:15:49.460908+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "مدارس کردستان روز شنبه هفتم آذر غیرحضوری شد",
+      "description": "بر اساس مصوبه شورای هماهنگی مدیریت بحران استان کردستان، فعالیت مدارس استان در روز شنبه هفتم آذرماه با هدف پیشگیری از گسترش بیماری آنفلوآنزا و قطع زنجیره انتقال، به‌صورت غیرحضوری خواهد بود.",
+      "article_url": "https://www.isna.ir/news/1405090604049/%D9%85%D8%AF%D8%A7%D8%B1%D8%B3-%DA%A9%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%B1%D9%88%D8%B2-%D8%B4%D9%86%D8%A8%D9%87-%D9%87%D9%81%D8%AA%D9%85-%D8%A2%D8%B0%D8%B1-%D8%BA%DB%8C%D8%B1%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%B4%D8%AF",
+      "media_url": "https://cdn.isna.ir/d/off/kordestan/2026/11/27/4/64071724.jpg",
+      "published_at": "Fri, 27 Nov 2026 18:30:25 GMT",
+      "published_at_utc": "2026-11-27T18:30:25+00:00",
+      "published_at_tehran": "2026-11-27T22:00:25+03:30",
+      "collected_at": "2026-11-27T19:15:49.461028+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "با پیشنهاد استاندار کردستان؛ ۳۰ سایت ارتباطی در بیجار محقق شد",
+      "description": "فرماندار بیجار از تحقق مصوبه احداث ۳۰ سایت مخابراتی در این شهرستان گفت: برنامه‌ریزی برای اجرای ۳۰ سایت ارتباطی دیگر نیز در دستور کار قرار دارد.",
+      "article_url": "https://www.isna.ir/news/1405090604048/%D8%A8%D8%A7-%D9%BE%DB%8C%D8%B4%D9%86%D9%87%D8%A7%D8%AF-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%DA%A9%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%DB%B3%DB%B0-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7%DB%8C-%D8%AF%D8%B1-%D8%A8%DB%8C%D8%AC%D8%A7%D8%B1-%D9%85%D8%AD%D9%82%D9%82-%D8%B4%D8%AF",
+      "media_url": "https://cdn.isna.ir/d/2026/11/27/4/64071726.jpg",
+      "published_at": "Fri, 27 Nov 2026 18:29:56 GMT",
+      "published_at_utc": "2026-11-27T18:29:56+00:00",
+      "published_at_tehran": "2026-11-27T21:59:56+03:30",
+      "collected_at": "2026-11-27T19:15:49.461106+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "هشدار دادستان آران‌وبیدگل درباره تخلفات «جمعه سیاه»",
+      "description": "دادستان عمومی و انقلاب شهرستان آران‌وبیدگل درباره گسترش خریدهای آنلاین در ایام حراج‌های مناسبتی، نسبت به فعالیت صفحات و فروشگاه‌های اینترنتی جعلی، عرضه کالاهای تقلبی و تخفیف‌های غیرواقعی هشدار داد و توصیه‌های پیشگیرانه‌ای را به شهروندان ارائه کرد.",
+      "article_url": "https://www.isna.ir/news/1405090604047/%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%AF%D8%A7%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%A2%D8%B1%D8%A7%D9%86-%D9%88%D8%A8%DB%8C%D8%AF%DA%AF%D9%84-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AA%D8%AE%D9%84%D9%81%D8%A7%D8%AA-%D8%AC%D9%85%D8%B9%D9%87-%D8%B3%DB%8C%D8%A7%D9%87",
+      "media_url": "https://cdn.isna.ir/d/2026/10/31/4/64035140.jpg",
+      "published_at": "Fri, 27 Nov 2026 18:25:09 GMT",
+      "published_at_utc": "2026-11-27T18:25:09+00:00",
+      "published_at_tehran": "2026-11-27T21:55:09+03:30",
+      "collected_at": "2026-11-27T19:15:49.461161+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "میزبانی شهرستان نائین از ۳ رویداد ملی ورزشی",
+      "description": "سرپرست فرمانداری نایین با بیان اینکه این شهرستان در هفته آخر آذر، میزبان سه رویداد ورزشی ملی است، گفت: همایش شو سوارکاری با حضور ۵۰ اسب از سه استان اصفهان، یزد و کرمان برای اولین‌بار در شهرستان برگزار شد.",
+      "article_url": "https://www.isna.ir/news/1405090604046/%D9%85%DB%8C%D8%B2%D8%A8%D8%A7%D9%86%DB%8C-%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D9%86%D8%A7%D8%A6%DB%8C%D9%86-%D8%A7%D8%B2-%DB%B3-%D8%B1%D9%88%DB%8C%D8%AF%D8%A7%D8%AF-%D9%85%D9%84%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C",
+      "media_url": "https://cdn.isna.ir/d/2026/11/27/4/64071725.jpg",
+      "published_at": "Fri, 27 Nov 2026 18:22:14 GMT",
+      "published_at_utc": "2026-11-27T18:22:14+00:00",
+      "published_at_tehran": "2026-11-27T21:52:14+03:30",
+      "collected_at": "2026-11-27T19:15:49.461208+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "تکمیل کریدور شمال‌غرب ـ جنوب‌غرب باید با زمان‌بندی کوتاه‌تری دنبال شود",
+      "description": "استاندار کردستان با تأکید بر ضرورت تسریع در اجرای پروژه‌های زیرساختی حمل‌ونقل استان گفت: زمان‌بندی پیش‌بینی‌شده برای تکمیل قطعات باقی‌مانده کریدور شمال‌غرب ـ جنوب‌غرب باید بازنگری و کوتاه‌تر شود تا ضمن تقویت شبکه ارتباطی استان، خطرات جاده‌ای و تلفات ناشی از حوادث رانندگی کاهش یابد.",
+      "article_url": "https://www.isna.ir/news/1405090604045/%D8%AA%DA%A9%D9%85%DB%8C%D9%84-%DA%A9%D8%B1%DB%8C%D8%AF%D9%88%D8%B1-%D8%B4%D9%85%D8%A7%D9%84-%D8%BA%D8%B1%D8%A8-%D8%AC%D9%86%D9%88%D8%A8-%D8%BA%D8%B1%D8%A8-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%A8%D8%A7-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D9%86%D8%AF%DB%8C-%DA%A9%D9%88%D8%AA%D8%A7%D9%87-%D8%AA%D8%B1%DB%8C",
+      "media_url": "https://cdn.isna.ir/d/off/kordestan/2026/11/27/4/64071720.jpg",
+      "published_at": "Fri, 27 Nov 2026 18:15:11 GMT",
+      "published_at_utc": "2026-11-27T18:15:11+00:00",
+      "published_at_tehran": "2026-11-27T21:45:11+03:30",
+      "collected_at": "2026-11-27T19:15:49.461253+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "تکمیل کریدور شمال به جنوب، فرصت‌های تازه‌ای برای توسعه کردستان ایجاد می‌کند",
+      "description": "سرپرست معاونت هماهنگی امور عمرانی استاندار کردستان گفت: تکمیل کریدور شمال به جنوب و تأمین اعتبار قطعات باقی‌مانده آن، می‌تواند ظرفیت استان را در حوزه ترانزیت، تجارت و حمل‌ونقل ارتقا دهد و زمینه‌ساز تحولات اقتصادی و اجتماعی شود.",
+      "article_url": "https://www.isna.ir/news/1405090604044/%D8%AA%DA%A9%D9%85%DB%8C%D9%84-%DA%A9%D8%B1%DB%8C%D8%AF%D9%88%D8%B1-%D8%B4%D9%85%D8%A7%D9%84-%D8%A8%D9%87-%D8%AC%D9%86%D9%88%D8%A8-%D9%81%D8%B1%D8%B5%D8%AA-%D9%87%D8%A7%DB%8C-%D8%AA%D8%A7%D8%B2%D9%87-%D8%A7%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%DA%A9%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
+      "media_url": "https://cdn.isna.ir/d/off/kordestan/2026/11/27/4/64071719.jpg",
+      "published_at": "Fri, 27 Nov 2026 18:14:41 GMT",
+      "published_at_utc": "2026-11-27T18:14:41+00:00",
+      "published_at_tehran": "2026-11-27T21:44:41+03:30",
+      "collected_at": "2026-11-27T19:15:49.461295+00:00"
+    },
+    {
+      "publisher": "ISNA",
+      "source_mode": "publisher_website_rss",
+      "title": "همنشینی ماه و ستاره پولوکس در آسمان بامدادی هفتم آذر",
+      "description": "یک کارشناس نجوم از همنشینی ماه و ستاره پولوکس، درخشان‌ترین ستاره صورت فلکی دوپیکر، در بامداد شنبه هفتم آذرماه خبر داد و گفت: این پدیده با چشم غیرمسلح قابل مشاهده است و فرصتی برای آشنایی با یکی از درخشان‌ترین ستارگان آسمان شب فراهم می‌کند.",
+      "article_url": "https://www.isna.ir/news/1405090604042/%D9%87%D9%85%D9%86%D8%B4%DB%8C%D9%86%DB%8C-%D9%85%D8%A7%D9%87-%D9%88-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-%D9%BE%D9%88%D9%84%D9%88%DA%A9%D8%B3-%D8%AF%D8%B1-%D8%A2%D8%B3%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D9%85%D8%AF%D8%A7%D8%AF%DB%8C-%D9%87%D9%81%D8%AA%D9%85-%D8%A2%D8%B0%D8%B1",
+      "media_url": "https://cdn.isna.ir/d/2026/10/07/4/64004385.jpg",
+      "published_at": "Fri, 27 Nov 2026 18:10:18 GMT",
+      "published_at_utc": "2026-11-27T18:10:18+00:00",
+      "published_at_tehran": "2026-11-27T21:40:18+03:30",
+      "collected_at": "2026-11-27T19:15:49.461340+00:00"
     },
     {
       "publisher": "ISNA",
@@ -164,7 +260,7 @@
       "published_at": "Fri, 27 Nov 2026 18:00:26 GMT",
       "published_at_utc": "2026-11-27T18:00:26+00:00",
       "published_at_tehran": "2026-11-27T21:30:26+03:30",
-      "collected_at": "2026-11-27T18:05:12.198974+00:00"
+      "collected_at": "2026-11-27T19:15:49.461384+00:00"
     },
     {
       "publisher": "ISNA",
@@ -176,7 +272,7 @@
       "published_at": "Fri, 27 Nov 2026 17:55:45 GMT",
       "published_at_utc": "2026-11-27T17:55:45+00:00",
       "published_at_tehran": "2026-11-27T21:25:45+03:30",
-      "collected_at": "2026-11-27T18:05:12.199014+00:00"
+      "collected_at": "2026-11-27T19:15:49.461427+00:00"
     },
     {
       "publisher": "ISNA",
@@ -188,7 +284,7 @@
       "published_at": "Fri, 27 Nov 2026 17:48:27 GMT",
       "published_at_utc": "2026-11-27T17:48:27+00:00",
       "published_at_tehran": "2026-11-27T21:18:27+03:30",
-      "collected_at": "2026-11-27T18:05:12.199040+00:00"
+      "collected_at": "2026-11-27T19:15:49.461470+00:00"
     },
     {
       "publisher": "ISNA",
@@ -200,247 +296,151 @@
       "published_at": "Fri, 27 Nov 2026 17:36:54 GMT",
       "published_at_utc": "2026-11-27T17:36:54+00:00",
       "published_at_tehran": "2026-11-27T21:06:54+03:30",
-      "collected_at": "2026-11-27T18:05:12.199064+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "شناخت دقیق دنیای کودکان و نوجوانان، نخستین گام در خلق آثار هنری است",
-      "description": "وزیر فرهنگ و ارشاد اسلامی، در پیامی به سی‌ویکمین جشنواره بین‌المللی تئاتر کودک و نوجوان همدان نوشت: شناخت کامل، دقیق و روزآمد دنیای کودکی و جهان ویژه نوجوانی، نخستین گام در مسیر خلق آثار هنری برای این نسل است.",
-      "article_url": "https://www.isna.ir/news/1405090604037/%D9%88%D8%B2%DB%8C%D8%B1-%D9%81%D8%B1%D9%87%D9%86%DA%AF-%D9%88-%D8%A7%D8%B1%D8%B4%D8%A7%D8%AF-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C-%D8%B4%D9%86%D8%A7%D8%AE%D8%AA-%D8%AF%D9%82%DB%8C%D9%82-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%DA%A9%D9%88%D8%AF%DA%A9%D8%A7%D9%86-%D9%88-%D9%86%D9%88%D8%AC%D9%88%D8%A7%D9%86%D8%A7%D9%86",
-      "media_url": "https://cdn.isna.ir/d/2026/10/21/4/64022925.jpg",
-      "published_at": "Fri, 27 Nov 2026 17:27:57 GMT",
-      "published_at_utc": "2026-11-27T17:27:57+00:00",
-      "published_at_tehran": "2026-11-27T20:57:57+03:30",
-      "collected_at": "2026-11-27T18:05:12.199085+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "استاد حوزه: میراث آیت‌الله وحید خراسانی به درس فقه و اصول محدود نبود",
-      "description": "استاد حوزه علمیه، در مراسم بزرگداشت آیت‌الله‌العظمی وحید خراسانی، با مرور نزدیک به پنج دهه تدریس فقه و اصول این مرجع تقلید، گفت: تربیت شاگردان، تبلیغ معارف اهل‌بیت(ع)، احیای شعائر دینی و رسیدگی به نیازمندان، بخش‌هایی از کارنامه اوست که در کنار جایگاه علمی‌اش باید دیده شود.",
-      "article_url": "https://www.isna.ir/news/1405090604036/%D8%A7%D8%B3%D8%AA%D8%A7%D8%AF-%D8%AD%D9%88%D8%B2%D9%87-%D9%85%DB%8C%D8%B1%D8%A7%D8%AB-%D8%A2%DB%8C%D8%AA-%D8%A7%D9%84%D9%84%D9%87-%D9%88%D8%AD%DB%8C%D8%AF-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86%DB%8C-%D8%A8%D9%87-%D8%AF%D8%B1%D8%B3-%D9%81%D9%82%D9%87-%D9%88-%D8%A7%D8%B5%D9%88%D9%84-%D9%85%D8%AD%D8%AF%D9%88%D8%AF",
-      "media_url": "https://cdn.isna.ir/d/off/qom/2026/11/27/4/64071718.jpg",
-      "published_at": "Fri, 27 Nov 2026 17:27:42 GMT",
-      "published_at_utc": "2026-11-27T17:27:42+00:00",
-      "published_at_tehran": "2026-11-27T20:57:42+03:30",
-      "collected_at": "2026-11-27T18:05:12.199107+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "توزیع‌کننده مشروبات الکلی تقلبی در خوی دستگیر شد",
-      "description": "دادستان خوی از دستگیری توزیع‌کننده مشروبات الکلی تقلبی و دست‌ساز در این شهرستان خبر داد.",
-      "article_url": "https://www.isna.ir/news/1405090604035/%D8%AA%D9%88%D8%B2%DB%8C%D8%B9-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%85%D8%B4%D8%B1%D9%88%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%DA%A9%D9%84%DB%8C-%D8%AA%D9%82%D9%84%D8%A8%DB%8C-%D8%AF%D8%B1-%D8%AE%D9%88%DB%8C-%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1-%D8%B4%D8%AF",
-      "media_url": "https://cdn.isna.ir/d/2026/11/10/4/64048720.jpg",
-      "published_at": "Fri, 27 Nov 2026 17:19:30 GMT",
-      "published_at_utc": "2026-11-27T17:19:30+00:00",
-      "published_at_tehran": "2026-11-27T20:49:30+03:30",
-      "collected_at": "2026-11-27T18:05:12.199128+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "طلای کشوری پیلاتس بانوان برای قم شد",
-      "description": "نماینده استان قم در نهمین دوره مسابقات قهرمانی کشور پیلاتس مت بانوان، مدال طلا را کسب کرد.",
-      "article_url": "https://www.isna.ir/news/1405090604034/%D8%B7%D9%84%D8%A7%DB%8C-%DA%A9%D8%B4%D9%88%D8%B1%DB%8C-%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D8%B3-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%82%D9%85-%D8%B4%D8%AF",
-      "media_url": "https://cdn.isna.ir/d/off/qom/2026/11/27/4/64071704.jpg",
-      "published_at": "Fri, 27 Nov 2026 17:08:51 GMT",
-      "published_at_utc": "2026-11-27T17:08:51+00:00",
-      "published_at_tehran": "2026-11-27T20:38:51+03:30",
-      "collected_at": "2026-11-27T18:05:12.199148+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "برخورد مرگبار ۲ خودرو در محور رامهرمز–رامشیر",
-      "description": "رئیس اورژانس پیش‌بیمارستانی و مدیریت حوادث دانشگاه علوم پزشکی جندی‌شاپور اهواز از کشته شدن یک نفر و مصدومیت سه تن در پی برخورد دو خودرو در محور رامهرمز - رامشیر خبر داد.",
-      "article_url": "https://www.isna.ir/news/1405090604033/%D8%A8%D8%B1%D8%AE%D9%88%D8%B1%D8%AF-%D9%85%D8%B1%DA%AF%D8%A8%D8%A7%D8%B1-%DB%B2-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%AF%D8%B1-%D9%85%D8%AD%D9%88%D8%B1-%D8%B1%D8%A7%D9%85%D9%87%D8%B1%D9%85%D8%B2-%D8%B1%D8%A7%D9%85%D8%B4%DB%8C%D8%B1",
-      "media_url": "https://cdn.isna.ir/d/2026/11/27/4/64071716.jpg",
-      "published_at": "Fri, 27 Nov 2026 17:07:16 GMT",
-      "published_at_utc": "2026-11-27T17:07:16+00:00",
-      "published_at_tehran": "2026-11-27T20:37:16+03:30",
-      "collected_at": "2026-11-27T18:05:12.199168+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "آموزش در چند منطقه از چهارمحال و بختیاری هفتم آذر غیرحضوری شد",
-      "description": "در راستای اجرای دستورالعمل پیشگیری، مراقبت و کنترل عفونت‌های حاد تنفسی در مدارس چهارمحال و بختیاری، آموزش در چند منطقه از این استان غیرحضوری شد.",
-      "article_url": "https://www.isna.ir/news/1405090604032/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AF%D8%B1-%DA%86%D9%86%D8%AF-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%A7%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D9%85%D8%AD%D8%A7%D9%84-%D9%88-%D8%A8%D8%AE%D8%AA%DB%8C%D8%A7%D8%B1%DB%8C-%D9%87%D9%81%D8%AA%D9%85-%D8%A2%D8%B0%D8%B1-%D8%BA%DB%8C%D8%B1%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%B4%D8%AF",
-      "media_url": "https://cdn.isna.ir/d/2026/09/24/4/63987823.jpg",
-      "published_at": "Fri, 27 Nov 2026 17:05:13 GMT",
-      "published_at_utc": "2026-11-27T17:05:13+00:00",
-      "published_at_tehran": "2026-11-27T20:35:13+03:30",
-      "collected_at": "2026-11-27T18:05:12.199187+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "پزشکیان: جنایت آمریکا و رژیم اسرائیل در میناب را هرگز فراموش نخواهیم کرد",
-      "description": "رئیس‌جمهور در پیامی ضمن تاکید بر این که ما هرگز جنایت آمریکا و رژیم اسرائیل در میناب را فراموش نخواهیم کرد، گفت: این جنایت، ریاکاری مدعیان دفاع از حقوق بشر را آشکار می‌کند.",
-      "article_url": "https://www.isna.ir/news/1405090604031/%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86-%D8%AC%D9%86%D8%A7%DB%8C%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%88-%D8%B1%DA%98%DB%8C%D9%85-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D8%AF%D8%B1-%D9%85%DB%8C%D9%86%D8%A7%D8%A8-%D8%B1%D8%A7-%D9%87%D8%B1%DA%AF%D8%B2-%D9%81%D8%B1%D8%A7%D9%85%D9%88%D8%B4",
-      "media_url": "https://cdn.isna.ir/d/2026/11/27/4/64071712.jpg",
-      "published_at": "Fri, 27 Nov 2026 17:03:49 GMT",
-      "published_at_utc": "2026-11-27T17:03:49+00:00",
-      "published_at_tehran": "2026-11-27T20:33:49+03:30",
-      "collected_at": "2026-11-27T18:05:12.199208+00:00"
-    },
-    {
-      "publisher": "ISNA",
-      "source_mode": "publisher_website_rss",
-      "title": "هفته چهاردهم لیگ برتر فوتبال ایران؛ شمس آذر - خیبر خرم آباد",
-      "description": "",
-      "article_url": "https://www.isna.ir/photo/1405090604030/%D9%87%D9%81%D8%AA%D9%87-%DA%86%D9%87%D8%A7%D8%B1%D8%AF%D9%87%D9%85-%D9%84%DB%8C%DA%AF-%D8%A8%D8%B1%D8%AA%D8%B1-%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%B3-%D8%A2%D8%B0%D8%B1-%D8%AE%DB%8C%D8%A8%D8%B1-%D8%AE%D8%B1%D9%85-%D8%A2%D8%A8%D8%A7%D8%AF",
-      "media_url": "https://cdn.isna.ir/d/2026/11/27/4/64071661.jpg",
-      "published_at": "Fri, 27 Nov 2026 16:57:31 GMT",
-      "published_at_utc": "2026-11-27T16:57:31+00:00",
-      "published_at_tehran": "2026-11-27T20:27:31+03:30",
-      "collected_at": "2026-11-27T18:05:12.199243+00:00"
+      "collected_at": "2026-11-27T19:15:49.461513+00:00"
     },
     {
       "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "پیکر کوه‌نورد اسلامشهری در ارتفاعات دماوند پیدا شد",
-      "description": "تهران- ایرنا- پس از چندین روز جست‌وجو، پیکر علی درخشانی، کوه‌نورد اهل اسلامشهر که در ارتفاعات دماوند مفقود شده بود، پیدا شد.",
-      "article_url": "https://www.irna.ir/news/86334130/%D9%BE%DB%8C%DA%A9%D8%B1-%DA%A9%D9%88%D9%87-%D9%86%D9%88%D8%B1%D8%AF-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9%D8%A7%D8%AA-%D8%AF%D9%85%D8%A7%D9%88%D9%86%D8%AF-%D9%BE%DB%8C%D8%AF%D8%A7-%D8%B4%D8%AF",
-      "media_url": "https://img9.irna.ir/d/r2/2026/11/27/4/173270508.jpg",
-      "published_at": "Fri, 27 Nov 2026 18:00:54 GMT",
-      "published_at_utc": "2026-11-27T18:00:54+00:00",
-      "published_at_tehran": "2026-11-27T21:30:54+03:30",
-      "collected_at": "2026-11-27T18:05:13.397611+00:00"
+      "title": "۱۴ غیرنظامی از جمله ۱۲ کودک در حملات سعودی به یمن شهید شدند",
+      "description": "تهران - ایرنا - وزارت بهداشت و محیط زیست یمن اعلام کرد که در حملات ۲۴ ساعت گذشته عربستان به مناطق مختلف این کشور، ۱۴ غیرنظامی از جمله ۱۲ کودک شهید و ۲۰ نفر دیگر از جمله هشت کودک و یک زن زخمی شدند.",
+      "article_url": "https://www.irna.ir/news/86334138/%DB%B1%DB%B4-%D8%BA%DB%8C%D8%B1%D9%86%D8%B8%D8%A7%D9%85%DB%8C-%D8%A7%D8%B2-%D8%AC%D9%85%D9%84%D9%87-%DB%B1%DB%B2-%DA%A9%D9%88%D8%AF%DA%A9-%D8%AF%D8%B1-%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D8%B3%D8%B9%D9%88%D8%AF%DB%8C-%D8%A8%D9%87-%DB%8C%D9%85%D9%86-%D8%B4%D9%87%DB%8C%D8%AF-%D8%B4%D8%AF%D9%86%D8%AF",
+      "media_url": "https://img9.irna.ir/d/r2/2026/11/27/4/173270542.jpg",
+      "published_at": "Fri, 27 Nov 2026 19:15:00 GMT",
+      "published_at_utc": "2026-11-27T19:15:00+00:00",
+      "published_at_tehran": "2026-11-27T22:45:00+03:30",
+      "collected_at": "2026-11-27T19:15:50.750254+00:00"
     },
     {
       "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "کاهش آسیب‌ بخش انرژی به تولید، از دستورالعمل‌های اجرایی دولت است",
-      "description": "اهواز - ایرنا - رئیس سازمان گسترش و نوسازی صنایع ایران (ایدرو) بر حمایت حداکثری دولت از صنایع مادر و پایین‌دستی، به‌ویژه در شرایط حساس فعلی، تاکید کرد و گفت: سیاست دولت، کاهش آسیب‌های بخش انرژی به تولید و صنعت است.",
-      "article_url": "https://www.irna.ir/news/86334123/%DA%A9%D8%A7%D9%87%D8%B4-%D8%A2%D8%B3%DB%8C%D8%A8-%D8%A8%D8%AE%D8%B4-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D8%A8%D9%87-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA%D9%88%D8%B1%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D9%87%D8%A7%DB%8C-%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C%DB%8C-%D8%AF%D9%88%D9%84%D8%AA",
-      "media_url": "https://img9.irna.ir/d/r2/2026/09/26/4/173129834.jpg",
-      "published_at": "Fri, 27 Nov 2026 18:00:50 GMT",
-      "published_at_utc": "2026-11-27T18:00:50+00:00",
-      "published_at_tehran": "2026-11-27T21:30:50+03:30",
-      "collected_at": "2026-11-27T18:05:13.397652+00:00"
+      "title": "عضو خبرگان رهبری: حضور آگاهانه مردم در اجتماعات سرمایه نظام اسلامی است",
+      "description": "کرج - ایرنا - نماینده مردم استان البرز در خبرگان رهبری گفت: بصیرت، استقامت و حضور آگاهانه مردم در اجتماعات شبانه، سرمایه اصلی ایران اسلامی در عبور از آزمون‌های دشوار است.",
+      "article_url": "https://www.irna.ir/news/86334132/%D8%B9%D8%B6%D9%88-%D8%AE%D8%A8%D8%B1%DA%AF%D8%A7%D9%86-%D8%B1%D9%87%D8%A8%D8%B1%DB%8C-%D8%AD%D8%B6%D9%88%D8%B1-%D8%A2%DA%AF%D8%A7%D9%87%D8%A7%D9%86%D9%87-%D9%85%D8%B1%D8%AF%D9%85-%D8%AF%D8%B1-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D8%A7%D8%AA-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C",
+      "media_url": "https://img9.irna.ir/d/r1/2026/10/07/4/173157379.jpg",
+      "published_at": "Fri, 27 Nov 2026 19:08:29 GMT",
+      "published_at_utc": "2026-11-27T19:08:29+00:00",
+      "published_at_tehran": "2026-11-27T22:38:29+03:30",
+      "collected_at": "2026-11-27T19:15:50.750318+00:00"
     },
     {
       "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "استاندار: اقوام سیستان و بلوچستان سرباز ایران و پاسدار مرزها هستند",
-      "description": "زاهدان - ایرنا - استاندار سیستان و بلوچستان با تأکید بر پیشینه تاریخی وفاداری اقوام این خطه به ایران گفت که مردم استان در بزنگاه‌های تاریخ دور تا نزدیک و از دفاع مقدس تا پاسداری از امنیت و جنگ‌های اخیر همواره برای صیانت از تمامیت ارضی کشور ایستاده‌اند.",
-      "article_url": "https://www.irna.ir/news/86334034/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%D8%A7%D9%82%D9%88%D8%A7%D9%85-%D8%B3%DB%8C%D8%B3%D8%AA%D8%A7%D9%86-%D9%88-%D8%A8%D9%84%D9%88%DA%86%D8%B3%D8%AA%D8%A7%D9%86-%D8%B3%D8%B1%D8%A8%D8%A7%D8%B2-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D9%BE%D8%A7%D8%B3%D8%AF%D8%A7%D8%B1-%D9%85%D8%B1%D8%B2%D9%87%D8%A7",
-      "media_url": "https://img9.irna.ir/d/r2/2026/11/27/4/173270217.jpg",
-      "published_at": "Fri, 27 Nov 2026 18:00:20 GMT",
-      "published_at_utc": "2026-11-27T18:00:20+00:00",
-      "published_at_tehran": "2026-11-27T21:30:20+03:30",
-      "collected_at": "2026-11-27T18:05:13.397680+00:00"
+      "title": "برترین‌های ۱۴ وزن نوجوانان و جوانان کونگ‌فو معرفی شدند",
+      "description": "قم- ایرنا- برترین‌های مسابقات کونگ‌فو قهرمانی منطقه یک کشور که به میزبانی قم برگزار گردید، در دو رده سنی نوجوانان و جوانان معرفی شدند.",
+      "article_url": "https://www.irna.ir/news/86334140/%D8%A8%D8%B1%D8%AA%D8%B1%DB%8C%D9%86-%D9%87%D8%A7%DB%8C-%DB%B1%DB%B4-%D9%88%D8%B2%D9%86-%D9%86%D9%88%D8%AC%D9%88%D8%A7%D9%86%D8%A7%D9%86-%D9%88-%D8%AC%D9%88%D8%A7%D9%86%D8%A7%D9%86-%DA%A9%D9%88%D9%86%DA%AF-%D9%81%D9%88-%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D8%B4%D8%AF%D9%86%D8%AF",
+      "media_url": "https://img9.irna.ir/d/r2/2019/07/20/4/156491508.jpg",
+      "published_at": "Fri, 27 Nov 2026 18:59:23 GMT",
+      "published_at_utc": "2026-11-27T18:59:23+00:00",
+      "published_at_tehran": "2026-11-27T22:29:23+03:30",
+      "collected_at": "2026-11-27T19:15:50.750374+00:00"
     },
     {
       "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "تراز آب تالاب بوجاق به ۱۵۲ سانتی‌متر رسید",
-      "description": "رشت- ایرنا- مدیرکل حفاظت محیط زیست استان گیلان اعلام کرد: بارندگی‌های اخیر و اجرای برنامه‌های مدیریت آبخیزداری، موجب بهبود وضعیت آبگیری تالاب پارک ملی خشکی‌ـ‌دریایی بوجاق و افزایش تراز آب این زیستگاه ارزشمند به ۱۵۲ سانتی‌متر شد.",
-      "article_url": "https://www.irna.ir/news/86334126/%D8%AA%D8%B1%D8%A7%D8%B2-%D8%A2%D8%A8-%D8%AA%D8%A7%D9%84%D8%A7%D8%A8-%D8%A8%D9%88%D8%AC%D8%A7%D9%82-%D8%A8%D9%87-%DB%B1%DB%B5%DB%B2-%D8%B3%D8%A7%D9%86%D8%AA%DB%8C-%D9%85%D8%AA%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF",
-      "media_url": "https://img9.irna.ir/d/r2/2026/03/24/4/172780140.jpg",
-      "published_at": "Fri, 27 Nov 2026 17:56:56 GMT",
-      "published_at_utc": "2026-11-27T17:56:56+00:00",
-      "published_at_tehran": "2026-11-27T21:26:56+03:30",
-      "collected_at": "2026-11-27T18:05:13.397708+00:00"
+      "title": "اخبار کوتاه از غرب اصفهان",
+      "description": "گلپایگان - ایرنا - در بسته خبری اخبار کوتاه از غرب اصفهان، مهم‌ترین رویدادها و تحولات شهرستان‌های غرب استان شامل گلپایگان، خوانسار، فریدن، بویین میاندشت، فریدونشهر و چادگان با هدف اطلاع‌رسانی جامع به مخاطبان در این شهرستان‌ها ارائه می‌شود و در طول هر روز به روزرسانی خواهد شد.",
+      "article_url": "https://www.irna.ir/news/86333974/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%DA%A9%D9%88%D8%AA%D8%A7%D9%87-%D8%A7%D8%B2-%D8%BA%D8%B1%D8%A8-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
+      "media_url": "https://img9.irna.ir/d/r2/2026/11/27/4/173270511.jpg",
+      "published_at": "Fri, 27 Nov 2026 18:55:50 GMT",
+      "published_at_utc": "2026-11-27T18:55:50+00:00",
+      "published_at_tehran": "2026-11-27T22:25:50+03:30",
+      "collected_at": "2026-11-27T19:15:50.750423+00:00"
     },
     {
       "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "استقلال خوزستان با حمایت هواداران در مسیر پیشرفت قرار گرفته است",
-      "description": "اهواز - ایرنا - سرمربی تیم فوتبال استقلال خوزستان گفت: بازیکنان استقلال خوزستان باید از فرصت‌های گلزنی خود استفاده بهتری داشته باشند زیرا در این دیدار هر لحظه احتمال از دست رفتن نتیجه وجود داشت.",
-      "article_url": "https://www.irna.ir/news/86334125/%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%AE%D9%88%D8%B2%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D8%A7-%D8%AD%D9%85%D8%A7%DB%8C%D8%AA-%D9%87%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D9%85%D8%B3%DB%8C%D8%B1-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA-%D9%82%D8%B1%D8%A7%D8%B1-%DA%AF%D8%B1%D9%81%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA",
-      "media_url": "https://img9.irna.ir/d/r2/2026/10/18/4/173180545.jpg",
-      "published_at": "Fri, 27 Nov 2026 17:54:09 GMT",
-      "published_at_utc": "2026-11-27T17:54:09+00:00",
-      "published_at_tehran": "2026-11-27T21:24:09+03:30",
-      "collected_at": "2026-11-27T18:05:13.397731+00:00"
+      "title": "پوتین: روسیه موقعیت خود را در اقیانوس‌ها تقویت خواهد کرد/ساخت پنج زیردریایی هسته‌ای جدید",
+      "description": "مسکو - ایرنا - رئیس‌جمهوری روسیه با اعلام خبر ساخت پنج زیردریایی هسته‌ای موشک‌انداز و تهاجمی این کشور تا سال ۲۰۳۰ میلادی تأکید کرد: مسکو موقعیت خود را در اقیانوس‌های جهان تقویت خواهد کرد.",
+      "article_url": "https://www.irna.ir/news/86334141/%D9%BE%D9%88%D8%AA%DB%8C%D9%86-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D9%85%D9%88%D9%82%D8%B9%DB%8C%D8%AA-%D8%AE%D9%88%D8%AF-%D8%B1%D8%A7-%D8%AF%D8%B1-%D8%A7%D9%82%DB%8C%D8%A7%D9%86%D9%88%D8%B3-%D9%87%D8%A7-%D8%AA%D9%82%D9%88%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%87%D8%AF-%DA%A9%D8%B1%D8%AF-%D8%B3%D8%A7%D8%AE%D8%AA",
+      "media_url": "https://img9.irna.ir/d/r2/2026/11/27/4/173270530.jpg",
+      "published_at": "Fri, 27 Nov 2026 18:45:09 GMT",
+      "published_at_utc": "2026-11-27T18:45:09+00:00",
+      "published_at_tehran": "2026-11-27T22:15:09+03:30",
+      "collected_at": "2026-11-27T19:15:50.750469+00:00"
     },
     {
       "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "کیش، میزبان رویدادی تاریخی در ورزش بادبانی ایران",
-      "description": "کیش- ایرنا- نخستین دوره مسابقات بادبانی قهرمانی کشور در قالب «هفته بادبانی کیش ۲۰۲۶» از روز گذشته در سواحل جزیره کیش آغاز شده و طی روزهای آینده نیز ادامه می‌یابد.",
-      "article_url": "https://www.irna.ir/news/86334127/%DA%A9%DB%8C%D8%B4-%D9%85%DB%8C%D8%B2%D8%A8%D8%A7%D9%86-%D8%B1%D9%88%DB%8C%D8%AF%D8%A7%D8%AF%DB%8C-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%DB%8C-%D8%AF%D8%B1-%D9%88%D8%B1%D8%B2%D8%B4-%D8%A8%D8%A7%D8%AF%D8%A8%D8%A7%D9%86%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
-      "media_url": "https://img9.irna.ir/d/r2/2026/11/27/4/173270498.jpg",
-      "published_at": "Fri, 27 Nov 2026 17:51:27 GMT",
-      "published_at_utc": "2026-11-27T17:51:27+00:00",
-      "published_at_tehran": "2026-11-27T21:21:27+03:30",
-      "collected_at": "2026-11-27T18:05:13.397754+00:00"
+      "title": "مدارس کردستان فردا شنبه غیرحضوری شد",
+      "description": "سنندج- ایرنا- اداره اطلاع‌رسانی و روابط عمومی آموزش و پرورش کردستان از غیرحضوری شدن فعالیت تمام مدارس استان در روز شنبه هفتم آذرماه به دلیل شیوع بیماری آنفلوآنزا و با هدف پیشگیری از گسترش این بیماری خبر داد.",
+      "article_url": "https://www.irna.ir/news/86334143/%D9%85%D8%AF%D8%A7%D8%B1%D8%B3-%DA%A9%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D9%81%D8%B1%D8%AF%D8%A7-%D8%B4%D9%86%D8%A8%D9%87-%D8%BA%DB%8C%D8%B1%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%B4%D8%AF",
+      "media_url": "https://img9.irna.ir/d/r2/2026/01/09/4/172644762.jpg",
+      "published_at": "Fri, 27 Nov 2026 18:43:59 GMT",
+      "published_at_utc": "2026-11-27T18:43:59+00:00",
+      "published_at_tehran": "2026-11-27T22:13:59+03:30",
+      "collected_at": "2026-11-27T19:15:50.750513+00:00"
     },
     {
       "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "مسابقات اسکیت دستجات آزاد فری استایل کشور در کاشان برگزار شد",
-      "description": "کاشان – ایرنا – مسابقات اسکیت دستجات آزاد فری‌استایل کشور در رشته‌های بتل و جامپ با حضور ۲۰۰ ورزشکار از ۱۰ استان و ۳۰ باشگاه، در ۲ بخش بانوان و آقایان در کاشان برگزار شد.",
-      "article_url": "https://www.irna.ir/news/86334033/%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA-%D8%A7%D8%B3%DA%A9%DB%8C%D8%AA-%D8%AF%D8%B3%D8%AA%D8%AC%D8%A7%D8%AA-%D8%A2%D8%B2%D8%A7%D8%AF-%D9%81%D8%B1%DB%8C-%D8%A7%D8%B3%D8%AA%D8%A7%DB%8C%D9%84-%DA%A9%D8%B4%D9%88%D8%B1-%D8%AF%D8%B1-%DA%A9%D8%A7%D8%B4%D8%A7%D9%86-%D8%A8%D8%B1%DA%AF%D8%B2%D8%A7%D8%B1-%D8%B4%D8%AF",
-      "media_url": "https://img9.irna.ir/d/r2/2026/11/27/4/173270186.jpg",
-      "published_at": "Fri, 27 Nov 2026 17:49:54 GMT",
-      "published_at_utc": "2026-11-27T17:49:54+00:00",
-      "published_at_tehran": "2026-11-27T21:19:54+03:30",
-      "collected_at": "2026-11-27T18:05:13.397777+00:00"
+      "title": "نبض روزانه آذربایجان‌غربی | بسته خبری ۶ آذرماه",
+      "description": "ارومیه - ایرنا - خبرگزاری جمهوری اسلامی (ایرنا) آذربایجان‌غربی، تازه‌ترین رویدادها و اخبار استان را به‌صورت روزانه و در قالب خبرهای کوتاه و جمع‌بندی‌شده ارائه می‌کند. این صفحه از ساعات ابتدایی صبح فعال است و با پوشش مستمر تا پایان شب، شما را در جریان آخرین اتفاقات قرار می‌دهد.",
+      "article_url": "https://www.irna.ir/news/86334129/%D9%86%D8%A8%D8%B6-%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87-%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86-%D8%BA%D8%B1%D8%A8%DB%8C-%D8%A8%D8%B3%D8%AA%D9%87-%D8%AE%D8%A8%D8%B1%DB%8C-%DB%B6-%D8%A2%D8%B0%D8%B1%D9%85%D8%A7%D9%87",
+      "media_url": "https://img9.irna.ir/d/r2/2026/11/27/4/173270531.jpg",
+      "published_at": "Fri, 27 Nov 2026 18:35:25 GMT",
+      "published_at_utc": "2026-11-27T18:35:25+00:00",
+      "published_at_tehran": "2026-11-27T22:05:25+03:30",
+      "collected_at": "2026-11-27T19:15:50.750558+00:00"
     },
     {
       "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "سرمربی نساجی: بازی حساس و دشواری مقابل سپاهان در پیش داریم",
-      "description": "اصفهان - ایرنا - سرمربی تیم فوتبال نساجی گفت: فردا بازی حساسی مقابل سپاهان داریم، این تیم به دنبال صدرنشینی است، بازیکنان باکیفیتی دارد، از مربی خوبی بهره می‌برد و از حمایت هوادارانش هم برخوردار است.",
-      "article_url": "https://www.irna.ir/news/86334116/%D8%B3%D8%B1%D9%85%D8%B1%D8%A8%DB%8C-%D9%86%D8%B3%D8%A7%D8%AC%DB%8C-%D8%A8%D8%A7%D8%B2%DB%8C-%D8%AD%D8%B3%D8%A7%D8%B3-%D9%88-%D8%AF%D8%B4%D9%88%D8%A7%D8%B1%DB%8C-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%B3%D9%BE%D8%A7%D9%87%D8%A7%D9%86-%D8%AF%D8%B1-%D9%BE%DB%8C%D8%B4-%D8%AF%D8%A7%D8%B1%DB%8C%D9%85",
-      "media_url": "https://img9.irna.ir/d/r2/2024/08/11/4/171330330.jpg",
-      "published_at": "Fri, 27 Nov 2026 17:46:33 GMT",
-      "published_at_utc": "2026-11-27T17:46:33+00:00",
-      "published_at_tehran": "2026-11-27T21:16:33+03:30",
-      "collected_at": "2026-11-27T18:05:13.397798+00:00"
+      "title": "شناسایی ۲ گروه شکارچی در گشت شبانه محیط‌بانان گیلانغرب",
+      "description": "قصرشیرین - ایرنا - رئیس اداره حفاظت محیط زیست گیلانغرب از شناسایی ۲ گروه شکارچی در گشت شبانه محیط‌بانان در منطقه شکار و تیراندازی ممنوع شیاکوه خبر داد و گفت: از یکی از این گروه‌ها یک قبضه سلاح ساچمه‌زنی و یک قبضه سلاح بادی کشف و ضبط شد.",
+      "article_url": "https://www.irna.ir/news/86334134/%D8%B4%D9%86%D8%A7%D8%B3%D8%A7%DB%8C%DB%8C-%DB%B2-%DA%AF%D8%B1%D9%88%D9%87-%D8%B4%DA%A9%D8%A7%D8%B1%DA%86%DB%8C-%D8%AF%D8%B1-%DA%AF%D8%B4%D8%AA-%D8%B4%D8%A8%D8%A7%D9%86%D9%87-%D9%85%D8%AD%DB%8C%D8%B7-%D8%A8%D8%A7%D9%86%D8%A7%D9%86-%DA%AF%DB%8C%D9%84%D8%A7%D9%86%D8%BA%D8%B1%D8%A8",
+      "media_url": "https://img9.irna.ir/d/r2/2025/11/09/4/172236325.jpg",
+      "published_at": "Fri, 27 Nov 2026 18:23:49 GMT",
+      "published_at_utc": "2026-11-27T18:23:49+00:00",
+      "published_at_tehran": "2026-11-27T21:53:49+03:30",
+      "collected_at": "2026-11-27T19:15:50.750602+00:00"
     },
     {
       "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "حمله به نیروهای ارتش و امنیتی دولت موقت سوریه/۶ نظامی کشته و زخمی شدند",
-      "description": "تهران - ایرنا - منابع خبری از کشته شدن ۲ نظامی و زخمی شدن چهار نیروی امنیت داخلی دولت موقت سوریه در جنوب این کشور خبر دادند.",
-      "article_url": "https://www.irna.ir/news/86334115/%D8%AD%D9%85%D9%84%D9%87-%D8%A8%D9%87-%D9%86%DB%8C%D8%B1%D9%88%D9%87%D8%A7%DB%8C-%D8%A7%D8%B1%D8%AA%D8%B4-%D9%88-%D8%A7%D9%85%D9%86%DB%8C%D8%AA%DB%8C-%D8%AF%D9%88%D9%84%D8%AA-%D9%85%D9%88%D9%82%D8%AA-%D8%B3%D9%88%D8%B1%DB%8C%D9%87-%DB%B6-%D9%86%D8%B8%D8%A7%D9%85%DB%8C-%DA%A9%D8%B4%D8%AA%D9%87-%D9%88",
-      "media_url": "https://img9.irna.ir/d/r2/2026/11/23/4/173261376.jpg",
-      "published_at": "Fri, 27 Nov 2026 17:40:10 GMT",
-      "published_at_utc": "2026-11-27T17:40:10+00:00",
-      "published_at_tehran": "2026-11-27T21:10:10+03:30",
-      "collected_at": "2026-11-27T18:05:13.397819+00:00"
+      "title": "ستارگان اردبیل قهرمان مسابقات مدارس فوتبال استان شد",
+      "description": "اردبیل - ایرنا - مسابقات قهرمانی مدارس فوتبال استان اردبیل با شرکت ۴۰ تیم برگزار شد و در دیدار فینال رده سنی متولدین ۹۱ و ۹۲، تیم ستارگان با نتیجه چهار بر یک از سد آذرآب بیله‌سوار گذشت و قهرمان شد.",
+      "article_url": "https://www.irna.ir/news/86334064/%D8%B3%D8%AA%D8%A7%D8%B1%DA%AF%D8%A7%D9%86-%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA-%D9%85%D8%AF%D8%A7%D8%B1%D8%B3-%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%B4%D8%AF",
+      "media_url": "https://img9.irna.ir/d/r2/2026/11/27/4/173270518.jpg",
+      "published_at": "Fri, 27 Nov 2026 18:15:24 GMT",
+      "published_at_utc": "2026-11-27T18:15:24+00:00",
+      "published_at_tehran": "2026-11-27T21:45:24+03:30",
+      "collected_at": "2026-11-27T19:15:50.750645+00:00"
     },
     {
       "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "مازیار زارع: دیگر نمی‌توانم به ملوان کمک کنم",
-      "description": "اهواز – ایرنا – سرمربی تیم فوتبال ملوان بندرانزلی پس از شکست برابر استقلال خوزستان، از کناره‌گیری خود از هدایت این تیم خبر داد و گفت: دیگر نمی‌توانم به ملوان کمک کنم و امیدوارم شرایط این تیم در آینده بهبود یابد.",
-      "article_url": "https://www.irna.ir/news/86334122/%D9%85%D8%A7%D8%B2%DB%8C%D8%A7%D8%B1-%D8%B2%D8%A7%D8%B1%D8%B9-%D8%AF%DB%8C%DA%AF%D8%B1-%D9%86%D9%85%DB%8C-%D8%AA%D9%88%D8%A7%D9%86%D9%85-%D8%A8%D9%87-%D9%85%D9%84%D9%88%D8%A7%D9%86-%DA%A9%D9%85%DA%A9-%DA%A9%D9%86%D9%85",
-      "media_url": "https://img9.irna.ir/d/r2/2025/04/26/4/171820399.jpg",
-      "published_at": "Fri, 27 Nov 2026 17:39:22 GMT",
-      "published_at_utc": "2026-11-27T17:39:22+00:00",
-      "published_at_tehran": "2026-11-27T21:09:22+03:30",
-      "collected_at": "2026-11-27T18:05:13.397840+00:00"
+      "title": "باباطاهر؛ شاعری که دوبیتی هایش هنوز در حافظه مردم زنده است",
+      "description": "همدان-ایرنا- یک کارشناس گردشگری با بیان اینکه اشعار باباطاهر همچنان از محبوبیت زیادی برخوردار است، گفت: بسیاری از دوبیتی‌های این شاعر به دلیل بیان ساده و مضمون عاشقانه و عارفانه، در میان مردم شناخته شده‌اند و حتی کسانی که آشنایی تخصصی با ادبیات ندارند نیز با آنها ارتباط برقرار می‌کنند.",
+      "article_url": "https://www.irna.ir/news/86334039/%D8%A8%D8%A7%D8%A8%D8%A7%D8%B7%D8%A7%D9%87%D8%B1-%D8%B4%D8%A7%D8%B9%D8%B1%DB%8C-%DA%A9%D9%87-%D8%AF%D9%88%D8%A8%DB%8C%D8%AA%DB%8C-%D9%87%D8%A7%DB%8C%D8%B4-%D9%87%D9%86%D9%88%D8%B2-%D8%AF%D8%B1-%D8%AD%D8%A7%D9%81%D8%B8%D9%87-%D9%85%D8%B1%D8%AF%D9%85-%D8%B2%D9%86%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA",
+      "media_url": "https://img9.irna.ir/d/r1/2023/03/28/4/170270528.jpg",
+      "published_at": "Fri, 27 Nov 2026 18:11:37 GMT",
+      "published_at_utc": "2026-11-27T18:11:37+00:00",
+      "published_at_tehran": "2026-11-27T21:41:37+03:30",
+      "collected_at": "2026-11-27T19:15:50.750687+00:00"
     },
     {
       "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "تصادف در آزادراه همدان-ساوه یک کشته و ۶ مصدوم برجا گذاشت",
-      "description": "همدان- ایرنا- رییس اورژانس پیش‌بیمارستانی و مدیریت حوادث دانشگاه علوم پزشکی همدان گفت: برخورد ۲ دستگاه خودروی پژو پارس و وانت آریسان در آزادراه همدان ـ ساوه، یک کشته و ۶ مصدوم برجا گذاشت.",
-      "article_url": "https://www.irna.ir/news/86334108/%D8%AA%D8%B5%D8%A7%D8%AF%D9%81-%D8%AF%D8%B1-%D8%A2%D8%B2%D8%A7%D8%AF%D8%B1%D8%A7%D9%87-%D9%87%D9%85%D8%AF%D8%A7%D9%86-%D8%B3%D8%A7%D9%88%D9%87-%DB%8C%DA%A9-%DA%A9%D8%B4%D8%AA%D9%87-%D9%88-%DB%B6-%D9%85%D8%B5%D8%AF%D9%88%D9%85-%D8%A8%D8%B1%D8%AC%D8%A7-%DA%AF%D8%B0%D8%A7%D8%B4%D8%AA",
-      "media_url": "https://img9.irna.ir/d/r2/2026/11/25/4/173266733.jpg",
-      "published_at": "Fri, 27 Nov 2026 17:32:19 GMT",
-      "published_at_utc": "2026-11-27T17:32:19+00:00",
-      "published_at_tehran": "2026-11-27T21:02:19+03:30",
-      "collected_at": "2026-11-27T18:05:13.397860+00:00"
+      "title": "ویترین اخبار سیستان و بلوچستان؛ جمعه ۶ آذر در یک نگاه",
+      "description": "زاهدان - ایرنا - چند رویداد روز جمعه ۶ آذر در سیستان و بلوچستان را در این بسته خبری دنبال کنید؛ این ویترین خبری محصول تلاش خبرنگاران ایرنا در شهرستانها است.",
+      "article_url": "https://www.irna.ir/news/86333711/%D9%88%DB%8C%D8%AA%D8%B1%DB%8C%D9%86-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B3%DB%8C%D8%B3%D8%AA%D8%A7%D9%86-%D9%88-%D8%A8%D9%84%D9%88%DA%86%D8%B3%D8%AA%D8%A7%D9%86-%D8%AC%D9%85%D8%B9%D9%87-%DB%B6-%D8%A2%D8%B0%D8%B1-%D8%AF%D8%B1-%DB%8C%DA%A9-%D9%86%DA%AF%D8%A7%D9%87",
+      "media_url": "https://img9.irna.ir/d/r2/2026/10/27/4/173199252.jpg",
+      "published_at": "Fri, 27 Nov 2026 18:06:14 GMT",
+      "published_at_utc": "2026-11-27T18:06:14+00:00",
+      "published_at_tehran": "2026-11-27T21:36:14+03:30",
+      "collected_at": "2026-11-27T19:15:50.750729+00:00"
     },
     {
       "publisher": "IRNA",
       "source_mode": "publisher_website_rss",
-      "title": "اخبار کوتاه؛ از پیگیری اعتبارات ملی برای احیای تالاب انزلی تا صیانت از جنگل‌های هیرکانی",
-      "description": "رشت- ایرنا- پیگیری اعتبارات ملی برای احیای تالاب انزلی و تکمیل تصفیه‌خانه‌های فاضلاب، کشف و جمع‌آوری ده‌ها ابزار صید و شکار غیرمجاز در پارک ملی بوجاق، بررسی روند اجرای پروژه تصفیه‌خانه فاضلاب صومعه‌سرا، احتیاط در فعالیت‌های دریانوردی و صیانت از جنگل‌های هیرکانی با توسعه کاشت گونه‌های بومی از جمله اخبار کوتاه امروز (جمعه) گیلان است.",
-      "article_url": "https://www.irna.ir/news/86334077/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%DA%A9%D9%88%D8%AA%D8%A7%D9%87-%D8%A7%D8%B2-%D9%BE%DB%8C%DA%AF%DB%8C%D8%B1%DB%8C-%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D9%85%D9%84%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AD%DB%8C%D8%A7%DB%8C-%D8%AA%D8%A7%D9%84%D8%A7%D8%A8-%D8%A7%D9%86%D8%B2%D9%84%DB%8C-%D8%AA%D8%A7",
-      "media_url": "https://img9.irna.ir/d/r2/2026/08/11/4/173033331.jpg",
-      "published_at": "Fri, 27 Nov 2026 17:31:18 GMT",
-      "published_at_utc": "2026-11-27T17:31:18+00:00",
-      "published_at_tehran": "2026-11-27T21:01:18+03:30",
-      "collected_at": "2026-11-27T18:05:13.397880+00:00"
+      "title": "قرارداد جدید انرژی روسیه و ترکیه؛ واکنش به خواست ترامپ از ونزوئلا و عراق برای خروج از اوپک",
+      "description": "مسکو - ایرنا - مجمع تجاری روسیه و ترکیه در استانبول، روز جمعه با اعلام خبرهای تازه از قراردادهای جدید ۲ کشور در حوزه نفت و گاز همراه بود.",
+      "article_url": "https://www.irna.ir/news/86334128/%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D9%88-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87-%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D8%A8%D9%87-%D8%AE%D9%88%D8%A7%D8%B3%D8%AA-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A7%D8%B2-%D9%88%D9%86%D8%B2%D9%88%D8%A6%D9%84%D8%A7",
+      "media_url": "https://img9.irna.ir/d/r2/2026/11/27/4/173270496.jpg",
+      "published_at": "Fri, 27 Nov 2026 18:05:31 GMT",
+      "published_at_utc": "2026-11-27T18:05:31+00:00",
+      "published_at_tehran": "2026-11-27T21:35:31+03:30",
+      "collected_at": "2026-11-27T19:15:50.750772+00:00"
     }
   ]
 }\n
