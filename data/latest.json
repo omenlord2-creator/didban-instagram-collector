@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-28T00:37:32.699645+00:00",
+  "generated_at": "2026-11-28T02:03:25.079066+00:00",
   "source_mode": "public_feeds_no_login",
   "publishing_enabled": false,
   "summary": {
     "accounts": 5,
-    "fetched_posts": 30,
+    "fetched_posts": 20,
     "new_posts": 0,
-    "publish_ready": 30,
-    "blocked_or_incomplete": 2
+    "publish_ready": 20,
+    "blocked_or_incomplete": 3
   },
   "accounts": {
     "bbcpersian": {
@@ -27,16 +27,16 @@
       "new": 0,
       "ready": 0,
       "needs_media_url": 0,
-      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: HTTP 500 | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: HTTP 503"
+      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: HTTP 500 | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
     },
     "iranintltv": {
       "label": "Iran International",
-      "provider": "https://openrss.org/feed/www.instagram.com/iranintltv",
-      "fetched": 10,
+      "provider": null,
+      "fetched": 0,
       "new": 0,
-      "ready": 10,
+      "ready": 0,
       "needs_media_url": 0,
-      "error": null
+      "error": "https://openrss.org/feed/www.instagram.com/iranintltv: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/iranintltv: HTTP 500 | https://rsshub.app/instagram/2/user/iranintltv: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/iranintltv: HTTP 503"
     },
     "isna.news": {
       "label": "ISNA",
@@ -45,7 +45,7 @@
       "new": 0,
       "ready": 0,
       "needs_media_url": 0,
-      "error": "https://openrss.org/feed/www.instagram.com/isna.news: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/isna.news: HTTP 500 | https://rsshub.app/instagram/2/user/isna.news: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/isna.news: HTTP 503"
+      "error": "https://openrss.org/feed/www.instagram.com/isna.news: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/isna.news: ReadTimeout: HTTPSConnectionPool(host='rsshub.cmyr.dev', port=443): Read timed out. (read timeout=10) | https://rsshub.app/instagram/2/user/isna.news: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/isna.news: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
     },
     "irnanews1313": {
       "label": "IRNA",
@@ -60,11 +60,15 @@
   "errors": [
     {
       "account": "dw_persian",
-      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: HTTP 500 | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: HTTP 503"
+      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: HTTP 500 | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
+    },
+    {
+      "account": "iranintltv",
+      "error": "https://openrss.org/feed/www.instagram.com/iranintltv: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/iranintltv: HTTP 500 | https://rsshub.app/instagram/2/user/iranintltv: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/iranintltv: HTTP 503"
     },
     {
       "account": "isna.news",
-      "error": "https://openrss.org/feed/www.instagram.com/isna.news: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/isna.news: HTTP 500 | https://rsshub.app/instagram/2/user/isna.news: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/isna.news: HTTP 503"
+      "error": "https://openrss.org/feed/www.instagram.com/isna.news: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/isna.news: ReadTimeout: HTTPSConnectionPool(host='rsshub.cmyr.dev', port=443): Read timed out. (read timeout=10) | https://rsshub.app/instagram/2/user/isna.news: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/isna.news: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
     }
   ],
   "items": [
@@ -77,63 +81,7 @@
       "published_at": "Tue, 24 Nov 2026 11:06:05 GMT",
       "published_at_utc": "2026-11-24T11:06:05+00:00",
       "published_at_tehran": "2026-11-24T14:36:05+03:30",
-      "collected_at": "2026-11-28T00:37:14.938010+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": false
-    },
-    {
-      "id": "1e01a5b473277169122fa6c342beb0dd460bc33d785dbaa3dcccd85eadfd7894",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/DgHi7OClauK",
-      "caption": "‌ امیر حاتمی، فرمانده کل ارتش جمهوری اسلامی، سه‌شنبه سوم آذر در جمع فرماندهان ارشد ارتش، خطاب به شهرام ایرانی، فرمانده نیروی دریایی ارتش، اعلام کرد «تنگه هرمز باز نخواهد شد و روزبه‌روز بسته‌تر خواهد شد». فرمانده کل ارتش گفت:‌ «درد جنگ را ما بنا نیست به تنهایی تحمل کنیم، هر کسی که به دشمن کمک کرده و با او همراهی داشته باشد، باید درد جنگ را تحمل کند و ما این کار را انجام خواهیم داد.»",
-      "media_url": "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/902825811_18455007208176167_1442524005432174923_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=111&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=ToDfq3nszBoQ7kNvwFVKCmT&amp;_nc_oc=AdqM257mK4h8qxe3MdzHa-LBJnMUMTTIjZe8LFqXaksCuCr1aUkM88Ec-u8z7lJ82bA&amp;_nc_zt=23&amp;_nc_ht=scontent-atl3-1.cdninstagram.com&amp;_nc_gid=4ylaDV0vvQfunJp3JXyOtg&amp;_nc_ss=7ab8c&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQTsuIsPjIAvtaMXVVNXgwn65-q-8lnIKykmiQQfhNdb6Q&amp;oe=6B0B1E21",
-      "published_at": "Tue, 24 Nov 2026 08:39:10 GMT",
-      "published_at_utc": "2026-11-24T08:39:10+00:00",
-      "published_at_tehran": "2026-11-24T12:09:10+03:30",
-      "collected_at": "2026-11-28T00:37:26.995196+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": false
-    },
-    {
-      "id": "086331de988a21e73c3e4a00a7919f1e7d5eb3cc561cb62d95d5f5786b8a3e42",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/DgHh_t5ia3C",
-      "caption": ". یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال،‌ تاریکی یکی از مناطق شهر رشت را نشان می‌دهد و با طعنه به گفته‌های مسئولان جمهوری اسلامی می‌گوید: «ابرقدرت، برق ما چهار ساعت است قطع شده.»",
-      "media_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/922429747_18455005930176167_8204130652526767434_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=102&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=Tn77XZVdYpUQ7kNvwEhCXMF&amp;_nc_oc=AdocOrnkvfxpaiWeURLDMZQ8AePvc0xbUKV_G8Y-114Om_KeLdlEGzb2peELparaw-o&amp;_nc_zt=23&amp;_nc_ht=scontent-atl3-2.cdninstagram.com&amp;_nc_gid=4ylaDV0vvQfunJp3JXyOtg&amp;_nc_ss=7ab8c&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQRS4u_d4KVsoTYS0MUSu2Ss3eP5ZwXzIXeymDrQa-q46Q&amp;oe=6B0B2E08",
-      "published_at": "Tue, 24 Nov 2026 08:31:03 GMT",
-      "published_at_utc": "2026-11-24T08:31:03+00:00",
-      "published_at_tehran": "2026-11-24T12:01:03+03:30",
-      "collected_at": "2026-11-28T00:37:26.995269+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": false
-    },
-    {
-      "id": "aa11c35336076d27cc4e24ba377f87fa246bcd79c12e693d74c7a3f26b51015f",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/DgHh_JVFdII",
-      "caption": "‌ در ادامه افزایش قیمت‌ها در بازار ارز ایران، قیمت دلار آمریکا در بازار آزاد، سه‌شنبه سوم آذر با جهشی چشمگیر، از ۲۸۰ هزار تومان عبور کرد. هم‌زمان با افزایش نرخ دلار، بهای هر یورو از ۳۰۵ هزار تومان فراتر رفت و پوند بریتانیا نیز از مرز ۳۶۵ هزار تومان گذشت. همچنین بهای هر قطعه سکه طرح جدید، موسوم به «امامی»، تا زمان تنظیم این گزارش از ۲۶۲ میلیون تومان عبور کرد.",
-      "media_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/902949178_18455005609176167_7010108213276564651_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=44OeMUW1zuYQ7kNvwFlGz9T&amp;_nc_oc=AdpbsJorVGF3n60vUmOYjzC1WjBaq5__WiqRGNegdd6DsNkIe-ECSkLeuQ0zz7i2Tnw&amp;_nc_zt=23&amp;_nc_ht=scontent-atl3-2.cdninstagram.com&amp;_nc_gid=4ylaDV0vvQfunJp3JXyOtg&amp;_nc_ss=7ab8c&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQSflQIU1tLsCrHPk5TJiDlonip723D4Ta5ZHOQX1lkaqA&amp;oe=6B0B3CB7",
-      "published_at": "Tue, 24 Nov 2026 08:30:58 GMT",
-      "published_at_utc": "2026-11-24T08:30:58+00:00",
-      "published_at_tehran": "2026-11-24T12:00:58+03:30",
-      "collected_at": "2026-11-28T00:37:26.995340+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": false
-    },
-    {
-      "id": "64e98c64d14b957caf68985c02fae3477cd5a5ce75043d620a12b54e2447b5e9",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/DgHfuLiluU8",
-      "caption": "‌ فاطمه مهاجرانی، سخنگوی دولت، در نشست خبری و در پاسخ به حواشی مربوط به دفتر تاریک پزشکیان، گفت: «پزشکیان نهج‌البلاغه‌خوان و قرآن‌خوان است و نه‌فقط قرآن می‌خواند، بلکه به آن عمل می‌کند. کسانی که عامل به قرآن هستند، مورد هجمه قرار می‌گیرند و مطمئنیم این هجمه‌ها بر محبوبیت او تاثیر مثبت خواهد داشت.» سخنگوی دولت ادامه داد: «همه دولت پای کار هستند و عده‌ای تلاش می‌کنند شفافیت، صداقت و رویکرد گره‌گشایانه پزشکیان را مخدوش کنند.» مهاجرانی همچنین در خصوص انتقادها از رفتارهای پزشکیان، افزود: «هیچ غمی از این موضوع نداریم، چون باور داریم هر کسی کاری را انجام می‌دهد که رسالت خود می‌داند. رسالت این دولت خدمت‌رسانی است و رسالت برخی هم شذوذات و شیطانی است.»",
-      "media_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/902954879_18455003341176167_1811028344088531849_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=BBenoHOFzKUQ7kNvwG6oOrC&amp;_nc_oc=AdotCvML78n6vNWtJISZtT3-e4ejKlu-q86y4dchQBvjUfcOEWzaFPmvotbuXW8746g&amp;_nc_zt=23&amp;_nc_ht=scontent-atl3-2.cdninstagram.com&amp;_nc_gid=4ylaDV0vvQfunJp3JXyOtg&amp;_nc_ss=7ab8c&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQSxUMuFriGfBPy6XRalggPFHr7V41eFCDvQfXIL2pjhSw&amp;oe=6B0B2DD5",
-      "published_at": "Tue, 24 Nov 2026 08:11:11 GMT",
-      "published_at_utc": "2026-11-24T08:11:11+00:00",
-      "published_at_tehran": "2026-11-24T11:41:11+03:30",
-      "collected_at": "2026-11-28T00:37:26.995416+00:00",
+      "collected_at": "2026-11-28T02:02:38.568656+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -147,49 +95,7 @@
       "published_at": "Tue, 24 Nov 2026 07:55:11 GMT",
       "published_at_utc": "2026-11-24T07:55:11+00:00",
       "published_at_tehran": "2026-11-24T11:25:11+03:30",
-      "collected_at": "2026-11-28T00:37:32.698222+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": false
-    },
-    {
-      "id": "6f1dccb6adf5bd8b5e23b9cfbe00f8ff5d1055f482f4e573af94f3790ceed375",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/DgHdR0IlQ7P",
-      "caption": "‌ در ادامه افزایش قیمت‌ها و التهاب در بازار ارز ایران، قیمت دلار آمریکا در بازار آزاد، سه‌شنبه سوم آذرماه، با جهشی چشمگیر از ۲۷۷ هزار تومان عبور کرد. هم‌زمان با افزایش نرخ دلار، بهای هر یورو به حدود ۳۰۲ هزار تومان رسید و پوند بریتانیا نیز از مرز ۳۶۱ هزار تومان گذشت. همچنین بهای هر قطعه سکه طرح جدید، موسوم به «امامی»، تا زمان تنظیم این گزارش از ۲۶۰ میلیون تومان عبور کرد.",
-      "media_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/902948989_18455001877176167_7272735354819968163_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=7zlYsEqbxEkQ7kNvwFrkk8v&amp;_nc_oc=AdqQrQ4sXk9LWnYlGvami9kyUoWTkKR7h6v4BosmfI7U5uaIpzhiIJRdF48mONb_FJc&amp;_nc_zt=23&amp;_nc_ht=scontent-atl3-2.cdninstagram.com&amp;_nc_gid=4ylaDV0vvQfunJp3JXyOtg&amp;_nc_ss=7ab8c&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQS8FcC86hBIMZB4273EyjRBDv5iv4OLytx14GpNnynhYQ&amp;oe=6B0B3CFB",
-      "published_at": "Tue, 24 Nov 2026 07:49:50 GMT",
-      "published_at_utc": "2026-11-24T07:49:50+00:00",
-      "published_at_tehran": "2026-11-24T11:19:50+03:30",
-      "collected_at": "2026-11-28T00:37:26.995476+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": false
-    },
-    {
-      "id": "85484deeefa2e3e1b0328a18889884c3fb81d60c4c4b6616db71d6cc45fba8f1",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/DgHb328D79e",
-      "caption": ". ویدیوی ارسال‌شده به ایران‌اینترنشنال، صف طولانی تریلی‌ها را برای دریافت گازوئیل در سه‌راهی زابل در استان سیستان و بلوچستان نشان می‌دهد.",
-      "media_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/926854912_18455000524176167_8646395218319456021_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=eJn36ycREV4Q7kNvwHWGyEH&amp;_nc_oc=AdrQFZN4EGcoG09zVAz7yuWhhxeWAhC6UyfQJKwmM0tUyrpFD2H6y7ZJqKrMmQWc_R0&amp;_nc_zt=23&amp;_nc_ht=scontent-atl3-2.cdninstagram.com&amp;_nc_gid=4ylaDV0vvQfunJp3JXyOtg&amp;_nc_ss=7ab8c&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQTvlqex5wsnLMjjNs_8j7cZTpu6Apm2KG2nfR2cz7nDsA&amp;oe=6B0B1D0C",
-      "published_at": "Tue, 24 Nov 2026 07:37:33 GMT",
-      "published_at_utc": "2026-11-24T07:37:33+00:00",
-      "published_at_tehran": "2026-11-24T11:07:33+03:30",
-      "collected_at": "2026-11-28T00:37:26.995523+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": false
-    },
-    {
-      "id": "90a0268b7b3859717f568a79d6e538ac55934d143676b00192dc387d891a5283",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/DgHbkMBlT5p",
-      "caption": "‌ مجتبی خامنه‌ای، رهبر سوم جمهوری اسلامی، در پیامی مکتوب به «رویداد جایزه ملی جوانی جمعیت» نوشت: «بی‌شک هر ایرانی غیور که خواهان آینده‌ای روشن و باشکوه برای این آب و خاک و مردمان آن باشد، انگیزه و اراده‌ای قوی برای امتداد نسلی ایرانیان در تراز تمدن نوین اسلامی خواهد داشت.» رهبر جمهوری اسلامی افزود: «عمیقا امیدوارم با جبران کاستی‌های ناشی از بعضی سیاست‌های گذشته جمعیتی و پیگیری مجدانه سیاست صحیح و راهبردی افزایش جمعیت جوان و محوریت خانواده در این مقوله، میهن عزیزمان از گردنه خطیر و مرحله سرنوشت‌سازی که در آن قرار داریم، به سلامت عبور کند.»",
-      "media_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/902949103_18454999816176167_6030231672349568337_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=m2okKzes-YcQ7kNvwHBA_A9&amp;_nc_oc=AdoEmcphzNYRCRBFQ3gZXtNIyNa7INcgG1Ck5ydZVSKC2Bbxw_64DhksoyPCpCl9aIA&amp;_nc_zt=23&amp;_nc_ht=scontent-atl3-2.cdninstagram.com&amp;_nc_gid=4ylaDV0vvQfunJp3JXyOtg&amp;_nc_ss=7ab8c&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQSMj4eWpZwdIo-ixD9qvkDG0KsyueLyfEOcWpm0HFlujA&amp;oe=6B0B0CD0",
-      "published_at": "Tue, 24 Nov 2026 07:34:52 GMT",
-      "published_at_utc": "2026-11-24T07:34:52+00:00",
-      "published_at_tehran": "2026-11-24T11:04:52+03:30",
-      "collected_at": "2026-11-28T00:37:26.995589+00:00",
+      "collected_at": "2026-11-28T02:03:25.077376+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -203,7 +109,7 @@
       "published_at": "Tue, 24 Nov 2026 07:22:34 GMT",
       "published_at_utc": "2026-11-24T07:22:34+00:00",
       "published_at_tehran": "2026-11-24T10:52:34+03:30",
-      "collected_at": "2026-11-28T00:37:32.698388+00:00",
+      "collected_at": "2026-11-28T02:03:25.077589+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -217,7 +123,7 @@
       "published_at": "Tue, 24 Nov 2026 06:58:39 GMT",
       "published_at_utc": "2026-11-24T06:58:39+00:00",
       "published_at_tehran": "2026-11-24T10:28:39+03:30",
-      "collected_at": "2026-11-28T00:37:32.698472+00:00",
+      "collected_at": "2026-11-28T02:03:25.077685+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -231,35 +137,7 @@
       "published_at": "Tue, 24 Nov 2026 06:57:20 GMT",
       "published_at_utc": "2026-11-24T06:57:20+00:00",
       "published_at_tehran": "2026-11-24T10:27:20+03:30",
-      "collected_at": "2026-11-28T00:37:14.938144+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": false
-    },
-    {
-      "id": "b15073052ec3d3d3eefc839352d1cb551c37920afe954d146610d6d7529f66e0",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/DgHTf31nP83",
-      "caption": "‌ محمدباقر قالیباف، رییس مجلس، سه‌شنبه سوم آذر در جلسه مجلس اعلام کرد که پیش از اجرای هفت شرط جمهوری اسلامی، «هیچ اقدام یا مذاکره‌ای انجام نخواهد شد». قالیباف با اشاره به صحبت‌های اخیر دونالد ترامپ، رییس‌جمهوری آمریکا و وزیر خزانه‌داری این کشور گفت: «حرف ما همان است که قبلا گفته‌ایم؛ پیش از اجرای هفت شرط ایران هیچ اقدام و مذاکره‌ای در کار نخواهد بود و در مقابل تحرکات دشمن نیز آماده پاسخ‌گویی قاطع و تغییر جغرافیای نبرد در صورت خطای دشمن هستیم.» او تاکید کرد که موضع جمهوری اسلامی در این زمینه «روشن و تغییرناپذیر» است.",
-      "media_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/923761419_18454995214176167_2877681573516465874_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=_0-83fKbPccQ7kNvwH-qwVM&amp;_nc_oc=AdoxxTqMLf0icdlxjUHBwofFGg-Ev2J0atOMal6Dwgru-sVsFNTq0svz9lw0v9Jny2A&amp;_nc_zt=23&amp;_nc_ht=scontent-atl3-2.cdninstagram.com&amp;_nc_gid=4ylaDV0vvQfunJp3JXyOtg&amp;_nc_ss=7ab8c&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQTRRYuCVMMIsH1qeqmrFAJmXkE5P4KgoxcIQvOACxeFzQ&amp;oe=6B0B3B56",
-      "published_at": "Tue, 24 Nov 2026 06:24:22 GMT",
-      "published_at_utc": "2026-11-24T06:24:22+00:00",
-      "published_at_tehran": "2026-11-24T09:54:22+03:30",
-      "collected_at": "2026-11-28T00:37:26.995657+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": false
-    },
-    {
-      "id": "538d1160ce5a660d3a877a4754b53622d18ffaae69efb5817eb43f97a39b9fa9",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/DgHSrWPFt_W",
-      "caption": "‌ علاءالدین بروجردی، عضو کمیسیون امنیت ملی مجلس، سه‌شنبه سوم آذر در گفت‌وگو با وب‌سایت جماران، در پاسخ به پرسشی درباره اینکه آیا مرحله جدید بازدارندگی به معنای ساخت بمب هسته‌ای است، اعلام کرد که «ورود به این مرحله در جمهوری اسلامی طرفدار کم ندارد». بروجردی گفت: «ما باید حتما در مجموعه سیاست‌گذاری راهبردی و دفاعی خودمان به مرحله بازدارندگی پایدار برسیم.» او همچنین درباره محاصره دریایی آمریکا گفت که جمهوری اسلامی نمی‌تواند محاصره اقتصادی را تحمل کند و ناگزیر از استفاده از روش‌های دیگر خواهد بود. این نماینده مجلس افزود که جمهوری اسلامی به‌تازگی هشدار داده است نفتکش‌های خود را اعزام خواهد کرد و گفت: «اگر آمریکایی‌ها مانع شوند، این به معنای بازگشت به شرایط جنگی است و ما اقدامات دیگری انجام خواهیم داد.»",
-      "media_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/921413090_18454994305176167_6113355513617688700_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=q3jShaOwQ74Q7kNvwHJZaXk&amp;_nc_oc=AdrQGKOO0CoBQdsZThrcxtR5H7XnaNczuqxO-ZYLfw23K6fX8WuYGTIuLB_3Ag5Q_Vg&amp;_nc_zt=23&amp;_nc_ht=scontent-atl3-2.cdninstagram.com&amp;_nc_gid=4ylaDV0vvQfunJp3JXyOtg&amp;_nc_ss=7ab8c&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQRzLwwFVOdvjM331wNFyjOcvnVv0B3rKH7U9SX14ktGOQ&amp;oe=6B0B212C",
-      "published_at": "Tue, 24 Nov 2026 06:17:12 GMT",
-      "published_at_utc": "2026-11-24T06:17:12+00:00",
-      "published_at_tehran": "2026-11-24T09:47:12+03:30",
-      "collected_at": "2026-11-28T00:37:26.995750+00:00",
+      "collected_at": "2026-11-28T02:02:38.568858+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -273,21 +151,7 @@
       "published_at": "Tue, 24 Nov 2026 05:46:06 GMT",
       "published_at_utc": "2026-11-24T05:46:06+00:00",
       "published_at_tehran": "2026-11-24T09:16:06+03:30",
-      "collected_at": "2026-11-28T00:37:32.698524+00:00",
-      "publish_ready": true,
-      "status": "ready",
-      "is_new": false
-    },
-    {
-      "id": "7c84ae32d55b26ec8febeb059c7bd6f1ba0edf1ab7f16cdb7f92ba3708622b3a",
-      "source": "iranintltv",
-      "post_url": "https://www.instagram.com/p/DgHNmW3jj3Y",
-      "caption": "‌ عباس گلرو، رییس کمیته روابط بین‌الملل کمیسیون امنیت ملی و سیاست خارجی مجلس، سه‌شنبه سوم آذر در گفت‌وگو با خبرگزاری مهر، اعلام کرد که اگر جنگ دیگری اتفاق بیفتد، «دنیا باید با نفت خداحافظی کند». گلرو افزود که جمهوری اسلامی ابزارها و ظرفیت‌هایی در اختیار دارد که می‌تواند «معادلات منطقه‌ای و جهانی را تحت تاثیر قرار دهد». او همچنین گفت: توانمندی‌های نظامی و دفاعی جمهوری اسلامی در حال توسعه است و با آسیب‌شناسی جنگ‌های گذشته، تدارکات لازم برای هرگونه عملیات یا جنگ احتمالی آینده پیش‌بینی شده است.» این نماینده مجلس افزود که محاصره دریایی و فشارهای اقتصادی با «ابتکار عمل مسوولان» خنثی خواهد شد.",
-      "media_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/921094219_18454989961176167_1916916686012839869_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=jXmDA--PlRwQ7kNvwFleejD&amp;_nc_oc=Ado5pmGRsp_0foPciatoqo4_PLf68N-yzmqR8N8Pa5kPX8TA-B7yIiLbxKpqoZPmYio&amp;_nc_zt=23&amp;_nc_ht=scontent-atl3-2.cdninstagram.com&amp;_nc_gid=4ylaDV0vvQfunJp3JXyOtg&amp;_nc_ss=7ab8c&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQSZ550Beu7utxGQl4WRgY2ZfelAClzriUlaPIQYp-uklg&amp;oe=6B0B2707",
-      "published_at": "Tue, 24 Nov 2026 05:32:49 GMT",
-      "published_at_utc": "2026-11-24T05:32:49+00:00",
-      "published_at_tehran": "2026-11-24T09:02:49+03:30",
-      "collected_at": "2026-11-28T00:37:26.995821+00:00",
+      "collected_at": "2026-11-28T02:03:25.077750+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -301,7 +165,7 @@
       "published_at": "Tue, 24 Nov 2026 05:15:40 GMT",
       "published_at_utc": "2026-11-24T05:15:40+00:00",
       "published_at_tehran": "2026-11-24T08:45:40+03:30",
-      "collected_at": "2026-11-28T00:37:32.698573+00:00",
+      "collected_at": "2026-11-28T02:03:25.077812+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -315,7 +179,7 @@
       "published_at": "Tue, 24 Nov 2026 00:55:15 GMT",
       "published_at_utc": "2026-11-24T00:55:15+00:00",
       "published_at_tehran": "2026-11-24T04:25:15+03:30",
-      "collected_at": "2026-11-28T00:37:14.938240+00:00",
+      "collected_at": "2026-11-28T02:02:38.568978+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -329,7 +193,7 @@
       "published_at": "Mon, 23 Nov 2026 21:35:20 GMT",
       "published_at_utc": "2026-11-23T21:35:20+00:00",
       "published_at_tehran": "2026-11-24T01:05:20+03:30",
-      "collected_at": "2026-11-28T00:37:14.938461+00:00",
+      "collected_at": "2026-11-28T02:02:38.569305+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -343,7 +207,7 @@
       "published_at": "Mon, 23 Nov 2026 20:54:35 GMT",
       "published_at_utc": "2026-11-23T20:54:35+00:00",
       "published_at_tehran": "2026-11-24T00:24:35+03:30",
-      "collected_at": "2026-11-28T00:37:14.938550+00:00",
+      "collected_at": "2026-11-28T02:02:38.569410+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -357,7 +221,7 @@
       "published_at": "Mon, 23 Nov 2026 20:30:31 GMT",
       "published_at_utc": "2026-11-23T20:30:31+00:00",
       "published_at_tehran": "2026-11-24T00:00:31+03:30",
-      "collected_at": "2026-11-28T00:37:14.938606+00:00",
+      "collected_at": "2026-11-28T02:02:38.569474+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -371,7 +235,7 @@
       "published_at": "Mon, 23 Nov 2026 20:22:57 GMT",
       "published_at_utc": "2026-11-23T20:22:57+00:00",
       "published_at_tehran": "2026-11-23T23:52:57+03:30",
-      "collected_at": "2026-11-28T00:37:14.938675+00:00",
+      "collected_at": "2026-11-28T02:02:38.569553+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -385,7 +249,7 @@
       "published_at": "Mon, 23 Nov 2026 19:30:52 GMT",
       "published_at_utc": "2026-11-23T19:30:52+00:00",
       "published_at_tehran": "2026-11-23T23:00:52+03:30",
-      "collected_at": "2026-11-28T00:37:32.698636+00:00",
+      "collected_at": "2026-11-28T02:03:25.077896+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -399,7 +263,7 @@
       "published_at": "Mon, 23 Nov 2026 18:53:09 GMT",
       "published_at_utc": "2026-11-23T18:53:09+00:00",
       "published_at_tehran": "2026-11-23T22:23:09+03:30",
-      "collected_at": "2026-11-28T00:37:14.938829+00:00",
+      "collected_at": "2026-11-28T02:02:38.569704+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -413,7 +277,7 @@
       "published_at": "Mon, 23 Nov 2026 17:54:13 GMT",
       "published_at_utc": "2026-11-23T17:54:13+00:00",
       "published_at_tehran": "2026-11-23T21:24:13+03:30",
-      "collected_at": "2026-11-28T00:37:14.938904+00:00",
+      "collected_at": "2026-11-28T02:02:38.569788+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -427,7 +291,7 @@
       "published_at": "Mon, 23 Nov 2026 17:34:39 GMT",
       "published_at_utc": "2026-11-23T17:34:39+00:00",
       "published_at_tehran": "2026-11-23T21:04:39+03:30",
-      "collected_at": "2026-11-28T00:37:14.938985+00:00",
+      "collected_at": "2026-11-28T02:02:38.569883+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -441,7 +305,7 @@
       "published_at": "Mon, 23 Nov 2026 17:30:34 GMT",
       "published_at_utc": "2026-11-23T17:30:34+00:00",
       "published_at_tehran": "2026-11-23T21:00:34+03:30",
-      "collected_at": "2026-11-28T00:37:32.698713+00:00",
+      "collected_at": "2026-11-28T02:03:25.077981+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -455,7 +319,7 @@
       "published_at": "Mon, 23 Nov 2026 16:14:31 GMT",
       "published_at_utc": "2026-11-23T16:14:31+00:00",
       "published_at_tehran": "2026-11-23T19:44:31+03:30",
-      "collected_at": "2026-11-28T00:37:32.698798+00:00",
+      "collected_at": "2026-11-28T02:03:25.078083+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -469,7 +333,7 @@
       "published_at": "Mon, 23 Nov 2026 13:30:40 GMT",
       "published_at_utc": "2026-11-23T13:30:40+00:00",
       "published_at_tehran": "2026-11-23T17:00:40+03:30",
-      "collected_at": "2026-11-28T00:37:32.698857+00:00",
+      "collected_at": "2026-11-28T02:03:25.078191+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -483,7 +347,7 @@
       "published_at": "Mon, 23 Nov 2026 13:05:44 GMT",
       "published_at_utc": "2026-11-23T13:05:44+00:00",
       "published_at_tehran": "2026-11-23T16:35:44+03:30",
-      "collected_at": "2026-11-28T00:37:32.698905+00:00",
+      "collected_at": "2026-11-28T02:03:25.078261+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
