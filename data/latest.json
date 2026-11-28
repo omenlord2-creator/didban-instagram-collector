@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-28T02:03:25.079066+00:00",
+  "generated_at": "2026-11-28T03:09:42.774002+00:00",
   "source_mode": "public_feeds_no_login",
   "publishing_enabled": false,
   "summary": {
@@ -27,7 +27,7 @@
       "new": 0,
       "ready": 0,
       "needs_media_url": 0,
-      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: HTTP 500 | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
+      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: HTTP 500 | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: HTTP 503"
     },
     "iranintltv": {
       "label": "Iran International",
@@ -45,7 +45,7 @@
       "new": 0,
       "ready": 0,
       "needs_media_url": 0,
-      "error": "https://openrss.org/feed/www.instagram.com/isna.news: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/isna.news: ReadTimeout: HTTPSConnectionPool(host='rsshub.cmyr.dev', port=443): Read timed out. (read timeout=10) | https://rsshub.app/instagram/2/user/isna.news: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/isna.news: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
+      "error": "https://openrss.org/feed/www.instagram.com/isna.news: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/isna.news: HTTP 500 | https://rsshub.app/instagram/2/user/isna.news: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/isna.news: HTTP 503"
     },
     "irnanews1313": {
       "label": "IRNA",
@@ -60,7 +60,7 @@
   "errors": [
     {
       "account": "dw_persian",
-      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: HTTP 500 | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
+      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: HTTP 500 | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: HTTP 503"
     },
     {
       "account": "iranintltv",
@@ -68,7 +68,7 @@
     },
     {
       "account": "isna.news",
-      "error": "https://openrss.org/feed/www.instagram.com/isna.news: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/isna.news: ReadTimeout: HTTPSConnectionPool(host='rsshub.cmyr.dev', port=443): Read timed out. (read timeout=10) | https://rsshub.app/instagram/2/user/isna.news: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/isna.news: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
+      "error": "https://openrss.org/feed/www.instagram.com/isna.news: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/isna.news: HTTP 500 | https://rsshub.app/instagram/2/user/isna.news: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/isna.news: HTTP 503"
     }
   ],
   "items": [
@@ -81,7 +81,7 @@
       "published_at": "Tue, 24 Nov 2026 11:06:05 GMT",
       "published_at_utc": "2026-11-24T11:06:05+00:00",
       "published_at_tehran": "2026-11-24T14:36:05+03:30",
-      "collected_at": "2026-11-28T02:02:38.568656+00:00",
+      "collected_at": "2026-11-28T03:09:28.195845+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -95,7 +95,7 @@
       "published_at": "Tue, 24 Nov 2026 07:55:11 GMT",
       "published_at_utc": "2026-11-24T07:55:11+00:00",
       "published_at_tehran": "2026-11-24T11:25:11+03:30",
-      "collected_at": "2026-11-28T02:03:25.077376+00:00",
+      "collected_at": "2026-11-28T03:09:42.772114+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -109,7 +109,7 @@
       "published_at": "Tue, 24 Nov 2026 07:22:34 GMT",
       "published_at_utc": "2026-11-24T07:22:34+00:00",
       "published_at_tehran": "2026-11-24T10:52:34+03:30",
-      "collected_at": "2026-11-28T02:03:25.077589+00:00",
+      "collected_at": "2026-11-28T03:09:42.772365+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -123,7 +123,7 @@
       "published_at": "Tue, 24 Nov 2026 06:58:39 GMT",
       "published_at_utc": "2026-11-24T06:58:39+00:00",
       "published_at_tehran": "2026-11-24T10:28:39+03:30",
-      "collected_at": "2026-11-28T02:03:25.077685+00:00",
+      "collected_at": "2026-11-28T03:09:42.772492+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -137,7 +137,7 @@
       "published_at": "Tue, 24 Nov 2026 06:57:20 GMT",
       "published_at_utc": "2026-11-24T06:57:20+00:00",
       "published_at_tehran": "2026-11-24T10:27:20+03:30",
-      "collected_at": "2026-11-28T02:02:38.568858+00:00",
+      "collected_at": "2026-11-28T03:09:28.196049+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -151,7 +151,7 @@
       "published_at": "Tue, 24 Nov 2026 05:46:06 GMT",
       "published_at_utc": "2026-11-24T05:46:06+00:00",
       "published_at_tehran": "2026-11-24T09:16:06+03:30",
-      "collected_at": "2026-11-28T02:03:25.077750+00:00",
+      "collected_at": "2026-11-28T03:09:42.772580+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -165,7 +165,7 @@
       "published_at": "Tue, 24 Nov 2026 05:15:40 GMT",
       "published_at_utc": "2026-11-24T05:15:40+00:00",
       "published_at_tehran": "2026-11-24T08:45:40+03:30",
-      "collected_at": "2026-11-28T02:03:25.077812+00:00",
+      "collected_at": "2026-11-28T03:09:42.772684+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -179,7 +179,7 @@
       "published_at": "Tue, 24 Nov 2026 00:55:15 GMT",
       "published_at_utc": "2026-11-24T00:55:15+00:00",
       "published_at_tehran": "2026-11-24T04:25:15+03:30",
-      "collected_at": "2026-11-28T02:02:38.568978+00:00",
+      "collected_at": "2026-11-28T03:09:28.196195+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -193,7 +193,7 @@
       "published_at": "Mon, 23 Nov 2026 21:35:20 GMT",
       "published_at_utc": "2026-11-23T21:35:20+00:00",
       "published_at_tehran": "2026-11-24T01:05:20+03:30",
-      "collected_at": "2026-11-28T02:02:38.569305+00:00",
+      "collected_at": "2026-11-28T03:09:28.196490+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -207,7 +207,7 @@
       "published_at": "Mon, 23 Nov 2026 20:54:35 GMT",
       "published_at_utc": "2026-11-23T20:54:35+00:00",
       "published_at_tehran": "2026-11-24T00:24:35+03:30",
-      "collected_at": "2026-11-28T02:02:38.569410+00:00",
+      "collected_at": "2026-11-28T03:09:28.196632+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -221,7 +221,7 @@
       "published_at": "Mon, 23 Nov 2026 20:30:31 GMT",
       "published_at_utc": "2026-11-23T20:30:31+00:00",
       "published_at_tehran": "2026-11-24T00:00:31+03:30",
-      "collected_at": "2026-11-28T02:02:38.569474+00:00",
+      "collected_at": "2026-11-28T03:09:28.196721+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -235,7 +235,7 @@
       "published_at": "Mon, 23 Nov 2026 20:22:57 GMT",
       "published_at_utc": "2026-11-23T20:22:57+00:00",
       "published_at_tehran": "2026-11-23T23:52:57+03:30",
-      "collected_at": "2026-11-28T02:02:38.569553+00:00",
+      "collected_at": "2026-11-28T03:09:28.196823+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -249,7 +249,7 @@
       "published_at": "Mon, 23 Nov 2026 19:30:52 GMT",
       "published_at_utc": "2026-11-23T19:30:52+00:00",
       "published_at_tehran": "2026-11-23T23:00:52+03:30",
-      "collected_at": "2026-11-28T02:03:25.077896+00:00",
+      "collected_at": "2026-11-28T03:09:42.772786+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -263,7 +263,7 @@
       "published_at": "Mon, 23 Nov 2026 18:53:09 GMT",
       "published_at_utc": "2026-11-23T18:53:09+00:00",
       "published_at_tehran": "2026-11-23T22:23:09+03:30",
-      "collected_at": "2026-11-28T02:02:38.569704+00:00",
+      "collected_at": "2026-11-28T03:09:28.197007+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -277,7 +277,7 @@
       "published_at": "Mon, 23 Nov 2026 17:54:13 GMT",
       "published_at_utc": "2026-11-23T17:54:13+00:00",
       "published_at_tehran": "2026-11-23T21:24:13+03:30",
-      "collected_at": "2026-11-28T02:02:38.569788+00:00",
+      "collected_at": "2026-11-28T03:09:28.197114+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -291,7 +291,7 @@
       "published_at": "Mon, 23 Nov 2026 17:34:39 GMT",
       "published_at_utc": "2026-11-23T17:34:39+00:00",
       "published_at_tehran": "2026-11-23T21:04:39+03:30",
-      "collected_at": "2026-11-28T02:02:38.569883+00:00",
+      "collected_at": "2026-11-28T03:09:28.197230+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -305,7 +305,7 @@
       "published_at": "Mon, 23 Nov 2026 17:30:34 GMT",
       "published_at_utc": "2026-11-23T17:30:34+00:00",
       "published_at_tehran": "2026-11-23T21:00:34+03:30",
-      "collected_at": "2026-11-28T02:03:25.077981+00:00",
+      "collected_at": "2026-11-28T03:09:42.772887+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -319,7 +319,7 @@
       "published_at": "Mon, 23 Nov 2026 16:14:31 GMT",
       "published_at_utc": "2026-11-23T16:14:31+00:00",
       "published_at_tehran": "2026-11-23T19:44:31+03:30",
-      "collected_at": "2026-11-28T02:03:25.078083+00:00",
+      "collected_at": "2026-11-28T03:09:42.773012+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -333,7 +333,7 @@
       "published_at": "Mon, 23 Nov 2026 13:30:40 GMT",
       "published_at_utc": "2026-11-23T13:30:40+00:00",
       "published_at_tehran": "2026-11-23T17:00:40+03:30",
-      "collected_at": "2026-11-28T02:03:25.078191+00:00",
+      "collected_at": "2026-11-28T03:09:42.773104+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
@@ -347,7 +347,7 @@
       "published_at": "Mon, 23 Nov 2026 13:05:44 GMT",
       "published_at_utc": "2026-11-23T13:05:44+00:00",
       "published_at_tehran": "2026-11-23T16:35:44+03:30",
-      "collected_at": "2026-11-28T02:03:25.078261+00:00",
+      "collected_at": "2026-11-28T03:09:42.773191+00:00",
       "publish_ready": true,
       "status": "ready",
       "is_new": false
