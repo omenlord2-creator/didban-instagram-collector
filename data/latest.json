@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-28T18:27:20.321117+00:00",
+  "generated_at": "2026-11-28T19:38:22.015110+00:00",
   "source_mode": "public_feeds_no_login",
   "publishing_enabled": false,
   "summary": {
     "accounts": 5,
-    "fetched_posts": 0,
+    "fetched_posts": 20,
     "new_posts": 0,
-    "publish_ready": 0,
-    "blocked_or_incomplete": 5
+    "publish_ready": 20,
+    "blocked_or_incomplete": 3
   },
   "accounts": {
     "bbcpersian": {
@@ -18,16 +18,16 @@
       "new": 0,
       "ready": 0,
       "needs_media_url": 0,
-      "error": "https://openrss.org/feed/www.instagram.com/bbcpersian: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/bbcpersian: ReadTimeout: HTTPSConnectionPool(host='rsshub.cmyr.dev', port=443): Read timed out. (read timeout=10) | https://rsshub.app/instagram/2/user/bbcpersian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/bbcpersian: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
+      "error": "https://openrss.org/feed/www.instagram.com/bbcpersian: ReadTimeout: HTTPSConnectionPool(host='openrss.org', port=443): Read timed out. (read timeout=10) | https://rsshub.cmyr.dev/instagram/2/user/bbcpersian: HTTP 500 | https://rsshub.app/instagram/2/user/bbcpersian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/bbcpersian: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
     },
     "dw_persian": {
       "label": "DW Persian",
-      "provider": null,
-      "fetched": 0,
+      "provider": "https://openrss.org/feed/www.instagram.com/dw_persian",
+      "fetched": 10,
       "new": 0,
-      "ready": 0,
+      "ready": 10,
       "needs_media_url": 0,
-      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: HTTP 500 | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: HTTP 503"
+      "error": null
     },
     "iranintltv": {
       "label": "Iran International",
@@ -36,16 +36,16 @@
       "new": 0,
       "ready": 0,
       "needs_media_url": 0,
-      "error": "https://openrss.org/feed/www.instagram.com/iranintltv: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/iranintltv: HTTP 500 | https://rsshub.app/instagram/2/user/iranintltv: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/iranintltv: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
+      "error": "https://openrss.org/feed/www.instagram.com/iranintltv: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/iranintltv: ReadTimeout: HTTPSConnectionPool(host='rsshub.cmyr.dev', port=443): Read timed out. (read timeout=10) | https://rsshub.app/instagram/2/user/iranintltv: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/iranintltv: HTTP 503"
     },
     "isna.news": {
       "label": "ISNA",
-      "provider": null,
-      "fetched": 0,
+      "provider": "https://openrss.org/feed/www.instagram.com/isna.news",
+      "fetched": 10,
       "new": 0,
-      "ready": 0,
+      "ready": 10,
       "needs_media_url": 0,
-      "error": "https://openrss.org/feed/www.instagram.com/isna.news: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/isna.news: HTTP 500 | https://rsshub.app/instagram/2/user/isna.news: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/isna.news: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
+      "error": null
     },
     "irnanews1313": {
       "label": "IRNA",
@@ -54,32 +54,305 @@
       "new": 0,
       "ready": 0,
       "needs_media_url": 0,
-      "error": "https://openrss.org/feed/www.instagram.com/irnanews1313: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/irnanews1313: HTTP 500 | https://rsshub.app/instagram/2/user/irnanews1313: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/irnanews1313: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
+      "error": "https://openrss.org/feed/www.instagram.com/irnanews1313: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/irnanews1313: ReadTimeout: HTTPSConnectionPool(host='rsshub.cmyr.dev', port=443): Read timed out. (read timeout=10) | https://rsshub.app/instagram/2/user/irnanews1313: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/irnanews1313: HTTP 503"
     }
   },
   "errors": [
     {
       "account": "bbcpersian",
-      "error": "https://openrss.org/feed/www.instagram.com/bbcpersian: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/bbcpersian: ReadTimeout: HTTPSConnectionPool(host='rsshub.cmyr.dev', port=443): Read timed out. (read timeout=10) | https://rsshub.app/instagram/2/user/bbcpersian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/bbcpersian: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
-    },
-    {
-      "account": "dw_persian",
-      "error": "https://openrss.org/feed/www.instagram.com/dw_persian: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/dw_persian: HTTP 500 | https://rsshub.app/instagram/2/user/dw_persian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/dw_persian: HTTP 503"
+      "error": "https://openrss.org/feed/www.instagram.com/bbcpersian: ReadTimeout: HTTPSConnectionPool(host='openrss.org', port=443): Read timed out. (read timeout=10) | https://rsshub.cmyr.dev/instagram/2/user/bbcpersian: HTTP 500 | https://rsshub.app/instagram/2/user/bbcpersian: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/bbcpersian: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
     },
     {
       "account": "iranintltv",
-      "error": "https://openrss.org/feed/www.instagram.com/iranintltv: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/iranintltv: HTTP 500 | https://rsshub.app/instagram/2/user/iranintltv: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/iranintltv: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
-    },
-    {
-      "account": "isna.news",
-      "error": "https://openrss.org/feed/www.instagram.com/isna.news: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/isna.news: HTTP 500 | https://rsshub.app/instagram/2/user/isna.news: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/isna.news: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
+      "error": "https://openrss.org/feed/www.instagram.com/iranintltv: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/iranintltv: ReadTimeout: HTTPSConnectionPool(host='rsshub.cmyr.dev', port=443): Read timed out. (read timeout=10) | https://rsshub.app/instagram/2/user/iranintltv: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/iranintltv: HTTP 503"
     },
     {
       "account": "irnanews1313",
-      "error": "https://openrss.org/feed/www.instagram.com/irnanews1313: HTTP 503 | https://rsshub.cmyr.dev/instagram/2/user/irnanews1313: HTTP 500 | https://rsshub.app/instagram/2/user/irnanews1313: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/irnanews1313: ReadTimeout: HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=10)"
+      "error": "https://openrss.org/feed/www.instagram.com/irnanews1313: HTTP 429 | https://rsshub.cmyr.dev/instagram/2/user/irnanews1313: ReadTimeout: HTTPSConnectionPool(host='rsshub.cmyr.dev', port=443): Read timed out. (read timeout=10) | https://rsshub.app/instagram/2/user/irnanews1313: HTTP 403 | https://rsshub.rssforever.com/instagram/2/user/irnanews1313: HTTP 503"
     }
   ],
-  "items": [],
+  "items": [
+    {
+      "id": "f2b52e87ccba4fc78b06051714ab0f1f7c521d35a6e840974dcf5de1c0bbef3f",
+      "source": "dw_persian",
+      "post_url": "https://www.instagram.com/p/DgHbg3tJdA_",
+      "caption": ". آویگدور لیبرمن، رهبر حزب \"اسرائیل خانه ما\"، هشدار داد حمله یکجانبه اسرائیل به ایران بدون مشارکت آمریکا در صورتی که با انگیزه‌های سیاسی صورت بگیرد، \"اقدامی آشکارا غیرقانونی\" محسوب خواهد شد. به گزارش روزنامه جروزالم پست، لیبرمن روز دوشنبه ۲۳ نوامبر (۲ آذر) در جریان یک جلسه محرمانه در یکی از کمیته‌های وابسته به کمیسیون امور خارجی و دفاعی پارلمان این اظهارات را بیان کرد. در این جلسه ایال زمیر، رئیس ستاد کل ارتش اسرائیل و ماتان کاهانا، رئیس پارلمان نیز حضور داشتند. لیبرمن همچنین بعد در نشست فراکسیون حزب خود نیز موضوع احتمال حمله مستقل اسرائیل به ایران را مطرح کرد و هشدار داد که چنین تصمیمی ممکن است ناشی از ملاحظات سیاسی و منافع شخصی باشد. به گزارش این روزنامه، لیبرمن در این جلسه با اشاره به گزارش‌های اخیر برخی رسانه‌ها در مورد تلاش جمهوری اسلامی برای دستیابی به سلاح شیمیایی و بیولوژیکی گفت اگر چنین موضوعی صحت داشته باشد، اسرائیل با \"تهدیدی جدی\" مواجه است اما این \"تهدید نه مستلزم اقدام فوری و مستقل است و نه چنین اقدامی را بدون مشارکت آمریکا توجیه می‌کند\". او در ادامه افزود: «اگر کابینه چنین تصمیمی بگیرد، صرفا ناشی از منافع سیاسی و شخصی خواهد بود و بنابراین باید با آن به عنوان یک دستور آشکارا غیرقانونی برخورد شود.» لیبرمن همچنین این نگرانی را مطرح کرد که بنیامین نتانیاهو ، نخست‌وزیر موقت این کشور، ممکن است حمله به ایران را راهی برای خروج از بحران سیاسی خود بداند. در روزهای گذشته گزارش‌هایی مبنی بر تلاش‌های نتانیاهو برای ازسرگیری حملات علیه ایران و مخالفت ارتش با این اقدام منتشر شده‌اند. منتقدان او را متهم می‌کنند که با دامن زدن به احتمال درگیری تازه، در پی به تأخیر انداختن تشکیل دولت جدید است. به گزارش جروزالم پست، گادی آیزنکوت نیز روز دوشنبه در نشست فراکسیون حزب \"یاشار\" گفت: «در حال حاضر تهدید مستقیم و فوری از سوی ایران علیه اسرائیل نمی‌بینم که مستلزم انجام اقدام نظامی پیش از تشکیل دولت جدید باشد.» رقیب سیاسی نتانیاهو جدی‌ترین تهدید کنونی را ۴۴۰ کیلوگرم اورانیوم غنی‌شده‌ای دانست که هنوز نابود یا از ایران خارج نشده است. آیزنکوت تأکید کرد که اسرائیل باید بر این موضوع متمرکز شود.",
+      "media_url": "https://scontent.cdninstagram.com/v/t39.30808-6/928795696_1680606900396821_2740321579599589903_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=107&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=kM6clpiphn0Q7kNvwFkSZvJ&amp;_nc_oc=AdpZn38PvW7zJRwBXUK5Pc9LX65m8GHgtgyZO8-a97FJRlKnNBAp1NuCZdLrBDcCQbI&amp;_nc_zt=23&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_gid=4VXamoRl7e-XJY_t08mYUg&amp;_nc_ss=79789&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQTL635Hhxrq6aCDD40qw3FCOpH5XvSa-xVTp6kEhNc9sw&amp;oe=6B0B0775",
+      "published_at": "Tue, 24 Nov 2026 07:34:24 GMT",
+      "published_at_utc": "2026-11-24T07:34:24+00:00",
+      "published_at_tehran": "2026-11-24T11:04:24+03:30",
+      "collected_at": "2026-11-28T19:37:50.710492+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": false
+    },
+    {
+      "id": "bccb770bc9df6d79a0f5e73282ecab9bd28a9a0914cec2b3bb11bc45ef106e16",
+      "source": "dw_persian",
+      "post_url": "https://www.instagram.com/p/DgHW2qUJX4v",
+      "caption": ". جی‌دی ونس، معاون رئیس جمهور آمریکا و مارکو روبیو، وزیر این خارجه این کشور، روز دوشنبه ۲۳ نوامبر (۲ آذر) به طور جداگانه با شیخ محمد بن عبدالرحمن بن جاسم آل ثانی، نخست‌وزیر قطر در واشنگتن دیدار کردند. یک منبع آگاه به خبرگزاری آسوشیتدپرس گفت که گفت‌وگوی ونس با نخست‌وزیر قطر در کاخ سفید برگزار شد. این منبع اما از ارائه جزئیات بیشتر در مورد این دیدار و مسائل مطرح‌شده در آن خودداری کرد. دفتر ونس به درخواست این خبرگزاری برای اظهارنظر در این باره پاسخی نداده است. دیدار ونس و نخست‌وزیر قطر در حالی صورت گرفته است که دونالد ترامپ، رئیس جمهور آمریکا به تازگی اعلام کرده بود، به ونس گفته است که به توافق با ایران نیازی نیست و به او دستور داده تا پس از شکست سنگین جمهوری‌خواهان در انتخابات میان‌دوره‌ای، بر موضوع تقلب و جرم و جنایت در شهرهای تحت اداره دموکرات‌ها متمرکز شود. ونس که به عنوان مذاکره‌کننده ارشد آمریکا در توافق کوتاه‌مدت آتش‌بس با ایران نقش داشت، پس از اعلام نتایج انتخابات میان‌دوره‌ای نارضایتی رأی‌دهندگان از جنگ ایران را عامل شکست جمهوری‌خواهان دانسته بود. قطر در ماه‌های گذشته نقش مهمی در تلاش‌ها برای از سرگیری مذاکرات بین واشنگتن و تهران ایفا کرده است. سفر نخست‌وزیر این کشور به واشنگتن به منظور شرکت در نشست دوسالانه \"گفت‌وگوی راهبری آمریکا و قطر\" با مارکو روبیو صورت گرفت. این گفت‌وگوی راهبری طیف گسترده‌ای از مسائل امنیتی منطقه‌ای، از جمله ایران و همچنین روابط میان دوحه و واشنگتن را در بر می‌گیرد. وزارت امور خارجه آمریکا پس از این دیدار اعلام کرد روبیو در دیدار با شیخ محمد بن عبدالرحمن بن جاسم آل ثانی \"ضمن قدردانی از تلاش‌های میانجی‌گرانه قطر در سطح جهانی، بر اهمیت ادامه هماهنگی‌های نزدیک برای مقابله با تهدیدها و تقویت ثبات و امنیت در سراسر خاورمیانه تأکید کرده است\". به نوشته آسوشیتدپرس، در بیانیه‌ مشترکی که دو طرف منتشر کرده‌اند گفته شده در گفت‌وگوی راهبردی موضوع \"اولویت‌‌های سیاسی مشترک\" از خاورمیانه گرفته تا آفریقا و آمریکای لاتین مورد بحث قرار گرفته است اما هیچ جهت‌گیری یا اولویت سیاستی جدیدی در این بیانیه مطرح نشده است. ترامپ اوایل ماه نوامبر پس از دیدار با نخست‌وزیر قطر در کاخ سفید گفته بود که جنگ با ایران \"از نظر نظامی عملا به پایان رسیده است\". رئیس جمهور آمریکا با این حال همچنان از اظهارنظر مشخص در مورد اقدامات بعدی خود در جنگ با ایران خودداری کرده و گفته است که ایالات متحده به دنبال یک \"توافق واقعی\" با تهران است.",
+      "media_url": "https://scontent.cdninstagram.com/v/t39.30808-6/926504836_1680579673732877_8510366468350491806_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=110&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=17iXZfb6O-oQ7kNvwEFR4YT&amp;_nc_oc=Adp2193iCy5FhhKqC8Y5G7R1thZGQIXLVTRlYQbSC6OQnxI91Q2TA1dKeA2JM86DHKM&amp;_nc_zt=23&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_gid=4VXamoRl7e-XJY_t08mYUg&amp;_nc_ss=79789&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQTVSvi8lxgHV8IdFV4UZnzr1KiJa3fa8v9vZgiHapy3lQ&amp;oe=6B0B197E",
+      "published_at": "Tue, 24 Nov 2026 06:53:42 GMT",
+      "published_at_utc": "2026-11-24T06:53:42+00:00",
+      "published_at_tehran": "2026-11-24T10:23:42+03:30",
+      "collected_at": "2026-11-28T19:37:50.710675+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": false
+    },
+    {
+      "id": "8499fe780f2556d1bbff2b9556b878405278a57de3b88c676dbd6419d1205117",
+      "source": "dw_persian",
+      "post_url": "https://www.instagram.com/p/DgHUTqnpesw",
+      "caption": ". روزنامه وال استریت ژورنال روز دوشنبه ۲۳ نوامبر (دوم آذر) گزارش داد که ایالات متحده در حال بررسی احتمال دست داشتن ایران در ده‌ها حمله سایبری علیه نفتکش‌ها و شناورهای حامل سوخت است. این روزنامه به نقل از مقامات آمریکایی و منابع آگاه نوشت که گمان می‌رود تا ۵۰ کشتی حامل نفت، گاز مایع، محصولات شیمیایی و سایر مواد قابل انفجار هدف این حملات قرار گرفته باشند. وال استریت ژورنال در گزارش خود افزود که برخی از این کشتی‌ها پیام‌های هشدارآمیز و تهدید به بمب‌گذاری دریافت کرده‌اند. طبق این گزارش، این حملات و تهدیدهای همراه با آن‌ها، نگرانی‌هایی را مبنی بر تلاش ایران برای ارعاب شرکت‌های کشتیرانی، مختل کردن مسیرهای حیاتی دریایی یا ایجاد یک انفجار در یکی از بنادر مهم و دور از خاورمیانه برانگیخته است. این گزارش می‌افزاید که ایران مظنون اصلی این حملات است، هرچند مقامات آمریکایی روسیه را نیز به عنوان یکی از عوامل احتمالی دخیل در نظر دارند. با این حال یکی از مقام‌های دولت ترامپ به این روزنامه گفت که آمریکا تا کنون هیچ مدرکی دال بر دخالت ایران در این حملات پیدا نکرده است. وال استریت ژورنال پیشتر در ماه سپتامبر گزارش داده بود که دو نفتکش عازم تگزاس هدف حملات سایبری قرار گرفته‌اند. یک منبع مطلع به این روزنامه گفته بود که هر دو شناور همچنین تهدیدهای بمب‌گذاری دریافت کرده بودند. به نوشته وال استریت ژورنال گارد ساحلی ایالات متحده در هفته‌های اخیر تیم‌های حفاظت سایبری را برای رسیدگی به دست‌کم چهار کشتی، به هنگام نزدیک شدن به آب‌های آمریکا، اعزام کرده است.",
+      "media_url": "https://scontent.cdninstagram.com/v/t39.30808-6/930691182_1680563867067791_2421736323813165656_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=110&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=Xcycx_JNEMYQ7kNvwEbst60&amp;_nc_oc=AdpJXkP4m4xtWZLS4gB8pSKeZyajsCP80tJQ2ntWk1ir4WTNNizdbz8zb5tO8z0z5w4&amp;_nc_zt=23&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_gid=4VXamoRl7e-XJY_t08mYUg&amp;_nc_ss=79789&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQROoWW99g8rJ1__YoL3_MYCiVTWzF6ePGmXj8Asn4bm_w&amp;oe=6B0B0D34",
+      "published_at": "Tue, 24 Nov 2026 06:31:26 GMT",
+      "published_at_utc": "2026-11-24T06:31:26+00:00",
+      "published_at_tehran": "2026-11-24T10:01:26+03:30",
+      "collected_at": "2026-11-28T19:37:50.710786+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": false
+    },
+    {
+      "id": "ef3d2270e3c104c29da66610fa2b28bd1638b84dd0227e4b9e8931d6cd00c96f",
+      "source": "dw_persian",
+      "post_url": "https://www.instagram.com/p/DgGMurZyhLe",
+      "caption": ". راهپیمایی هزاران نفر در استانبول در حمایت از آزادی رسانه‌ها چند هزار نفر روز یکشنبه در استانبول در ترکیه راهپیمایی کردند و به سرکوب رسانه‌های مستقل و رسانه‌های نزدیک به مخالفان دولت اعتراض کردند. #dwnews",
+      "media_url": "https://scontent.cdninstagram.com/v/t51.82787-15/926452182_18659958415003309_5500084418201652946_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=110&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=DtV6qNrFFpsQ7kNvwEGtxc_&amp;_nc_oc=AdpIvtD5KxzGmIGl_eXp0CC-yxznyFWAco81yqLFToCRB2VZiq32yZYJ2T_SuqEmG0E&amp;_nc_zt=23&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_gid=BH6-6CCFkKoMc9v09OJdEw&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQSpCntoincR0nEfKpb-NyzmbdF5XQQsrb7R_oxU8LLFQw&amp;oe=6B0AC1A5",
+      "published_at": "Mon, 23 Nov 2026 20:05:59 GMT",
+      "published_at_utc": "2026-11-23T20:05:59+00:00",
+      "published_at_tehran": "2026-11-23T23:35:59+03:30",
+      "collected_at": "2026-11-28T19:37:50.710849+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": false
+    },
+    {
+      "id": "ed8aeb40a7972f519ceb300ba012bb00524885c3532dfd74de440cafef10b7bf",
+      "source": "dw_persian",
+      "post_url": "https://www.instagram.com/p/DgGLoMCjXJD",
+      "caption": ". یک مقام قضایی ایران روز دوشنبه اعلام کرد دادگاه‌های این کشور در احکامی، ایالات متحده را به پرداخت ۲۹۰ میلیارد دلار غرامت بابت اقدامات چند دهه گذشته علیه ایران محکوم کرده‌اند. حسن عبدلیان‌پور، رئیس مرکز وکلای قوه قضائیه، در اظهاراتی که از تلویزیون دولتی ایران پخش شد، گفت این احکام در دادگاه‌های داخلی صادر شده‌اند و مطالبات غرامت مربوط به اقدامات آمریکا علیه ایران در طول چند دهه است. او همچنین اعلام کرد ایران شکایت‌هایی علیه چند کشور عربی حوزه خلیج فارس مطرح کرده است. به گفته وی، تهران این کشورها را متهم می‌کند که با در اختیار گذاشتن خاک خود برای حملات نظامی آمریکا علیه ایران، در این حملات نقش داشته‌اند. این اقدامات حقوقی در حالی صورت می‌گیرد که درگیری‌های منطقه‌ای از ۹ اسفند (۲۸ فوریه)، با حملات آمریکا و اسرائیل به ایران آغاز شد. ایران نیز در پاسخ، حملات موشکی و پهپادی به اهدافی در منطقه انجام داد و اعلام کرد پایگاه‌ها و تأسیسات نظامی آمریکا و اسرائیل در کشورهای همسایه را هدف قرار داده است. جنگ در خردادماه (ژوئن) بر اساس یادداشت تفاهم اسلام‌آبادکه میان واشنگتن و تهران امضا شد به پایان رسید و قرار بود آمریکا و شرکای منطقه‌ای آن طرحی با دست‌کم ۳۰۰ میلیارد دلار برای بازسازی و توسعه اقتصادی ایران تهیه کنند. با این حال، احکام غرامت ۲۹۰ میلیارد دلاری که روز دوشنبه اعلام شد، مستقل از تعهدات مربوط به بازسازی ایران در تفاهم‌نامه اسلام‌آباد است. عبدلیان‌پور در ادامه گفت که مقام‌های ایرانی همچنین چندین شکایت علیه کشورهای عربی حوزه خلیج فارس تنظیم کرده‌اند. در این شکایت‌ها، این کشورها متهم شده‌اند که به واشنگتن اجازه داده‌اند از خاک آنها برای انجام حملات نظامی علیه ایران استفاده کند. در مقابل، کشورهای عربی نیز پیش‌تر خواستار دریافت غرامت از ایران شده‌اند. وزیران خارجه اتحادیه عرب در قطعنامه‌ای در آوریل ۲۰۲۶، ایران را مسئول حملات به هشت کشور عربی دانستند و خواستار جبران کامل خسارات شدند. همچنین هفت کشور عربی با طرح موضوع در شورای حقوق بشر سازمان ملل، خواستار محکومیت حملات و جبران خسارات انسانی، زیرساختی و زیست‌محیطی شدند.",
+      "media_url": "https://scontent.cdninstagram.com/v/t39.30808-6/926996480_1680138320443679_6685951632294713756_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=103&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=l4CGFO7MpagQ7kNvwGCFuU7&amp;_nc_oc=AdqVBQL-AP5tjpNOmTVmT3tOHggjP14SPEGsFUVts6yBsOZJRbrouYyeTg83K7vt4IA&amp;_nc_zt=23&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_gid=BH6-6CCFkKoMc9v09OJdEw&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQQeo4cjlyheiCobeSFTYr9qbozkW-7qa8fAP82WzARyaA&amp;oe=6B0AB779",
+      "published_at": "Mon, 23 Nov 2026 19:56:21 GMT",
+      "published_at_utc": "2026-11-23T19:56:21+00:00",
+      "published_at_tehran": "2026-11-23T23:26:21+03:30",
+      "collected_at": "2026-11-28T19:37:50.710970+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": false
+    },
+    {
+      "id": "598960e420c1eb6feb0096a1a3fd24e0f14ed6e73fffefd00373249f80ce17d2",
+      "source": "dw_persian",
+      "post_url": "https://www.instagram.com/p/DgGJpZKD3Va",
+      "caption": ". مین‌زدایی طرحی جدید برای گسترش همکاری‌های نظامی و امنیتی میان آمریکا و سوریه است. پنج منبع آگاه به خبرگزاری رویترز گفته‌اند که این طرح می‌تواند نخستین مأموریت آموزشی آمریکا با ارتش سوریه از زمان به قدرت رسیدن شورشیان اسلام‌گرا در دمشق در سال ۲۰۲۴ باشد. به گفته این منابع، پیشنهاد اعزام یک هیئت آموزشی چندملیتی هنوز با موانع حقوقی در آمریکا و تردیدهایی در میان برخی اعضای ارتش سوریه روبه‌رو است. با این حال، در صورت تصویب، ممکن است شمار محدودی از نیروهای آمریکایی از سال آینده بار دیگر به سوریه بازگردند؛ آن هم تنها یک سال پس از پایان مأموریت ده‌ساله آمریکا برای مقابله با داعش. چهار منبع آگاه گفته‌اند مرحله نخست این برنامه بر آموزش مین‌زدایی و خنثی‌سازی ایمن مهمات و مواد منفجره متمرکز خواهد بود، اما در صورت موفقیت می‌تواند زمینه همکاری‌های نظامی گسترده‌تر را فراهم کند. این طرح قرار است بر پایه فعالیت \"مرکز هماهنگی دمشق\" (DCC) پیش برود؛ نهادی که سال گذشته در اردن برای تسهیل همکاری میان مقام‌های سوری، نیروهای آمریکایی و متحدان منطقه‌ای تأسیس شد. به گفته یک منبع مطلع، حدود ۱۵ کشور متحد آمریکا، از جمله بریتانیا، فرانسه، آلمان، استرالیا، عربستان سعودی و امارات متحده عربی نیز در این چارچوب مشارکت خواهند داشت. سخنگوی فرماندهی مرکزی ارتش آمریکا اعلام کرده است که مرکز هماهنگی دمشق همچنان برای حمایت از ثبات، وحدت و صلح در سوریه فعالیت می‌کند، اما تصمیم نهایی درباره ساختار و مأموریت آینده آن هنوز اتخاذ نشده است. وزارت دفاع سوریه نیز به درخواست رویترز برای اظهارنظر پاسخ نداده است. بررسی این همکاری نظامی در ادامه روند نزدیک شدن واشنگتن و دمشق پس از سرنگونی حکومت بشار اسد در دسامبر ۲۰۲۴ صورت می‌گیرد. آمریکا در دسامبر ۲۰۲۵ بخش گسترده‌ای از تحریم‌های اقتصادی سوریه را لغو کرد، در اوت ۲۰۲۶ نام این کشور را از فهرست حامیان دولتی تروریسم خارج کرد و در اکتبر همان سال محدودیت‌های صادرات تسلیحات و خدمات دفاعی به سوریه را کاهش داد. با این حال، همکاری نظامی مستقیم دو کشور همچنان با موانعی روبه‌رو است.",
+      "media_url": "https://scontent.cdninstagram.com/v/t39.30808-6/928077662_1680128440444667_6561415482761818063_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=100&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=nSOz5l4T7zsQ7kNvwHhfanH&amp;_nc_oc=AdpM_i-LYcJxMGKAPEfNrxeQUr1rBvdoVT6rfs22Tjhciv6VzGIX7vqQHVjB2pML9E4&amp;_nc_zt=23&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_gid=BH6-6CCFkKoMc9v09OJdEw&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQSaaPWYPMgU6UDYPsfgroLTKdiqEOrmrMW8KgcY42CJ4w&amp;oe=6B0AA225",
+      "published_at": "Mon, 23 Nov 2026 19:39:03 GMT",
+      "published_at_utc": "2026-11-23T19:39:03+00:00",
+      "published_at_tehran": "2026-11-23T23:09:03+03:30",
+      "collected_at": "2026-11-28T19:37:50.711113+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": false
+    },
+    {
+      "id": "e6e8403da65a55618d8c176673df58aaaac7ae919511b5ec225b7b92b4ed19b3",
+      "source": "dw_persian",
+      "post_url": "https://www.instagram.com/p/DgGGjVtDzGZ",
+      "caption": ". وزارت خزانه‌داری آمریکا روز ۲۳ نوامبر (دوم آذر)، در چارچوب عملیات \"طرد اقتصادی ایران\"، بیش از ۲۰ صرافی، شرکت پوششی و فرد مرتبط با شبکه‌های مالی ایران را تحریم کرد. واشنگتن هدف این اقدام را مختل کردن شبکه‌هایی اعلام کرده است که با دور زدن تحریم‌ها، انتقال درآمدهای نفتی و تجاری ایران و دسترسی به ارز خارجی را تسهیل می‌کنند. به گفته وزارت خزانه‌داری، این شبکه‌ها با استفاده از شرکت‌های واسطه در کشورهایی از جمله امارات، ترکیه و هنگ‌کنگ، میلیاردها دلار تراکنش مالی انجام می‌دهند. در میان شرکت‌های تحریم‌شده، نام شرکت‌های ایرانی نسیم بهاران قشم، مرتبط با بانک سرمایه، و دو صرافی فشکی و ملت دیده می‌شود. همچنین چندین شرکت واسطه مستقر در دبی، ترکیه و هنگ‌کنگ، از جمله Recaz Star General Trading، OGA Global General Trading و Grandez Trading Limited، در فهرست تحریم‌ها قرار گرفته‌اند. به ادعای وزارت خزانه‌داری آمریکا، این شرکت‌ها در انتقال پول و تسهیل معاملات خارجی ایران از طریق شبکه بانکی پنهان نقش داشته‌اند. آمریکا همچنین مرکز مبادله ارز و طلای ایران را به دلیل نقش واسطه‌ای آن در تطبیق درآمدهای ارزی صادرکنندگان با نیاز واردکنندگان تحریم کرده است. واشنگتن می‌گوید این مرکز در تسهیل تجارت خارجی ایران، از جمله با استفاده از روبل روسیه و یوان چین، نقش مهمی دارد. در این فهرست، شرکت‌هایی مرتبط با فروش نفت و محصولات پتروشیمی، صنایع مس و همچنین شبکه‌های مالی مورد استفاده نهادهای نظامی ایران نیز قرار گرفته‌اند. وزارت خزانه‌داری هشدار داده است که دارایی‌های افراد و شرکت‌های تحریم‌شده در حوزه صلاحیت آمریکا مسدود می‌شود و هرگونه معامله با آنها می‌تواند برای اشخاص و مؤسسات مالی آمریکایی و خارجی پیامدهای تحریمی و حقوقی داشته باشد.",
+      "media_url": "https://scontent.cdninstagram.com/v/t39.30808-6/926950656_1680106977113480_8865533864357401945_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=P3E89Gt5NnAQ7kNvwGTegvC&amp;_nc_oc=AdrW0EXc6ToLEAGAl8h5AIUA9LOhaWFHF9nUtu8a5qPdCzX8VQfUTR5Cxd62q66pUJQ&amp;_nc_zt=23&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_gid=BH6-6CCFkKoMc9v09OJdEw&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQQxbNnor_S2pDxjGNsGjQ6Syke1P2euyU1hi7MJ8NYL5w&amp;oe=6B0AB985",
+      "published_at": "Mon, 23 Nov 2026 19:12:00 GMT",
+      "published_at_utc": "2026-11-23T19:12:00+00:00",
+      "published_at_tehran": "2026-11-23T22:42:00+03:30",
+      "collected_at": "2026-11-28T19:37:50.711225+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": false
+    },
+    {
+      "id": "67bd81e09796ef294508c686dc51b99b81489251bbd873e973e45ab0102871a8",
+      "source": "dw_persian",
+      "post_url": "https://www.instagram.com/p/DgGEf42PCPK",
+      "caption": ". تخلیه ۱۲ هزار نفر از کنسرتی در منچستر؛ انتشار گازی ناشناس و مسمومیت ده‌ها نفر کنسرت دان تولیور، خواننده رپ آمریکایی، در شهر منچستر بریتانیا به دلیل انتشار ماده‌ای ناشناس متوقف شد. بیش از ۱۲ هزار تماشاگر سالن را ترک کردند و ده‌ها نفر به دلیل مشکلات تنفسی و سوزش چشم تحت مراقبت قرار گرفتند. این حادثه شامگاه یکشنبه ۲۲ نوامبر در سالن \"کوآپ لایو\" منچستر رخ داد. به گزارش رویترز، تماشاگران پس از استشمام بویی نامطبوع، از سرفه، احساس خفگی و سوزش چشم شکایت کردند. نیروهای امدادی بیش از ۸۰ نفر که دچار مشکلات تنفسی شده بودند را مورد درمان سرپایی قرار دادند. پلیس منچستر با اعلام وضعیت اضطراری، دستور تخلیه سالن را صادر کرد. اگرچه در ابتدا احتمال انتشار گاز اشک‌آور مطرح شد، پلیس اعلام کرده که ماهیت ماده منتشرشده هنوز مشخص نیست. تحقیقات برای روشن‌شدن علت حادثه ادامه دارد و تاکنون عمدی بودن انتشار این ماده تأیید نشده است. کنسرت بعدی دان تولیور در لندن نیز به دنبال این حادثه به تعویق افتاد.",
+      "media_url": "https://scontent.cdninstagram.com/v/t51.82787-15/929520798_18659941741003309_804492880720151067_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=101&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=XsOLyc-n11EQ7kNvwG-hN-q&amp;_nc_oc=AdqtLgxw6ARqCIYFKHsMQ0LynmQ0OjMw9QqL1QJafWf5vJSQaHVJFtVISflS6mJ91UA&amp;_nc_zt=23&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_gid=BH6-6CCFkKoMc9v09OJdEw&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQQAAAA&amp;oh=00_AQQNveljX8Tsc-tjqc8T6a9nx9kMm2VHYsqlT0jkkK2Flg&amp;oe=6B0AC6EE",
+      "published_at": "Mon, 23 Nov 2026 18:54:03 GMT",
+      "published_at_utc": "2026-11-23T18:54:03+00:00",
+      "published_at_tehran": "2026-11-23T22:24:03+03:30",
+      "collected_at": "2026-11-28T19:37:50.711310+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": false
+    },
+    {
+      "id": "3cb8bf8924652f0993cc7fd51272cb5a4d658cebd6f5af0987a0965e566f8aab",
+      "source": "dw_persian",
+      "post_url": "https://www.instagram.com/p/DgGD1hPD5Sw",
+      "caption": ". مقام‌های ارشد نظامی قطر و ایتالیا روز دوشنبه ۲۳ نوامبر در دوحه درباره راه‌های تقویت همکاری‌های نظامی و دفاعی میان دو کشور گفت‌وگو کردند. این مذاکرات هم‌زمان با سفر هیئتی از مقام‌های دفاعی ایتالیا به قطر انجام شد. به گزارش خبرگزاری رسمی قطر، ریاست هیئت ایتالیایی را ژنرال لوچیانو پورتولانو، رئیس ستاد دفاع ایتالیا، بر عهده داشت. او در جریان این سفر با سپهبد جاسم بن محمد المناعی، رئیس ستاد کل نیروهای مسلح قطر، دیدار کرد. دو طرف درباره موضوعات مورد علاقه مشترک و راه‌های توسعه همکاری‌های نظامی تبادل نظر کردند. در همین چارچوب، شیخ سعود بن عبدالرحمن آل‌ثانی، معاون نخست‌وزیر و وزیر مشاور در امور دفاعی قطر نیز با رئیس ستاد دفاع ایتالیا و هیئت همراه او دیدار کرد. جزئیات بیشتری درباره توافق‌های احتمالی یا موضوعات مشخص مطرح‌شده در این مذاکرات منتشر نشده است. این دیدار در ادامه روند گسترش مناسبات دفاعی دو کشور انجام می‌شود. پائولو توسکی، سفیر ایتالیا در قطر، اوایل ماه نوامبر از همکاری نزدیک نیروهای مسلح و نهادهای امنیت داخلی دو کشور سخن گفته و اعلام کرده بود که در چهار سال گذشته، برنامه‌های آموزشی و رزمایش‌های مشترکی با مشارکت نیروی زمینی، هوایی و دریایی ایتالیا و همچنین کارابینیری، نیروی ژاندارمری این کشور، برگزار شده است. قطر و ایتالیا پیش‌تر نیز در بیانیه مشترکی که در جریان سفر امیر قطر به رم در اکتبر ۲۰۲۴ منتشر شد، بر تعمیق همکاری‌های دفاعی در سطوح نظامی و صنایع دفاعی تأکید کرده بودند. در آن بیانیه، دو کشور از ادامه گفت‌وگوها برای ایجاد یک مرکز پشتیبانی و لجستیکی نظامی ایتالیا در قطر و هماهنگی بیشتر در زمینه صادرات تسلیحات به کشورهای منطقه سخن گفته بودند. با این حال، در گزارش مربوط به مذاکرات روز دوشنبه در دوحه، اعلام نشده است که درباره ایجاد این مرکز لجستیکی یا توافق تازه‌ای در زمینه صادرات تسلیحات تصمیم مشخصی گرفته شده باشد.",
+      "media_url": "https://scontent.cdninstagram.com/v/t39.30808-6/927046172_1680090660448445_2968299063276626792_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=_2-26QpWhCoQ7kNvwEvIvAP&amp;_nc_oc=AdpT1b-eO-8-6P_NINvA8ce89O1igE3eAlmZ-2O3Th89pE5AUJi9nevvtjuxJ_mUu98&amp;_nc_zt=23&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_gid=BH6-6CCFkKoMc9v09OJdEw&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQRheQbmGlhABE_c8GLcegbPHJnM3v-CKAGxQoTsioanaw&amp;oe=6B0AC7E5",
+      "published_at": "Mon, 23 Nov 2026 18:48:16 GMT",
+      "published_at_utc": "2026-11-23T18:48:16+00:00",
+      "published_at_tehran": "2026-11-23T22:18:16+03:30",
+      "collected_at": "2026-11-28T19:37:50.711420+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": false
+    },
+    {
+      "id": "4dbf4458bc78686365d220d42ce8210b6b71837c533f2b3a346e994668a12d18",
+      "source": "dw_persian",
+      "post_url": "https://www.instagram.com/p/DgGDa4yDbtb",
+      "caption": ". شرکت انویدیا (Nvidia) اعلام کرد جنسن هوانگ (Jensen Huang) را با وجود جنجال‌های اخیر، در تصمیمی که باید فوراَ اجرا شود، به سمت مدیرعاملی بازمی‌گرداند. این تصمیم چرخشی غیرمعمول پس از آن اتخاذ شد که دونالد ترامپ، رئیس‌جمهور آمریکا، خواستار بازگشت هوانگ شد؛ مدیری که در پی افشای روابط خارج از ازدواج، از سمت خود کناره‌گیری کرده بود. هیئت‌مدیره انویدیا اعلام کرد که پس از بررسی موضوع و دریافت نظر مقام‌های ارشد دولت آمریکا، هیچ خطری برای امنیت ملی در بازگشت هوانگ به مدیریت شرکت مشاهده نمی‌کند. اعضای هیئت‌مدیره همچنین گفته‌اند که از صراحت هوانگ در پاسخ‌گویی و توانایی‌های مدیریتی او رضایت دارند و رأی بازگرداندن وی به مدیرعاملی به اتفاق آرا صادر شده است. هوانگ روز ۱۲ نوامبر، پس از انتشار گزارش‌هایی درباره روابط خارج از ازدواج، از سمت خود کناره‌گیری کرده بود. یکی از این روابط به زنی بازرگان مربوط می‌شود که مقام‌های آمریکایی به ظن جاسوسی برای چین درباره او تحقیق می‌کنند؛ اتهامی که پکن آن را رد کرده است. همچنین گزارش‌هایی درباره روابط ادعایی هوانگ با دست‌کم دو نفر از کارکنان انویدیا منتشر شده است. دونالد ترامپ هفته گذشته، پس از آنکه هیئت‌مدیره انویدیا بازگشت هوانگ را منتفی دانسته بود، از شرکت خواست او را دوباره به مدیریت بازگرداند. ترامپ پس از اعلام تصمیم جدید نیز در شبکه اجتماعی تروث سوشال از آن استقبال کرد و آن را \"تصمیم درست و بجا\" خواند. او گفت دولت آمریکا دلیلی ندارد که بازگشت هوانگ را تهدیدی برای امنیت ملی بداند و مدرکی در اختیار ندارد که نشان دهد او مرتکب اقدام غیرقانونی شده است. با این حال، رئیس‌جمهور آمریکا از انویدیا خواست بررسی‌های خود درباره رعایت مقررات صادراتی ایالات متحده را ادامه دهد تا اطمینان حاصل شود که این شرکت به تعهداتش در زمینه حفاظت از امنیت ملی عمل می‌کند. بازگشت هوانگ در شرایطی صورت می‌گیرد که انویدیا با چندین تحقیق و بررسی از سوی نهادهای آمریکایی، از جمله کمیسیون بورس و اوراق بهادار و وزارت دادگستری، روبه‌رو است. این بررسی‌ها موضوعاتی از احتمال تخلف در حسابداری شرکت تا اتهام قاچاق تراشه را دربرمی‌گیرد. هوانگ انویدیا را از یک تولیدکننده تراشه‌های مورد استفاده در بازی‌های رایانه‌ای به بزرگ‌ترین تأمین‌کننده پردازنده‌های مورد استفاده در هوش مصنوعی تبدیل کرده است. او نقشی محوری در تعیین مسیر توسعه تراشه‌ها، روابط با مشتریان عمده و ارتباطات شرکت با دولت آمریکا داشته است.",
+      "media_url": "https://scontent.cdninstagram.com/v/t39.30808-6/927202696_1680087547115423_2309270677371271249_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=107&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=v8CL2h7YA94Q7kNvwHwiryF&amp;_nc_oc=Ado2Cwrycxxb3lG_48Rpb9mAWapgc6zdRDbnAfxiHS9-DDbvLFAhpIFWirD6DxsvlYY&amp;_nc_zt=23&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_gid=BH6-6CCFkKoMc9v09OJdEw&amp;_nc_ss=79689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQRPvEOOzsB_87u8Z783qvWrCLRt5eOT6GwUw5s2EEwXUg&amp;oe=6B0AB7D5",
+      "published_at": "Mon, 23 Nov 2026 18:44:38 GMT",
+      "published_at_utc": "2026-11-23T18:44:38+00:00",
+      "published_at_tehran": "2026-11-23T22:14:38+03:30",
+      "collected_at": "2026-11-28T19:37:50.711551+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": false
+    },
+    {
+      "id": "ce50f1aa184fc8f1f217cd734390054a58ab4f3f754a6ba5e0a573d34c354b1c",
+      "source": "isna.news",
+      "post_url": "https://www.instagram.com/p/DgFcQX9CIoR",
+      "caption": "دادخواست علیه کشورهای عربی برای دریافت غرامت رئیس مرکز وکلای قوه‌قضائیه: علیه اردن و دیگر کشورهای عربی برای دریافت غرامت طرح دادخواست کرده‌ایم؛ این کشورها باید به‌خاطر قراردادن خاک‌شان در اختیار آمریکا برای حمله به ایران پاسخگو باشند. همین الان چند کشتی مربوط به آمریکا توقیف شده و بخشی از غرامت‌هایی که علیه آمریکا صادرشده با آن‌ها پرداخت خواهد شد. #ایسنا #isna",
+      "media_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/925804739_18679806325032684_4771813456462343940_n.heic?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=108&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=dcYMGr2u5EoQ7kNvwFT2zTg&amp;_nc_oc=Adp0u4Nz9sJuguRLaLOTJmT5do9EHz7q9SJFQTost8peBMLDF2rRAnjnk-41eM7pio8&amp;_nc_zt=23&amp;_nc_ht=scontent-phl2-1.cdninstagram.com&amp;_nc_gid=sb3c18Ew2Vk60yGny5aXZg&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQSXkrKwBGVOxQgrjmXT960bTwBZm7dE0TMjYcPNifiFtw&amp;oe=6B0A0E32",
+      "published_at": "Mon, 23 Nov 2026 13:02:25 GMT",
+      "published_at_utc": "2026-11-23T13:02:25+00:00",
+      "published_at_tehran": "2026-11-23T16:32:25+03:30",
+      "collected_at": "2026-11-28T19:38:06.879893+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": false
+    },
+    {
+      "id": "a3a889ad66e4e387c357fcd85805816fae3c706ed9609a3ee9ddd20824ca5771",
+      "source": "isna.news",
+      "post_url": "https://www.instagram.com/p/DgFYv3dICga",
+      "caption": "غلامرضا نیکخواه درگذشت غلامرضا نیکخواه، بازیگر باسابقه و صاحب‌نام سینما و تلویزیون، امروز دوشنبه 2 آذرماه، بر اثر سکته قلبی دار فانی را وداع گفت. این خبر در حالی مورد تأیید قرار گرفته که در برخی رسانه‌ها مطرح شده که او داغدار درگذشت برادرش بوده و به شیراز سفر کرده است و حالا دلیل این درگذشت ناگهانی، سکته قلبی اعلام شده است. نیکخواه که متولد اول فروردین ۱۳۲۷ بود، کارنامه هنری درخشانی از خود به جای گذاشته است. وی با حضور در آثار کمدی و درام، از جمله همکاری با هنرمندانی چون رضا عطاران و مهران مدیری، جایگاه ویژه‌ای در میان مخاطبان پیدا کرد. حضور وی در سریال‌های موفقی همچون «نوروز ۷۲»، «پرواز ۵۷»، «بزنگاه» و «مرد هزارچهره» و همچنین حضور پررنگ در رئالیتی‌شو محبوب «جوکر»، از جمله نقاط عطف فعالیت‌های هنری او بود. از آثار سینمایی برجسته نیکخواه می‌توان به «ناپلئون در باغ زردآلو»، «خانوم والده»، «آقای زالو»، «قسطنطنیه»، «آنتیک»، «جزایر قناری»، «هتل»، «قیف»، «بخارست»، «فسیل»، «رحمان ۱۴۰۰»، «آینه بغل»، «طهران تهران» و «خواب‌فروش» اشاره کرد. وی در روزهای پایانی حیات خود نیز با سریال‌های «مرد سه هزار چهره» و «میمون مست» در حال همکاری بود. #ایسنا #isna",
+      "media_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/922163785_18679798789032684_7750728625745005467_n.heic?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=1&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=CpxSP8dU6yAQ7kNvwH6Nj-H&amp;_nc_oc=AdpGtLYiidVNnRGx2Xrsi8GkuMV0jLHLwVjXSIZEikNPQ9cmgx0R4Ate2gRW0Oksze8&amp;_nc_zt=23&amp;_nc_ht=scontent-phl2-1.cdninstagram.com&amp;_nc_gid=sb3c18Ew2Vk60yGny5aXZg&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQT7L7Zq1zPvFzHbrw5YBIssZ1ynF-6i_QVG0bST0xhYZw&amp;oe=6B0A1433",
+      "published_at": "Mon, 23 Nov 2026 12:31:46 GMT",
+      "published_at_utc": "2026-11-23T12:31:46+00:00",
+      "published_at_tehran": "2026-11-23T16:01:46+03:30",
+      "collected_at": "2026-11-28T19:38:06.880021+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": false
+    },
+    {
+      "id": "b48531b9ef001a93910d66a71fef8dba1c9784e0b48fbb1dac6f3db895eac8b6",
+      "source": "isna.news",
+      "post_url": "https://www.instagram.com/p/DgFRxldIky4",
+      "caption": "رضا امیرخانی؛ از «ارمیا» تا آخرین پرواز رضا امیرخانی نویسنده نام آشنای ایرانی، بامداد دوشنبه (۲ آذر) و ۳۵۸ روز بعد از سقوط با پاراگلایدر در گذشت. علاقه او به پرواز مسیر زندگی و فعالیت‌های این نویسنده را از ۹ آذر سال گذشته دستخوش تغییر کرد. #ایسنا #isna",
+      "media_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/929642946_2595864537582736_1669063275308943761_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=108&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=LL6IbfkSfiQQ7kNvwH1BJTi&amp;_nc_oc=AdritubB5Wr0JuDVyU2aUjShLnXVwmbH_SX66JBgZjBHXZMl_v3RnQXmrkTmve0zE74&amp;_nc_zt=23&amp;_nc_ht=scontent-phl2-1.cdninstagram.com&amp;_nc_gid=sb3c18Ew2Vk60yGny5aXZg&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQwAAAA&amp;oh=00_AQRKS8cUVcVluFOE9TF6w7CoJqSNeKdDPHRUVPAZcVB7XA&amp;oe=6B0A268A",
+      "published_at": "Mon, 23 Nov 2026 11:30:50 GMT",
+      "published_at_utc": "2026-11-23T11:30:50+00:00",
+      "published_at_tehran": "2026-11-23T15:00:50+03:30",
+      "collected_at": "2026-11-28T19:38:06.880089+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": false
+    },
+    {
+      "id": "e347acf684ffb70817972dc79df8341ac70feb1714188d5a3ed08489f971cb4c",
+      "source": "isna.news",
+      "post_url": "https://www.instagram.com/p/DgFNJQdovzv",
+      "caption": "میراث لردگان زیر تیغِ جاده‌سازی؛‌ کاوش‌های نجات‌بخشی چاره راه است؟ محوطه باستانی کل‌دالو در لردگان با قدمتی بیش از ۶۵۰۰ سال، این روزها در مجاورت پروژه چهارخطه لردگان به ایذه با خطر آسیب مواجه است؛ موضوعی که با آغاز کاوش‌های نجات‌بخشی، بار دیگر ضرورت صیانت از میراث تاریخی را در کنار اجرای طرح‌های عمرانی مطرح کرده است. #ایسنا #isna",
+      "media_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/920665353_1662066835710906_7016489305713850930_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=104&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=tHJAd26nkP0Q7kNvwEEItzd&amp;_nc_oc=AdoM9XR_bXH1H-uyWQDROk7C7Vd6ijgrxkMhroxeuaxJaDKyIik_iUKW-xdNwNZSFcw&amp;_nc_zt=23&amp;_nc_ht=scontent-phl2-1.cdninstagram.com&amp;_nc_gid=sb3c18Ew2Vk60yGny5aXZg&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQwAAAA&amp;oh=00_AQTiIa167u_umJHPGY603XldBxCrahpenkMKQwNRaZYW0g&amp;oe=6B0A0940",
+      "published_at": "Mon, 23 Nov 2026 10:50:22 GMT",
+      "published_at_utc": "2026-11-23T10:50:22+00:00",
+      "published_at_tehran": "2026-11-23T14:20:22+03:30",
+      "collected_at": "2026-11-28T19:38:06.880152+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": false
+    },
+    {
+      "id": "9fa4d347e6b0ce7ed98577442f74c369ccc598126f3460e45143e25884a4d638",
+      "source": "isna.news",
+      "post_url": "https://www.instagram.com/p/DgFGeJmIuVl",
+      "caption": "تهران و سازه‌های بلاتکلیف؛ سرنوشت ساختمان‌های نیمه‌کاره چه می‌شود؟ آبادیان، معاون شهرسازی شهرداری تهران در گفت‌وگو با ایسنا: ساختمان‌های رهاشده را شناسایی و موضوع به مناطق ۲۲گانه ابلاغ شده است. در حال تدوین لایحه‌ای برای تعیین ضوابط و احتمالاً جرایم ساختمان‌های رهاشده و ارائه آن به شورای شهر تهران است. چمران، رئیس شورای شهر تهران نیز در گفت‌وگو با ایسنا: قانون پیش‌بینی کرده که اگر ساختمانی در وضعیت خرابی قرار دارد، شهرداری باید برای اصلاح و تعمیر آن اقدام کند و هزینه‌ها را از مالک دریافت کند؛ بنابراین نباید اجازه داد این ساختمان‌ها به حال خود رها شوند. #ایسنا #isna",
+      "media_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/921125492_18679769473032684_1411385838238138508_n.heic?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=104&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=CQegGQT9yBgQ7kNvwGEXF_o&amp;_nc_oc=AdokJMddcds9T4S01AblSwSRRrOT8wbpIhzZoJM4b1WOUHUyHcmPIOOggkDHXnb5q8o&amp;_nc_zt=23&amp;_nc_ht=scontent-phl2-1.cdninstagram.com&amp;_nc_gid=sb3c18Ew2Vk60yGny5aXZg&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQR5O6ne130zjsG_ID6VuOJmj7cVlL6qiSUfgnNf26ZAOQ&amp;oe=6B0A185D",
+      "published_at": "Mon, 23 Nov 2026 09:52:03 GMT",
+      "published_at_utc": "2026-11-23T09:52:03+00:00",
+      "published_at_tehran": "2026-11-23T13:22:03+03:30",
+      "collected_at": "2026-11-28T19:38:06.882847+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": false
+    },
+    {
+      "id": "e4e48ca288a2805faaa7ad75a39c6a7172c3295b1690c68dc2fc40c2ce195c62",
+      "source": "isna.news",
+      "post_url": "https://www.instagram.com/p/DgFEmy3obtN",
+      "caption": "محسن نامجو: نه اجازه‌ کنسرت دارم و نه دنبال آن هستم محسن نامجو با انتشار ویدئویی در صفحه شخصی خود، درباره انتشار خبرهایی مبنی بر برگزاری کنسرت یا اجرای غیررسمی‌اش در ایران توضیح داد و تأکید کرد که سفرش به ایران با هدف دیدار خانواده و دوستان قدیمی بوده و برنامه‌ای برای هیچ‌گونه فعالیت موسیقی یا برگزاری کنسرت ندارد. #ایسنا #isna",
+      "media_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/924043533_1140679395408959_2642441356695870674_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=109&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=r28vZGCLnWAQ7kNvwHOG33G&amp;_nc_oc=AdoKMEjSlSS0kFhjtSP70K4Wpa9jJdaEiezHyLStidm7pG4L8jj3Z5DxavLepUMZcxM&amp;_nc_zt=23&amp;_nc_ht=scontent-phl2-1.cdninstagram.com&amp;_nc_gid=sb3c18Ew2Vk60yGny5aXZg&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQ4AAAA&amp;oh=00_AQQnSvK52yN5bKKsFWt5XgTtwzeDkpCoLzQ9_N4CHGTFrw&amp;oe=6B0A3DB0",
+      "published_at": "Mon, 23 Nov 2026 09:35:45 GMT",
+      "published_at_utc": "2026-11-23T09:35:45+00:00",
+      "published_at_tehran": "2026-11-23T13:05:45+03:30",
+      "collected_at": "2026-11-28T19:38:06.882925+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": false
+    },
+    {
+      "id": "9dd0ca6c49bc7e3db114fbef300d0aafc4a22d180e76045bb9ba234f4bef0f46",
+      "source": "isna.news",
+      "post_url": "https://www.instagram.com/p/DgFDczwo1w9",
+      "caption": "اسماعیل بقایی،سخنگوی وزارت امور خارجه: سیدمجید موسوی حتماً پاسخ ایران به حملات آمریکا را در بسته‌بندی شیک و مرتب عرضه خواهد کرد #ایسنا #isna",
+      "media_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/920197687_1076590378734979_3826016313650833986_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=100&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=CYqxX1PzM6YQ7kNvwGPxXnO&amp;_nc_oc=AdoAtiMwVj5zMm1V9xuSJ4H5elQidNw_A37IuLlHlPOg2HNiOMfl065TJuYj26Az-cU&amp;_nc_zt=23&amp;_nc_ht=scontent-phl2-1.cdninstagram.com&amp;_nc_gid=sb3c18Ew2Vk60yGny5aXZg&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQ4AAAA&amp;oh=00_AQSD2ayTs_f2Trut_UWoloqCNrXm7ND3ra61NXX-R4Evaw&amp;oe=6B0A09A4",
+      "published_at": "Mon, 23 Nov 2026 09:25:39 GMT",
+      "published_at_utc": "2026-11-23T09:25:39+00:00",
+      "published_at_tehran": "2026-11-23T12:55:39+03:30",
+      "collected_at": "2026-11-28T19:38:06.882982+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": false
+    },
+    {
+      "id": "b6fe6c61a04ec2ec45194c5287db22dd344a8159197e7ce7ec43547ef829436c",
+      "source": "isna.news",
+      "post_url": "https://www.instagram.com/p/DgFA-RFo-hk",
+      "caption": "ویدئویی از پرواز امیرخانی در آخرین روز رضا امیرخانی نهم آذرماه سال ۱۴۰۴ در منطقه مشاء دماوند بر اثر سقوط پاراگلایدر دچار سانحه شد. او پس از این حادثه به بیمارستانی در دماوند منتقل شد و سپس برای ادامه روند درمان به بیمارستان کسری انتقال یافت. این نویسنده چندین نوبت تحت عمل جراحی قرار گرفت و پس از مدتی از بیمارستان به منزل منتقل شد، اما وضعیت جسمانی او در ماه های پس از حادثه همچنان نامساعد بود. رضا امیرخانی متولد ۲۷ اردیبهشت ۱۳۵۲ در تهران بود. او فعالیت ادبی خود را با داستان نویسی آغاز کرد و در سالهای فعالیتش آثار متعددی در حوزه داستان سفرنامه داستانک و جستارهای اجتماعی و فرهنگی نوشت امیرخانی مدتی نیز ریاست هیئت مدیره انجمن قلم ایران را بر عهده داشت. از جمله آثار شناخته شده این نویسنده میتوان به رمانهای «ارمیا»، «من او»، «بیوتن»، «قیدار»، «ره ش» و «نیم دانگ پیونگ یانگ اشاره کرد. همچنین کتابهای «داستان سیستان؛ ده روز با رهبر» جانستان کابلستان»، «نفحات نفت»، «نشت نشا» و «ناصر ارمنی» از دیگر آثار او هستند. آثار رضا امیرخانی علاوه بر انتشار در ایران به زبانهای مختلفی از جمله ،روسی اندونزیایی، عربی اردو و ترکی استانبولی ترجمه شده اند. #ایسنا #isna",
+      "media_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/927341362_2009145330471771_154950271433863822_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=107&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=xT-BfLgjVX4Q7kNvwGA-TNQ&amp;_nc_oc=Ado_JnCZB1dbVTPm4OvFilry53aeTnO4v3eVMZqjmtM7zxQqUWXQkipmc7oBLjXlY08&amp;_nc_zt=23&amp;_nc_ht=scontent-phl2-1.cdninstagram.com&amp;_nc_gid=sb3c18Ew2Vk60yGny5aXZg&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQwAAAA&amp;oh=00_AQRVEDL5D_Segh-ob96UN_Y-5UhF3NflByDSWctPBV8ohQ&amp;oe=6B0A190C",
+      "published_at": "Mon, 23 Nov 2026 09:04:01 GMT",
+      "published_at_utc": "2026-11-23T09:04:01+00:00",
+      "published_at_tehran": "2026-11-23T12:34:01+03:30",
+      "collected_at": "2026-11-28T19:38:06.883084+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": false
+    },
+    {
+      "id": "45f763b943c1df07f2364a01aa2ee62d2a12949439dfe77da0ec37d31efdbec7",
+      "source": "isna.news",
+      "post_url": "https://www.instagram.com/p/DgE_T2TI9hN",
+      "caption": "موفقیت خودروی پرنده چینی در آزمایش پرواز افقی شرکت سازنده چینی با انتشار تصاویری از موفقیت‌آمیز بودن تست‌های پروازی نمونه اولیه خودروی پرنده «A868» خبر داد. نمونه اولیه خودروی پرنده «A868» توانست در آزمایشی موفق، از حالت پرواز عمودی به پرواز افقی منتقل شود. #ایسنا #isna",
+      "media_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/922300687_1143154721458975_5891270512716816408_n.jpg?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=111&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=SeiyL4KI0FEQ7kNvwFOTXsH&amp;_nc_oc=Adr2rKWtb-C3nGvVNUJpgNCS98Bbiwpvu-P89yj-xPQnZjjEKg5Pxk23XZ_zcmFB1nM&amp;_nc_zt=23&amp;_nc_ht=scontent-phl2-1.cdninstagram.com&amp;_nc_gid=sb3c18Ew2Vk60yGny5aXZg&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQ4AAAA&amp;oh=00_AQSDPzP1j6F5bCUELECcATIr3T0cj4lzXToVe9hmcPp9gQ&amp;oe=6B0A2E10",
+      "published_at": "Mon, 23 Nov 2026 08:49:29 GMT",
+      "published_at_utc": "2026-11-23T08:49:29+00:00",
+      "published_at_tehran": "2026-11-23T12:19:29+03:30",
+      "collected_at": "2026-11-28T19:38:06.883145+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": false
+    },
+    {
+      "id": "207dacbaf20b96acfacce3b344d0d1a93d125805b60fb92f48d8b5ed84eec835",
+      "source": "isna.news",
+      "post_url": "https://www.instagram.com/p/DgE7p1SIH9x",
+      "caption": "عارف: سهم‌خواهان، برای دولت حاشیه‌ می‌سازند ادعای تذکر پزشکیان به من کذب است معاون اول رئیس‌جمهور: آنان که به منافع موردنظر خود نرسیده‌اند و همچنان به دنبال سهم‌خواهی هستند، برای دولت هزینه ایجاد می‌کنند. رئیس‌جمهور اساساً در جلسه مورد ادعای برخی رسانه‌ها حضور نداشت که بخواهد به من تذکر بدهد. حاشیه‌سازی‌ها نباید موجب انحراف دولت از برنامه‌ها و مأموریت‌های اصلی خود شود. مذاکرات هیئت دولت سری است؛ مصوبات به اطلاع مردم می‌رسد. اختلاف‌نظر کارشناسی طبیعی است؛ ملاک، تصمیم نهایی دولت است. #ایسنا #isna",
+      "media_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/920350417_18679754203032684_7727119655517137040_n.heic?stp=dst-jpg_e35_s640x640_tt6&amp;_nc_cat=107&amp;_nc_map=urlgen_bucketless&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=2J6o9GPbMWUQ7kNvwH_YfdW&amp;_nc_oc=AdriowRS-MHjoLi5qYXtRkMH8OdiH_AQNYDVBL1ja9Xnv2wgiR1MJEh2RBtR9XbevYA&amp;_nc_zt=23&amp;_nc_ht=scontent-phl2-1.cdninstagram.com&amp;_nc_gid=sb3c18Ew2Vk60yGny5aXZg&amp;_nc_ss=7a689&amp;_nc_ct=RQosPBUKFQIAAAA&amp;oh=00_AQSnKhE1Jpjq8V7QG4GdVGEWXTA2rUQTCB-id9ZF0ZAirg&amp;oe=6B0A392F",
+      "published_at": "Mon, 23 Nov 2026 08:17:32 GMT",
+      "published_at_utc": "2026-11-23T08:17:32+00:00",
+      "published_at_tehran": "2026-11-23T11:47:32+03:30",
+      "collected_at": "2026-11-28T19:38:06.883209+00:00",
+      "publish_ready": true,
+      "status": "ready",
+      "is_new": false
+    }
+  ],
   "new_items": [],
   "note": "Items contains the current feed snapshot for downstream news-list ingestion. Only media-complete new posts are marked seen. Publishing remains disabled pending verification and explicit approval."
 }
